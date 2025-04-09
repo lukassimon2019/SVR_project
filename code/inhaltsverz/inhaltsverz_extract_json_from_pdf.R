@@ -9,10 +9,11 @@ Sys.setenv(LANGUAGE = "en")
 usethis::edit_r_environ()
 
 # Set the path to the directory containing your PDF files
-pdf_directory <- "C:\\Users\\P-Simon\\Documents\\SVR\\split_pdfs\\Inhaltsverzeichnis\\test\\" #Change this to your directory
-temp_directory<-"C:\\Users\\P-Simon\\Documents\\SVR\\output\\temp_store\\"
-output_directory <- "C:\\Users\\P-Simon\\Documents\\SVR\\output\\inhaltsverzeichnis\\json_inhalt\\"
-prompt_directory<-"C:\\Users\\P-Simon\\Documents\\SVR\\prompts\\"
+wd<-getwd()
+output_directory <-paste0(wd,"\\output\\inhaltsverzeichnis\\csv_classified\\")
+temp_directory<-paste0(wd,"\\output\\temp_store\\")
+prompt_directory<-paste0(wd,"\\prompts\\")
+pdf_directory <- paste0(wd,"\\split_pdfs\\Inhaltsverzeichnis\\test\\")
 
 
 #read message content from txt file C:\Users\P-Simon\Documents\SVR\prompts\inhaltsverzeichnis_prompt.txt

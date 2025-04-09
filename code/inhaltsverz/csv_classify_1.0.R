@@ -1,7 +1,7 @@
-
-output_directory <- "C:\\Users\\P-Simon\\Documents\\SVR\\output\\inhaltsverzeichnis\\csv_classified\\"
-temp_directory<-"C:\\Users\\P-Simon\\Documents\\SVR\\output\\temp_store\\"
-prompt_directory<-"C:\\Users\\P-Simon\\Documents\\SVR\\prompts\\"
+wd<-getwd()
+output_directory <-paste0(wd,"\\output\\inhaltsverzeichnis\\csv_classified\\")
+temp_directory<-paste0(wd,"\\output\\temp_store\\")
+prompt_directory<-paste0(wd,"\\prompts\\")
 
 csv_strings <- readRDS(file = paste0(temp_directory,"inhaltsverz_csv_strings.rds"))
 prompt_vec <- readLines(paste0(prompt_directory,"class_prompt_csv.txt"))

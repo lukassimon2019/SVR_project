@@ -10,10 +10,10 @@ usethis::edit_r_environ()
 
 # Set the path to the directory containing your PDF files
 wd<-getwd()
-output_directory <-paste0(wd,"\\output\\inhaltsverzeichnis\\csv_classified\\")
+output_directory <-paste0(wd,"\\output\\inhaltsverzeichnis\\json_inhalt\\")
 temp_directory<-paste0(wd,"\\output\\temp_store\\")
 prompt_directory<-paste0(wd,"\\prompts\\")
-pdf_directory <- paste0(wd,"\\split_pdfs\\Inhaltsverzeichnis\\test\\")
+pdf_directory <- paste0(wd,"\\source_pdfs\\split_pdfs\\inhaltsverzeichnis\\test\\")
 
 
 #read message content from txt file C:\Users\P-Simon\Documents\SVR\prompts\inhaltsverzeichnis_prompt.txt
@@ -62,6 +62,7 @@ for (pdf in pdf_filenames) {
   writeLines(message_content, paste0(output_directory, conversation_name, "_json.txt"))
   print(paste0("File saved: ", conversation_name, "_json.txt"))
 }
+
 
 # message_content <- conversations[[1]]@message_history[[3]]$content
 # writeLines(message_content, paste0(output_directory, names(conversations)[1],".txt"))

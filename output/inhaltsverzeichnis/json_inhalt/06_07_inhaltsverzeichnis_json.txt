@@ -1,0 +1,712 @@
+{
+  "kapitel": [
+    {
+      "seite": "1",
+      "ueberschrift_eins": "ERSTES KAPITEL\nWiderstreitende Interessen − Ungenutzte Chancen",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "2",
+          "ueberschrift_zwei": "I.       Die wirtschaftliche Entwicklung in den Jahren 2006 und 2007"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "10",
+              "ueberschrift_drei_niedriger": "1. Soziale Sicherung: Licht und Schatten"
+            },
+            {
+              "seite": "15",
+              "ueberschrift_drei_niedriger": "2. Finanzpolitik: Durchwachsene Bilanz"
+            },
+            {
+              "seite": "24",
+              "ueberschrift_drei_niedriger": "3. Arbeitsmarkt: Handlungsbedarf trotz Wende zum Besseren"
+            }
+          ],
+          "seite": "9",
+          "ueberschrift_zwei": "II.      Stückwerk statt Konzept"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "29",
+          "ueberschrift_zwei": "III. Schlussbemerkung"
+        }
+      ]
+    },
+    {
+      "seite": "31",
+      "ueberschrift_eins": "ZWEITES KAPITEL\nDie wirtschaftliche Lage in der Welt und in Deutschland",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "37",
+              "ueberschrift_drei_niedriger": "1. Im Jahresverlauf nachlassende Dynamik in den Vereinigten Staaten"
+            },
+            {
+              "seite": "40",
+              "ueberschrift_drei_niedriger": "2. Japan am Ende der Deflation?"
+            },
+            {
+              "seite": "42",
+              "ueberschrift_drei_niedriger": "3. Chinas Wirtschaft wächst weiter mit hohem Tempo"
+            },
+            {
+              "seite": "43",
+              "ueberschrift_drei_niedriger": "4. Schwellenländer im Aufwärtssog der Weltkonjunktur"
+            },
+            {
+              "seite": "45",
+              "ueberschrift_drei_niedriger": "5. Euro-Raum: Konjunkturelle Belebung auf breiter Front"
+            },
+            {
+              "seite": "48",
+              "ueberschrift_drei_niedriger": "6. Deutlicher Zuwachs des Bruttoinlandsprodukts in den übrigen Staaten der\nEuropäischen Union"
+            }
+          ],
+          "seite": "32",
+          "ueberschrift_zwei": "I.       Weltwirtschaft: Kräftige Expansion ungeachtet höherer Ölpreise und Zinsen"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "51",
+              "ueberschrift_drei_niedriger": "1. Konjunktur deutlich über Potentialwachstum"
+            },
+            {
+              "seite": "56",
+              "ueberschrift_drei_niedriger": "2. Sondereffekte überzeichnen Anstieg der Konsumausgaben"
+            },
+            {
+              "seite": "64",
+              "ueberschrift_drei_niedriger": "3. Investitionen im Aufwind"
+            },
+            {
+              "seite": "64",
+              "ueberschrift_drei_niedriger": "Aufschwung der Ausrüstungsinvestitionen hält an"
+            },
+            {
+              "seite": "70",
+              "ueberschrift_drei_niedriger": "Bauinvestitionen: Talsohle durchschritten"
+            },
+            {
+              "seite": "71",
+              "ueberschrift_drei_niedriger": "4. Außenwirtschaft: Unverändert Stütze der konjunkturellen Entwicklung"
+            },
+            {
+              "seite": "73",
+              "ueberschrift_drei_niedriger": "5. Preisniveauentwicklung: Unter dem Einfluss steigender Ölpreise"
+            },
+            {
+              "seite": "77",
+              "ueberschrift_drei_niedriger": "Exkurs: Auswirkungen des Ölpreisanstiegs auf Inflation und Konjunktur"
+            },
+            {
+              "seite": "79",
+              "ueberschrift_drei_niedriger": "Einfluss des Ölpreisanstiegs auf die deutschen Verbraucherpreise"
+            },
+            {
+              "seite": "82",
+              "ueberschrift_drei_niedriger": "Aktualisierte Schätzungen zu Ölpreiswirkungen"
+            }
+          ],
+          "seite": "50",
+          "ueberschrift_zwei": "II.      Deutschland: Konjunktureller Aufschwung unter Einfluss von Sondereffekten"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "86",
+              "ueberschrift_drei_niedriger": "1. Leichte Abkühlung der Weltkonjunktur auf hohem Niveau"
+            },
+            {
+              "seite": "91",
+              "ueberschrift_drei_niedriger": "2. Deutschland: Robuster Zuwachs trotz Anhebung der Umsatzsteuer"
+            },
+            {
+              "seite": "103",
+              "ueberschrift_drei_niedriger": "Öffentliche Finanzen: Weitere Entspannung vor allem durch Steuerer-\nhöhungen"
+            }
+          ],
+          "seite": "86",
+          "ueberschrift_zwei": "III. Die voraussichtliche Entwicklung im Jahr 2007"
+        }
+      ]
+    },
+    {
+      "seite": "108",
+      "ueberschrift_eins": "DRITTES KAPITEL\nGlobale Ungleichgewichte: Abbau zeichnet sich ab",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "110",
+          "ueberschrift_zwei": "I.       Historisch hohe globale Ungleichgewichte: Ein Anlass für erhöhte Wachsamkeit"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "112",
+              "ueberschrift_drei_niedriger": "1. Zunehmende und ungewöhnlich hohe Leistungsbilanzungleichgewichte"
+            },
+            {
+              "seite": "118",
+              "ueberschrift_drei_niedriger": "2. Stark zunehmende Währungsreserven insbesondere der Schwellenländer"
+            }
+          ],
+          "seite": "112",
+          "ueberschrift_zwei": "II.      Der Befund: Gravierende Strom- und Bestandsprobleme in der Weltwirtschaft"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "122",
+              "ueberschrift_drei_niedriger": "1. Das Leistungsbilanzdefizit der Vereinigten Staaten als globales Konjunktur-\nprogramm"
+            },
+            {
+              "seite": "122",
+              "ueberschrift_drei_niedriger": "Das US-Leistungsbilanzdefizit aus der Sicht der Finanzierungsrechnung"
+            },
+            {
+              "seite": "125",
+              "ueberschrift_drei_niedriger": "Das US-Leistungsbilanzdefizit aus der Sicht des Außenhandels"
+            },
+            {
+              "seite": "128",
+              "ueberschrift_drei_niedriger": "Ein alternativer Erklärungsansatz"
+            },
+            {
+              "seite": "129",
+              "ueberschrift_drei_niedriger": "2. Die Wechselkurspolitik in Asien als zusätzlicher Verstärker der globalen\nDynamik"
+            },
+            {
+              "seite": "130",
+              "ueberschrift_drei_niedriger": "Außenhandelsorientierte Wechselkurspolitik"
+            },
+            {
+              "seite": "133",
+              "ueberschrift_drei_niedriger": "Stark gestiegener Leistungsbilanzüberschuss in China"
+            },
+            {
+              "seite": "136",
+              "ueberschrift_drei_niedriger": "3. Der Ölpreis als endogener Verstärker der globalen Ungleichgewichte"
+            },
+            {
+              "seite": "137",
+              "ueberschrift_drei_niedriger": "Der Zusammenhang zwischen Ölpreisen und Leistungsbilanzen"
+            },
+            {
+              "seite": "139",
+              "ueberschrift_drei_niedriger": "Recycling der Öleinnahmen"
+            },
+            {
+              "seite": "139",
+              "ueberschrift_drei_niedriger": "Realwirtschaftliches Recycling"
+            },
+            {
+              "seite": "143",
+              "ueberschrift_drei_niedriger": "Finanzwirtschaftliches Recycling"
+            }
+          ],
+          "seite": "120",
+          "ueberschrift_zwei": "III.     Die Ursachen der globalen Leistungsbilanzungleichgewichte"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "145",
+              "ueberschrift_drei_niedriger": "1. Die Grenzen der Verschuldung in den Vereinigten Staaten"
+            },
+            {
+              "seite": "146",
+              "ueberschrift_drei_niedriger": "Wie tragfähig ist die Verschuldungssituation der US-amerikanischen\nVolkswirtschaft?"
+            },
+            {
+              "seite": "146",
+              "ueberschrift_drei_niedriger": "Ist die Nettoauslandsposition der Vereinigten Staaten ein Problem?"
+            },
+            {
+              "seite": "149",
+              "ueberschrift_drei_niedriger": "Ist das Leistungsbilanzdefizit auf Dauer durchzuhalten?"
+            },
+            {
+              "seite": "150",
+              "ueberschrift_drei_niedriger": "Verschuldung der privaten Haushalte stößt an Grenzen"
+            },
+            {
+              "seite": "154",
+              "ueberschrift_drei_niedriger": "2. Wie groß ist die Bereitschaft der asiatischen Staaten, den US-Dollar\nabwerten zu lassen?"
+            }
+          ],
+          "seite": "145",
+          "ueberschrift_zwei": "IV.      Anpassungsprozesse und ihre Risiken"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "157",
+              "ueberschrift_drei_niedriger": "Begrenzte Risiken bei den Basisszenarien"
+            },
+            {
+              "seite": "158",
+              "ueberschrift_drei_niedriger": "Risikoszenario: starke Abwertung des US-Dollar"
+            },
+            {
+              "seite": "159",
+              "ueberschrift_drei_niedriger": "Wie soll die Wirtschaftspolitik reagieren?"
+            }
+          ],
+          "seite": "156",
+          "ueberschrift_zwei": "V.       Implikationen für Deutschland"
+        }
+      ]
+    },
+    {
+      "seite": "164",
+      "ueberschrift_eins": "VIERTES KAPITEL\nGeldpolitik: Kurs halten",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "167",
+              "ueberschrift_drei_niedriger": "1. Ölpreisbedingter Preisanstieg − gedämpft durch Euro-Aufwertung"
+            },
+            {
+              "seite": "172",
+              "ueberschrift_drei_niedriger": "2. Hohes M3-Wachstum und leicht gestiegene Inflationserwartungen"
+            },
+            {
+              "seite": "174",
+              "ueberschrift_drei_niedriger": "3. Expansive Wirkung der Geldpolitik lässt nach"
+            },
+            {
+              "seite": "181",
+              "ueberschrift_drei_niedriger": "4. Finanzmärkte: Im Zeichen der Zinswende"
+            },
+            {
+              "seite": "183",
+              "ueberschrift_drei_niedriger": "Deutliche Verbesserung der Ertragslage der deutschen Banken"
+            }
+          ],
+          "seite": "166",
+          "ueberschrift_zwei": "I.       Geldpolitische Rahmenbedingungen: Europäische Zentralbank schwenkt auf\nneutralen Kurs ein"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "187",
+              "ueberschrift_drei_niedriger": "1. Geldpolitische Strategie und Transparenz"
+            },
+            {
+              "seite": "189",
+              "ueberschrift_drei_niedriger": "2. Merkmale der Strategie des Inflation Targeting und der Zwei-Säulen-\nStrategie der Europäischen Zentralbank"
+            },
+            {
+              "seite": "191",
+              "ueberschrift_drei_niedriger": "3. Sollte die Europäische Zentralbank zum Inflation Targeting übergehen?"
+            },
+            {
+              "seite": "192",
+              "ueberschrift_drei_niedriger": "Sollte die Europäische Zentralbank ihre Kommunikation stärker auf In-\nflationsprognosen ausrichten?"
+            },
+            {
+              "seite": "194",
+              "ueberschrift_drei_niedriger": "Sollte die Europäische Zentralbank die monetäre Analyse beibehalten?"
+            },
+            {
+              "seite": "196",
+              "ueberschrift_drei_niedriger": "4. Neujustierung statt Strategiewechsel"
+            },
+            {
+              "seite": "198",
+              "ueberschrift_drei_niedriger": "5. Fazit"
+            },
+            {
+              "seite": "199",
+              "ueberschrift_drei_niedriger": "Exkurs: Zur Gefahr von Immobilienpreisblasen"
+            },
+            {
+              "seite": "200",
+              "ueberschrift_drei_niedriger": "Aktuelle Entwicklungen auf dem europäischen Immobilienmarkt"
+            },
+            {
+              "seite": "204",
+              "ueberschrift_drei_niedriger": "Preisblase am europäischen Immobilienmarkt?"
+            },
+            {
+              "seite": "205",
+              "ueberschrift_drei_niedriger": "Makroökonomische Folgen des Platzens von Vermögenspreisblasen"
+            },
+            {
+              "seite": "206",
+              "ueberschrift_drei_niedriger": "Immobilienpreisblasen - eine Herausforderung für die Geldpolitik"
+            }
+          ],
+          "seite": "185",
+          "ueberschrift_zwei": "II.      Die geldpolitische Strategie der Europäischen Zentralbank: Besteht Revisions-\nbedarf?"
+        }
+      ]
+    },
+    {
+      "seite": "210",
+      "ueberschrift_eins": "FÜNFTES KAPITEL\nSoziale Sicherung: Licht und Schatten",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "213",
+              "ueberschrift_drei_niedriger": "1. Die finanzielle Lage der Gesetzlichen Krankenversicherung:\nNoch mit Überschuss"
+            },
+            {
+              "seite": "216",
+              "ueberschrift_drei_niedriger": "2. Gesundheitsreform 2006: Ein misslungener Kompromiss"
+            },
+            {
+              "seite": "217",
+              "ueberschrift_drei_niedriger": "Der Gesundheitsfonds: eine Missgeburt"
+            },
+            {
+              "seite": "217",
+              "ueberschrift_drei_niedriger": "Ausgestaltung des Gesundheitsfonds"
+            },
+            {
+              "seite": "219",
+              "ueberschrift_drei_niedriger": "Wettbewerbsschädliche Wirkung des Gesundheitsfonds"
+            },
+            {
+              "seite": "223",
+              "ueberschrift_drei_niedriger": "Beseitigung der Konstruktionsmängel des Gesundheitsfonds"
+            },
+            {
+              "seite": "226",
+              "ueberschrift_drei_niedriger": "Bürgerpauschale als überzeugende Fortentwicklung des Gesundheits-\nfonds"
+            },
+            {
+              "seite": "228",
+              "ueberschrift_drei_niedriger": "Ergänzende Steuerfinanzierung im Rahmen der Gesundheitsreform 2006"
+            },
+            {
+              "seite": "230",
+              "ueberschrift_drei_niedriger": "Beitragssatzerhöhungen"
+            },
+            {
+              "seite": "230",
+              "ueberschrift_drei_niedriger": "Reform des Risikostrukturausgleichs"
+            },
+            {
+              "seite": "230",
+              "ueberschrift_drei_niedriger": "Konvergenzklausel"
+            },
+            {
+              "seite": "231",
+              "ueberschrift_drei_niedriger": "Reform des Honorierungssystems für niedergelassene Ärzte"
+            },
+            {
+              "seite": "232",
+              "ueberschrift_drei_niedriger": "Maßnahmen im Arzneimittelbereich"
+            },
+            {
+              "seite": "233",
+              "ueberschrift_drei_niedriger": "Reformen der Organisationsstrukturen"
+            },
+            {
+              "seite": "233",
+              "ueberschrift_drei_niedriger": "Sonstige Maßnahmen im Bereich der Gesetzlichen Kranken-\nversicherung"
+            },
+            {
+              "seite": "234",
+              "ueberschrift_drei_niedriger": "Maßnahmen im Bereich der Privaten Krankenversicherung"
+            },
+            {
+              "seite": "236",
+              "ueberschrift_drei_niedriger": "Fazit"
+            }
+          ],
+          "seite": "213",
+          "ueberschrift_zwei": "I.       Gesetzliche Krankenversicherung: Unzulängliche Vorhaben"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "237",
+              "ueberschrift_drei_niedriger": "1. Die finanzielle Lage der Gesetzlichen Rentenversicherung: Vorübergehende\nEntlastung durch Sondereffekt"
+            },
+            {
+              "seite": "237",
+              "ueberschrift_drei_niedriger": "Einnahmen: Sondereffekt durch Vorziehen des Zahlungstermins"
+            },
+            {
+              "seite": "238",
+              "ueberschrift_drei_niedriger": "Ausgaben: Nullrunden und Mehrausgaben durch Schutzklausel"
+            },
+            {
+              "seite": "241",
+              "ueberschrift_drei_niedriger": "2. Anhebung des gesetzlichen Renteneintrittsalters auf 67 Jahre"
+            },
+            {
+              "seite": "253",
+              "ueberschrift_drei_niedriger": "3. Notwendige Nachjustierung: Beitragspflichtige Einkommen als relevante\nGröße in der Rentenanpassungsformel"
+            },
+            {
+              "seite": "254",
+              "ueberschrift_drei_niedriger": "4. Reform der Hinterbliebenenversorgung"
+            },
+            {
+              "seite": "255",
+              "ueberschrift_drei_niedriger": "Derzeitige Regelungen im Bereich der Hinterbliebenenversorgung"
+            },
+            {
+              "seite": "258",
+              "ueberschrift_drei_niedriger": "Hinterbliebenenrente als Fürsorgeleistung"
+            },
+            {
+              "seite": "258",
+              "ueberschrift_drei_niedriger": "Hinterbliebenenrente als Versicherungsleistung"
+            },
+            {
+              "seite": "258",
+              "ueberschrift_drei_niedriger": "Rentensplitting"
+            },
+            {
+              "seite": "260",
+              "ueberschrift_drei_niedriger": "Evolution des derzeitigen Systems"
+            },
+            {
+              "seite": "260",
+              "ueberschrift_drei_niedriger": "5. Fortentwicklung der Gesetzlichen Rentenversicherung zu einer\nErwerbstätigenversicherung?"
+            },
+            {
+              "seite": "261",
+              "ueberschrift_drei_niedriger": "Versichertenkreis der Gesetzlichen Rentenversicherung"
+            },
+            {
+              "seite": "262",
+              "ueberschrift_drei_niedriger": "Wandel in der Erwerbstätigenstruktur und Auswirkungen auf die\nFinanzen der Rentenversicherung"
+            },
+            {
+              "seite": "262",
+              "ueberschrift_drei_niedriger": "Finanzielle Konsequenzen einer Ausweitung des Versicherten-\nkreises"
+            },
+            {
+              "seite": "263",
+              "ueberschrift_drei_niedriger": "Gründe für die Einführung einer Versicherungspflicht und die Aus-\nweitung des Versichertenkreises"
+            },
+            {
+              "seite": "268",
+              "ueberschrift_drei_niedriger": "Versicherungspflicht oder Einbeziehung in die Gesetzliche Renten-\nversicherung?"
+            }
+          ],
+          "seite": "236",
+          "ueberschrift_zwei": "II.      Gesetzliche Rentenversicherung: Reformerfordernisse weitgehend erfüllt"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "275",
+          "ueberschrift_zwei": "III.     Soziale Pflegeversicherung: Warten auf die Reform"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "275",
+          "ueberschrift_zwei": "IV.      Arbeitslosenversicherung: Erfreuliche Überschüsse"
+        }
+      ]
+    },
+    {
+      "seite": "280",
+      "ueberschrift_eins": "SECHSTES KAPITEL\nFinanzpolitik: Durchwachsene Bilanz",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "282",
+              "ueberschrift_drei_niedriger": "Defizitverfahren gegen Deutschland erst verschärft, dann vorläufig\nausgesetzt"
+            },
+            {
+              "seite": "287",
+              "ueberschrift_drei_niedriger": "Deutlicher Rückgang des gesamtstaatlichen Defizits im Jahr 2006"
+            },
+            {
+              "seite": "288",
+              "ueberschrift_drei_niedriger": "Exkurs: Kassenmäßiges Steueraufkommen im Jahr 2006 mit kräftigen\nZuwachs"
+            },
+            {
+              "seite": "293",
+              "ueberschrift_drei_niedriger": "Hohes strukturelles Defizit signalisiert anhaltenden Handlungsbedarf"
+            },
+            {
+              "seite": "296",
+              "ueberschrift_drei_niedriger": "Noch immer gravierende Haushaltsschwierigkeiten des Bundes"
+            }
+          ],
+          "seite": "282",
+          "ueberschrift_zwei": "I.       Öffentliche Haushalte: Trotz verbesserter Haushaltslage keine Entwarnung"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "299",
+              "ueberschrift_drei_niedriger": "1. Entspannung beim Europäischen Stabilitäts- und Wachstumspakt"
+            },
+            {
+              "seite": "300",
+              "ueberschrift_drei_niedriger": "2. Artikel 115 Grundgesetz schärfen und ergänzen"
+            },
+            {
+              "seite": "308",
+              "ueberschrift_drei_niedriger": "Strukturelle Budgetdefizite: Zur Rechtfertigung einer langfristigen,\nobjektbezogenen Verschuldungsgrenze"
+            },
+            {
+              "seite": "311",
+              "ueberschrift_drei_niedriger": "Konjunkturelle Budgetdefizite: Verschuldungsverbot für nicht-investive\nöffentliche Ausgaben über den Konjunkturzyklus"
+            }
+          ],
+          "seite": "299",
+          "ueberschrift_zwei": "II.      Öffentliche Verschuldung: Defizitbegrenzungen des Stabilitätspakts und des\nGrundgesetzes dauerhaft einhalten"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "317",
+              "ueberschrift_drei_niedriger": "1. Grundzüge der Dualen Einkommensteuer"
+            },
+            {
+              "seite": "321",
+              "ueberschrift_drei_niedriger": "2. Grundzüge der Allgemeinen Unternehmensteuer"
+            },
+            {
+              "seite": "323",
+              "ueberschrift_drei_niedriger": "3. Entscheidungswirkungen der Dualen Einkommensteuer und der\nAllgemeinen Unternehmensteuer"
+            },
+            {
+              "seite": "326",
+              "ueberschrift_drei_niedriger": "4. Eckpunkte der Bundesregierung zur Unternehmenssteuerreform 2008"
+            },
+            {
+              "seite": "336",
+              "ueberschrift_drei_niedriger": "5. Aufkommenswirkungen"
+            },
+            {
+              "seite": "338",
+              "ueberschrift_drei_niedriger": "6. Fazit"
+            }
+          ],
+          "seite": "316",
+          "ueberschrift_zwei": "III.     Unternehmenssteuerreform 2008: Zielsetzungen des Koalitionsvertrags\numsetzen"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "339",
+          "ueberschrift_zwei": "IV.      Föderalismusreform: Ein Anfang ist gemacht"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "344",
+          "ueberschrift_zwei": "V.       Eine andere Meinung"
+        }
+      ]
+    },
+    {
+      "seite": "352",
+      "ueberschrift_eins": "SIEBETES KAPITEL\nArbeitsmarkt: Handlungsbedarf trotz Wende zum Besseren",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "354",
+              "ueberschrift_drei_niedriger": "1. Deutliche Belebung der Beschäftigung"
+            },
+            {
+              "seite": "359",
+              "ueberschrift_drei_niedriger": "2. Berufsausbildungsstellenmarkt: Weiterhin angespannte Lage überdeckt\nAnzeichen einer Besserung"
+            },
+            {
+              "seite": "362",
+              "ueberschrift_drei_niedriger": "3. Arbeitslosigkeit und Erwerbslosigkeit im zweiten Jahr nach Hartz IV"
+            },
+            {
+              "seite": "362",
+              "ueberschrift_drei_niedriger": "Aktuelle Entwicklung der Arbeitslosigkeit: Erfreulich kräftiger Rück-\ngang"
+            },
+            {
+              "seite": "365",
+              "ueberschrift_drei_niedriger": "4. Tarifpolitik: Kurs halten"
+            }
+          ],
+          "seite": "354",
+          "ueberschrift_zwei": "I.       Die Lage im Jahr 2006: Der Aufschwung erreicht den Arbeitsmarkt"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "371",
+              "ueberschrift_drei_niedriger": "1. Bundesagentur für Arbeit und aktive Arbeitsmarktpolitik"
+            },
+            {
+              "seite": "372",
+              "ueberschrift_drei_niedriger": "Exkurs: Evaluation des Ersten bis Dritten Gesetzes für moderne Dienst-\nleistungen am Arbeitsmarkt"
+            },
+            {
+              "seite": "373",
+              "ueberschrift_drei_niedriger": "Modul 1a: Neuausrichtung der Arbeitsvermittlung"
+            },
+            {
+              "seite": "374",
+              "ueberschrift_drei_niedriger": "Modul 1b: Berufliche Weiterbildung"
+            },
+            {
+              "seite": "375",
+              "ueberschrift_drei_niedriger": "Modul 1c: Arbeitsbeschaffungsmaßnahmen"
+            },
+            {
+              "seite": "376",
+              "ueberschrift_drei_niedriger": "Modul 1e: Existenzgründungen"
+            },
+            {
+              "seite": "377",
+              "ueberschrift_drei_niedriger": "Modul 1f: Verbesserung der beschäftigungspolitischen Rahmenbedin-\ngungen und Makrowirkungen der aktiven Arbeitsmarktpolitik"
+            },
+            {
+              "seite": "381",
+              "ueberschrift_drei_niedriger": "2. Reformbaustelle SGB II"
+            }
+          ],
+          "seite": "371",
+          "ueberschrift_zwei": "II.      Arbeitsmarktpolitik im Umbruch"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "387",
+              "ueberschrift_drei_niedriger": "1. Leitgedanken des Reformvorschlags"
+            },
+            {
+              "seite": "388",
+              "ueberschrift_drei_niedriger": "2. Die Module im Einzelnen"
+            },
+            {
+              "seite": "388",
+              "ueberschrift_drei_niedriger": "Modul 1: Vorrang für reguläre Arbeitsplätze − Geringfügigkeitsschwelle\nbeim Arbeitslosengeld II einziehen"
+            },
+            {
+              "seite": "390",
+              "ueberschrift_drei_niedriger": "Modul 2: Arbeit attraktiver machen − Hinzuverdienstmöglichkeiten\nverbessern und Regelsatz absenken"
+            },
+            {
+              "seite": "390",
+              "ueberschrift_drei_niedriger": "Absenkung des Regelsatzes"
+            },
+            {
+              "seite": "391",
+              "ueberschrift_drei_niedriger": "Verbesserung der Hinzuverdienstmöglichkeiten"
+            },
+            {
+              "seite": "392",
+              "ueberschrift_drei_niedriger": "Arbeitsgelegenheiten"
+            },
+            {
+              "seite": "398",
+              "ueberschrift_drei_niedriger": "Zwischenfazit"
+            },
+            {
+              "seite": "398",
+              "ueberschrift_drei_niedriger": "Modul 3: Abgabenbelastung gezielt reduzieren

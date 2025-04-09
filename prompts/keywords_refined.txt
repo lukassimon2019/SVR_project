@@ -1,0 +1,31 @@
+category_keywords_refined = {
+    "Kurze Frist / Konjunkturanalyse": ["konjunktur", "wachstum", "weltwirtschaft", "wirtschaftliche lage", "prognose", "aussichten", "beschäftigung", "arbeitslosigkeit", "haushalt", "inflation", "export", "import", "konsum", "investition", "zins", "wechselkurs", "finanzkrise", "bankenkrise", "abschwung", "rezession"],
+    "Lange Frist / Potenzialwachstumsanalyse": ["potenzialwachstum", "langfristig", "demographie"],
+    "Klimapolitik": ["klima", "emission", "co2", "ökosteuer", "energiesteuer", "cbam", "verbrennungsmotor", "heizung", "paris agreement"],
+    "Andere Umweltpolitik": ["umwelt", "biodiversität", "tierschutz", "kreislaufwirtschaft", "ressourcen", "luftschutz", "wasserschutz", "bodenschutz"],
+    "Arbeitsmarktpolitik": ["arbeitsmarkt", "beschäftigung", "arbeitslosigkeit", "fachkräfte", "qualifizierung", "arbeitsrecht", "tarif", "mindestlohn"],
+    "Rentensystem / Altersvorsorge": ["rente", "altersvorsorge", "pension", "beamtenversorgung", "privat", "finanzbildung", "demographie"],
+    "Arbeitslosenversicherung": ["arbeitslosenversicherung"],
+    "Grundsicherung": ["grundsicherung", "sozialhilfe", "bürgergeld", "hartz"],
+    "Krankenversicherung und Gesundheitssystem": ["krankenversicherung", "gesundheit", "arzt", "pflege", "prävention", "effizienz"],
+    "Pflegeversicherung": ["pflegeversicherung", "pflege"],
+    "Rahmenbedingungen": ["bürokratieabbau", "regulierung", "verwaltung", "digitalisierung"],
+    "Steuerpolitik": ["einkommensteuer", "unternehmensteuer", "mehrwertsteuer", "erbschaftsteuer", "kapitalbesteuerung", "finanztransaktionssteuer", "steuerkooperation", "steuerwettbewerb"],
+    "Verteilungspolitik": ["gleichheit", "ungleichheit", "vermögen", "einkommen", "gini-koeffizient", "mobilität"],
+    "Industriepolitik, Strukturpolitik": ["innovation", "forschung", "mittelstand", "handwerk", "startup", "automobilindustrie", "mobilität", "chemie", "pharma", "maschinenbau", "industrie 4.0", "high tech"],
+    "Wettbewerbspolitik": ["kartell", "wettbewerbsrecht", "wettbewerbsaufsicht", "beihilfe"],
+    "Außenhandel": ["export", "protektionismus", "import", "zoll", "wto", "globalisierung"],
+    "Europäische Union": ["binnenmarkt", "eu-erweiterung", "brexit", "eurokrise", "esms", "wiederaufbauplan", "eurobonds", "währungsintegration", "eu-budget", "agrarpolitik", "kohäsionspolitik"],
+    "Geld- und Währungspolitik": ["ezb", "bundesbank", "zinspolitik", "geldmenge", "inflation", "qe", "mindestreserve", "devisen", "wechselkurs"],
+    "Öffentliche Finanzen": ["verschuldung", "tragfähigkeit", "haushalt", "landesfinanzen", "kommunalfinanzen", "eu", "fiskalregeln", "schuldenbremse"],
+    "Föderales System": ["föderalismus", "finanzausgleich", "deutsche einheit"],
+    "Finanzmärkte und Finanzstabilität ": ["Bankenkrise", "Finanzkrise", "Einlagensicherung", "Bankenaufsicht", "Finanzmarktregulierung", "Finanzbildung", "Kapitalverkehrskontrollen"],
+    "Verkehr": ["Öffentlicher Nahverkehr", "Deutsche Bahn", "Straßen", "Radverkehr", "Elektromobilität", "Flugverkehr", "Schiffahrt"],
+    "Energie": ["Stromnetze","Erneuerbare","Energiesicherheit"]
+    "Bildungspolitik":["Schule", "Frühkindliche Bildung", "Kindergarten"]
+    "Forschungspolitik": ["Universität", "Hochschule", "Forschung" , "Innovation"]
+    "Familienpolitik": ["Elterngeld", "Kindergeld", "Betreuungsgeld", "Kinderbetreuung"]
+    "Frauenpolitik": ["Gleichstellung", "Gender Pay Gap", "Frauenquoten"]
+    "Wohnen, Stadtentwicklung und Bauwesen": ["Wohnungsbau", "Soziale Wohnungen", "Mietrecht", "Mietpreisbremse", "Bauvorschriften", "Baukosten"]
+}
+

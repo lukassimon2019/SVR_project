@@ -1,0 +1,83 @@
+Die csv enthält das Inhaltsverzeichnis eines Gutachtens des Sachverständigenrats für Wirtschafts. Erstelle eine extra Spalte "Kategorie", in der du jede Überschrift in eine Kategorie klassifizierst. Die übergeordneten Kategorien wie "Überschrift Eins" oder "Überschrift Zwei" wiederholen sich für die untergeordneten Kategorien. Wenn in einer Zeile mehrere Spalten Werte enthalten, klassifiziere in der "Kategorie" Spalte nur die niedrigste Überschriftsebene. Beim folgenden Klassifikationsschema sollst du nur Kategorien zur Bewertung heranziehen, die durch "(Kategorie)" gekennzeichnet sind. Alle andere Teile des json Schemas dienen lediglich als Klassifikationshilfe, damit die Kategorien besser verständlich sind. 
+
+{
+  "Konjunktur und Wachstum": {
+    "Kurze Frist: Konjunkturanalyse (Kategorie)": {
+      "Themen": [
+        "Wirtschaftliche Lage",
+        "Konjunkturprognose",
+        "Wachstumsaussichten",
+        "Weltwirtschaft",
+        "Prognosen zu allen wichtigen Aggregaten: Beschäftigung, Arbeitslosigkeit, Haushalt, Inflation, Exporte, Importe, Konsum, Investitionen, Zinsen, Wechselkursen"
+      ]
+    },
+    "Lange Frist: Potenzialwachstumsanalyse (Kategorie)": {
+      "Themen": [
+        "Potenzialwachstum (langfristige Wachstumsaussichten)",
+        "Demographie und Wachstum"
+      ]
+    }
+  },
+  "Umwelt/Klimapolitik": {
+    "Klimapolitik (Kategorie)": {
+      "Themen": [
+        "Emissionshandel, CO2-Bepreisung, Ökosteuern, Energiesteuern, CBAM",
+        "Regulative Klimapolitik, Verbrennungsmotor, Heizungen",
+        "Paris Agreement, internationale Klimaverhandlungen"
+      ]
+    },
+    "Andere Umweltpolitik (Kategorie)": {
+      "Themen": [
+        "Biodiversität, Tierschutz",
+        "Kreislaufwirtschaft & Ressourcenschutz",
+        "Luft-, Wasser- und Bodenschutz"
+      ]
+    }
+  },
+  "Arbeit und Soziales, Gesundheit": {
+    "Arbeitsmarktpolitik (Kategorie)": {
+      "Themen": [
+        "Beschäftigungsförderung / Arbeitslosigkeit",
+        "Fachkräftesicherung / Qualifizierung",
+        "Arbeitsrecht / Tarifpolitik / Mindestlohn"
+      ]
+    },
+    "Soziale Sicherung": {
+      "Rentensystem / Altersvorsorge (Kategorie)": {
+        "Themen": [
+          "Rentenversicherung, Finanzierung",
+          "Langfristige Perspektive Demographie",
+          "Beamtenversorgung",
+          "Private Altersvorsorge",
+          "Finanzbildung"
+        ]
+      },
+      "Arbeitslosenversicherung (Kategorie)": {
+        "Themen": [
+          "Arbeitslosenversicherung, Finanzierung"
+        ]
+      },
+      "Grundsicherung (Kategorie)": {
+        "Themen": [
+          "Hartz-Reformen, Sozialhilfe, Bürgergeld, Grundsicherung, Existenzminimum"
+        ]
+      },
+      "Krankenversicherung und Gesundheitssystem (Kategorie)": {
+        "Themen": [
+          "Krankenversicherung / Finanzierung",
+          "Langfristige Perspektive Demographie",
+          "Versorgungssicherheit / Ärzteversorgung",
+          "Prävention / Gesundheitsförderung",
+          "Effizienz des Gesundheitssystems"
+        ]
+      },
+      "Pflegeversicherung (Kategorie)": {
+        "Themen": [
+          "Pflegeversicherung / Finanzierung",
+          "Langfristige Perspektive Demographie",
+          "Pflegepolitik / Pflegekräftemangel"
+        ]
+      }
+    }
+  }
+}

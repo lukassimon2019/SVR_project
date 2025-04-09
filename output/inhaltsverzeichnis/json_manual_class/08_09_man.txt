@@ -1,0 +1,434 @@
+{
+  "kapitel": [
+    {
+      "seite": "1",
+      "ueberschrift_eins": "Die Finanzkrise meistern, Wachstumskräfte stärken",
+      "Kategorie": "Finanzmärkte und Finanzstabilität",
+      "zweite_ebene": [
+        {
+          "dritte_ebene": [
+            {
+              "seite": "1",
+              "ueberschrift_drei": "Systemische Bankenkrise konnte gestoppt werden",
+              "Kategorie": "Finanzmärkte und Finanzstabilität"
+            },
+            {
+              "seite": "1",
+              "ueberschrift_drei": "Erhebliche realwirtschaftliche Folgen, aber keine extremen\nEntwicklungen zu erwarten",
+              "Kategorie": "Kurze Frist: Konjunkturanalyse"
+            },
+            {
+              "seite": "3",
+              "ueberschrift_drei": "Verantwortlichkeiten für die Finanzkrise",
+              "Kategorie": "Finanzmärkte und Finanzstabilität"
+            }
+          ],
+          "seite": "1",
+          "ueberschrift_zwei": "Die deutsche Wirtschaft im Sog der Finanzkrise",
+          "Kategorie": "Finanzmärkte und Finanzstabilität"
+        },
+        {
+          "dritte_ebene": [],
+          "seite": "4",
+          "ueberschrift_zwei": "Stabilisierung der Finanzmärkte",
+          "Kategorie": "Finanzmärkte und Finanzstabilität"
+        },
+        {
+          "dritte_ebene": [],
+          "seite": "7",
+          "ueberschrift_zwei": "Die deutsche Konjunktur im Abschwung",
+          "Kategorie": "Kurze Frist: Konjunkturanalyse"
+        },
+        {
+          "dritte_ebene": [
+            {
+              "seite": "9",
+              "ueberschrift_drei": "Konjunkturgerechte Wachstumspolitik für Deutschland",
+              "Kategorie": "Kurze Frist: Konjunkturanalyse"
+            },
+            {
+              "seite": "10",
+              "ueberschrift_drei": "Rahmenbedingungen für Wachstum und Beschäftigung verbessern",
+              "Kategorie": "Rahmenbedingungen "
+            }
+          ],
+          "seite": "9",
+          "ueberschrift_zwei": "Wirtschaftspolitik: Was zu tun ist",
+          "Kategorie": "Wirtschaftspolitik Überkategorie"
+        }
+      ]
+    },
+    {
+      "seite": "17",
+      "ueberschrift_eins": "Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland",
+      "Kategorie": "Kurze Frist: Konjunkturanalyse",
+      "zweite_ebene": [
+        {
+          "dritte_ebene": [
+            {
+              "seite": "21",
+              "ueberschrift_drei": "Bestimmungsfaktoren der weltwirtschaftlichen Entwicklung",
+              "Kategorie": "Kurze Frist: Konjunkturanalyse"
+            },
+            {
+              "seite": "25",
+              "ueberschrift_drei": "Realwirtschaftliche Folgen der Finanzkrise",
+              "Kategorie": "Finanzmärkte und Finanzstabilität"
+            },
+            {
+              "seite": "30",
+              "ueberschrift_drei": "Platzende Immobilienpreisblasen",
+              "Kategorie": "Finanzmärkte und Finanzstabilität"
+            },
+            {
+              "seite": "40",
+              "ueberschrift_drei": "Entwicklung der Rohstoffpreise",
+              "Kategorie": "Finanzmärkte und Finanzstabilität"
+            },
+            {
+              "seite": "51",
+              "ueberschrift_drei": "Die Weltwirtschaft im Jahr 2009",
+              "Kategorie": "Kurze Frist: Konjunkturanalyse"
+            },
+            {
+              "seite": "53",
+              "ueberschrift_drei": "Vereinigte Staaten: Expansive Wirtschaftspolitik im Zeichen der\nFinanzkrise",
+              "Kategorie": "Finanzmärkte und Finanzstabilität"
+            },
+            {
+              "seite": "58",
+              "ueberschrift_drei": "Japan: Globale Konjunkturschwäche belastet japanische Exporte",
+              "Kategorie": "Außenhandel"
+            },
+            {
+              "seite": "60",
+              "ueberschrift_drei": "Schwellenländer: Keine Entkopplung",
+              "Kategorie": "Außenhandel"
+            },
+            {
+              "seite": "65",
+              "ueberschrift_drei": "Europäische Union: Abrupte Abkühlung",
+              "Kategorie": "Kurze Frist / Konjunkturanalyse"
+            }
+          ],
+          "seite": "19",
+          "ueberschrift_zwei": "Weltwirtschaftliches Umfeld",
+          "Kategorie": "Außenhandel""
+        },
+_____________________________________________________________________________________
+        {
+          "dritte_ebene": [
+            {
+              "seite": "76",
+              "ueberschrift_drei": "Konjunktureller Abschwung nach imposantem Jahresbeginn 2008",
+              "Kategorie": ""
+            },
+            {
+              "seite": "100",
+              "ueberschrift_drei": "Die voraussichtliche Entwicklung im Jahr 2009: Deutschland in der\nRezession",
+              "Kategorie": ""
+            }
+          ],
+          "seite": "75",
+          "ueberschrift_zwei": "Die deutsche Volkswirtschaft im Abschwung",
+          "Kategorie": ""
+        }
+      ]
+    },
+    {
+      "seite": "117",
+      "ueberschrift_eins": "Finanzsystem auf der Intensivstation",
+      "Kategorie": "",
+      "zweite_ebene": [
+        {
+          "dritte_ebene": [
+            {
+              "seite": "119",
+              "ueberschrift_drei": "Zur Genesis der Krise",
+              "Kategorie": ""
+            },
+            {
+              "seite": "122",
+              "ueberschrift_drei": "Die Fehleinschätzung der US- Behörden im Fall von Lehman Brothers",
+              "Kategorie": ""
+            },
+            {
+              "seite": "124",
+              "ueberschrift_drei": "Der US-amerikanische Immobilienmarkt findet keinen Boden",
+              "Kategorie": ""
+            },
+            {
+              "seite": "127",
+              "ueberschrift_drei": "Negative Selbstverstärkung durch „Deleveraging“",
+              "Kategorie": ""
+            },
+            {
+              "seite": "128",
+              "ueberschrift_drei": "Zunehmendes Misstrauen verschlechtert Ertragslage",
+              "Kategorie": ""
+            }
+          ],
+          "seite": "118",
+          "ueberschrift_zwei": "Die unerwartete Ausbreitung der Krise",
+          "Kategorie": ""
+        },
+        {
+          "dritte_ebene": [
+            {
+              "seite": "131",
+              "ueberschrift_drei": "Zentralbankpolitische Maßnahmen zur Bewältigung der Krise",
+              "Kategorie": ""
+            },
+            {
+              "seite": "140",
+              "ueberschrift_drei": "Effektivität der ergriffenen Maßnahmen",
+              "Kategorie": ""
+            },
+            {
+              "seite": "142",
+              "ueberschrift_drei": "Grenzen des zentralbankpolitischen Krisenmanagements",
+              "Kategorie": ""
+            }
+          ],
+          "seite": "129",
+          "ueberschrift_zwei": "Reaktion der Zentralbanken",
+          "Kategorie": ""
+        },
+        {
+          "dritte_ebene": [
+            {
+              "seite": "144",
+              "ueberschrift_drei": "Liquiditäts- und Solvenzprobleme als Ursachen einer systemischen Krise",
+              "Kategorie": ""
+            },
+            {
+              "seite": "146",
+              "ueberschrift_drei": "Elemente staatlicher Rettungsprogramme",
+              "Kategorie": ""
+            },
+            {
+              "seite": "152",
+              "ueberschrift_drei": "Staatliche Rettungsprogramme in der aktuellen Finanzkrise",
+              "Kategorie": ""
+            }
+          ],
+          "seite": "144",
+          "ueberschrift_zwei": "Systemische Bankenkrisen: Ursachen und Lösungsansätze",
+          "Kategorie": ""
+        },
+        {
+          "dritte_ebene": [
+            {
+              "seite": "164",
+              "ueberschrift_drei": "Nicht nur der Markt, auch der Staat hat versagt",
+              "Kategorie": ""
+            },
+            {
+              "seite": "165",
+              "ueberschrift_drei": "Ansatzpunkte für eine stabilere globale Finanzmarktarchitektur",
+              "Kategorie": ""
+            },
+            {
+              "seite": "172",
+              "ueberschrift_drei": "Institutionelle Reformen: Stärkung der internationalen Aufsicht",
+              "Kategorie": ""
+            },
+            {
+              "seite": "179",
+              "ueberschrift_drei": "Inhaltliche Reformen: Verringerung der Prozyklizität des Finanzsystems",
+              "Kategorie": ""
+            }
+          ],
+          "seite": "164",
+          "ueberschrift_zwei": "Von der Krisenbewältigung zur Krisenprävention",
+          "Kategorie": ""
+        }
+      ]
+    },
+    {
+      "seite": "193",
+      "ueberschrift_eins": "Finanzpolitik: Handlungsbedarf in der kurzen und langen Frist",
+      "Kategorie": "",
+      "zweite_ebene": [
+        {
+          "dritte_ebene": [
+            {
+              "seite": "194",
+              "ueberschrift_drei": "Nahezu ausgeglichene öffentliche Haushalte trotz konjunktureller\nAbschwächung",
+              "Kategorie": ""
+            },
+            {
+              "seite": "204",
+              "ueberschrift_drei": "Haushalte der Gebietskörperschaften und der Sozialversicherung:\nDefizite nur beim Bund",
+              "Kategorie": ""
+            },
+            {
+              "seite": "207",
+              "ueberschrift_drei": "Finanzpolitik im Zeichen drohender Haushaltsrisiken",
+              "Kategorie": ""
+            },
+            {
+              "seite": "211",
+              "ueberschrift_drei": "Föderalismuskommission II: Trübe Aussichten trotz überzeugender\nKonzepte",
+              "Kategorie": ""
+            }
+          ],
+          "seite": "194",
+          "ueberschrift_zwei": "Öffentliche Haushalte: Finanzpolitik in unsicheren Zeiten",
+          "Kategorie": ""
+        },
+        {
+          "dritte_ebene": [
+            {
+              "seite": "215",
+              "ueberschrift_drei": "Eine kurze Chronologie der Reformpläne",
+              "Kategorie": ""
+            },
+            {
+              "seite": "219",
+              "ueberschrift_drei": "Erbschaftsteuerreform und Verschonungsabschläge: Rechtfertigungen,\nMissverständnisse, Fakten",
+              "Kategorie": ""
+            },
+            {
+              "seite": "223",
+              "ueberschrift_drei": "Pro und Contra Erbschaftsbesteuerung",
+              "Kategorie": ""
+            }
+          ],
+          "seite": "215",
+          "ueberschrift_zwei": "Reform der Erbschaftsteuer: Bedienung von Partikularinteressen",
+          "Kategorie": ""
+        },
+        {
+          "dritte_ebene": [
+            {
+              "seite": "228",
+              "ueberschrift_drei": "Abgeltungsteuer, Unternehmensbesteuerung und Steuervereinfachung",
+              "Kategorie": ""
+            },
+            {
+              "seite": "231",
+              "ueberschrift_drei": "Günstigerprüfung: Unsystematische Grenzbelastungen\nund ungünstige\nErgebnisse",
+              "Kategorie": ""
+            },
+            {
+              "seite": "234",
+              "ueberschrift_drei": "Vermeidung der Abgeltungsteuer durch Teileinkünftebesteuerung",
+              "Kategorie": ""
+            }
+          ],
+          "seite": "228",
+          "ueberschrift_zwei": "Abgeltungsteuer: Nach der Reform ist vor der Reform",
+          "Kategorie": ""
+        },
+        {
+          "dritte_ebene": [
+            {
+              "seite": "238",
+              "ueberschrift_drei": "Was wird aus der Haushaltskonsolidierung?",
+              "Kategorie": ""
+            },
+            {
+              "seite": "240",
+              "ueberschrift_drei": "Sollten die gesamtwirtschaftliche Steuerquote und Abgabenquote\nreduziert\nwerden?",
+              "Kategorie": ""
+            },
+            {
+              "seite": "243",
+              "ueberschrift_drei": "Vorteile einer Glättung von konjunkturellen Schwankungen",
+              "Kategorie": ""
+            },
+            {
+              "seite": "245",
+              "ueberschrift_drei": "Zur Wirksamkeit antizyklischer finanzpolitischer Maßnahmen",
+              "Kategorie": ""
+            },
+            {
+              "seite": "248",
+              "ueberschrift_drei": "Konjunkturgerechte Wachstumspolitik: Der schwierige Spagat zwischen\nHaushaltskonsolidierung, Konjunkturstabilisierung und Wachstumspolitik",
+              "Kategorie": ""
+            }
+          ],
+          "seite": "237",
+          "ueberschrift_zwei": "Haushaltskonsolidierung, Steuersenkungen, Konjunkturprogramme: Was tun?",
+          "Kategorie": ""
+        }
+      ]
+    },
+    {
+      "seite": "265",
+      "ueberschrift_eins": "Arbeitsmarkt: Anhaltende Belebung – Ungleiche Verteilung der Chancen",
+      "Kategorie": "",
+      "zweite_ebene": [
+        {
+          "dritte_ebene": [
+            {
+              "seite": "268",
+              "ueberschrift_drei": "Erneut positive Beschäftigungsentwicklung",
+              "Kategorie": ""
+            },
+            {
+              "seite": "271",
+              "ueberschrift_drei": "Rückgang der Arbeitslosigkeit setzt sich\nfort",
+              "Kategorie": ""
+            },
+            {
+              "seite": "277",
+              "ueberschrift_drei": "Grundsicherung für Arbeitsuchende: Hohe Hilfequote trotz Rückgangs der\nerwerbsfähigen Hilfebedürftigen",
+              "Kategorie": ""
+            },
+            {
+              "seite": "278",
+              "ueberschrift_drei": "Langzeitarbeitslosigkeit: Anhaltendes Problem trotz deutlichen Rückgangs",
+              "Kategorie": ""
+            },
+            {
+              "seite": "281",
+              "ueberschrift_drei": "Berufsausbildungsstellenmarkt: Stellenüberhang dank guter Konjunktur und\ndemografischer Faktoren",
+              "Kategorie": ""
+            },
+            {
+              "seite": "284",
+              "ueberschrift_drei": "Arbeitsmarktreformen oder zyklische Belebung: Eine\naktualisierte\nBetrachtung",
+              "Kategorie": ""
+            }
+          ],
+          "seite": "267",
+          "ueberschrift_zwei": "Die Lage im Jahr 2008: Nochmals gute Nachrichten vom Arbeitsmarkt",
+          "Kategorie": ""
+        },
+        {
+          "dritte_ebene": [],
+          "seite": "293",
+          "ueberschrift_zwei": "Tariflohnpolitik: Ende der Lohnzurückhaltung",
+          "Kategorie": ""
+        },
+        {
+          "dritte_ebene": [],
+          "seite": "296",
+          "ueberschrift_zwei": "Arbeitsmarktpolitik",
+          "Kategorie": ""
+        },
+        {
+          "dritte_ebene": [
+            {
+              "seite": "301",
+              "ueberschrift_drei": "Zunahme atypischer Beschäftigung und Rückgang des\nNormalarbeitsverhältnisses",
+              "Kategorie": ""
+            },
+            {
+              "seite": "303",
+              "ueberschrift_drei": "Ursachen für die Zunahme atypischer Beschäftigungsverhältnisse",
+              "Kategorie": ""
+            }
+          ],
+          "seite": "300",
+          "ueberschrift_zwei": "Atypische Beschäftigungsverhältnisse – Zweiklassengesellschaft am\nArbeitsmarkt?",
+          "Kategorie": ""
+        },
+        {
+          "dritte_ebene": [
+            {
+              "seite": "313",
+              "ueberschrift_drei": "Flexibilisierung und zielgenauere Absicherung des Übergangs zwischen\nBeschäftigungsverhältnissen",
+              "K

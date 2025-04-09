@@ -1,0 +1,712 @@
+{
+  "kapitel": [
+    {
+      "seite": "1",
+      "ueberschrift_eins": "ERSTES KAPITEL Chancen für einen stabilen Aufschwung",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "8",
+              "ueberschrift_drei_niedriger": "Die Ausgangslage: Starke wirtschaftliche Erholung verliert an Fahrt"
+            }
+          ],
+          "seite": "8",
+          "ueberschrift_zwei": "I. Die Ausgangslage: Starke wirtschaftliche Erholung verliert an Fahrt"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "11",
+              "ueberschrift_drei_niedriger": "Europäische Währungsunion in der Krise"
+            }
+          ],
+          "seite": "11",
+          "ueberschrift_zwei": "II. Europäische Währungsunion in der Krise"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "14",
+              "ueberschrift_drei_niedriger": "Reform der Finanzmarktarchitektur"
+            }
+          ],
+          "seite": "14",
+          "ueberschrift_zwei": "III. Reform der Finanzmarktarchitektur"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "16",
+              "ueberschrift_drei_niedriger": "Öffentliche Finanzen: In der Realität angekommen"
+            }
+          ],
+          "seite": "16",
+          "ueberschrift_zwei": "IV. Öffentliche Finanzen: In der Realität angekommen"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "18",
+              "ueberschrift_drei_niedriger": "Soziale Sicherungssysteme im Reformprozess"
+            }
+          ],
+          "seite": "18",
+          "ueberschrift_zwei": "V. Soziale Sicherungssysteme im Reformprozess"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "19",
+              "ueberschrift_drei_niedriger": "Arbeitsmarkt im Zeichen institutioneller Veränderungen"
+            }
+          ],
+          "seite": "19",
+          "ueberschrift_zwei": "VI. Arbeitsmarkt im Zeichen institutioneller Veränderungen"
+        }
+      ]
+    },
+    {
+      "seite": "23",
+      "ueberschrift_eins": "ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "26",
+              "ueberschrift_drei_niedriger": "Eine divergente Entwicklung der Weltwirtschaft"
+            },
+            {
+              "seite": "27",
+              "ueberschrift_drei_niedriger": "Die Schwellenländer als Stütze der Weltwirtschaft"
+            },
+            {
+              "seite": "29",
+              "ueberschrift_drei_niedriger": "Schleppende Erholung der Industrieländer"
+            },
+            {
+              "seite": "31",
+              "ueberschrift_drei_niedriger": "Ursachen und Folgen eines „Währungskriegs“"
+            },
+            {
+              "seite": "34",
+              "ueberschrift_drei_niedriger": "Die Aussichten für die weitere Konjunkturentwicklung"
+            },
+            {
+              "seite": "34",
+              "ueberschrift_drei_niedriger": "Vereinigte Staaten – Probleme am Arbeitsmarkt bremsen die Konjunktur"
+            },
+            {
+              "seite": "37",
+              "ueberschrift_drei_niedriger": "Japan – Starker Yen trotz hoher Verschuldung"
+            },
+            {
+              "seite": "38",
+              "ueberschrift_drei_niedriger": "China und die anderen Schwellenländer – Kraftvoll durch die Krise"
+            },
+            {
+              "seite": "40",
+              "ueberschrift_drei_niedriger": "Euro-Raum – Heterogene Wirtschaftsentwicklung"
+            }
+          ],
+          "seite": "25",
+          "ueberschrift_zwei": "I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "47",
+              "ueberschrift_drei_niedriger": "Produktionspotenzial und Output-Lücke"
+            },
+            {
+              "seite": "48",
+              "ueberschrift_drei_niedriger": "Außenhandelsstruktur Deutschlands: Zunehmende Bedeutung der Schwellenländer"
+            },
+            {
+              "seite": "50",
+              "ueberschrift_drei_niedriger": "Arbeitsmarkt: Zusammenhang von Produktion und Beschäftigung"
+            },
+            {
+              "seite": "52",
+              "ueberschrift_drei_niedriger": "Finanzierungsbedingungen"
+            },
+            {
+              "seite": "53",
+              "ueberschrift_drei_niedriger": "Die Entwicklung im Prognosezeitraum"
+            },
+            {
+              "seite": "56",
+              "ueberschrift_drei_niedriger": "Einkommensentwicklung und Konsumausgaben"
+            },
+            {
+              "seite": "56",
+              "ueberschrift_drei_niedriger": "Ausrüstungsinvestitionen"
+            },
+            {
+              "seite": "59",
+              "ueberschrift_drei_niedriger": "Bauinvestitionen"
+            },
+            {
+              "seite": "60",
+              "ueberschrift_drei_niedriger": "Entstehungsseite"
+            },
+            {
+              "seite": "60",
+              "ueberschrift_drei_niedriger": "Außenwirtschaft"
+            },
+            {
+              "seite": "61",
+              "ueberschrift_drei_niedriger": "Preisniveauentwicklung"
+            },
+            {
+              "seite": "61",
+              "ueberschrift_drei_niedriger": "Arbeitsmarkt im Prognosezeitraum"
+            },
+            {
+              "seite": "63",
+              "ueberschrift_drei_niedriger": "Öffentliche Finanzen"
+            }
+          ],
+          "seite": "46",
+          "ueberschrift_zwei": "II. Deutschland: Der starke Aufschwung verliert an Fahrt"
+        }
+      ]
+    },
+    {
+      "seite": "67",
+      "ueberschrift_eins": "DRITTES KAPITEL Euro-Raum in der Krise",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "71",
+              "ueberschrift_drei_niedriger": "Ungleichgewichte innerhalb des Euro-Raums ähnlich stark ausgeprägt wie auf der globalen Ebene"
+            },
+            {
+              "seite": "72",
+              "ueberschrift_drei_niedriger": "Starke Unterschiede in den Finanzierungssalden des privaten Sektors"
+            },
+            {
+              "seite": "74",
+              "ueberschrift_drei_niedriger": "Finanz- und Wirtschaftskrise bringt Fiskalpolitik in allen Währungsräumen in gravierende Schieflage"
+            },
+            {
+              "seite": "76",
+              "ueberschrift_drei_niedriger": "Problemfall Griechenland"
+            },
+            {
+              "seite": "77",
+              "ueberschrift_drei_niedriger": "Einheitliche Zinspolitik verstärkt realwirtschaftliche Divergenzen"
+            },
+            {
+              "seite": "79",
+              "ueberschrift_drei_niedriger": "Mitgliedschaft in der Währungsunion und Insolvenzrisiko für Staaten"
+            },
+            {
+              "seite": "81",
+              "ueberschrift_drei_niedriger": "„Original Sin“ als Normalfall in der Währungsunion"
+            },
+            {
+              "seite": "83",
+              "ueberschrift_drei_niedriger": "Schutzschirme für die Problemländer"
+            },
+            {
+              "seite": "86",
+              "ueberschrift_drei_niedriger": "Fehlentwicklungen bei der Wettbewerbsfähigkeit"
+            }
+          ],
+          "seite": "71",
+          "ueberschrift_zwei": "I. Globale und spezifische Ursachen der Euro-Krise"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "89",
+              "ueberschrift_drei_niedriger": "Status quo: Gemeinsame Währung bei vergleichsweise geringer politischer Integration"
+            },
+            {
+              "seite": "90",
+              "ueberschrift_drei_niedriger": "Erste Säule: Stabilitätspakt mit mehr Biss"
+            },
+            {
+              "seite": "91",
+              "ueberschrift_drei_niedriger": "Erste Säule: Stabilitätspakt mit mehr Biss"
+            },
+            {
+              "seite": "94",
+              "ueberschrift_drei_niedriger": "Zweite Säule: Ein maßgeschneidertes Regelwerk für die Stabilität des privaten Finanzsystems"
+            },
+            {
+              "seite": "96",
+              "ueberschrift_drei_niedriger": "Dritte Säule: Ein effektives Regelwerk für Krisen"
+            },
+            {
+              "seite": "96",
+              "ueberschrift_drei_niedriger": "Ein Europäischer Krisenmechanismus (EKM)"
+            },
+            {
+              "seite": "99",
+              "ueberschrift_drei_niedriger": "Eine andere Meinung"
+            },
+            {
+              "seite": "100",
+              "ueberschrift_drei_niedriger": "Überwachungsmechanismus für „übermäßige Ungleichgewichte“ nicht treffsicher"
+            }
+          ],
+          "seite": "89",
+          "ueberschrift_zwei": "II. Ein neuer institutioneller Rahmen für den Euro-Raum"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "104",
+              "ueberschrift_drei_niedriger": "Welche Rolle spielte Deutschland beim Aufbau der europäischen Ungleichgewichte?"
+            },
+            {
+              "seite": "104",
+              "ueberschrift_drei_niedriger": "Erstens: Lohnentwicklung in Deutschland"
+            },
+            {
+              "seite": "107",
+              "ueberschrift_drei_niedriger": "Zweitens: Leistungsbilanzsaldo und Kapitalbilanzsaldo"
+            },
+            {
+              "seite": "109",
+              "ueberschrift_drei_niedriger": "Drittens: Fehlentwicklungen in den Peripherieländern"
+            },
+            {
+              "seite": "110",
+              "ueberschrift_drei_niedriger": "Welche Rolle kann Deutschland beim Abbau der europäischen Ungleichgewichte spielen?"
+            },
+            {
+              "seite": "111",
+              "ueberschrift_drei_niedriger": "Auswirkungen einer expansiven Lohn- und Fiskalpolitik in NiGEM"
+            },
+            {
+              "seite": "112",
+              "ueberschrift_drei_niedriger": "Simulationsergebnisse: Fiskalpolitik"
+            },
+            {
+              "seite": "116",
+              "ueberschrift_drei_niedriger": "Simulationsergebnisse: Lohnpolitik"
+            },
+            {
+              "seite": "119",
+              "ueberschrift_drei_niedriger": "Deutschlands Wachstum stärken"
+            },
+            {
+              "seite": "120",
+              "ueberschrift_drei_niedriger": "Öffentliche und private Investitionen"
+            },
+            {
+              "seite": "122",
+              "ueberschrift_drei_niedriger": "Simulationsergebnisse: Erhöhung der Partizipationsquote am Arbeitsmarkt"
+            },
+            {
+              "seite": "123",
+              "ueberschrift_drei_niedriger": "Eine andere Meinung"
+            }
+          ],
+          "seite": "102",
+          "ueberschrift_zwei": "III. Deutschland und die europäischen Ungleichgewichte"
+        }
+      ]
+    },
+    {
+      "seite": "135",
+      "ueberschrift_eins": "VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "137",
+              "ueberschrift_drei_niedriger": "Banken erneut unter Druck"
+            },
+            {
+              "seite": "143",
+              "ueberschrift_drei_niedriger": "Restrukturierung nicht weiter hinauszögern"
+            }
+          ],
+          "seite": "137",
+          "ueberschrift_zwei": "I. Krisenmanagement: Kein Ende in Sicht"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "146",
+              "ueberschrift_drei_niedriger": "Widerstandskraft einzelner Finanzinstitute erhöhen, Prozyklizität verringern"
+            },
+            {
+              "seite": "146",
+              "ueberschrift_drei_niedriger": "Eigenkapitalbasis stärken"
+            },
+            {
+              "seite": "149",
+              "ueberschrift_drei_niedriger": "Prozyklizität reduzieren"
+            },
+            {
+              "seite": "149",
+              "ueberschrift_drei_niedriger": "Begrenzung des Verschuldungsgrads"
+            },
+            {
+              "seite": "150",
+              "ueberschrift_drei_niedriger": "Liquiditätsstandards und Begrenzungen der Interbankenkredite"
+            },
+            {
+              "seite": "151",
+              "ueberschrift_drei_niedriger": "Contingent Capital"
+            },
+            {
+              "seite": "152",
+              "ueberschrift_drei_niedriger": "Marktstabilität erhöhen und Systemrelevanz verringern"
+            },
+            {
+              "seite": "152",
+              "ueberschrift_drei_niedriger": "Standardisierung und Zentralisierung des Derivatehandels"
+            },
+            {
+              "seite": "153",
+              "ueberschrift_drei_niedriger": "Finanztransaktionsteuer und Verbot von ungedeckten Leerverkäufen"
+            },
+            {
+              "seite": "154",
+              "ueberschrift_drei_niedriger": "Die Volcker-Regeln"
+            },
+            {
+              "seite": "155",
+              "ueberschrift_drei_niedriger": "Reform der Aufsichtsstrukturen"
+            },
+            {
+              "seite": "155",
+              "ueberschrift_drei_niedriger": "Strukturprobleme der Aufsicht"
+            },
+            {
+              "seite": "157",
+              "ueberschrift_drei_niedriger": "Zaghafte Reformen der internationalen Aufsicht"
+            },
+            {
+              "seite": "159",
+              "ueberschrift_drei_niedriger": "Reform der nationalen Aufsicht aufgeschoben oder aufgehoben?"
+            },
+            {
+              "seite": "161",
+              "ueberschrift_drei_niedriger": "Abwicklung und Lastenteilung"
+            },
+            {
+              "seite": "161",
+              "ueberschrift_drei_niedriger": "Living Wills"
+            }
+          ],
+          "seite": "144",
+          "ueberschrift_zwei": "II. Finanzsystemreformen: Erst am Anfang"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "162",
+              "ueberschrift_drei_niedriger": "Verfahren zur Sanierung und Reorganisation"
+            },
+            {
+              "seite": "162",
+              "ueberschrift_drei_niedriger": "Eigenverantwortliches Verfahren"
+            },
+            {
+              "seite": "164",
+              "ueberschrift_drei_niedriger": "Hoheitliches Verfahren"
+            },
+            {
+              "seite": "166",
+              "ueberschrift_drei_niedriger": "Restrukturierungsfonds und Bankenabgabe"
+            },
+            {
+              "seite": "166",
+              "ueberschrift_drei_niedriger": "Restrukturierungsfonds"
+            },
+            {
+              "seite": "168",
+              "ueberschrift_drei_niedriger": "Bankenabgabe"
+            }
+          ],
+          "seite": "162",
+          "ueberschrift_zwei": "III. Die Reform der Insolvenzordnung in Deutschland"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "169",
+              "ueberschrift_drei_niedriger": "Reduktion der Systemrelevanz"
+            },
+            {
+              "seite": "169",
+              "ueberschrift_drei_niedriger": "Das Anreizproblem"
+            },
+            {
+              "seite": "170",
+              "ueberschrift_drei_niedriger": "Ansätze zur Reduktion der Systemrelevanz"
+            },
+            {
+              "seite": "174",
+              "ueberschrift_drei_niedriger": "Umgang mit grenzüberschreitenden systemischen Insolvenzen"
+            },
+            {
+              "seite": "174",
+              "ueberschrift_drei_niedriger": "Das Koordinationsproblem"
+            },
+            {
+              "seite": "176",
+              "ueberschrift_drei_niedriger": "Ansätze für ein europäisches Restrukturierungsregime"
+            }
+          ],
+          "seite": "169",
+          "ueberschrift_zwei": "IV. Weiße Flecken auf der globalen Reformlandkarte"
+        }
+      ]
+    },
+    {
+      "seite": "183",
+      "ueberschrift_eins": "FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "186",
+              "ueberschrift_drei_niedriger": "Kurzfristige und langfristige Wirkungen der Staatsverschuldung"
+            },
+            {
+              "seite": "189",
+              "ueberschrift_drei_niedriger": "Entwicklung der staatlichen Einnahmen und Ausgaben"
+            },
+            {
+              "seite": "191",
+              "ueberschrift_drei_niedriger": "Finanzpolitische Kennziffern"
+            },
+            {
+              "seite": "193",
+              "ueberschrift_drei_niedriger": "Regelungsinhalt der neuen Schuldenregel"
+            },
+            {
+              "seite": "199",
+              "ueberschrift_drei_niedriger": "Probleme und Gestaltungsspielräume"
+            },
+            {
+              "seite": "204",
+              "ueberschrift_drei_niedriger": "Umsetzung der Schuldenregel in den Bundesländern"
+            },
+            {
+              "seite": "207",
+              "ueberschrift_drei_niedriger": "Zusammenfassende Bewertung der neuen Schuldenregel"
+            },
+            {
+              "seite": "207",
+              "ueberschrift_drei_niedriger": "Schuldenregel und „Zukunftspaket“ der Bundesregierung"
+            }
+          ],
+          "seite": "186",
+          "ueberschrift_zwei": "I. Haushaltskonsolidierung im Zeichen der Schuldenbremse"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "209",
+              "ueberschrift_drei_niedriger": "Steuerpolitik im Überblick"
+            },
+            {
+              "seite": "212",
+              "ueberschrift_drei_niedriger": "Die Ausgangslage"
+            },
+            {
+              "seite": "216",
+              "ueberschrift_drei_niedriger": "Konzeptionelle Überlegungen"
+            },
+            {
+              "seite": "220",
+              "ueberschrift_drei_niedriger": "Belastungs- und Umverteilungswirkungen der Umsatzbesteuerung"
+            },
+            {
+              "seite": "225",
+              "ueberschrift_drei_niedriger": "Schlussfolgerungen"
+            },
+            {
+              "seite": "226",
+              "ueberschrift_drei_niedriger": "Eine andere Meinung"
+            },
+            {
+              "seite": "227",
+              "ueberschrift_drei_niedriger": "Die Reformalternativen im Überblick"
+            },
+            {
+              "seite": "230",
+              "ueberschrift_drei_niedriger": "Zusammenfassende Bewertung"
+            }
+          ],
+          "seite": "209",
+          "ueberschrift_zwei": "II. Steuerpolitik zwischen großem Wurf und Scheitern"
+        }
+      ]
+    },
+    {
+      "seite": "235",
+      "ueberschrift_eins": "SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "237",
+              "ueberschrift_drei_niedriger": "Finanzielle Lage"
+            },
+            {
+              "seite": "239",
+              "ueberschrift_drei_niedriger": "Einnahmeseite: Einstieg in ein Pauschalbeitragssystem?"
+            },
+            {
+              "seite": "243",
+              "ueberschrift_drei_niedriger": "Stabilisierung der Ausgabenseite – Mehr Schatten als Licht"
+            }
+          ],
+          "seite": "236",
+          "ueberschrift_zwei": "I. Gesetzliche Krankenversicherung: Einstieg in ein Pauschalbeitragssystem?"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "246",
+              "ueberschrift_drei_niedriger": "Soziale Pflegeversicherung: Auf dem Weg ins Defizit"
+            }
+          ],
+          "seite": "246",
+          "ueberschrift_zwei": "II. Soziale Pflegeversicherung: Auf dem Weg ins Defizit"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "249",
+              "ueberschrift_drei_niedriger": "Nullrunde bei den Renten"
+            },
+            {
+              "seite": "250",
+              "ueberschrift_drei_niedriger": "Die Rente mit 67 und die Lage Älterer am Arbeitsmarkt"
+            }
+          ],
+          "seite": "248",
+          "ueberschrift_zwei": "III. Gesetzliche Rentenversicherung: Rentenpolitische Standfestigkeit erforderlich"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "253",
+              "ueberschrift_drei_niedriger": "Arbeitslosenversicherung: Mit Finanzierungsdefizit"
+            }
+          ],
+          "seite": "253",
+          "ueberschrift_zwei": "IV. Arbeitslosenversicherung: Mit Finanzierungsdefizit"
+        }
+      ]
+    },
+    {
+      "seite": "257",
+      "ueberschrift_eins": "SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "260",
+              "ueberschrift_drei_niedriger": "Arbeitsmarkt über die Krise hinweg robust"
+            },
+            {
+              "seite": "262",
+              "ueberschrift_drei_niedriger": "Unterschiedliche Entwicklung in den Wirtschaftsbereichen"
+            },
+            {
+              "seite": "264",
+              "ueberschrift_drei_niedriger": "Rückgang bei atypischen Beschäftigungsverhältnissen"
+            },
+            {
+              "seite": "266",
+              "ueberschrift_drei_niedriger": "Positive konjunkturelle Impulse beleben den Arbeitsmarkt im Jahr 2010"
+            },
+            {
+              "seite": "269",
+              "ueberschrift_drei_niedriger": "Gute Arbeitsmarktentwicklung auch im Jahr 2011 zu erwarten"
+            },
+            {
+              "seite": "269",
+              "ueberschrift_drei_niedriger": "Tariflohnpolitik sollte beschäftigungsfreundlichen Kurs beibehalten"
+            },
+            {
+              "seite": "270",
+              "ueberschrift_drei_niedriger": "Bewegungsvorgänge und Problemgruppen"
+            }
+          ],
+          "seite": "259",
+          "ueberschrift_zwei": "I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "279",
+              "ueberschrift_drei_niedriger": "Arbeitsanreize beim Arbeitslosengeld II: Wo liegen die Probleme?"
+            },
+            {
+              "seite": "282",
+              "ueberschrift_drei_niedriger": "Variation der Hinzuverdienstregeln"
+            },
+            {
+              "seite": "283",
+              "ueberschrift_drei_niedriger": "Variation des Freibetrags"
+            },
+            {
+              "seite": "283",
+              "ueberschrift_drei_niedriger": "Variation der Freibetragssätze"
+            },
+            {
+              "seite": "284",
+              "ueberschrift_drei_niedriger": "Variation der Freibetragssätze"
+            },
+            {
+              "seite": "285",
+              "ueberschrift_drei_niedriger": "Variation der Vollanrechnungsschwelle"
+            },
+            {
+              "seite": "286",
+              "ueberschrift_drei_niedriger": "Zwischenfazit"
+            },
+            {
+              "seite": "288",
+              "ueberschrift_drei_niedriger": "Variation des Regelsatzes"
+            },
+            {
+              "seite": "289",
+              "ueberschrift_drei_niedriger": "Fazit"
+            },
+            {
+              "seite": "290",
+              "ueberschrift_drei_niedriger": "Bewertung des Vorhabens der Bundesregierung"
+            }
+          ],
+          "seite": "275",
+          "ueberschrift_zwei": "II. Reform des Arbeitslosengelds II: Begrenzte Spielräume"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "297",
+              "ueberschrift_drei_niedriger": "Eine andere Meinung"
+            }
+          ],
+          "seite": "291",
+          "ueberschrift_zwei": "III. Migration von Arbeitskräften nach der EU-Osterweiterung: Bedrohung oder Chance?"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "299",
+              "ueberschrift_drei_niedriger": "Das Ende der Tarifeinheit: Kein gesetzgeberischer Aktionismus"
+            }
+          ],
+          "seite": "299",
+          "ueberschrift_zwei": "IV. Das Ende der Tarifeinheit: Kein gesetzgeberischer Aktionismus"
+        }
+      ]
+    }
+  ]
+}

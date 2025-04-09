@@ -1,0 +1,11 @@
+Erstelle aus dem json ein csv. Die Spalten sollen also sein "Überschrift Erste/Kapitelebene", "Überschrift Zweite Ebene", "Überschrift Dritte/Niedriger Ebene", "Seitenzahl". Es darf somit nicht mehr als drei Kommas in einer Zeile geben, damit es nicht mehr als die beschriebenen vier Spalten gibt. In der ersten Zeile für eine neue Überkategorie (also Ebene 1 oder 2) soll nur die übergeordnete Überschrift ausgefüllt sein. Bei einer neuer Überschrift der Ebene Eins soll diese allein in einer Zeile stehen, nur mit der Seitenzahl, aber ohne die darauffolgenden Überschriften Eins und Zwei. Eine neue zweier Überschrift soll mit der Seitenzahl und der zugehörigen Einser Überschrift in der Zeile stehen, aber ohne die folgenden dreier Überschriften. Die dreier Überschriften stehen immer mit den einser und zweier Überschriften sowie Seitenzahl in einer Zeile. Das bedeutet, dass keine Seitenzahl übersprungen wird, auch wenn mehrere Überschriften die gleiche Seitenzahl haben.
+Hier ein Beispiel:
+"Überschrift Erste/Kapitelebene","Überschrift Zweite Ebene","Überschrift Dritte/Niedriger Ebene","Seitenzahl"
+"Die wirtschaftliche Entwicklung in Europa"," "," ","1"
+"Die wirtschaftliche Entwicklung in Europa","Die wirtschaftliche Entwicklung in Deutschland"," ","3"
+"Die wirtschaftliche Entwicklung in Europa","Die wirtschaftliche Entwicklung in Deutschland","Die wirtschaftliche Entwicklung in Bayern","3"
+"Die Wirtschaftskrise kommt"," "," ","6"
+"Die Wirtschaftskrise kommt","Krise auf dem Arbeitsmarkt"," ","6"
+"Die Wirtschaftskrise kommt","Krise auf dem Arbeitsmarkt","Die Baubranche","8"
+-Beispiel Ende
+Stelle außerdemsicher, dass die Überschriften im CSV von Anführungszeichen " umgeben sind, damit kommas nicht als Spalten interpretiert werden. Entferne außerdem alle linebreaks "/n". Wichtig ist, dass ich keinen Code möchte, sondern das tatsächliche csv file. Außerdem möchte ich nur das csv als Antwort, und keinen Kommentar wie "Hier ist das csv" oder "CSV:" dabei.

@@ -1,0 +1,531 @@
+{
+  kapitel [
+    {
+      seite 1,
+      ueberschrift_eins Widerstreitende Interessen − Ungenutzte Chancen,
+      Kategorie ,
+      zweite_ebene [
+        {
+          dritte_ebene [],
+          seite 2,
+          ueberschrift_zwei Die wirtschaftliche Entwicklung in den Jahren 2006 und 2007,
+          Kategorie 
+        },
+        {
+          dritte_ebene [
+            {
+              seite 10,
+              ueberschrift_drei Soziale Sicherung Licht und Schatten,
+              Kategorie 
+            },
+            {
+              seite 15,
+              ueberschrift_drei Finanzpolitik Durchwachsene Bilanz,
+              Kategorie 
+            },
+            {
+              seite 24,
+              ueberschrift_drei Arbeitsmarkt Handlungsbedarf trotz Wende zum Besseren,
+              Kategorie 
+            }
+          ],
+          seite 9,
+          ueberschrift_zwei Stückwerk statt Konzept,
+          Kategorie 
+        }
+      ]
+    },
+    {
+      seite 31,
+      ueberschrift_eins Die wirtschaftliche Lage in der Welt und in Deutschland,
+      Kategorie ,
+      zweite_ebene [
+        {
+          dritte_ebene [
+            {
+              seite 37,
+              ueberschrift_drei Im Jahresverlauf nachlassende Dynamik in den Vereinigten Staaten,
+              Kategorie 
+            },
+            {
+              seite 40,
+              ueberschrift_drei Japan am Ende der Deflation,
+              Kategorie 
+            },
+            {
+              seite 42,
+              ueberschrift_drei Chinas Wirtschaft wächst weiter mit hohem Tempo,
+              Kategorie 
+            },
+            {
+              seite 43,
+              ueberschrift_drei Schwellenländer im Aufwärtssog der Weltkonjunktur,
+              Kategorie 
+            },
+            {
+              seite 45,
+              ueberschrift_drei Euro-Raum Konjunkturelle Belebung auf breiter Front,
+              Kategorie 
+            },
+            {
+              seite 48,
+              ueberschrift_drei Deutlicher Zuwachs des Bruttoinlandsprodukts in den übrigen Staaten der Europäischen Union,
+              Kategorie 
+            }
+          ],
+          seite 32,
+          ueberschrift_zwei Weltwirtschaft Kräftige Expansion ungeachtet höherer Ölpreise und Zinsen,
+          Kategorie 
+        },
+        {
+          dritte_ebene [
+            {
+              seite 51,
+              ueberschrift_drei Konjunktur deutlich über Potentialwachstum,
+              Kategorie 
+            },
+            {
+              seite 56,
+              ueberschrift_drei Sondereffekte überzeichnen Anstieg der Konsumausgaben,
+              Kategorie 
+            },
+            {
+              seite 64,
+              ueberschrift_drei Investitionen im Aufwind,
+              Kategorie 
+            },
+            {
+              seite 71,
+              ueberschrift_drei Außenwirtschaft Unverändert Stütze der konjunkturellen Entwicklung,
+              Kategorie 
+            },
+            {
+              seite 73,
+              ueberschrift_drei Preisniveauentwicklung Unter dem Einfluss steigender Ölpreise,
+              Kategorie 
+            }
+          ],
+          seite 50,
+          ueberschrift_zwei Deutschland Konjunktureller Aufschwung unter Einfluss von Sondereffekten,
+          Kategorie 
+        }
+      ]
+    },
+    {
+      seite 108,
+      ueberschrift_eins Globale Ungleichgewichte Abbau zeichnet sich ab,
+      Kategorie ,
+      zweite_ebene [
+        {
+          dritte_ebene [],
+          seite 110,
+          ueberschrift_zwei Historisch hohe globale Ungleichgewichte Ein Anlass für erhöhte Wachsamkeit,
+          Kategorie 
+        },
+        {
+          dritte_ebene [
+            {
+              seite 112,
+              ueberschrift_drei Zunehmende und ungewöhnlich hohe Leistungsbilanzungleichgewichte,
+              Kategorie 
+            },
+            {
+              seite 118,
+              ueberschrift_drei Stark zunehmende Währungsreserven insbesondere der Schwellenländer,
+              Kategorie 
+            }
+          ],
+          seite 112,
+          ueberschrift_zwei Der Befund Gravierende Strom- und Bestandsprobleme in der Weltwirtschaft,
+          Kategorie 
+        },
+        {
+          dritte_ebene [
+            {
+              seite 122,
+              ueberschrift_drei Das US-Leistungsbilanzdefizit als globales Konjunkturprogramm,
+              Kategorie 
+            },
+            {
+              seite 129,
+              ueberschrift_drei Die Wechselkurspolitik in Asien als zusätzlicher Verstärker der globalen Dynamik,
+              Kategorie 
+            },
+            {
+              seite 136,
+              ueberschrift_drei Der Ölpreis als endogener Verstärker der globalen Ungleichgewichte,
+              Kategorie 
+            }
+          ],
+          seite 120,
+          ueberschrift_zwei Die Ursachen der globalen Leistungsbilanzungleichgewichte,
+          Kategorie 
+        },
+        {
+          dritte_ebene [
+            {
+              seite 145,
+              ueberschrift_drei Die Grenzen der Verschuldung in den Vereinigten Staaten,
+              Kategorie 
+            },
+            {
+              seite 154,
+              ueberschrift_drei Wie groß ist die Bereitschaft der asiatischen Staaten, den US-Dollar abwerten zu lassen,
+              Kategorie 
+            }
+          ],
+          seite 145,
+          ueberschrift_zwei Anpassungsprozesse und ihre Risiken,
+          Kategorie 
+        },
+        {
+          dritte_ebene [],
+          seite 156,
+          ueberschrift_zwei Implikationen für Deutschland,
+          Kategorie 
+        }
+      ]
+    },
+    {
+      seite 164,
+      ueberschrift_eins Geldpolitik Kurs halten,
+      Kategorie ,
+      zweite_ebene [
+        {
+          dritte_ebene [
+            {
+              seite 167,
+              ueberschrift_drei Ölpreisbedingter Preisanstieg − gedämpft durch Euro-Aufwertung,
+              Kategorie 
+            },
+            {
+              seite 172,
+              ueberschrift_drei Hohes M3-Wachstum und leicht gestiegene Inflationserwartungen,
+              Kategorie 
+            },
+            {
+              seite 174,
+              ueberschrift_drei Expansive Wirkung der Geldpolitik lässt nach,
+              Kategorie 
+            },
+            {
+              seite 181,
+              ueberschrift_drei Finanzmärkte Im Zeichen der Zinswende,
+              Kategorie 
+            }
+          ],
+          seite 166,
+          ueberschrift_zwei Geldpolitische Rahmenbedingungen Europäische Zentralbank schwenkt auf neutralen Kurs ein,
+          Kategorie 
+        },
+        {
+          dritte_ebene [
+            {
+              seite 187,
+              ueberschrift_drei Geldpolitische Strategie und Transparenz,
+              Kategorie 
+            },
+            {
+              seite 189,
+              ueberschrift_drei Merkmale der Strategie des Inflation Targeting und der Zwei-Säulen- Strategie der Europäischen Zentralbank,
+              Kategorie 
+            },
+            {
+              seite 191,
+              ueberschrift_drei Sollte die Europäische Zentralbank zum Inflation Targeting übergehen,
+              Kategorie 
+            },
+            {
+              seite 196,
+              ueberschrift_drei Neujustierung statt Strategiewechsel,
+              Kategorie 
+            },
+            {
+              seite 198,
+              ueberschrift_drei Fazit,
+              Kategorie 
+            }
+          ],
+          seite 185,
+          ueberschrift_zwei Die geldpolitische Strategie der Europäischen Zentralbank Besteht Revisions- bedarf,
+          Kategorie 
+        }
+      ]
+    },
+    {
+      seite 210,
+      ueberschrift_eins Soziale Sicherung Licht und Schatten,
+      Kategorie ,
+      zweite_ebene [
+        {
+          dritte_ebene [
+            {
+              seite 213,
+              ueberschrift_drei Die finanzielle Lage der Gesetzlichen Krankenversicherung Noch mit Überschuss,
+              Kategorie 
+            },
+            {
+              seite 216,
+              ueberschrift_drei Gesundheitsreform 2006 Ein misslungener Kompromiss,
+              Kategorie 
+            },
+            {
+              seite 236,
+              ueberschrift_drei Fazit,
+              Kategorie 
+            }
+          ],
+          seite 213,
+          ueberschrift_zwei Gesetzliche Krankenversicherung Unzulängliche Vorhaben,
+          Kategorie 
+        },
+        {
+          dritte_ebene [
+            {
+              seite 237,
+              ueberschrift_drei Die finanzielle Lage der Gesetzlichen Rentenversicherung Vorübergehende Entlastung durch Sondereffekt,
+              Kategorie 
+            },
+            {
+              seite 241,
+              ueberschrift_drei Anhebung des gesetzlichen Renteneintrittsalters auf 67 Jahre,
+              Kategorie 
+            },
+            {
+              seite 253,
+              ueberschrift_drei Notwendige Nachjustierung Beitragspflichtige Einkommen als relevante Größe in der Rentenanpassungsformel,
+              Kategorie 
+            },
+            {
+              seite 254,
+              ueberschrift_drei Reform der Hinterbliebenenversorgung,
+              Kategorie 
+            },
+            {
+              seite 260,
+              ueberschrift_drei Fortentwicklung der Gesetzlichen Rentenversicherung zu einer Erwerbstätigenversicherung,
+              Kategorie 
+            }
+          ],
+          seite 236,
+          ueberschrift_zwei Gesetzliche Rentenversicherung Reformerfordernisse weitgehend erfüllt,
+          Kategorie 
+        },
+        {
+          dritte_ebene [],
+          seite 275,
+          ueberschrift_zwei Soziale Pflegeversicherung Warten auf die Reform,
+          Kategorie 
+        },
+        {
+          dritte_ebene [],
+          seite 275,
+          ueberschrift_zwei Arbeitslosenversicherung Erfreuliche Überschüsse,
+          Kategorie 
+        }
+      ]
+    },
+    {
+      seite 280,
+      ueberschrift_eins Finanzpolitik Durchwachsene Bilanz,
+      Kategorie ,
+      zweite_ebene [
+        {
+          dritte_ebene [
+            {
+              seite 282,
+              ueberschrift_drei Defizitverfahren gegen Deutschland erst verschärft, dann vorläufig ausgesetzt,
+              Kategorie 
+            },
+            {
+              seite 287,
+              ueberschrift_drei Deutlicher Rückgang des gesamtstaatlichen Defizits im Jahr 2006,
+              Kategorie 
+            },
+            {
+              seite 293,
+              ueberschrift_drei Hohes strukturelles Defizit signalisiert anhaltenden Handlungsbedarf,
+              Kategorie 
+            },
+            {
+              seite 296,
+              ueberschrift_drei Noch immer gravierende Haushaltsschwierigkeiten des Bundes,
+              Kategorie 
+            }
+          ],
+          seite 282,
+          ueberschrift_zwei Öffentliche Haushalte Trotz verbesserter Haushaltslage keine Entwarnung,
+          Kategorie 
+        },
+        {
+          dritte_ebene [
+            {
+              seite 299,
+              ueberschrift_drei Entspannung beim Europäischen Stabilitäts- und Wachstumspakt,
+              Kategorie 
+            },
+            {
+              seite 300,
+              ueberschrift_drei Artikel 115 Grundgesetz schärfen und ergänzen,
+              Kategorie 
+            }
+          ],
+          seite 299,
+          ueberschrift_zwei Öffentliche Verschuldung Defizitbegrenzungen des Stabilitätspakts und des Grundgesetzes dauerhaft einhalten,
+          Kategorie 
+        },
+        {
+          dritte_ebene [
+            {
+              seite 317,
+              ueberschrift_drei Grundzüge der Dualen Einkommensteuer,
+              Kategorie 
+            },
+            {
+              seite 321,
+              ueberschrift_drei Grundzüge der Allgemeinen Unternehmensteuer,
+              Kategorie 
+            },
+            {
+              seite 323,
+              ueberschrift_drei Entscheidungswirkungen der Dualen Einkommensteuer und der Allgemeinen Unternehmensteuer,
+              Kategorie 
+            },
+            {
+              seite 326,
+              ueberschrift_drei Eckpunkte der Bundesregierung zur Unternehmenssteuerreform 2008,
+              Kategorie 
+            },
+            {
+              seite 336,
+              ueberschrift_drei Aufkommenswirkungen,
+              Kategorie 
+            },
+            {
+              seite 338,
+              ueberschrift_drei Fazit,
+              Kategorie 
+            }
+          ],
+          seite 316,
+          ueberschrift_zwei Unternehmenssteuerreform 2008 Zielsetzungen des Koalitionsvertrags umsetzen,
+          Kategorie 
+        },
+        {
+          dritte_ebene [],
+          seite 339,
+          ueberschrift_zwei Föderalismusreform Ein Anfang ist gemacht,
+          Kategorie 
+        },
+        {
+          dritte_ebene [],
+          seite 344,
+          ueberschrift_zwei Eine andere Meinung,
+          Kategorie 
+        }
+      ]
+    },
+    {
+      seite 352,
+      ueberschrift_eins Arbeitsmarkt Handlungsbedarf trotz Wende zum Besseren,
+      Kategorie ,
+      zweite_ebene [
+        {
+          dritte_ebene [
+            {
+              seite 354,
+              ueberschrift_drei Deutliche Belebung der Beschäftigung,
+              Kategorie 
+            },
+            {
+              seite 359,
+              ueberschrift_drei Berufsausbildungsstellenmarkt Weiterhin angespannte Lage überdeckt Anzeichen einer Besserung,
+              Kategorie 
+            },
+            {
+              seite 362,
+              ueberschrift_drei Arbeitslosigkeit und Erwerbslosigkeit im zweiten Jahr nach Hartz IV,
+              Kategorie 
+            },
+            {
+              seite 365,
+              ueberschrift_drei Tarifpolitik Kurs halten,
+              Kategorie 
+            }
+          ],
+          seite 354,
+          ueberschrift_zwei Die Lage im Jahr 2006 Der Aufschwung erreicht den Arbeitsmarkt,
+          Kategorie 
+        },
+        {
+          dritte_ebene [
+            {
+              seite 371,
+              ueberschrift_drei Bundesagentur für Arbeit und aktive Arbeitsmarktpolitik,
+              Kategorie 
+            },
+            {
+              seite 381,
+              ueberschrift_drei Reformbaustelle SGB II,
+              Kategorie 
+            }
+          ],
+          seite 371,
+          ueberschrift_zwei Arbeitsmarktpolitik im Umbruch,
+          Kategorie 
+        },
+        {
+          dritte_ebene [
+            {
+              seite 387,
+              ueberschrift_drei Leitgedanken des Reformvorschlags,
+              Kategorie 
+            },
+            {
+              seite 388,
+              ueberschrift_drei Die Module im Einzelnen,
+              Kategorie 
+            },
+            {
+              seite 399,
+              ueberschrift_drei Beschäftigungseffekte und Budgetwirkungen,
+              Kategorie 
+            }
+          ],
+          seite 385,
+          ueberschrift_zwei Ein wirksames Kombilohnmodell,
+          Kategorie 
+        },
+        {
+          dritte_ebene [
+            {
+              seite 401,
+              ueberschrift_drei Forderungen nach einer Einführung von Mindestlöhnen,
+              Kategorie 
+            },
+            {
+              seite 402,
+              ueberschrift_drei Bewertung,
+              Kategorie 
+            }
+          ],
+          seite 401,
+          ueberschrift_zwei Mindestlöhne − ein Irrweg,
+          Kategorie 
+        },
+        {
+          dritte_ebene [],
+          seite 412,
+          ueberschrift_zwei Kündigungsschutz zielführend flexibilisieren,
+          Kategorie 
+        },
+        {
+          dritte_ebene [],
+          seite 418,
+          ueberschrift_zwei Eine andere Meinung,
+          Kategorie 
+        }
+      ]
+    }
+  ]
+}

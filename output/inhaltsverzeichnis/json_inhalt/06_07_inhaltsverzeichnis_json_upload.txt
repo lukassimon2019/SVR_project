@@ -1,0 +1,771 @@
+{
+  "kapitel": [
+    {
+      "seite": "1",
+      "ueberschrift_eins": "ERSTES KAPITEL Widerstreitende Interessen – Ungenutzte Chancen",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "2",
+              "ueberschrift_drei_niedriger": "Die wirtschaftliche Entwicklung in den Jahren 2006 und 2007"
+            }
+          ],
+          "seite": "2",
+          "ueberschrift_zwei": "I. Die wirtschaftliche Entwicklung in den Jahren 2006 und 2007"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "9",
+              "ueberschrift_drei_niedriger": "Stückwerk statt Konzept"
+            }
+          ],
+          "seite": "9",
+          "ueberschrift_zwei": "II. Stückwerk statt Konzept"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "10",
+              "ueberschrift_drei_niedriger": "Soziale Sicherung: Licht und Schatten"
+            }
+          ],
+          "seite": "10",
+          "ueberschrift_zwei": "1. Soziale Sicherung: Licht und Schatten"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "15",
+              "ueberschrift_drei_niedriger": "Finanzpolitik: Durchwachsene Bilanz"
+            }
+          ],
+          "seite": "15",
+          "ueberschrift_zwei": "2. Finanzpolitik: Durchwachsene Bilanz"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "24",
+              "ueberschrift_drei_niedriger": "Arbeitsmarkt: Handlungsbedarf trotz Wende zum Besseren"
+            }
+          ],
+          "seite": "24",
+          "ueberschrift_zwei": "3. Arbeitsmarkt: Handlungsbedarf trotz Wende zum Besseren"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "29",
+              "ueberschrift_drei_niedriger": "Schlussbemerkung"
+            }
+          ],
+          "seite": "29",
+          "ueberschrift_zwei": "III. Schlussbemerkung"
+        }
+      ]
+    },
+    {
+      "seite": "31",
+      "ueberschrift_eins": "ZWEITES KAPITEL Die wirtschaftliche Lage in der Welt und in Deutschland",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "32",
+              "ueberschrift_drei_niedriger": "Weltwirtschaft: Kräftige Expansion ungeachtet höherer Ölpreise und Zinsen"
+            }
+          ],
+          "seite": "32",
+          "ueberschrift_zwei": "I. Weltwirtschaft: Kräftige Expansion ungeachtet höherer Ölpreise und Zinsen"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "37",
+              "ueberschrift_drei_niedriger": "Im Jahresverlauf nachlassende Dynamik in den Vereinigten Staaten"
+            }
+          ],
+          "seite": "37",
+          "ueberschrift_zwei": "1. Im Jahresverlauf nachlassende Dynamik in den Vereinigten Staaten"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "40",
+              "ueberschrift_drei_niedriger": "Japan am Ende der Deflation?"
+            }
+          ],
+          "seite": "40",
+          "ueberschrift_zwei": "2. Japan am Ende der Deflation?"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "42",
+              "ueberschrift_drei_niedriger": "Chinas Wirtschaft wächst weiter mit hohem Tempo"
+            }
+          ],
+          "seite": "42",
+          "ueberschrift_zwei": "3. Chinas Wirtschaft wächst weiter mit hohem Tempo"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "43",
+              "ueberschrift_drei_niedriger": "Schwellenländer im Aufwärtssog der Weltkonjunktur"
+            }
+          ],
+          "seite": "43",
+          "ueberschrift_zwei": "4. Schwellenländer im Aufwärtssog der Weltkonjunktur"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "45",
+              "ueberschrift_drei_niedriger": "Euro-Raum: Konjunkturelle Belebung auf breiter Front"
+            }
+          ],
+          "seite": "45",
+          "ueberschrift_zwei": "5. Euro-Raum: Konjunkturelle Belebung auf breiter Front"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "48",
+              "ueberschrift_drei_niedriger": "Deutlicher Zuwachs des Bruttoinlandsprodukts in den übrigen Staaten der Europäischen Union"
+            }
+          ],
+          "seite": "48",
+          "ueberschrift_zwei": "6. Deutlicher Zuwachs des Bruttoinlandsprodukts in den übrigen Staaten der Europäischen Union"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "50",
+              "ueberschrift_drei_niedriger": "Deutschland: Konjunktureller Aufschwung unter Einfluss von Sondereffekten"
+            }
+          ],
+          "seite": "50",
+          "ueberschrift_zwei": "II. Deutschland: Konjunktureller Aufschwung unter Einfluss von Sondereffekten"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "51",
+              "ueberschrift_drei_niedriger": "Konjunktur deutlich über Potentialwachstum"
+            }
+          ],
+          "seite": "51",
+          "ueberschrift_zwei": "1. Konjunktur deutlich über Potentialwachstum"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "56",
+              "ueberschrift_drei_niedriger": "Sondereffekte überzeichnen Anstieg der Konsumausgaben"
+            }
+          ],
+          "seite": "56",
+          "ueberschrift_zwei": "2. Sondereffekte überzeichnen Anstieg der Konsumausgaben"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "64",
+              "ueberschrift_drei_niedriger": "Investitionen im Aufwind"
+            }
+          ],
+          "seite": "64",
+          "ueberschrift_zwei": "3. Investitionen im Aufwind"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "64",
+              "ueberschrift_drei_niedriger": "Aufschwung der Ausrüstungsinvestitionen hält an"
+            }
+          ],
+          "seite": "64",
+          "ueberschrift_zwei": "Aufschwung der Ausrüstungsinvestitionen hält an"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "70",
+              "ueberschrift_drei_niedriger": "Bauinvestitionen: Talsohle durchschritten"
+            }
+          ],
+          "seite": "70",
+          "ueberschrift_zwei": "Bauinvestitionen: Talsohle durchschritten"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "71",
+              "ueberschrift_drei_niedriger": "Außenwirtschaft: Unverändert Stütze der konjunkturellen Entwicklung"
+            }
+          ],
+          "seite": "71",
+          "ueberschrift_zwei": "4. Außenwirtschaft: Unverändert Stütze der konjunkturellen Entwicklung"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "73",
+              "ueberschrift_drei_niedriger": "Preisniveauentwicklung: Unter dem Einfluss steigender Ölpreise"
+            }
+          ],
+          "seite": "73",
+          "ueberschrift_zwei": "5. Preisniveauentwicklung: Unter dem Einfluss steigender Ölpreise"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "77",
+              "ueberschrift_drei_niedriger": "Exkurs: Auswirkungen des Ölpreisanstiegs auf Inflation und Konjunktur"
+            }
+          ],
+          "seite": "77",
+          "ueberschrift_zwei": "Exkurs: Auswirkungen des Ölpreisanstiegs auf Inflation und Konjunktur"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "79",
+              "ueberschrift_drei_niedriger": "Einfluss des Ölpreisanstiegs auf die deutschen Verbraucherpreise"
+            }
+          ],
+          "seite": "79",
+          "ueberschrift_zwei": "Einfluss des Ölpreisanstiegs auf die deutschen Verbraucherpreise"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "82",
+              "ueberschrift_drei_niedriger": "Aktualisierte Schätzungen zu Ölpreiswirkungen"
+            }
+          ],
+          "seite": "82",
+          "ueberschrift_zwei": "Aktualisierte Schätzungen zu Ölpreiswirkungen"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "86",
+              "ueberschrift_drei_niedriger": "Die voraussichtliche Entwicklung im Jahr 2007"
+            }
+          ],
+          "seite": "86",
+          "ueberschrift_zwei": "III. Die voraussichtliche Entwicklung im Jahr 2007"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "86",
+              "ueberschrift_drei_niedriger": "Leichte Abkühlung der Weltkonjunktur auf hohem Niveau"
+            }
+          ],
+          "seite": "86",
+          "ueberschrift_zwei": "1. Leichte Abkühlung der Weltkonjunktur auf hohem Niveau"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "91",
+              "ueberschrift_drei_niedriger": "Deutschland: Robuster Zuwachs trotz Anhebung der Umsatzsteuer"
+            }
+          ],
+          "seite": "91",
+          "ueberschrift_zwei": "2. Deutschland: Robuster Zuwachs trotz Anhebung der Umsatzsteuer"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "103",
+              "ueberschrift_drei_niedriger": "Öffentliche Finanzen: Weitere Entspannung vor allem durch Steuererhöhungen"
+            }
+          ],
+          "seite": "103",
+          "ueberschrift_zwei": "Öffentliche Finanzen: Weitere Entspannung vor allem durch Steuerer-höhungen"
+        }
+      ]
+    },
+    {
+      "seite": "108",
+      "ueberschrift_eins": "DRITTES KAPITEL Globale Ungleichgewichte: Abbau zeichnet sich ab",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "110",
+              "ueberschrift_drei_niedriger": "Historisch hohe globale Ungleichgewichte: Ein Anlass für erhöhte Wachsamkeit"
+            }
+          ],
+          "seite": "110",
+          "ueberschrift_zwei": "I. Historisch hohe globale Ungleichgewichte: Ein Anlass für erhöhte Wachsamkeit"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "112",
+              "ueberschrift_drei_niedriger": "Der Befund: Gravierende Strom- und Bestandsprobleme in der Weltwirtschaft"
+            }
+          ],
+          "seite": "112",
+          "ueberschrift_zwei": "II. Der Befund: Gravierende Strom- und Bestandsprobleme in der Weltwirtschaft"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "112",
+              "ueberschrift_drei_niedriger": "Zunehmende und ungewöhnlich hohe Leistungsbilanzungleichgewichte"
+            }
+          ],
+          "seite": "112",
+          "ueberschrift_zwei": "1. Zunehmende und ungewöhnlich hohe Leistungsbilanzungleichgewichte"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "118",
+              "ueberschrift_drei_niedriger": "Stark zunehmende Währungsreserven insbesondere der Schwellenländer"
+            }
+          ],
+          "seite": "118",
+          "ueberschrift_zwei": "2. Stark zunehmende Währungsreserven insbesondere der Schwellenländer"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "120",
+              "ueberschrift_drei_niedriger": "Die Ursachen der globalen Leistungsbilanzungleichgewichte"
+            }
+          ],
+          "seite": "120",
+          "ueberschrift_zwei": "III. Die Ursachen der globalen Leistungsbilanzungleichgewichte"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "122",
+              "ueberschrift_drei_niedriger": "Das Leistungsbilanzdefizit der Vereinigten Staaten als globales Konjunktur-programm"
+            }
+          ],
+          "seite": "122",
+          "ueberschrift_zwei": "1. Das Leistungsbilanzdefizit der Vereinigten Staaten als globales Konjunktur-programm"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "122",
+              "ueberschrift_drei_niedriger": "Das US-Leistungsbilanzdefizit aus der Sicht der Finanzierungsrechnung"
+            }
+          ],
+          "seite": "122",
+          "ueberschrift_zwei": "Das US-Leistungsbilanzdefizit aus der Sicht der Finanzierungsrechnung"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "125",
+              "ueberschrift_drei_niedriger": "Das US-Leistungsbilanzdefizit aus der Sicht des Außenhandels"
+            }
+          ],
+          "seite": "125",
+          "ueberschrift_zwei": "Das US-Leistungsbilanzdefizit aus der Sicht des Außenhandels"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "128",
+              "ueberschrift_drei_niedriger": "Ein alternativer Erklärungsansatz"
+            }
+          ],
+          "seite": "128",
+          "ueberschrift_zwei": "Ein alternativer Erklärungsansatz"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "129",
+              "ueberschrift_drei_niedriger": "Die Wechselkurspolitik in Asien als zusätzlicher Verstärker der globalen Dynamik"
+            }
+          ],
+          "seite": "129",
+          "ueberschrift_zwei": "2. Die Wechselkurspolitik in Asien als zusätzlicher Verstärker der globalen Dynamik"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "130",
+              "ueberschrift_drei_niedriger": "Außenhandelsorientierte Wechselkurspolitik"
+            }
+          ],
+          "seite": "130",
+          "ueberschrift_zwei": "Außenhandelsorientierte Wechselkurspolitik"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "133",
+              "ueberschrift_drei_niedriger": "Stark gestiegener Leistungsbilanzüberschuss in China"
+            }
+          ],
+          "seite": "133",
+          "ueberschrift_zwei": "Stark gestiegener Leistungsbilanzüberschuss in China"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "136",
+              "ueberschrift_drei_niedriger": "Der Ölpreis als endogener Verstärker der globalen Ungleichgewichte"
+            }
+          ],
+          "seite": "136",
+          "ueberschrift_zwei": "3. Der Ölpreis als endogener Verstärker der globalen Ungleichgewichte"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "137",
+              "ueberschrift_drei_niedriger": "Der Zusammenhang zwischen Ölpreisen und Leistungsbilanzen"
+            }
+          ],
+          "seite": "137",
+          "ueberschrift_zwei": "Der Zusammenhang zwischen Ölpreisen und Leistungsbilanzen"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "139",
+              "ueberschrift_drei_niedriger": "Recycling der Öleinnahmen"
+            }
+          ],
+          "seite": "139",
+          "ueberschrift_zwei": "Recycling der Öleinnahmen"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "139",
+              "ueberschrift_drei_niedriger": "Realwirtschaftliches Recycling"
+            }
+          ],
+          "seite": "139",
+          "ueberschrift_zwei": "Realwirtschaftliches Recycling"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "143",
+              "ueberschrift_drei_niedriger": "Finanzwirtschaftliches Recycling"
+            }
+          ],
+          "seite": "143",
+          "ueberschrift_zwei": "Finanzwirtschaftliches Recycling"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "145",
+              "ueberschrift_drei_niedriger": "Anpassungsprozesse und ihre Risiken"
+            }
+          ],
+          "seite": "145",
+          "ueberschrift_zwei": "IV. Anpassungsprozesse und ihre Risiken"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "145",
+              "ueberschrift_drei_niedriger": "Die Grenzen der Verschuldung in den Vereinigten Staaten"
+            }
+          ],
+          "seite": "145",
+          "ueberschrift_zwei": "1. Die Grenzen der Verschuldung in den Vereinigten Staaten"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "145",
+              "ueberschrift_drei_niedriger": "Wie tragfähig ist die Verschuldungssituation der US-amerikanischen Volkswirtschaft?"
+            }
+          ],
+          "seite": "146",
+          "ueberschrift_zwei": "Wie tragfähig ist die Verschuldungssituation der US-amerikanischen Volkswirtschaft?"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "146",
+              "ueberschrift_drei_niedriger": "Ist die Nettoauslandsposition der Vereinigten Staaten ein Problem?"
+            }
+          ],
+          "seite": "146",
+          "ueberschrift_zwei": "Ist die Nettoauslandsposition der Vereinigten Staaten ein Problem?"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "149",
+              "ueberschrift_drei_niedriger": "Ist das Leistungsbilanzdefizit auf Dauer durchzuhalten?"
+            }
+          ],
+          "seite": "149",
+          "ueberschrift_zwei": "Ist das Leistungsbilanzdefizit auf Dauer durchzuhalten?"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "150",
+              "ueberschrift_drei_niedriger": "Verschuldung der privaten Haushalte stößt an Grenzen"
+            }
+          ],
+          "seite": "150",
+          "ueberschrift_zwei": "Verschuldung der privaten Haushalte stößt an Grenzen"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "154",
+              "ueberschrift_drei_niedriger": "Wie groß ist die Bereitschaft der asiatischen Staaten, den US-Dollar abwerten zu lassen?"
+            }
+          ],
+          "seite": "154",
+          "ueberschrift_zwei": "2. Wie groß ist die Bereitschaft der asiatischen Staaten, den US-Dollar abwerten zu lassen?"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "156",
+              "ueberschrift_drei_niedriger": "Implikationen für Deutschland"
+            }
+          ],
+          "seite": "156",
+          "ueberschrift_zwei": "V. Implikationen für Deutschland"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "156",
+              "ueberschrift_drei_niedriger": "Begrenzte Risiken bei den Basisszenarien"
+            }
+          ],
+          "seite": "156",
+          "ueberschrift_zwei": "Begrenzte Risiken bei den Basisszenarien"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "157",
+              "ueberschrift_drei_niedriger": "Risikoszenario: starke Abwertung des US-Dollar"
+            }
+          ],
+          "seite": "157",
+          "ueberschrift_zwei": "Risikoszenario: starke Abwertung des US-Dollar"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "159",
+              "ueberschrift_drei_niedriger": "Wie soll die Wirtschaftspolitik reagieren?"
+            }
+          ],
+          "seite": "159",
+          "ueberschrift_zwei": "Wie soll die Wirtschaftspolitik reagieren?"
+        }
+      ]
+    },
+    {
+      "seite": "164",
+      "ueberschrift_eins": "VIERTES KAPITEL Geldpolitik: Kurs halten",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "166",
+              "ueberschrift_drei_niedriger": "Geldpolitische Rahmenbedingungen: Europäische Zentralbank schwenkt auf neutralen Kurs ein"
+            }
+          ],
+          "seite": "166",
+          "ueberschrift_zwei": "I. Geldpolitische Rahmenbedingungen: Europäische Zentralbank schwenkt auf neutralen Kurs ein"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "167",
+              "ueberschrift_drei_niedriger": "Ölpreisbedingter Preisanstieg – gedämpft durch Euro-Aufwertung"
+            }
+          ],
+          "seite": "167",
+          "ueberschrift_zwei": "1. Ölpreisbedingter Preisanstieg – gedämpft durch Euro-Aufwertung"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "172",
+              "ueberschrift_drei_niedriger": "Hohes M3-Wachstum und leicht gestiegene Inflationserwartungen"
+            }
+          ],
+          "seite": "172",
+          "ueberschrift_zwei": "2. Hohes M3-Wachstum und leicht gestiegene Inflationserwartungen"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "174",
+              "ueberschrift_drei_niedriger": "Expansive Wirkung der Geldpolitik lässt nach"
+            }
+          ],
+          "seite": "174",
+          "ueberschrift_zwei": "3. Expansive Wirkung der Geldpolitik lässt nach"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "181",
+              "ueberschrift_drei_niedriger": "Finanzmärkte: Im Zeichen der Zinswende"
+            }
+          ],
+          "seite": "181",
+          "ueberschrift_zwei": "4. Finanzmärkte: Im Zeichen der Zinswende"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "183",
+              "ueberschrift_drei_niedriger": "Deutliche Verbesserung der Ertragslage der deutschen Banken"
+            }
+          ],
+          "seite": "183",
+          "ueberschrift_zwei": "Deutliche Verbesserung der Ertragslage der deutschen Banken"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "185",
+              "ueberschrift_drei_niedriger": "Die geldpolitische Strategie der Europäischen Zentralbank: Besteht Revisionsbedarf?"
+            }
+          ],
+          "seite": "185",
+          "ueberschrift_zwei": "II. Die geldpolitische Strategie der Europäischen Zentralbank: Besteht Revisions-bedarf?"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "187",
+              "ueberschrift_drei_niedriger": "Geldpolitische Strategie und Transparenz"
+            }
+          ],
+          "seite": "187",
+          "ueberschrift_zwei": "1. Geldpolitische Strategie und Transparenz"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "189",
+              "ueberschrift_drei_niedriger": "Merkmale der Strategie des Inflation Targeting und der Zwei-Säulen-Strategie der Europäischen Zentralbank"
+            }
+          ],
+          "seite": "189",
+          "ueberschrift_zwei": "2. Merkmale der Strategie des Inflation Targeting und der Zwei-Säulen-Strategie der Europäischen Zentralbank"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "191",
+              "ueberschrift_drei_niedriger": "Sollte die Europäische Zentralbank zum Inflation Targeting übergehen?"
+            }
+          ],
+          "seite": "191",
+          "ueberschrift_zwei": "3. Sollte die Europäische Zentralbank zum Inflation Targeting übergehen?"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "192",
+              "ueberschrift_drei_niedriger": "Sollte die Europäische Zentralbank ihre Kommunikation stärker auf Inflationsprognosen ausrichten?"
+            }
+          ],
+          "seite": "192",
+          "ueberschrift_zwei": "Sollte die Europäische Zentralbank ihre Kommunikation stärker auf Inflationsprognosen ausrichten?"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "194",
+              "ueberschrift_drei_niedriger": "Sollte die Europäische Zentralbank die monetäre Analyse beibehalten?"
+            }
+          ],
+          "seite": "194",
+          "ueberschrift_zwei": "Sollte die Europäische Zentralbank die monetäre Analyse beibehalten?"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "196",
+              "ueberschrift_drei_niedriger": "Neujustierung statt Strategiewechsel"
+            }
+          ],
+          "seite": "196",
+          "ueberschrift_zwei": "4. Neujustierung statt Strategiewechsel"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "198",
+              "ueberschrift_drei_niedriger": "Fazit"
+            }
+          ],
+          "seite": "198",
+          "ueberschrift_zwei": "5. Fazit"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "199",
+              "ueberschrift_drei_niedriger": "Exkurs: Zur Gefahr von Immobilienpreisblasen"
+            }
+          ],
+          "seite": "199",
+          "ueberschrift_zwei": "Exkurs: Zur Gefahr von Immobilienpreisblasen"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "200",
+              "ueberschrift_drei_niedriger": "Aktuelle Entwicklungen auf dem europäischen Immobilienmarkt"
+            }
+          ],
+          "seite": "200",
+          "ueberschrift_zwei": "Aktuelle Entwicklungen auf dem europäischen Immobilienmarkt"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "204",
+              "ueberschrift_drei_niedriger": "Preisblase am europäischen Immobilienmarkt?"
+            }
+          ],
+          "seite": "204",
+          "ueberschrift_zwei": "Preisblase am europäischen Immobilienmarkt?"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "205",
+              "ueberschrift_drei_niedriger": "Makroökonomische Folgen des Platzens von Vermögenspreisblasen"
+            }
+          ],
+          "seite": "205",
+          "ueberschrift_zwei": "Makroökonomische Folgen des Platzens von Vermögenspreisblasen"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "206",
+              "ueberschrift_drei_niedriger": "Immobilienpreisblasen - eine Herausforderung für die Geldpolitik"
+            }
+          ],

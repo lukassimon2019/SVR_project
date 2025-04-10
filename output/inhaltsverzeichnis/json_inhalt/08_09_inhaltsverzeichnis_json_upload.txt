@@ -1,0 +1,762 @@
+{
+  "kapitel": [
+    {
+      "seite": "1",
+      "ueberschrift_eins": "ERSTES KAPITEL Die Finanzkrise meistern, Wachstumskräfte stärken",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "1",
+              "ueberschrift_drei_niedriger": "Die deutsche Wirtschaft im Sog der Finanzkrise"
+            },
+            {
+              "seite": "1",
+              "ueberschrift_drei_niedriger": "Systemische Bankenkrise konnte gestoppt werden"
+            },
+            {
+              "seite": "1",
+              "ueberschrift_drei_niedriger": "Erhebliche realwirtschaftliche Folgen, aber keine extremen Entwicklungen zu erwarten"
+            },
+            {
+              "seite": "3",
+              "ueberschrift_drei_niedriger": "Verantwortlichkeiten für die Finanzkrise"
+            }
+          ],
+          "seite": "1",
+          "ueberschrift_zwei": "I. Die deutsche Wirtschaft im Sog der Finanzkrise"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "4",
+              "ueberschrift_drei_niedriger": "Stabilisierung der Finanzmärkte"
+            }
+          ],
+          "seite": "4",
+          "ueberschrift_zwei": "II. Stabilisierung der Finanzmärkte"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "7",
+              "ueberschrift_drei_niedriger": "Die deutsche Konjunktur im Abschwung"
+            }
+          ],
+          "seite": "7",
+          "ueberschrift_zwei": "III. Die deutsche Konjunktur im Abschwung"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "9",
+              "ueberschrift_drei_niedriger": "Wirtschaftspolitik: Was zu tun ist"
+            },
+            {
+              "seite": "9",
+              "ueberschrift_drei_niedriger": "Konjunkturgerechte Wachstumspolitik für Deutschland"
+            },
+            {
+              "seite": "10",
+              "ueberschrift_drei_niedriger": "Rahmenbedingungen für Wachstum und Beschäftigung verbessern"
+            },
+            {
+              "seite": "11",
+              "ueberschrift_drei_niedriger": "Finanzpolitik: Verzerrungen abbauen"
+            },
+            {
+              "seite": "12",
+              "ueberschrift_drei_niedriger": "Arbeitsmarktpolitik: Sockelarbeitslosigkeit weiter senken"
+            },
+            {
+              "seite": "13",
+              "ueberschrift_drei_niedriger": "Nachhaltige Sozialpolitik"
+            }
+          ],
+          "seite": "9",
+          "ueberschrift_zwei": "IV. Wirtschaftspolitik: Was zu tun ist"
+        }
+      ]
+    },
+    {
+      "seite": "17",
+      "ueberschrift_eins": "ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "19",
+              "ueberschrift_drei_niedriger": "Weltwirtschaftliches Umfeld"
+            },
+            {
+              "seite": "21",
+              "ueberschrift_drei_niedriger": "Bestimmungsfaktoren der weltwirtschaftlichen Entwicklung"
+            },
+            {
+              "seite": "25",
+              "ueberschrift_drei_niedriger": "Realwirtschaftliche Folgen der Finanzkrise"
+            },
+            {
+              "seite": "30",
+              "ueberschrift_drei_niedriger": "Platzende Immobilienpreisblasen"
+            },
+            {
+              "seite": "32",
+              "ueberschrift_drei_niedriger": "Ausmaß der Überbewertung am Immobilienmarkt"
+            },
+            {
+              "seite": "33",
+              "ueberschrift_drei_niedriger": "Ausmaß direkter Nachfrageeffekte"
+            },
+            {
+              "seite": "36",
+              "ueberschrift_drei_niedriger": "Ausmaß indirekter Effekte auf die Nachfrage"
+            },
+            {
+              "seite": "38",
+              "ueberschrift_drei_niedriger": "Wachstumseinbußen infolge von Immobilienkrisen"
+            },
+            {
+              "seite": "40",
+              "ueberschrift_drei_niedriger": "Entwicklung der Rohstoffpreise"
+            },
+            {
+              "seite": "41",
+              "ueberschrift_drei_niedriger": "Ursachen für die Rohstoffpreisanstiege der letzten Jahre"
+            },
+            {
+              "seite": "42",
+              "ueberschrift_drei_niedriger": "Fundamentale Faktoren"
+            },
+            {
+              "seite": "45",
+              "ueberschrift_drei_niedriger": "Spekulative Faktoren"
+            },
+            {
+              "seite": "50",
+              "ueberschrift_drei_niedriger": "Der Rückgang des Ölpreises seit Jahresmitte"
+            },
+            {
+              "seite": "51",
+              "ueberschrift_drei_niedriger": "Die Weltwirtschaft im Jahr 2009"
+            }
+          ],
+          "seite": "19",
+          "ueberschrift_zwei": "I. Weltwirtschaftliches Umfeld"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "53",
+              "ueberschrift_drei_niedriger": "Vereinigte Staaten: Expansive Wirtschaftspolitik im Zeichen der Finanzkrise"
+            },
+            {
+              "seite": "53",
+              "ueberschrift_drei_niedriger": "Konjunkturentwicklung im Jahr 2008"
+            },
+            {
+              "seite": "56",
+              "ueberschrift_drei_niedriger": "Voraussichtliche Entwicklung im Jahr 2009: Anhaltender Abschwung"
+            }
+          ],
+          "seite": "53",
+          "ueberschrift_zwei": "2. Vereinigte Staaten: Expansive Wirtschaftspolitik im Zeichen der Finanzkrise"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "58",
+              "ueberschrift_drei_niedriger": "Japan: Globale Konjunkturschwäche belastet japanische Exporte"
+            },
+            {
+              "seite": "58",
+              "ueberschrift_drei_niedriger": "Konjunkturentwicklung im Jahr 2008"
+            },
+            {
+              "seite": "60",
+              "ueberschrift_drei_niedriger": "Voraussichtliche Entwicklung im Jahr 2009"
+            }
+          ],
+          "seite": "58",
+          "ueberschrift_zwei": "3. Japan: Globale Konjunkturschwäche belastet japanische Exporte"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "60",
+              "ueberschrift_drei_niedriger": "Schwellenländer: Keine Entkopplung"
+            },
+            {
+              "seite": "62",
+              "ueberschrift_drei_niedriger": "China: Verhaltene konjunkturelle Entwicklung im Jahr 2008"
+            },
+            {
+              "seite": "64",
+              "ueberschrift_drei_niedriger": "Voraussichtliche Entwicklung im Jahr 2009"
+            }
+          ],
+          "seite": "60",
+          "ueberschrift_zwei": "4. Schwellenländer: Keine Entkopplung"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "65",
+              "ueberschrift_drei_niedriger": "Europäische Union: Abrupte Abkühlung"
+            },
+            {
+              "seite": "65",
+              "ueberschrift_drei_niedriger": "Euro-Raum: Konjunktur verliert an Schwung"
+            },
+            {
+              "seite": "69",
+              "ueberschrift_drei_niedriger": "Geldpolitik zwischen Konjunktur- und Preisrisiken"
+            }
+          ],
+          "seite": "65",
+          "ueberschrift_zwei": "5. Europäische Union: Abrupte Abkühlung"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "70",
+              "ueberschrift_drei_niedriger": "Starke Auf- und Abwertung des Außenwerts des Euro im Zuge der Finanzkrise"
+            },
+            {
+              "seite": "71",
+              "ueberschrift_drei_niedriger": "Eintrübung der Konjunktur in den übrigen Staaten der Europäischen Union"
+            },
+            {
+              "seite": "74",
+              "ueberschrift_drei_niedriger": "Voraussichtliche Entwicklung im Jahr 2009"
+            }
+          ],
+          "seite": "70",
+          "ueberschrift_zwei": "II. Voraussichtliche Entwicklung im Jahr 2009"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "75",
+              "ueberschrift_drei_niedriger": "Die deutsche Volkswirtschaft im Abschwung"
+            },
+            {
+              "seite": "76",
+              "ueberschrift_drei_niedriger": "Konjunktureller Abschwung nach imposantem Jahresbeginn 2008"
+            },
+            {
+              "seite": "80",
+              "ueberschrift_drei_niedriger": "Rückläufige Output-Lücke im Jahr 2008"
+            },
+            {
+              "seite": "80",
+              "ueberschrift_drei_niedriger": "Preisschub dämpft Konsum"
+            },
+            {
+              "seite": "84",
+              "ueberschrift_drei_niedriger": "Privater Konsum: Erhoffte Erholung blieb aus"
+            },
+            {
+              "seite": "91",
+              "ueberschrift_drei_niedriger": "Staatskonsum: Stabilisator in der Konjunkturabschwächung"
+            },
+            {
+              "seite": "91",
+              "ueberschrift_drei_niedriger": "Ausrüstungsinvestitionen: Der Aufschwung ist zu Ende"
+            },
+            {
+              "seite": "96",
+              "ueberschrift_drei_niedriger": "Verhaltene Entwicklung in der Bauwirtschaft"
+            },
+            {
+              "seite": "97",
+              "ueberschrift_drei_niedriger": "Außenwirtschaft: Nachlassende Impulse"
+            },
+            {
+              "seite": "100",
+              "ueberschrift_drei_niedriger": "Entstehungsseite: Produktionsdynamik in der Industrie schwächt sich ab"
+            }
+          ],
+          "seite": "75",
+          "ueberschrift_zwei": "II. Die deutsche Volkswirtschaft im Abschwung"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "100",
+              "ueberschrift_drei_niedriger": "Die voraussichtliche Entwicklung im Jahr 2009: Deutschland in der Rezession"
+            },
+            {
+              "seite": "104",
+              "ueberschrift_drei_niedriger": "Risiken der Prognose"
+            },
+            {
+              "seite": "105",
+              "ueberschrift_drei_niedriger": "Die Entwicklung der Nachfragekomponenten im Einzelnen"
+            },
+            {
+              "seite": "109",
+              "ueberschrift_drei_niedriger": "Arbeitsmarkt: Beschäftigungsabbau und Anstieg der Arbeitslosigkeit"
+            },
+            {
+              "seite": "110",
+              "ueberschrift_drei_niedriger": "Öffentliche Finanzen: Öffentliche Haushalte in turbulenten Zeiten"
+            }
+          ],
+          "seite": "100",
+          "ueberschrift_zwei": "2. Die voraussichtliche Entwicklung im Jahr 2009: Deutschland in der Rezession"
+        }
+      ]
+    },
+    {
+      "seite": "117",
+      "ueberschrift_eins": "DRITTES KAPITEL Finanzsystem auf der Intensivstation",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "118",
+              "ueberschrift_drei_niedriger": "Die unerwartete Ausbreitung der Krise"
+            },
+            {
+              "seite": "119",
+              "ueberschrift_drei_niedriger": "Zur Genesis der Krise"
+            },
+            {
+              "seite": "122",
+              "ueberschrift_drei_niedriger": "Die Fehleinschätzung der US- Behörden im Fall von Lehman Brothers"
+            },
+            {
+              "seite": "124",
+              "ueberschrift_drei_niedriger": "Der US-amerikanische Immobilienmarkt findet keinen Boden"
+            },
+            {
+              "seite": "127",
+              "ueberschrift_drei_niedriger": "Negative Selbstverstärkung durch „Deleveraging“"
+            },
+            {
+              "seite": "128",
+              "ueberschrift_drei_niedriger": "Zunehmendes Misstrauen verschlechtert Ertragslage"
+            }
+          ],
+          "seite": "118",
+          "ueberschrift_zwei": "I. Die unerwartete Ausbreitung der Krise"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "129",
+              "ueberschrift_drei_niedriger": "Reaktion der Zentralbanken"
+            },
+            {
+              "seite": "131",
+              "ueberschrift_drei_niedriger": "Zentralbankpolitische Maßnahmen zur Bewältigung der Krise"
+            },
+            {
+              "seite": "132",
+              "ueberschrift_drei_niedriger": "Federal Reserve"
+            },
+            {
+              "seite": "135",
+              "ueberschrift_drei_niedriger": "Europäische Zentralbank"
+            },
+            {
+              "seite": "140",
+              "ueberschrift_drei_niedriger": "Effektivität der ergriffenen Maßnahmen"
+            }
+          ],
+          "seite": "129",
+          "ueberschrift_zwei": "II. Reaktion der Zentralbanken"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "142",
+              "ueberschrift_drei_niedriger": "Grenzen des zentralbankpolitischen Krisenmanagements"
+            },
+            {
+              "seite": "144",
+              "ueberschrift_drei_niedriger": "Systemische Bankenkrisen: Ursachen und Lösungsansätze"
+            },
+            {
+              "seite": "144",
+              "ueberschrift_drei_niedriger": "Liquiditäts- und Solvenzprobleme als Ursachen einer systemischen Krise"
+            },
+            {
+              "seite": "146",
+              "ueberschrift_drei_niedriger": "Elemente staatlicher Rettungsprogramme"
+            },
+            {
+              "seite": "147",
+              "ueberschrift_drei_niedriger": "Lockerung bilanzieller oder bankaufsichtsrechtlicher Vorgaben (Regulatory Forbearance)"
+            },
+            {
+              "seite": "148",
+              "ueberschrift_drei_niedriger": "Übertragung problembehafteter Aktiva auf einen zentralen Fonds (Asset Management Company)"
+            },
+            {
+              "seite": "148",
+              "ueberschrift_drei_niedriger": "Eigenkapitalzuführung durch den Staat"
+            },
+            {
+              "seite": "149",
+              "ueberschrift_drei_niedriger": "Triage durch eine zentrale Institution"
+            },
+            {
+              "seite": "152",
+              "ueberschrift_drei_niedriger": "Staatliche Rettungsprogramme in der aktuellen Finanzkrise"
+            }
+          ],
+          "seite": "144",
+          "ueberschrift_zwei": "III. Systemische Bankenkrisen: Ursachen und Lösungsansätze"
+        }
+      ]
+    },
+    {
+      "seite": "193",
+      "ueberschrift_eins": "VIERTES KAPITEL Finanzpolitik: Handlungsbedarf in der kurzen und langen Frist",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "193",
+              "ueberschrift_drei_niedriger": "Öffentliche Haushalte: Finanzpolitik in unsicheren Zeiten"
+            },
+            {
+              "seite": "194",
+              "ueberschrift_drei_niedriger": "Nahezu ausgeglichene öffentliche Haushalte trotz konjunktureller Abschwächung"
+            },
+            {
+              "seite": "194",
+              "ueberschrift_drei_niedriger": "Entwicklung der staatlichen Ausgaben"
+            },
+            {
+              "seite": "197",
+              "ueberschrift_drei_niedriger": "Entwicklung der staatlichen Einnahmen"
+            },
+            {
+              "seite": "198",
+              "ueberschrift_drei_niedriger": "Kassenmäßiges Steueraufkommen"
+            },
+            {
+              "seite": "202",
+              "ueberschrift_drei_niedriger": "Zur steuerlichen Behandlung von Fahrten zwischen Wohnung und Arbeitsstätte"
+            }
+          ],
+          "seite": "194",
+          "ueberschrift_zwei": "I. Öffentliche Haushalte: Finanzpolitik in unsicheren Zeiten"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "204",
+              "ueberschrift_drei_niedriger": "Haushalte der Gebietskörperschaften und der Sozialversicherung: Defizite nur beim Bund"
+            },
+            {
+              "seite": "204",
+              "ueberschrift_drei_niedriger": "Einnahmen und Ausgaben des Bundes"
+            },
+            {
+              "seite": "205",
+              "ueberschrift_drei_niedriger": "Einnahmen und Ausgaben der Länder, Gemeinden und Sozialversicherung"
+            }
+          ],
+          "seite": "204",
+          "ueberschrift_zwei": "2. Haushalte der Gebietskörperschaften und der Sozialversicherung: Defizite nur beim Bund"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "207",
+              "ueberschrift_drei_niedriger": "Finanzpolitik im Zeichen drohender Haushaltsrisiken"
+            }
+          ],
+          "seite": "207",
+          "ueberschrift_zwei": "3. Finanzpolitik im Zeichen drohender Haushaltsrisiken"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "211",
+              "ueberschrift_drei_niedriger": "Föderalismuskommission II: Trübe Aussichten trotz überzeugender Konzepte"
+            }
+          ],
+          "seite": "211",
+          "ueberschrift_zwei": "4. Föderalismuskommission II: Trübe Aussichten trotz überzeugender Konzepte"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "215",
+              "ueberschrift_drei_niedriger": "Reform der Erbschaftsteuer: Bedienung von Partikularinteressen"
+            },
+            {
+              "seite": "215",
+              "ueberschrift_drei_niedriger": "Eine kurze Chronologie der Reformpläne"
+            },
+            {
+              "seite": "219",
+              "ueberschrift_drei_niedriger": "Erbschaftsteuerreform und Verschonungsabschläge: Rechtfertigungen, Missverständnisse, Fakten"
+            },
+            {
+              "seite": "223",
+              "ueberschrift_drei_niedriger": "Pro und Contra Erbschaftsbesteuerung"
+            }
+          ],
+          "seite": "215",
+          "ueberschrift_zwei": "II. Reform der Erbschaftsteuer: Bedienung von Partikularinteressen"
+        }
+      ]
+    },
+    {
+      "seite": "265",
+      "ueberschrift_eins": "FÜNFTES KAPITEL Arbeitsmarkt: Anhaltende Belebung – Ungleiche Verteilung der Chancen",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "267",
+              "ueberschrift_drei_niedriger": "Die Lage im Jahr 2008: Nochmals gute Nachrichten vom Arbeitsmarkt"
+            },
+            {
+              "seite": "268",
+              "ueberschrift_drei_niedriger": "Erneut positive Beschäftigungsentwicklung"
+            },
+            {
+              "seite": "271",
+              "ueberschrift_drei_niedriger": "Rückgang der Arbeitslosigkeit setzt sich fort"
+            },
+            {
+              "seite": "274",
+              "ueberschrift_drei_niedriger": "Dauer und Betroffenheit von Arbeitslosigkeit im Jahr 2007"
+            },
+            {
+              "seite": "277",
+              "ueberschrift_drei_niedriger": "Grundsicherung für Arbeitsuchende: Hohe Hilfequote trotz Rückgangs der erwerbsfähigen Hilfebedürftigen"
+            },
+            {
+              "seite": "278",
+              "ueberschrift_drei_niedriger": "Langzeitarbeitslosigkeit: Anhaltendes Problem trotz deutlichen Rückgangs"
+            },
+            {
+              "seite": "281",
+              "ueberschrift_drei_niedriger": "Berufsausbildungsstellenmarkt: Stellenüberhang dank guter Konjunktur und demografischer Faktoren"
+            },
+            {
+              "seite": "284",
+              "ueberschrift_drei_niedriger": "Arbeitsmarktreformen oder zyklische Belebung: Eine aktualisierte Betrachtung"
+            },
+            {
+              "seite": "284",
+              "ueberschrift_drei_niedriger": "Deutlicher Rückgang der inflationsstabilen Arbeitslosenquote"
+            },
+            {
+              "seite": "285",
+              "ueberschrift_drei_niedriger": "Vergleich der Aufschwungphasen"
+            },
+            {
+              "seite": "286",
+              "ueberschrift_drei_niedriger": "Stärkere Zuwächse bei der Beschäftigung und markanter Rückgang der Arbeitslosigkeit"
+            }
+          ],
+          "seite": "267",
+          "ueberschrift_zwei": "I. Die Lage im Jahr 2008: Nochmals gute Nachrichten vom Arbeitsmarkt"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "290",
+              "ueberschrift_drei_niedriger": "Erstmals deutliche Verbesserung auch in Ostdeutschland"
+            },
+            {
+              "seite": "292",
+              "ueberschrift_drei_niedriger": "Erwerbspersonenpotenzial"
+            },
+            {
+              "seite": "293",
+              "ueberschrift_drei_niedriger": "Fazit"
+            }
+          ],
+          "seite": "290",
+          "ueberschrift_zwei": "II. Fazit"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "293",
+              "ueberschrift_drei_niedriger": "Tariflohnpolitik: Ende der Lohnzurückhaltung"
+            }
+          ],
+          "seite": "293",
+          "ueberschrift_zwei": "II. Tariflohnpolitik: Ende der Lohnzurückhaltung"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "296",
+              "ueberschrift_drei_niedriger": "Arbeitsmarktpolitik"
+            },
+            {
+              "seite": "296",
+              "ueberschrift_drei_niedriger": "Bundesagentur für Arbeit und aktive Arbeitsmarktpolitik"
+            },
+            {
+              "seite": "298",
+              "ueberschrift_drei_niedriger": "Arbeitnehmer-Entsendegesetz und Mindestarbeitsbedingungengesetz"
+            },
+            {
+              "seite": "299",
+              "ueberschrift_drei_niedriger": "Mitarbeiterkapitalbeteiligung"
+            }
+          ],
+          "seite": "296",
+          "ueberschrift_zwei": "III. Arbeitsmarktpolitik"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "300",
+              "ueberschrift_drei_niedriger": "Atypische Beschäftigungsverhältnisse – Zweiklassengesellschaft am Arbeitsmarkt?"
+            },
+            {
+              "seite": "301",
+              "ueberschrift_drei_niedriger": "Zunahme atypischer Beschäftigung und Rückgang des Normalarbeitsverhältnisses"
+            },
+            {
+              "seite": "303",
+              "ueberschrift_drei_niedriger": "Ursachen für die Zunahme atypischer Beschäftigungsverhältnisse"
+            },
+            {
+              "seite": "304",
+              "ueberschrift_drei_niedriger": "Gründe aus Sicht der Arbeitnehmer"
+            },
+            {
+              "seite": "305",
+              "ueberschrift_drei_niedriger": "Gründe aus Sicht der Unternehmen"
+            },
+            {
+              "seite": "307",
+              "ueberschrift_drei_niedriger": "Gründe für die erhebliche Zunahme"
+            },
+            {
+              "seite": "307",
+              "ueberschrift_drei_niedriger": "Empirische Evidenz"
+            },
+            {
+              "seite": "309",
+              "ueberschrift_drei_niedriger": "Beurteilung aus gesamtwirtschaftlicher Perspektive"
+            }
+          ],
+          "seite": "300",
+          "ueberschrift_zwei": "IV. Atypische Beschäftigungsverhältnisse – Zweiklassengesellschaft am Arbeitsmarkt?"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "311",
+              "ueberschrift_drei_niedriger": "Strategien für einen weiteren Beschäftigungsaufbau: Was nun getan werden muss"
+            },
+            {
+              "seite": "313",
+              "ueberschrift_drei_niedriger": "Flexibilisierung und zielgenauere Absicherung des Übergangs zwischen Beschäftigungsverhältnissen"
+            },
+            {
+              "seite": "314",
+              "ueberschrift_drei_niedriger": "Reform des Kündigungsschutzes"
+            },
+            {
+              "seite": "317",
+              "ueberschrift_drei_niedriger": "Differenzierte Arbeitgeberbeiträge zur Arbeitslosenversicherung"
+            },
+            {
+              "seite": "320",
+              "ueberschrift_drei_niedriger": "Eine andere Meinung zum Experience Rating"
+            },
+            {
+              "seite": "321",
+              "ueberschrift_drei_niedriger": "Degressive Ausgestaltung des Arbeitslosengelds"
+            },
+            {
+              "seite": "321",
+              "ueberschrift_drei_niedriger": "Weitere Korrekturen"
+            },
+            {
+              "seite": "322",
+              "ueberschrift_drei_niedriger": "Ein zielführendes Kombilohnmodell"
+            },
+            {
+              "seite": "323",
+              "ueberschrift_drei_niedriger": "Beseitigung der Privilegierung bestimmter Formen atypischer Beschäftigung"
+            },
+            {
+              "seite": "323",
+              "ueberschrift_drei_niedriger": "Attraktivität von Minijobs reduzieren"
+            },
+            {
+              "seite": "324",
+              "ueberschrift_drei_niedriger": "Midijobs: Gleitzone ausbauen"
+            },
+            {
+              "seite": "325",
+              "ueberschrift_drei_niedriger": "Leiharbeit: Kein Korrekturbedarf"
+            },
+            {
+              "seite": "325",
+              "ueberschrift_drei_niedriger": "Flexibilisierung des Tarifvertragsrechts"
+            },
+            {
+              "seite": "326",
+              "ueberschrift_drei_niedriger": "Kollektive Lohnverhandlungen: Vor- und Nachteile"
+            },
+            {
+              "seite": "328",
+              "ueberschrift_drei_niedriger": "Probleme des rechtlichen Rahmenwerks"
+            },
+            {
+              "seite": "331",
+              "ueberschrift_drei_niedriger": "Eine andere Meinung zum Günstigkeitsprinzip"
+            },
+            {
+              "seite": "337",
+              "ueberschrift_drei_niedriger": "Eine andere Meinung zum Mindestlohn"
+            }
+          ],
+          "seite": "311",
+          "ueberschrift_zwei": "V. Strategien für einen weiteren Beschäftigungsaufbau: Was nun getan werden muss"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "343",
+              "ueberschrift_drei_niedriger": "Fazit"
+            },
+            {
+              "seite": "345",
+              "ueberschrift_drei_niedriger": "Eine andere Meinung zur Lohn- und Arbeitsmarktpolitik"
+            },
+            {
+              "seite": "345",
+              "ueberschrift_drei_niedriger": "Noch mehr Markt am Arbeitsmarkt?"
+            },
+            {
+              "seite": "346",
+              "ueberschrift_drei_niedriger": "Wie erfolgreich waren die letzten Jahre?"
+            },
+            {
+              "seite": "348",
+              "ueberschrift_drei_niedriger": "Die Löhne sind zu wenig gestiegen"
+            },
+            {
+              "seite": "349",
+              "ueberschrift_drei_niedriger": "Deutschlands Sonderweg bei den Mindestlöhnen"
+            },
+            {
+              "seite": "350",
+              "ueberschrift_drei_niedriger": "„Flexibilisierung“ für alle?"
+            },
+            {
+              "seite": "350",
+              "ueberschrift_drei_niedriger": "Negative Einkommensteuer statt Kombilohn"
+            }
+          ],
+          "seite":

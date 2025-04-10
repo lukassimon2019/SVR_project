@@ -8,6 +8,8 @@ Sys.setenv(LANGUAGE = "en")
 #open the R environment file
 usethis::edit_r_environ()
 
+GOOGLE_API_KEY = 'AIzaSyDRFNwcGnF1DfiATswFl3uFHzzj3UvjKCs'
+
 # Set the path to the directory containing your PDF files
 wd<-getwd()
 output_directory <-paste0(wd,"\\output\\inhaltsverzeichnis\\json_inhalt\\")
@@ -17,7 +19,7 @@ pdf_directory <- paste0(wd,"\\source_pdfs\\split_pdfs\\inhaltsverzeichnis\\test\
 
 
 #read message content from txt file C:\Users\P-Simon\Documents\SVR\prompts\inhaltsverzeichnis_prompt.txt
-prompt_vec <- readLines(paste0(prompt_directory,"inhaltsverz_structured_output_prompt.txt"))
+prompt_vec <- readLines(paste0(prompt_directory,"pdf_to_json_prompt.txt"))
 prompt_conc_string <- paste(prompt_vec, collapse = "\n")
 
 
@@ -69,6 +71,6 @@ for (pdf in pdf_filenames) {
 # writeLines(message_content, paste0(output_directory, names(conversations)[1],".txt"))
 
 
-# Save the list to a file
+# Save the list to a files
 saveRDS(message_contents, file = paste0(temp_directory, "inhaltsverz_json_strings.rds"))
 

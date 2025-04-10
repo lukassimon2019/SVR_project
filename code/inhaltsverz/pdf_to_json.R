@@ -17,7 +17,7 @@ pdf_directory <- paste0(wd,"\\source_pdfs\\split_pdfs\\inhaltsverzeichnis\\test\
 
 
 #read message content from txt file C:\Users\P-Simon\Documents\SVR\prompts\inhaltsverzeichnis_prompt.txt
-prompt_vec <- readLines(paste0(prompt_directory,"inhaltsverz_structured_output_prompt.txt"))
+prompt_vec <- readLines(paste0(prompt_directory,"pdf_to_json_prompt.txt"))
 prompt_conc_string <- paste(prompt_vec, collapse = "\n")
 
 

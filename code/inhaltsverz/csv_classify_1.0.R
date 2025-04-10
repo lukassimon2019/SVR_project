@@ -4,7 +4,7 @@ temp_directory<-paste0(wd,"\\output\\temp_store\\")
 prompt_directory<-paste0(wd,"\\prompts\\")
 
 csv_strings <- readRDS(file = paste0(temp_directory,"inhaltsverz_csv_strings.rds"))
-prompt_vec <- readLines(paste0(prompt_directory,"class_prompt_csv.txt"))
+prompt_vec <- readLines(paste0(prompt_directory,"class_prompt_csv_1.1.txt"))
 prompt_conc_string <- paste(prompt_vec, collapse = "\n")
 
 
@@ -19,6 +19,7 @@ for (csv in csv_strings) {
   
   # save to txt
   writeLines(message_content, paste0(output_directory, conversation_name, "_classified.txt"))
+  print(paste(conversation_name," sucessfully printed"))
 }
 
 saveRDS(message_contents, file = paste0(temp_directory, "inhaltsverz_classified.rds"))

@@ -2,7 +2,7 @@
   "kapitel": [
     {
       "seite": "1",
-      "ueberschrift_eins": "ERSTES KAPITEL Die Finanzkrise meistern, Wachstumskräfte stärken",
+      "ueberschrift_eins": "ERSTES KAPITEL\nDie Finanzkrise meistern, Wachstumskräfte stärken",
       "zweite_ebene": [
         {
           "dritte_und_niedrigere_ebene": [
@@ -12,7 +12,7 @@
             },
             {
               "seite": "1",
-              "ueberschrift_drei_niedriger": "Erhebliche realwirtschaftliche Folgen, aber keine extremen Entwicklungen zu erwarten"
+              "ueberschrift_drei_niedriger": "Erhebliche realwirtschaftliche Folgen, aber keine extremen\nEntwicklungen zu erwarten"
             },
             {
               "seite": "3",
@@ -62,7 +62,7 @@
     },
     {
       "seite": "17",
-      "ueberschrift_eins": "ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland",
+      "ueberschrift_eins": "ZWEITES KAPITEL\nDie wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland",
       "zweite_ebene": [
         {
           "dritte_und_niedrigere_ebene": [
@@ -120,7 +120,7 @@
             },
             {
               "seite": "53",
-              "ueberschrift_drei_niedriger": "2. Vereinigte Staaten: Expansive Wirtschaftspolitik im Zeichen der Finanzkrise"
+              "ueberschrift_drei_niedriger": "2. Vereinigte Staaten: Expansive Wirtschaftspolitik im Zeichen der\nFinanzkrise"
             },
             {
               "seite": "53",
@@ -168,11 +168,11 @@
             },
             {
               "seite": "70",
-              "ueberschrift_drei_niedriger": "Starke Auf- und Abwertung des Außenwerts des Euro im Zuge der Finanzkrise"
+              "ueberschrift_drei_niedriger": "Starke Auf- und Abwertung des Außenwerts des Euro im Zuge der\nFinanzkrise"
             },
             {
               "seite": "71",
-              "ueberschrift_drei_niedriger": "Eintrübung der Konjunktur in den übrigen Staaten der Europäischen Union"
+              "ueberschrift_drei_niedriger": "Eintrübung der Konjunktur in den übrigen Staaten der\nEuropäischen Union"
             },
             {
               "seite": "74",
@@ -180,7 +180,7 @@
             }
           ],
           "seite": "19",
-          "ueberschrift_zwei": "I.   Weltwirtschaftliches Umfeld"
+          "ueberschrift_zwei": "I.       Weltwirtschaftliches Umfeld"
         },
         {
           "dritte_und_niedrigere_ebene": [
@@ -222,7 +222,7 @@
             },
             {
               "seite": "100",
-              "ueberschrift_drei_niedriger": "2. Die voraussichtliche Entwicklung im Jahr 2009: Deutschland in der Rezession"
+              "ueberschrift_drei_niedriger": "2. Die voraussichtliche Entwicklung im Jahr 2009: Deutschland in der\nRezession"
             },
             {
               "seite": "104",
@@ -248,7 +248,7 @@
     },
     {
       "seite": "117",
-      "ueberschrift_eins": "DRITTES KAPITEL Finanzsystem auf der Intensivstation",
+      "ueberschrift_eins": "DRITTES KAPITEL\nFinanzsystem auf der Intensivstation",
       "zweite_ebene": [
         {
           "dritte_und_niedrigere_ebene": [
@@ -314,11 +314,11 @@
             },
             {
               "seite": "147",
-              "ueberschrift_drei_niedriger": "Lockerung bilanzieller oder bankaufsichtsrechtlicher Vorgaben (Regulatory Forbearance)"
+              "ueberschrift_drei_niedriger": "Lockerung bilanzieller oder bankaufsichtsrechtlicher Vorgaben\n(Regulatory Forbearance)"
             },
             {
               "seite": "148",
-              "ueberschrift_drei_niedriger": "Übertragung problembehafteter Aktiva auf einen zentralen Fonds (Asset Management Company)"
+              "ueberschrift_drei_niedriger": "Übertragung problembehafteter Aktiva auf einen zentralen Fonds (Asset\nManagement Company)"
             },
             {
               "seite": "148",
@@ -412,7 +412,7 @@
             },
             {
               "seite": "183",
-              "ueberschrift_drei_niedriger": "Geringere Prozyklizität durch eine am Vorsichtsprinzip orientierte Bilanzierung"
+              "ueberschrift_drei_niedriger": "Geringere Prozyklizität durch eine am Vorsichtsprinzip orientierte\nBilanzierung"
             }
           ],
           "seite": "164",
@@ -422,13 +422,13 @@
     },
     {
       "seite": "193",
-      "ueberschrift_eins": "VIERTES KAPITEL Finanzpolitik: Handlungsbedarf in der kurzen und langen Frist",
+      "ueberschrift_eins": "VIERTES KAPITEL\nFinanzpolitik: Handlungsbedarf in der kurzen und langen Frist",
       "zweite_ebene": [
         {
           "dritte_und_niedrigere_ebene": [
             {
               "seite": "194",
-              "ueberschrift_drei_niedriger": "1. Nahezu ausgeglichene öffentliche Haushalte trotz konjunktureller Abschwächung"
+              "ueberschrift_drei_niedriger": "1. Nahezu ausgeglichene öffentliche Haushalte trotz konjunktureller\nAbschwächung"
             },
             {
               "seite": "195",
@@ -444,11 +444,11 @@
             },
             {
               "seite": "202",
-              "ueberschrift_drei_niedriger": "Zur steuerlichen Behandlung von Fahrten zwischen Wohnung und Arbeitsstätte"
+              "ueberschrift_drei_niedriger": "Zur steuerlichen Behandlung von Fahrten zwischen Wohnung und\nArbeitsstätte"
             },
             {
               "seite": "204",
-              "ueberschrift_drei_niedriger": "2. Haushalte der Gebietskörperschaften und der Sozialversicherung: Defizite nur beim Bund"
+              "ueberschrift_drei_niedriger": "2. Haushalte der Gebietskörperschaften und der Sozialversicherung:\nDefizite nur beim Bund"
             },
             {
               "seite": "204",
@@ -456,7 +456,7 @@
             },
             {
               "seite": "205",
-              "ueberschrift_drei_niedriger": "Einnahmen und Ausgaben der Länder, Gemeinden und Sozialversicherung"
+              "ueberschrift_drei_niedriger": "Einnahmen und Ausgaben der Länder, Gemeinden und\nSozialversicherung"
             },
             {
               "seite": "207",
@@ -464,7 +464,7 @@
             },
             {
               "seite": "211",
-              "ueberschrift_drei_niedriger": "4. Föderalismuskommission II: Trübe Aussichten trotz überzeugender Konzepte"
+              "ueberschrift_drei_niedriger": "4. Föderalismuskommission II: Trübe Aussichten trotz überzeugender\nKonzepte"
             }
           ],
           "seite": "194",
@@ -478,7 +478,7 @@
             },
             {
               "seite": "219",
-              "ueberschrift_drei_niedriger": "2. Erbschaftsteuerreform und Verschonungsabschläge: Rechtfertigungen, Missverständnisse, Fakten"
+              "ueberschrift_drei_niedriger": "2. Erbschaftsteuerreform und Verschonungsabschläge: Rechtfertigungen,\nMissverständnisse, Fakten"
             },
             {
               "seite": "223",
@@ -500,7 +500,7 @@
             },
             {
               "seite": "231",
-              "ueberschrift_drei_niedriger": "2. Günstigerprüfung: Unsystematische Grenzbelastungen und ungünstige Ergebnisse"
+              "ueberschrift_drei_niedriger": "2. Günstigerprüfung: Unsystematische Grenzbelastungen und ungünstige\nErgebnisse"
             },
             {
               "seite": "234",
@@ -512,7 +512,7 @@
             }
           ],
           "seite": "228",
-          "ueberschrift_zwei": "III. Abgeltungsteuer: Nach der Reform ist vor der Reform"
+          "ueberschrift_zwei": "III.     Abgeltungsteuer: Nach der Reform ist vor der Reform"
         },
         {
           "dritte_und_niedrigere_ebene": [
@@ -526,7 +526,7 @@
             },
             {
               "seite": "240",
-              "ueberschrift_drei_niedriger": "Sollten die gesamtwirtschaftliche Steuerquote und Abgabenquote reduziert werden?"
+              "ueberschrift_drei_niedriger": "Sollten die gesamtwirtschaftliche Steuerquote und Abgabenquote\nreduziert werden?"
             },
             {
               "seite": "243",
@@ -550,11 +550,11 @@
             },
             {
               "seite": "248",
-              "ueberschrift_drei_niedriger": "3. Konjunkturgerechte Wachstumspolitik: Der schwierige Spagat zwischen Haushaltskonsolidierung, Konjunkturstabilisierung und Wachstumspolitik"
+              "ueberschrift_drei_niedriger": "3. Konjunkturgerechte Wachstumspolitik: Der schwierige Spagat zwischen\nHaushaltskonsolidierung, Konjunkturstabilisierung und Wachstumspolitik"
             },
             {
               "seite": "249",
-              "ueberschrift_drei_niedriger": "Schwierigkeiten und Grundzüge einer konjunkturgerechten Wachstumspolitik"
+              "ueberschrift_drei_niedriger": "Schwierigkeiten und Grundzüge einer konjunkturgerechten\nWachstumspolitik"
             },
             {
               "seite": "250",
@@ -592,7 +592,7 @@
     },
     {
       "seite": "265",
-      "ueberschrift_eins": "FÜNFTES KAPITEL Arbeitsmarkt: Anhaltende Belebung – Ungleiche Verteilung der Chancen",
+      "ueberschrift_eins": "FÜNFTES KAPITEL\nArbeitsmarkt: Anhaltende Belebung – Ungleiche Verteilung der Chancen",
       "zweite_ebene": [
         {
           "dritte_und_niedrigere_ebene": [
@@ -610,7 +610,7 @@
             },
             {
               "seite": "277",
-              "ueberschrift_drei_niedriger": "3. Grundsicherung für Arbeitsuchende: Hohe Hilfequote trotz Rückgangs der erwerbsfähigen Hilfebedürftigen"
+              "ueberschrift_drei_niedriger": "3. Grundsicherung für Arbeitsuchende: Hohe Hilfequote trotz Rückgangs der\nerwerbsfähigen Hilfebedürftigen"
             },
             {
               "seite": "278",
@@ -618,11 +618,11 @@
             },
             {
               "seite": "281",
-              "ueberschrift_drei_niedriger": "5. Berufsausbildungsstellenmarkt: Stellenüberhang dank guter Konjunktur und demografischer Faktoren"
+              "ueberschrift_drei_niedriger": "5. Berufsausbildungsstellenmarkt: Stellenüberhang dank guter Konjunktur und\ndemografischer Faktoren"
             },
             {
               "seite": "284",
-              "ueberschrift_drei_niedriger": "6. Arbeitsmarktreformen oder zyklische Belebung: Eine aktualisierte Betrachtung"
+              "ueberschrift_drei_niedriger": "6. Arbeitsmarktreformen oder zyklische Belebung: Eine aktualisierte\nBetrachtung"
             },
             {
               "seite": "284",
@@ -634,7 +634,7 @@
             },
             {
               "seite": "286",
-              "ueberschrift_drei_niedriger": "Stärkere Zuwächse bei der Beschäftigung und markanter Rückgang der Arbeitslosigkeit"
+              "ueberschrift_drei_niedriger": "Stärkere Zuwächse bei der Beschäftigung und markanter Rückgang\nder Arbeitslosigkeit"
             },
             {
               "seite": "290",
@@ -679,7 +679,7 @@
           "dritte_und_niedrigere_ebene": [
             {
               "seite": "301",
-              "ueberschrift_drei_niedriger": "1. Zunahme atypischer Beschäftigung und Rückgang des Normalarbeitsverhältnisses"
+              "ueberschrift_drei_niedriger": "1. Zunahme atypischer Beschäftigung und Rückgang des\nNormalarbeitsverhältnisses"
             },
             {
               "seite": "303",
@@ -707,13 +707,13 @@
             }
           ],
           "seite": "300",
-          "ueberschrift_zwei": "IV. Atypische Beschäftigungsverhältnisse – Zweiklassengesellschaft am Arbeitsmarkt?"
+          "ueberschrift_zwei": "IV. Atypische Beschäftigungsverhältnisse – Zweiklassengesellschaft am\nArbeitsmarkt?"
         },
         {
           "dritte_und_niedrigere_ebene": [
             {
               "seite": "313",
-              "ueberschrift_drei_niedriger": "1. Flexibilisierung und zielgenauere Absicherung des Übergangs zwischen Beschäftigungsverhältnissen"
+              "ueberschrift_drei_niedriger": "1. Flexibilisierung und zielgenauere Absicherung des Übergangs zwischen\nBeschäftigungsverhältnissen"
             },
             {
               "seite": "314",
@@ -732,12 +732,4 @@
               "ueberschrift_drei_niedriger": "Degressive Ausgestaltung des Arbeitslosengelds"
             },
             {
-              "seite": "321",
-              "ueberschrift_drei_niedriger": "Weitere Korrekturen"
-            },
-            {
-              "seite": "322",
-              "ueberschrift_drei_niedriger": "2. Ein zielführendes Kombilohnmodell"
-            },
-            {
-              "seite
+              "seite": "32

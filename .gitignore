@@ -1,3 +1,4 @@
 source_pdfs/*
 !source_pdfs/split_pdfs/
 .Rhistory
+.Rproj.user

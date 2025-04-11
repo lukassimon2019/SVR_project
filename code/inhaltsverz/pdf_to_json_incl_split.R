@@ -61,23 +61,24 @@ for (group_name in names(grouped_pdf_filenames)){
   for (member in grouped_pdf_filenames[[group_name]]){
     full_pdf_path <- file.path(pdf_directory, group_name, member)
     upload_info <- gemini_upload_file(full_pdf_path)
-    
+    #add prior json output to prompt only if is not first member (otherwise no prior output exists)
     if (length(member_contents) > 0) {
       prompt_fin <- paste(prompt_conc_string, member_contents)
     } else {
       prompt_fin <- prompt_conc_string
     }
-    
+    #send to LLM
     conversation <- llm_message(prompt_fin) |>
       chat(gemini(.model = "gemini-2.0-flash-lite", .fileid = upload_info$name), .json_schema = inhaltsverzeichnis_schema)
     member_name <- gsub("\\.pdf$", "", member)
     message_content <- conversation@message_history[[3]]$content
     member_contents[[member_name]] <- message_content
     
-    # writeLines(message_content, paste0(output_directory, conversation_name, "_json_upload.txt"))
+    writeLines(prompt_fin, paste0(output_directory, group_name,member_name, "_prompt_fin.txt"))
+    writeLines(message_content, paste0(output_directory, group_name,member_name, "_json.txt"))
   }
   all_contents[[group_name]]<- member_contents
 }
-
-# saveRDS(message_contents, file = paste0(temp_directory, "inhaltsverz_json_strings.rds"))
+# Save the entire list of contents to a single RDS file
+saveRDS(all_contents, file = paste0(temp_directory, "inhaltsverz_json_strings_split.rds"))
 

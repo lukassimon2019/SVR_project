@@ -1,7 +1,7 @@
 Erstelle zwei neue Spalten "Kategorie Primär" und "Kategorie Region" für dieses csv. 
 Für die primär Spalte sollst du für jede Zeile eine Kategorie aussuchen. Manche Kategorien sind Überkategorien, bei welchen keine Beispiel Keywords aufgeführt sind. Stattdessen sollen diese ausgewählt werden, wenn Überschriften so allgemein ist, dass man sie keiner detaillierteren Kategorie sondern nur einer breiteren Überkategorie zuordnen kann. Außerdem, wenn eine Überschrift in keine Kategorie passt, gib an "NA". 
 
-Für die Regionen Spalte sollst du auswählen, um welche Region es geht. Wenn in den Überschriften keine Region spezifiert wird, geh immer von Deutschland aus, somit gibt es hier keine Kategorie "NA".
+Für die Regionen Spalte sollst du auswählen, um welche Region es geht. Wenn in den Überschriften keine Region spezifiert wird, geh immer von Deutschland aus, somit gibt es hier keine Kategorie "NA". Wenn es konkret um die Weltwirtschaft oder das Ausland geht ohne ein einzelnes Land zu spezifizieren, wähle die Kategorie "Welt" aus. 
 
 Bei beiden Kategorien Spalten sollst du immer die Kombination aus Überschriften der verschiedenen Ebenen kategorisieren die in einer Zeile stehen, nicht eine einzelne Überschrift. Du liest also die Überschriften der verschiedenen Ebenen einer Zeile durch, und entscheidest um welche Kategorie es sich hier handelt.
 
@@ -41,6 +41,6 @@ Hier die Primär Kategorien:
 "Wohnen, Stadtentwicklung und Bauwesen": ["Wohnungsbau", "Soziale Wohnungen", "Mietrecht", "Mietpreisbremse", "Bauvorschriften", "Baukosten"]
 
 Hier die Regionen Kategorien:
-"Deutschland", "Nordamerika", "Süd-,Zentralamerika", "Asien,Australien", "Europa"
+"Deutschland", "Nordamerika", "Süd-,Zentralamerika", "Asien,Australien", "Europa", "Welt"
 
 Nachfolgend findest du die csv Tabelle, noch ohne Kategorien Spalten:

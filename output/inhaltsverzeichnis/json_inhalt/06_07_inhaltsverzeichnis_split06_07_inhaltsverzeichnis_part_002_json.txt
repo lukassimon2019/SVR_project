@@ -1,0 +1,396 @@
+{
+  "kapitel": [
+    {
+      "seite": "258",
+      "ueberschrift_eins": "VIERTES KAPITEL\nGeldpolitik: Kurs halten",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "260",
+              "ueberschrift_drei_niedriger": "Evolution des derzeitigen Systems"
+            },
+            {
+              "seite": "260",
+              "ueberschrift_drei_niedriger": "5 Fortentwicklung der Gesetzlichen Rentenversicherung zu einer\nErwerbstätigenversicherung?"
+            },
+            {
+              "seite": "261",
+              "ueberschrift_drei_niedriger": "Versichertenkreis der Gesetzlichen Rentenversicherung"
+            },
+            {
+              "seite": "262",
+              "ueberschrift_drei_niedriger": "Wandel in der Erwerbstätigenstruktur und Auswirkungen auf die\nFinanzen der Rentenversicherung"
+            },
+            {
+              "seite": "262",
+              "ueberschrift_drei_niedriger": "Finanzielle Konsequenzen einer Ausweitung des Versicherten-\nkreises"
+            },
+            {
+              "seite": "262",
+              "ueberschrift_drei_niedriger": "Gründe für die Einführung einer Versicherungspflicht und die Aus-\nweitung des Versichertenkreises"
+            },
+            {
+              "seite": "268",
+              "ueberschrift_drei_niedriger": "Versicherungspflicht oder Einbeziehung in die Gesetzliche Renten-\nversicherung?"
+            }
+          ],
+          "seite": "275",
+          "ueberschrift_zwei": "III. Soziale Pflegeversicherung: Warten auf die Reform"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "275",
+          "ueberschrift_zwei": "IV. Arbeitslosenversicherung: Erfreuliche Überschüsse"
+        }
+      ]
+    },
+    {
+      "seite": "277",
+      "ueberschrift_eins": "SECHSTES KAPITEL\nFinanzpolitik: Durchwachsene Bilanz",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "280",
+          "ueberschrift_zwei": "I. Öffentliche Haushalte: Trotz verbesserter Haushaltslage keine Entwarnung"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "282",
+              "ueberschrift_drei_niedriger": "Defizitverfahren gegen Deutschland erst verschärft, dann vorläufig\nausgesetzt"
+            },
+            {
+              "seite": "282",
+              "ueberschrift_drei_niedriger": "Deutlicher Rückgang des gesamtstaatlichen Defizits im Jahr 2006"
+            },
+            {
+              "seite": "288",
+              "ueberschrift_drei_niedriger": "Exkurs: Kassenmäßiges Steueraufkommen im Jahr 2006 mit kräftigen\nZuwachs"
+            },
+            {
+              "seite": "293",
+              "ueberschrift_drei_niedriger": "Hohes strukturelles Defizit signalisiert anhaltenden Handlungsbedarf"
+            },
+            {
+              "seite": "296",
+              "ueberschrift_drei_niedriger": "Noch immer gravierende Haushaltsschwierigkeiten des Bundes"
+            }
+          ],
+          "seite": "280",
+          "ueberschrift_zwei": "I."
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "299",
+          "ueberschrift_zwei": "II. Öffentliche Verschuldung: Defizitbegrenzungen des Stabilitätspakts und des\nGrundgesetzes dauerhaft einhalten"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "299",
+              "ueberschrift_drei_niedriger": "1 Entspannung beim Europäischen Stabilitäts- und Wachstumspakt"
+            },
+            {
+              "seite": "300",
+              "ueberschrift_drei_niedriger": "2 Artikel 115 Grundgesetz schärfen und ergänzen"
+            },
+            {
+              "seite": "308",
+              "ueberschrift_drei_niedriger": "Strukturelle Budgetdefizite: Zur Rechtfertigung einer langfristigen,\nobjektbezogenen Verschuldungsgrenze"
+            },
+            {
+              "seite": "311",
+              "ueberschrift_drei_niedriger": "Konjunkturelle Budgetdefizite: Verschuldungsverbot für nicht-investive\nöffentliche Ausgaben über den Konjunkturzyklus"
+            }
+          ],
+          "seite": "299",
+          "ueberschrift_zwei": "1."
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "316",
+          "ueberschrift_zwei": "III. Unternehmenssteuerreform 2008: Zielsetzungen des Koalitionsvertrags\numsetzen"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "317",
+              "ueberschrift_drei_niedriger": "1 Grundzüge der Dualen Einkommensteuer"
+            },
+            {
+              "seite": "321",
+              "ueberschrift_drei_niedriger": "2 Grundzüge der Allgemeinen Unternehmensteuer"
+            },
+            {
+              "seite": "323",
+              "ueberschrift_drei_niedriger": "3 Entscheidungswirkungen der Dualen Einkommensteuer und der\nAllgemeinen Unternehmensteuer"
+            },
+            {
+              "seite": "326",
+              "ueberschrift_drei_niedriger": "4 Eckpunkte der Bundesregierung zur Unternehmenssteuerreform 2008"
+            },
+            {
+              "seite": "336",
+              "ueberschrift_drei_niedriger": "5 Aufkommenswirkungen"
+            },
+            {
+              "seite": "338",
+              "ueberschrift_drei_niedriger": "6 Fazit"
+            }
+          ],
+          "seite": "316",
+          "ueberschrift_zwei": "1."
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "339",
+          "ueberschrift_zwei": "IV. Föderalismusreform: Ein Anfang ist gemacht"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "344",
+          "ueberschrift_zwei": "V. Eine andere Meinung"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "344",
+              "ueberschrift_drei_niedriger": "Handlungsspielraum der Finanzpolitik würde stark eingeschränkt\nwerden"
+            },
+            {
+              "seite": "345",
+              "ueberschrift_drei_niedriger": "Angemessene Zukunftsinvestitionen erfordern eine höhere Staatsquote"
+            }
+          ],
+          "seite": "344",
+          "ueberschrift_zwei": "I."
+        }
+      ]
+    },
+    {
+      "seite": "352",
+      "ueberschrift_eins": "SIEBTES KAPITEL\nArbeitsmarkt: Handlungsbedarf trotz Wende zum Besseren",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "354",
+          "ueberschrift_zwei": "I. Die Lage im Jahr 2006: Der Aufschwung erreicht den Arbeitsmarkt"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "354",
+              "ueberschrift_drei_niedriger": "1 Deutliche Belebung der Beschäftigung"
+            },
+            {
+              "seite": "359",
+              "ueberschrift_drei_niedriger": "2 Berufsausbildungsstellenmarkt: Weiterhin angespannte Lage überdeckt\nAnzeichen einer Besserung"
+            },
+            {
+              "seite": "362",
+              "ueberschrift_drei_niedriger": "3 Arbeitslosigkeit und Erwerbslosigkeit im zweiten Jahr nach Hartz IV"
+            },
+            {
+              "seite": "362",
+              "ueberschrift_drei_niedriger": "Aktuelle Entwicklung der Arbeitslosigkeit: Erfreulich kräftiger Rück-\ngang"
+            },
+            {
+              "seite": "365",
+              "ueberschrift_drei_niedriger": "4 Tarifpolitik: Kurs halten"
+            }
+          ],
+          "seite": "354",
+          "ueberschrift_zwei": "1."
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "371",
+          "ueberschrift_zwei": "II. Arbeitsmarktpolitik im Umbruch"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "371",
+              "ueberschrift_drei_niedriger": "1 Bundesagentur für Arbeit und aktive Arbeitsmarktpolitik"
+            },
+            {
+              "seite": "372",
+              "ueberschrift_drei_niedriger": "Exkurs: Evaluation des Ersten bis Dritten Gesetzes für moderne Dienst-\nleistungen am Arbeitsmarkt"
+            },
+            {
+              "seite": "373",
+              "ueberschrift_drei_niedriger": "Modul 1a: Neuausrichtung der Arbeitsvermittlung"
+            },
+            {
+              "seite": "374",
+              "ueberschrift_drei_niedriger": "Modul 1b: Berufliche Weiterbildung"
+            },
+            {
+              "seite": "375",
+              "ueberschrift_drei_niedriger": "Modul 1c: Arbeitsbeschaffungsmaßnahmen"
+            },
+            {
+              "seite": "376",
+              "ueberschrift_drei_niedriger": "Modul 1e: Existenzgründungen"
+            },
+            {
+              "seite": "377",
+              "ueberschrift_drei_niedriger": "Modul 1f: Verbesserung der beschäftigungspolitischen Rahmenbedin-\ngungen und Makrowirkungen der aktiven Arbeitsmarktpolitik"
+            },
+            {
+              "seite": "381",
+              "ueberschrift_drei_niedriger": "2 Reformbaustelle SGB II"
+            }
+          ],
+          "seite": "371",
+          "ueberschrift_zwei": "1."
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "385",
+          "ueberschrift_zwei": "III. Ein wirksames Kombilohnmodell"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "387",
+              "ueberschrift_drei_niedriger": "1 Leitgedanken des Reformvorschlags"
+            },
+            {
+              "seite": "388",
+              "ueberschrift_drei_niedriger": "2 Die Module im Einzelnen"
+            },
+            {
+              "seite": "388",
+              "ueberschrift_drei_niedriger": "Modul 1: Vorrang für reguläre Arbeitsplätze – Geringfügigkeitsschwelle\nbeim Arbeitslosengeld II einziehen"
+            },
+            {
+              "seite": "390",
+              "ueberschrift_drei_niedriger": "Modul 2: Arbeit attraktiver machen – Hinzuverdienstmöglichkeiten\nverbessern und Regelsatz absenken"
+            },
+            {
+              "seite": "390",
+              "ueberschrift_drei_niedriger": "Absenkung des Regelsatzes"
+            },
+            {
+              "seite": "391",
+              "ueberschrift_drei_niedriger": "Verbesserung der Hinzuverdienstmöglichkeiten"
+            },
+            {
+              "seite": "392",
+              "ueberschrift_drei_niedriger": "Zwischenfazit"
+            },
+            {
+              "seite": "398",
+              "ueberschrift_drei_niedriger": "Modul 3: Abgabenbelastung gezielt reduzieren – Reform von Minijobs\nund Midijobs"
+            },
+            {
+              "seite": "399",
+              "ueberschrift_drei_niedriger": "3 Beschäftigungseffekte und Budgetwirkungen"
+            }
+          ],
+          "seite": "385",
+          "ueberschrift_zwei": "1."
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "401",
+          "ueberschrift_zwei": "IV. Mindestlöhne – ein Irrweg"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "401",
+              "ueberschrift_drei_niedriger": "1 Forderungen nach einer Einführung von Mindestlöhnen"
+            },
+            {
+              "seite": "402",
+              "ueberschrift_drei_niedriger": "2 Bewertung"
+            }
+          ],
+          "seite": "401",
+          "ueberschrift_zwei": "1."
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "412",
+          "ueberschrift_zwei": "V. Kündigungsschutz zielführend flexibilisieren"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "418",
+          "ueberschrift_zwei": "VI. Eine andere Meinung"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [
+            {
+              "seite": "418",
+              "ueberschrift_drei_niedriger": "Absenkung der Einkommen im Niedriglohnbereich durch ein\n„Kombilohnmodell“"
+            },
+            {
+              "seite": "421",
+              "ueberschrift_drei_niedriger": "Eine Alternative: Regulär Beschäftigte anstelle von mehr\n„Hilfebedürftigen“"
+            },
+            {
+              "seite": "422",
+              "ueberschrift_drei_niedriger": "Mindestlöhne: Im Ausland die Regel, in Deutschland gefürchtet"
+            },
+            {
+              "seite": "424",
+              "ueberschrift_drei_niedriger": "Gezielte Abgabensenkung im Niedriglohnbereich"
+            }
+          ],
+          "seite": "418",
+          "ueberschrift_zwei": "1."
+        }
+      ]
+    },
+    {
+      "seite": "429",
+      "ueberschrift_eins": "ANALYSE\nEntwicklung der personellen Einkommensverteilung in Deutschland",
+      "zweite_ebene": [
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "430",
+          "ueberschrift_zwei": "Datenbasis"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "430",
+          "ueberschrift_zwei": "Einkommensbegriffe und Verteilungsmaße"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "432",
+          "ueberschrift_zwei": "Ergebnisse der Analyse"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "432",
+          "ueberschrift_zwei": "Einkommensentwicklung und Einkommensverteilung in\nDeutschland"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "437",
+          "ueberschrift_zwei": "Einkommensverteilung und gesamtwirtschaftliche Situation"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "437",
+          "ueberschrift_zwei": "Entwicklung der relativen Einkommensarmut"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "438",
+          "ueberschrift_zwei": "Einkommenszusammensetzung in Deutschland"
+        },
+        {
+          "dritte_und_niedrigere_ebene": [],
+          "seite": "444",
+          "ueberschrift_zwei": "Einkommensverteilung im internationalen Vergleich"
+        }
+      ]
+    }
+  ]
+}

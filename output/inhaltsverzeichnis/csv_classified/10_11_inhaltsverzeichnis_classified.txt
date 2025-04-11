@@ -1,201 +1,154 @@
-```python
-import pandas as pd
-import io
+Okay, hier ist die CSV-Tabelle mit den hinzugefügten Spalten "Kategorie Primär" und "Kategorie Region" basierend auf deinen Vorgaben.
 
-# CSV-Daten (in Textform)
-csv_data = """Überschrift Erste/Kapitelebene,Überschrift Zweite Ebene,Überschrift Dritte/Niedriger Ebene,Seitenzahl
-ERSTES KAPITEL Chancen für einen stabilen Aufschwung,,,1
-ERSTES KAPITEL Chancen für einen stabilen Aufschwung,I. Die Ausgangslage: Starke wirtschaftliche Erholung verliert an Fahrt,,8
-ERSTES KAPITEL Chancen für einen stabilen Aufschwung,I. Die Ausgangslage: Starke wirtschaftliche Erholung verliert an Fahrt,Die Ausgangslage: Starke wirtschaftliche Erholung verliert an Fahrt,8
-ERSTES KAPITEL Chancen für einen stabilen Aufschwung,II. Europäische Währungsunion in der Krise,,11
-ERSTES KAPITEL Chancen für einen stabilen Aufschwung,II. Europäische Währungsunion in der Krise,Europäische Währungsunion in der Krise,11
-ERSTES KAPITEL Chancen für einen stabilen Aufschwung,III. Reform der Finanzmarktarchitektur,,14
-ERSTES KAPITEL Chancen für einen stabilen Aufschwung,III. Reform der Finanzmarktarchitektur,Reform der Finanzmarktarchitektur,14
-ERSTES KAPITEL Chancen für einen stabilen Aufschwung,IV. Öffentliche Finanzen: In der Realität angekommen,,16
-ERSTES KAPITEL Chancen für einen stabilen Aufschwung,IV. Öffentliche Finanzen: In der Realität angekommen,Öffentliche Finanzen: In der Realität angekommen,16
-ERSTES KAPITEL Chancen für einen stabilen Aufschwung,V. Soziale Sicherungssysteme im Reformprozess,,18
-ERSTES KAPITEL Chancen für einen stabilen Aufschwung,V. Soziale Sicherungssysteme im Reformprozess,Soziale Sicherungssysteme im Reformprozess,18
-ERSTES KAPITEL Chancen für einen stabilen Aufschwung,VI. Arbeitsmarkt im Zeichen institutioneller Veränderungen,,19
-ERSTES KAPITEL Chancen für einen stabilen Aufschwung,VI. Arbeitsmarkt im Zeichen institutioneller Veränderungen,Arbeitsmarkt im Zeichen institutioneller Veränderungen,19
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,,,23
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten,,25
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten,Eine divergente Entwicklung der Weltwirtschaft,26
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten,Die Schwellenländer als Stütze der Weltwirtschaft,27
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten,Schleppende Erholung der Industrieländer,29
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten,Ursachen und Folgen eines „Währungskriegs“,31
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten,Die Aussichten für die weitere Konjunkturentwicklung,34
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten,Vereinigte Staaten – Probleme am Arbeitsmarkt bremsen die Konjunktur,34
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten,Japan – Starker Yen trotz hoher Verschuldung,37
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten,China und die anderen Schwellenländer – Kraftvoll durch die Krise,38
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten,Euro-Raum – Heterogene Wirtschaftsentwicklung,40
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,II. Deutschland: Der starke Aufschwung verliert an Fahrt,,46
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,II. Deutschland: Der starke Aufschwung verliert an Fahrt,Produktionspotenzial und Output-Lücke,47
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,II. Deutschland: Der starke Aufschwung verliert an Fahrt,Außenhandelsstruktur Deutschlands: Zunehmende Bedeutung der Schwellenländer,48
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,II. Deutschland: Der starke Aufschwung verliert an Fahrt,Arbeitsmarkt: Zusammenhang von Produktion und Beschäftigung,50
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,II. Deutschland: Der starke Aufschwung verliert an Fahrt,Finanzierungsbedingungen,52
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,II. Deutschland: Der starke Aufschwung verliert an Fahrt,Die Entwicklung im Prognosezeitraum,53
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,II. Deutschland: Der starke Aufschwung verliert an Fahrt,Einkommensentwicklung und Konsumausgaben,56
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,II. Deutschland: Der starke Aufschwung verliert an Fahrt,Ausrüstungsinvestitionen,56
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,II. Deutschland: Der starke Aufschwung verliert an Fahrt,Bauinvestitionen,59
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,II. Deutschland: Der starke Aufschwung verliert an Fahrt,Entstehungsseite,60
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,II. Deutschland: Der starke Aufschwung verliert an Fahrt,Außenwirtschaft,60
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,II. Deutschland: Der starke Aufschwung verliert an Fahrt,Preisniveauentwicklung,61
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,II. Deutschland: Der starke Aufschwung verliert an Fahrt,Arbeitsmarkt im Prognosezeitraum,61
-ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland,II. Deutschland: Der starke Aufschwung verliert an Fahrt,Öffentliche Finanzen,63
-DRITTES KAPITEL Euro-Raum in der Krise,,,67
-DRITTES KAPITEL Euro-Raum in der Krise,I. Globale und spezifische Ursachen der Euro-Krise,,71
-DRITTES KAPITEL Euro-Raum in der Krise,I. Globale und spezifische Ursachen der Euro-Krise,Ungleichgewichte innerhalb des Euro-Raums ähnlich stark ausgeprägt wie auf der globalen Ebene,71
-DRITTES KAPITEL Euro-Raum in der Krise,I. Globale und spezifische Ursachen der Euro-Krise,Starke Unterschiede in den Finanzierungssalden des privaten Sektors,72
-DRITTES KAPITEL Euro-Raum in der Krise,I. Globale und spezifische Ursachen der Euro-Krise,Finanz- und Wirtschaftskrise bringt Fiskalpolitik in allen Währungsräumen in gravierende Schieflage,74
-DRITTES KAPITEL Euro-Raum in der Krise,I. Globale und spezifische Ursachen der Euro-Krise,Problemfall Griechenland,76
-DRITTES KAPITEL Euro-Raum in der Krise,I. Globale und spezifische Ursachen der Euro-Krise,Einheitliche Zinspolitik verstärkt realwirtschaftliche Divergenzen,77
-DRITTES KAPITEL Euro-Raum in der Krise,I. Globale und spezifische Ursachen der Euro-Krise,Mitgliedschaft in der Währungsunion und Insolvenzrisiko für Staaten,79
-DRITTES KAPITEL Euro-Raum in der Krise,I. Globale und spezifische Ursachen der Euro-Krise,„Original Sin“ als Normalfall in der Währungsunion,81
-DRITTES KAPITEL Euro-Raum in der Krise,I. Globale und spezifische Ursachen der Euro-Krise,Schutzschirme für die Problemländer,83
-DRITTES KAPITEL Euro-Raum in der Krise,I. Globale und spezifische Ursachen der Euro-Krise,Fehlentwicklungen bei der Wettbewerbsfähigkeit,86
-DRITTES KAPITEL Euro-Raum in der Krise,II. Ein neuer institutioneller Rahmen für den Euro-Raum,,89
-DRITTES KAPITEL Euro-Raum in der Krise,II. Ein neuer institutioneller Rahmen für den Euro-Raum,Status quo: Gemeinsame Währung bei vergleichsweise geringer politischer Integration,89
-DRITTES KAPITEL Euro-Raum in der Krise,II. Ein neuer institutioneller Rahmen für den Euro-Raum,Erste Säule: Stabilitätspakt mit mehr Biss,90
-DRITTES KAPITEL Euro-Raum in der Krise,II. Ein neuer institutioneller Rahmen für den Euro-Raum,Erste Säule: Stabilitätspakt mit mehr Biss,91
-DRITTES KAPITEL Euro-Raum in der Krise,II. Ein neuer institutioneller Rahmen für den Euro-Raum,Zweite Säule: Ein maßgeschneidertes Regelwerk für die Stabilität des privaten Finanzsystems,94
-DRITTES KAPITEL Euro-Raum in der Krise,II. Ein neuer institutioneller Rahmen für den Euro-Raum,Dritte Säule: Ein effektives Regelwerk für Krisen,96
-DRITTES KAPITEL Euro-Raum in der Krise,II. Ein neuer institutioneller Rahmen für den Euro-Raum,Ein Europäischer Krisenmechanismus (EKM),96
-DRITTES KAPITEL Euro-Raum in der Krise,II. Ein neuer institutioneller Rahmen für den Euro-Raum,Eine andere Meinung,99
-DRITTES KAPITEL Euro-Raum in der Krise,II. Ein neuer institutioneller Rahmen für den Euro-Raum,Überwachungsmechanismus für „übermäßige Ungleichgewichte“ nicht treffsicher,100
-DRITTES KAPITEL Euro-Raum in der Krise,III. Deutschland und die europäischen Ungleichgewichte,,102
-DRITTES KAPITEL Euro-Raum in der Krise,III. Deutschland und die europäischen Ungleichgewichte,Welche Rolle spielte Deutschland beim Aufbau der europäischen Ungleichgewichte?,104
-DRITTES KAPITEL Euro-Raum in der Krise,III. Deutschland und die europäischen Ungleichgewichte,Erstens: Lohnentwicklung in Deutschland,104
-DRITTES KAPITEL Euro-Raum in der Krise,III. Deutschland und die europäischen Ungleichgewichte,Zweitens: Leistungsbilanzsaldo und Kapitalbilanzsaldo,107
-DRITTES KAPITEL Euro-Raum in der Krise,III. Deutschland und die europäischen Ungleichgewichte,Drittens: Fehlentwicklungen in den Peripherieländern,109
-DRITTES KAPITEL Euro-Raum in der Krise,III. Deutschland und die europäischen Ungleichgewichte,Welche Rolle kann Deutschland beim Abbau der europäischen Ungleichgewichte spielen?,110
-DRITTES KAPITEL Euro-Raum in der Krise,III. Deutschland und die europäischen Ungleichgewichte,Auswirkungen einer expansiven Lohn- und Fiskalpolitik in NiGEM,111
-DRITTES KAPITEL Euro-Raum in der Krise,III. Deutschland und die europäischen Ungleichgewichte,Simulationsergebnisse: Fiskalpolitik,112
-DRITTES KAPITEL Euro-Raum in der Krise,III. Deutschland und die europäischen Ungleichgewichte,Simulationsergebnisse: Lohnpolitik,116
-DRITTES KAPITEL Euro-Raum in der Krise,III. Deutschland und die europäischen Ungleichgewichte,Deutschlands Wachstum stärken,119
-DRITTES KAPITEL Euro-Raum in der Krise,III. Deutschland und die europäischen Ungleichgewichte,Öffentliche und private Investitionen,120
-DRITTES KAPITEL Euro-Raum in der Krise,III. Deutschland und die europäischen Ungleichgewichte,Simulationsergebnisse: Erhöhung der Partizipationsquote am Arbeitsmarkt,122
-DRITTES KAPITEL Euro-Raum in der Krise,III. Deutschland und die europäischen Ungleichgewichte,Eine andere Meinung,123
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,,,135
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,I. Krisenmanagement: Kein Ende in Sicht,,137
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,I. Krisenmanagement: Kein Ende in Sicht,Banken erneut unter Druck,137
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,I. Krisenmanagement: Kein Ende in Sicht,Restrukturierung nicht weiter hinauszögern,143
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,,144
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Widerstandskraft einzelner Finanzinstitute erhöhen, Prozyklizität verringern,146
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Eigenkapitalbasis stärken,146
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Prozyklizität reduzieren,149
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Begrenzung des Verschuldungsgrads,149
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Liquiditätsstandards und Begrenzungen der Interbankenkredite,150
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Contingent Capital,151
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Marktstabilität erhöhen und Systemrelevanz verringern,152
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Standardisierung und Zentralisierung des Derivatehandels,152
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Finanztransaktionsteuer und Verbot von ungedeckten Leerverkäufen,153
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Die Volcker-Regeln,154
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Reform der Aufsichtsstrukturen,155
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Strukturprobleme der Aufsicht,155
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Zaghafte Reformen der internationalen Aufsicht,157
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Reform der nationalen Aufsicht aufgeschoben oder aufgehoben?,159
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Abwicklung und Lastenteilung,161
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,II. Finanzsystemreformen: Erst am Anfang,Living Wills,161
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,III. Die Reform der Insolvenzordnung in Deutschland,,162
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,III. Die Reform der Insolvenzordnung in Deutschland,Verfahren zur Sanierung und Reorganisation,162
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,III. Die Reform der Insolvenzordnung in Deutschland,Eigenverantwortliches Verfahren,162
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,III. Die Reform der Insolvenzordnung in Deutschland,Hoheitliches Verfahren,164
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,III. Die Reform der Insolvenzordnung in Deutschland,Restrukturierungsfonds und Bankenabgabe,166
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,III. Die Reform der Insolvenzordnung in Deutschland,Restrukturierungsfonds,166
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,III. Die Reform der Insolvenzordnung in Deutschland,Bankenabgabe,168
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,IV. Weiße Flecken auf der globalen Reformlandkarte,,169
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,IV. Weiße Flecken auf der globalen Reformlandkarte,Reduktion der Systemrelevanz,169
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,IV. Weiße Flecken auf der globalen Reformlandkarte,Das Anreizproblem,169
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,IV. Weiße Flecken auf der globalen Reformlandkarte,Ansätze zur Reduktion der Systemrelevanz,170
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,IV. Weiße Flecken auf der globalen Reformlandkarte,Umgang mit grenzüberschreitenden systemischen Insolvenzen,174
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,IV. Weiße Flecken auf der globalen Reformlandkarte,Das Koordinationsproblem,174
-VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg,IV. Weiße Flecken auf der globalen Reformlandkarte,Ansätze für ein europäisches Restrukturierungsregime,176
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,,,183
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,I. Haushaltskonsolidierung im Zeichen der Schuldenbremse,,186
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,I. Haushaltskonsolidierung im Zeichen der Schuldenbremse,Kurzfristige und langfristige Wirkungen der Staatsverschuldung,186
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,I. Haushaltskonsolidierung im Zeichen der Schuldenbremse,Entwicklung der staatlichen Einnahmen und Ausgaben,189
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,I. Haushaltskonsolidierung im Zeichen der Schuldenbremse,Finanzpolitische Kennziffern,191
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,I. Haushaltskonsolidierung im Zeichen der Schuldenbremse,Regelungsinhalt der neuen Schuldenregel,193
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,I. Haushaltskonsolidierung im Zeichen der Schuldenbremse,Probleme und Gestaltungsspielräume,199
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,I. Haushaltskonsolidierung im Zeichen der Schuldenbremse,Umsetzung der Schuldenregel in den Bundesländern,204
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,I. Haushaltskonsolidierung im Zeichen der Schuldenbremse,Zusammenfassende Bewertung der neuen Schuldenregel,207
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,I. Haushaltskonsolidierung im Zeichen der Schuldenbremse,Schuldenregel und „Zukunftspaket“ der Bundesregierung,207
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,II. Steuerpolitik zwischen großem Wurf und Scheitern,,209
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,II. Steuerpolitik zwischen großem Wurf und Scheitern,Steuerpolitik im Überblick,209
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,II. Steuerpolitik zwischen großem Wurf und Scheitern,Die Ausgangslage,212
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,II. Steuerpolitik zwischen großem Wurf und Scheitern,Konzeptionelle Überlegungen,216
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,II. Steuerpolitik zwischen großem Wurf und Scheitern,Belastungs- und Umverteilungswirkungen der Umsatzbesteuerung,220
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,II. Steuerpolitik zwischen großem Wurf und Scheitern,Schlussfolgerungen,225
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,II. Steuerpolitik zwischen großem Wurf und Scheitern,Eine andere Meinung,226
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,II. Steuerpolitik zwischen großem Wurf und Scheitern,Die Reformalternativen im Überblick,227
-FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen,II. Steuerpolitik zwischen großem Wurf und Scheitern,Zusammenfassende Bewertung,230
-SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen,,,235
-SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen,I. Gesetzliche Krankenversicherung: Einstieg in ein Pauschalbeitragssystem?,,236
-SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen,I. Gesetzliche Krankenversicherung: Einstieg in ein Pauschalbeitragssystem?,Finanzielle Lage,237
-SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen,I. Gesetzliche Krankenversicherung: Einstieg in ein Pauschalbeitragssystem?,Einnahmeseite: Einstieg in ein Pauschalbeitragssystem?,239
-SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen,I. Gesetzliche Krankenversicherung: Einstieg in ein Pauschalbeitragssystem?,Stabilisierung der Ausgabenseite – Mehr Schatten als Licht,243
-SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen,II. Soziale Pflegeversicherung: Auf dem Weg ins Defizit,,246
-SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen,II. Soziale Pflegeversicherung: Auf dem Weg ins Defizit,Soziale Pflegeversicherung: Auf dem Weg ins Defizit,246
-SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen,III. Gesetzliche Rentenversicherung: Rentenpolitische Standfestigkeit erforderlich,,248
-SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen,III. Gesetzliche Rentenversicherung: Rentenpolitische Standfestigkeit erforderlich,Nullrunde bei den Renten,249
-SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen,III. Gesetzliche Rentenversicherung: Rentenpolitische Standfestigkeit erforderlich,Die Rente mit 67 und die Lage Älterer am Arbeitsmarkt,250
-SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen,IV. Arbeitslosenversicherung: Mit Finanzierungsdefizit,,253
-SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen,IV. Arbeitslosenversicherung: Mit Finanzierungsdefizit,Arbeitslosenversicherung: Mit Finanzierungsdefizit,253
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,,,257
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt,,259
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt,Arbeitsmarkt über die Krise hinweg robust,260
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt,Unterschiedliche Entwicklung in den Wirtschaftsbereichen,262
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt,Rückgang bei atypischen Beschäftigungsverhältnissen,264
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt,Positive konjunkturelle Impulse beleben den Arbeitsmarkt im Jahr 2010,266
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt,Gute Arbeitsmarktentwicklung auch im Jahr 2011 zu erwarten,269
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt,Tariflohnpolitik sollte beschäftigungsfreundlichen Kurs beibehalten,269
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt,Bewegungsvorgänge und Problemgruppen,270
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,II. Reform des Arbeitslosengelds II: Begrenzte Spielräume,,275
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,II. Reform des Arbeitslosengelds II: Begrenzte Spielräume,Arbeitsanreize beim Arbeitslosengeld II: Wo liegen die Probleme?,279
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,II. Reform des Arbeitslosengelds II: Begrenzte Spielräume,Variation der Hinzuverdienstregeln,282
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,II. Reform des Arbeitslosengelds II: Begrenzte Spielräume,Variation des Freibetrags,283
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,II. Reform des Arbeitslosengelds II: Begrenzte Spielräume,Variation der Freibetragssätze,283
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,II. Reform des Arbeitslosengelds II: Begrenzte Spielräume,Variation der Freibetragssätze,284
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,II. Reform des Arbeitslosengelds II: Begrenzte Spielräume,Variation der Vollanrechnungsschwelle,285
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,II. Reform des Arbeitslosengelds II: Begrenzte Spielräume,Zwischenfazit,286
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,II. Reform des Arbeitslosengelds II: Begrenzte Spielräume,Variation des Regelsatzes,288
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,II. Reform des Arbeitslosengelds II: Begrenzte Spielräume,Fazit,289
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,II. Reform des Arbeitslosengelds II: Begrenzte Spielräume,Bewertung des Vorhabens der Bundesregierung,290
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,III. Migration von Arbeitskräften nach der EU-Osterweiterung: Bedrohung oder Chance?,,291
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,III. Migration von Arbeitskräften nach der EU-Osterweiterung: Bedrohung oder Chance?,Eine andere Meinung,297
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,IV. Das Ende der Tarifeinheit: Kein gesetzgeberischer Aktionismus,,299
-SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen,IV. Das Ende der Tarifeinheit: Kein gesetzgeberischer Aktionismus,Das Ende der Tarifeinheit: Kein gesetzgeberischer Aktionismus,299
-"""
-
-df = pd.read_csv(io.StringIO(csv_data))
-
-# Definitionen der Kategorien
-primär_kategorien = {
-    "Kurze Frist / Konjunkturanalyse": ["konjunktur", "wachstum", "weltwirtschaft", "wirtschaftliche lage", "prognose", "aussichten", "beschäftigung", "arbeitslosigkeit", "haushalt", "inflation", "export", "import", "konsum", "investition", "zins", "wechselkurs", "finanzkrise", "bankenkrise", "abschwung", "rezession"],
-    "Lange Frist / Potenzialwachstumsanalyse": ["potenzialwachstum", "langfristig", "demographie","langfristige investitionen"],
-    "Klimapolitik": ["klima", "emission", "co2", "ökosteuer", "energiesteuer", "cbam", "verbrennungsmotor", "heizung", "paris agreement"],
-    "Andere Umweltpolitik": ["umwelt", "biodiversität", "tierschutz", "kreislaufwirtschaft", "ressourcen", "luftschutz", "wasserschutz", "bodenschutz"],
-    "Umweltpolitik": ["Klimapolitik", "Andere Umweltpolitik"],
-    "Arbeitsmarktpolitik": ["arbeitsmarkt", "beschäftigung", "arbeitslosigkeit", "fachkräfte", "qualifizierung", "arbeitsrecht", "tarif", "mindestlohn"],
-    "Rentensystem / Altersvorsorge": ["rente", "altersvorsorge", "pension", "beamtenversorgung", "privat", "finanzbildung", "demographie"],
-    "Arbeitslosenversicherung": ["arbeitslosenversicherung"],
-    "Grundsicherung": ["grundsicherung", "sozialhilfe", "bürgergeld", "hartz"],
-    "Kranken- und Pflegeversicherung und Gesundheitssystem": ["krankenversicherung", "gesundheit", "arzt", "pflege", "prävention", "effizienz"],
-    "Soziale Sicherung": ["Rentensystem / Altersvorsorge", "Arbeitslosenversicherung", "Grundsicherung", "Kranken- und Pflegeversicherung und Gesundheitssystem"],
-    "Rahmenbedingungen": ["bürokratieabbau", "regulierung", "verwaltung", "digitalisierung"],
-    "Steuerpolitik": ["einkommensteuer", "unternehmensteuer", "mehrwertsteuer", "erbschaftsteuer", "kapitalbesteuerung", "finanztransaktionssteuer", "steuerkooperation", "steuerwettbewerb"],
-    "Verteilungspolitik": ["gleichheit", "ungleichheit", "vermögen", "einkommen", "gini-koeffizient", "mobilität"],
-    "Industriepolitik, Strukturpolitik": ["innovation", "forschung", "mittelstand", "handwerk", "startup", "automobilindustrie", "mobilität", "chemie", "pharma", "maschinenbau", "industrie 4.0", "high tech"],
-    "Wettbewerbspolitik": ["kartell", "wettbewerbsrecht", "wettbewerbsaufsicht", "beihilfe"],
-    "Außenhandel": ["export", "protektionismus", "import", "zoll", "wto", "globalisierung","globalisierungsrisiken", "lieferengpässe"],
-    "Europäische Union": ["binnenmarkt", "eu-erweiterung", "brexit", "eurokrise", "esms", "wiederaufbauplan", "eurobonds", "währungsintegration", "eu-budget", "agrarpolitik", "kohäsionspolitik"],
-    "Geld- und Währungspolitik": ["ezb", "bundesbank", "zinspolitik", "geldmenge", "inflation", "qe", "mindestreserve", "devisen", "wechselkurs"],
-    "Wirtschaftspolitik": ["Rahmenbedingungen", "Steuerpolitik", "Verteilungspolitik", "Industriepolitik, Strukturpolitik", "Wettbewerbspolitik", "Außenhandel", "Europäische Union", "Geld- und Währungspolitik"],
-    "Öffentliche Finanzen": ["verschuldung", "tragfähigkeit", "haushalt", "landesfinanzen", "kommunalfinanzen", "eu", "fiskalregeln", "schuldenbremse"],
-    "Föderales System": ["föderalismus", "finanzausgleich", "deutsche einheit"],
-    "Finanzpolitik und Föderalismus": ["Föderales System", "Öffentliche Finanzen"],
-    "Finanzmärkte und Finanzstabilität ": ["Bankenkrise", "Finanzkrise", "Einlagensicherung", "Bankenaufsicht", "Finanzmarktregulierung", "Finanzbildung", "Kapitalverkehrskontrollen"],
-    "Verkehr": ["Öffentlicher Nahverkehr", "Deutsche Bahn", "Straßen", "Radverkehr", "Elektromobilität", "Flugverkehr", "Schiffahrt"],
-    "Energie": ["Stromnetze","Erneuerbare","Energiesicherheit"],
-    "Infrastruktur": ["Verkehr", "Energie"],
-    "Bildungspolitik":["Schule", "Frühkindliche Bildung
+```csv
+"Überschrift Erste/Kapitelebene","Überschrift Zweite Ebene","Überschrift Dritte/Niedriger Ebene","Seitenzahl","Kategorie Primär","Kategorie Region"
+"ERSTES KAPITEL Chancen für einen stabilen Aufschwung"," "," ","1","Kurze Frist / Konjunkturanalyse","Deutschland"
+"ERSTES KAPITEL Chancen für einen stabilen Aufschwung","I. Die Ausgangslage: Starke wirtschaftliche Erholung verliert an Fahrt"," ","8","Kurze Frist / Konjunkturanalyse","Deutschland"
+"ERSTES KAPITEL Chancen für einen stabilen Aufschwung","I. Die Ausgangslage: Starke wirtschaftliche Erholung verliert an Fahrt","Die Ausgangslage: Starke wirtschaftliche Erholung verliert an Fahrt","8","Kurze Frist / Konjunkturanalyse","Deutschland"
+"ERSTES KAPITEL Chancen für einen stabilen Aufschwung","II. Europäische Währungsunion in der Krise"," ","11","Europäische Union","Europa"
+"ERSTES KAPITEL Chancen für einen stabilen Aufschwung","II. Europäische Währungsunion in der Krise","Europäische Währungsunion in der Krise","11","Europäische Union","Europa"
+"ERSTES KAPITEL Chancen für einen stabilen Aufschwung","III. Reform der Finanzmarktarchitektur"," ","14","Finanzmärkte und Finanzstabilität ","Deutschland"
+"ERSTES KAPITEL Chancen für einen stabilen Aufschwung","III. Reform der Finanzmarktarchitektur","Reform der Finanzmarktarchitektur","14","Finanzmärkte und Finanzstabilität ","Deutschland"
+"ERSTES KAPITEL Chancen für einen stabilen Aufschwung","IV. Öffentliche Finanzen: In der Realität angekommen"," ","16","Öffentliche Finanzen","Deutschland"
+"ERSTES KAPITEL Chancen für einen stabilen Aufschwung","IV. Öffentliche Finanzen: In der Realität angekommen","Öffentliche Finanzen: In der Realität angekommen","16","Öffentliche Finanzen","Deutschland"
+"ERSTES KAPITEL Chancen für einen stabilen Aufschwung","V. Soziale Sicherungssysteme im Reformprozess"," ","18","Soziale Sicherung","Deutschland"
+"ERSTES KAPITEL Chancen für einen stabilen Aufschwung","V. Soziale Sicherungssysteme im Reformprozess","Soziale Sicherungssysteme im Reformprozess","18","Soziale Sicherung","Deutschland"
+"ERSTES KAPITEL Chancen für einen stabilen Aufschwung","VI. Arbeitsmarkt im Zeichen institutioneller Veränderungen"," ","19","Arbeitsmarktpolitik","Deutschland"
+"ERSTES KAPITEL Chancen für einen stabilen Aufschwung","VI. Arbeitsmarkt im Zeichen institutioneller Veränderungen","Arbeitsmarkt im Zeichen institutioneller Veränderungen","19","Arbeitsmarktpolitik","Deutschland"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland"," "," ","23","Kurze Frist / Konjunkturanalyse","Welt"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten"," ","25","Kurze Frist / Konjunkturanalyse","Welt"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten","Eine divergente Entwicklung der Weltwirtschaft","26","Kurze Frist / Konjunkturanalyse","Welt"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten","Die Schwellenländer als Stütze der Weltwirtschaft","27","Kurze Frist / Konjunkturanalyse","Welt"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten","Schleppende Erholung der Industrieländer","29","Kurze Frist / Konjunkturanalyse","Welt"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten","Ursachen und Folgen eines „Währungskriegs“","31","Kurze Frist / Konjunkturanalyse","Welt"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten","Die Aussichten für die weitere Konjunkturentwicklung","34","Kurze Frist / Konjunkturanalyse","Welt"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten","Vereinigte Staaten – Probleme am Arbeitsmarkt bremsen die Konjunktur","34","Kurze Frist / Konjunkturanalyse","Nordamerika"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten","Japan – Starker Yen trotz hoher Verschuldung","37","Kurze Frist / Konjunkturanalyse","Asien,Australien"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten","China und die anderen Schwellenländer – Kraftvoll durch die Krise","38","Kurze Frist / Konjunkturanalyse","Asien,Australien"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","I. Weltwirtschaft: Ein Aufschwung der zwei Geschwindigkeiten","Euro-Raum – Heterogene Wirtschaftsentwicklung","40","Kurze Frist / Konjunkturanalyse","Europa"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","II. Deutschland: Der starke Aufschwung verliert an Fahrt"," ","46","Kurze Frist / Konjunkturanalyse","Deutschland"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","II. Deutschland: Der starke Aufschwung verliert an Fahrt","Produktionspotenzial und Output-Lücke","47","Kurze Frist / Konjunkturanalyse","Deutschland"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","II. Deutschland: Der starke Aufschwung verliert an Fahrt","Außenhandelsstruktur Deutschlands: Zunehmende Bedeutung der Schwellenländer","48","Außenhandel","Deutschland"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","II. Deutschland: Der starke Aufschwung verliert an Fahrt","Arbeitsmarkt: Zusammenhang von Produktion und Beschäftigung","50","Arbeitsmarktpolitik","Deutschland"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","II. Deutschland: Der starke Aufschwung verliert an Fahrt","Finanzierungsbedingungen","52","NA","Deutschland"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","II. Deutschland: Der starke Aufschwung verliert an Fahrt","Die Entwicklung im Prognosezeitraum","53","Kurze Frist / Konjunkturanalyse","Deutschland"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","II. Deutschland: Der starke Aufschwung verliert an Fahrt","Einkommensentwicklung und Konsumausgaben","56","Verteilungspolitik","Deutschland"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","II. Deutschland: Der starke Aufschwung verliert an Fahrt","Ausrüstungsinvestitionen","56","NA","Deutschland"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","II. Deutschland: Der starke Aufschwung verliert an Fahrt","Bauinvestitionen","59","NA","Deutschland"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","II. Deutschland: Der starke Aufschwung verliert an Fahrt","Entstehungsseite","60","NA","Deutschland"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","II. Deutschland: Der starke Aufschwung verliert an Fahrt","Außenwirtschaft","60","Außenhandel","Deutschland"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","II. Deutschland: Der starke Aufschwung verliert an Fahrt","Preisniveauentwicklung","61","Kurze Frist / Konjunkturanalyse","Deutschland"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","II. Deutschland: Der starke Aufschwung verliert an Fahrt","Arbeitsmarkt im Prognosezeitraum","61","Arbeitsmarktpolitik","Deutschland"
+"ZWEITES KAPITEL Die wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland","II. Deutschland: Der starke Aufschwung verliert an Fahrt","Öffentliche Finanzen","63","Öffentliche Finanzen","Deutschland"
+"DRITTES KAPITEL Euro-Raum in der Krise"," "," ","67","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","I. Globale und spezifische Ursachen der Euro-Krise"," ","71","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","I. Globale und spezifische Ursachen der Euro-Krise","Ungleichgewichte innerhalb des Euro-Raums ähnlich stark ausgeprägt wie auf der globalen Ebene","71","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","I. Globale und spezifische Ursachen der Euro-Krise","Starke Unterschiede in den Finanzierungssalden des privaten Sektors","72","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","I. Globale und spezifische Ursachen der Euro-Krise","Finanz- und Wirtschaftskrise bringt Fiskalpolitik in allen Währungsräumen in gravierende Schieflage","74","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","I. Globale und spezifische Ursachen der Euro-Krise","Problemfall Griechenland","76","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","I. Globale und spezifische Ursachen der Euro-Krise","Einheitliche Zinspolitik verstärkt realwirtschaftliche Divergenzen","77","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","I. Globale und spezifische Ursachen der Euro-Krise","Mitgliedschaft in der Währungsunion und Insolvenzrisiko für Staaten","79","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","I. Globale und spezifische Ursachen der Euro-Krise","„Original Sin“ als Normalfall in der Währungsunion","81","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","I. Globale und spezifische Ursachen der Euro-Krise","Schutzschirme für die Problemländer","83","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","I. Globale und spezifische Ursachen der Euro-Krise","Fehlentwicklungen bei der Wettbewerbsfähigkeit","86","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","II. Ein neuer institutioneller Rahmen für den Euro-Raum"," ","89","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","II. Ein neuer institutioneller Rahmen für den Euro-Raum","Status quo: Gemeinsame Währung bei vergleichsweise geringer politischer Integration","89","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","II. Ein neuer institutioneller Rahmen für den Euro-Raum","Erste Säule: Stabilitätspakt mit mehr Biss","90","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","II. Ein neuer institutioneller Rahmen für den Euro-Raum","Erste Säule: Stabilitätspakt mit mehr Biss","91","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","II. Ein neuer institutioneller Rahmen für den Euro-Raum","Zweite Säule: Ein maßgeschneidertes Regelwerk für die Stabilität des privaten Finanzsystems","94","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","II. Ein neuer institutioneller Rahmen für den Euro-Raum","Dritte Säule: Ein effektives Regelwerk für Krisen","96","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","II. Ein neuer institutioneller Rahmen für den Euro-Raum","Ein Europäischer Krisenmechanismus (EKM)","96","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","II. Ein neuer institutioneller Rahmen für den Euro-Raum","Eine andere Meinung","99","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","II. Ein neuer institutioneller Rahmen für den Euro-Raum","Überwachungsmechanismus für „übermäßige Ungleichgewichte“ nicht treffsicher","100","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","III. Deutschland und die europäischen Ungleichgewichte"," ","102","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","III. Deutschland und die europäischen Ungleichgewichte","Welche Rolle spielte Deutschland beim Aufbau der europäischen Ungleichgewichte?","104","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","III. Deutschland und die europäischen Ungleichgewichte","Erstens: Lohnentwicklung in Deutschland","104","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","III. Deutschland und die europäischen Ungleichgewichte","Zweitens: Leistungsbilanzsaldo und Kapitalbilanzsaldo","107","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","III. Deutschland und die europäischen Ungleichgewichte","Drittens: Fehlentwicklungen in den Peripherieländern","109","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","III. Deutschland und die europäischen Ungleichgewichte","Welche Rolle kann Deutschland beim Abbau der europäischen Ungleichgewichte spielen?","110","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","III. Deutschland und die europäischen Ungleichgewichte","Auswirkungen einer expansiven Lohn- und Fiskalpolitik in NiGEM","111","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","III. Deutschland und die europäischen Ungleichgewichte","Simulationsergebnisse: Fiskalpolitik","112","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","III. Deutschland und die europäischen Ungleichgewichte","Simulationsergebnisse: Lohnpolitik","116","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","III. Deutschland und die europäischen Ungleichgewichte","Deutschlands Wachstum stärken","119","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","III. Deutschland und die europäischen Ungleichgewichte","Öffentliche und private Investitionen","120","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","III. Deutschland und die europäischen Ungleichgewichte","Simulationsergebnisse: Erhöhung der Partizipationsquote am Arbeitsmarkt","122","Europäische Union","Europa"
+"DRITTES KAPITEL Euro-Raum in der Krise","III. Deutschland und die europäischen Ungleichgewichte","Eine andere Meinung","123","Europäische Union","Europa"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg"," "," ","135","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","I. Krisenmanagement: Kein Ende in Sicht"," ","137","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","I. Krisenmanagement: Kein Ende in Sicht","Banken erneut unter Druck","137","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","I. Krisenmanagement: Kein Ende in Sicht","Restrukturierung nicht weiter hinauszögern","143","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang"," ","144","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Widerstandskraft einzelner Finanzinstitute erhöhen, Prozyklizität verringern","146","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Eigenkapitalbasis stärken","146","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Prozyklizität reduzieren","149","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Begrenzung des Verschuldungsgrads","149","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Liquiditätsstandards und Begrenzungen der Interbankenkredite","150","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Contingent Capital","151","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Marktstabilität erhöhen und Systemrelevanz verringern","152","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Standardisierung und Zentralisierung des Derivatehandels","152","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Finanztransaktionsteuer und Verbot von ungedeckten Leerverkäufen","153","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Die Volcker-Regeln","154","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Reform der Aufsichtsstrukturen","155","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Strukturprobleme der Aufsicht","155","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Zaghafte Reformen der internationalen Aufsicht","157","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Reform der nationalen Aufsicht aufgeschoben oder aufgehoben?","159","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Abwicklung und Lastenteilung","161","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","II. Finanzsystemreformen: Erst am Anfang","Living Wills","161","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","III. Die Reform der Insolvenzordnung in Deutschland"," ","162","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","III. Die Reform der Insolvenzordnung in Deutschland","Verfahren zur Sanierung und Reorganisation","162","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","III. Die Reform der Insolvenzordnung in Deutschland","Eigenverantwortliches Verfahren","162","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","III. Die Reform der Insolvenzordnung in Deutschland","Hoheitliches Verfahren","164","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","III. Die Reform der Insolvenzordnung in Deutschland","Restrukturierungsfonds und Bankenabgabe","166","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","III. Die Reform der Insolvenzordnung in Deutschland","Restrukturierungsfonds","166","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","III. Die Reform der Insolvenzordnung in Deutschland","Bankenabgabe","168","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","IV. Weiße Flecken auf der globalen Reformlandkarte"," ","169","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","IV. Weiße Flecken auf der globalen Reformlandkarte","Reduktion der Systemrelevanz","169","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","IV. Weiße Flecken auf der globalen Reformlandkarte","Das Anreizproblem","169","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","IV. Weiße Flecken auf der globalen Reformlandkarte","Ansätze zur Reduktion der Systemrelevanz","170","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","IV. Weiße Flecken auf der globalen Reformlandkarte","Umgang mit grenzüberschreitenden systemischen Insolvenzen","174","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","IV. Weiße Flecken auf der globalen Reformlandkarte","Das Koordinationsproblem","174","Finanzmärkte und Finanzstabilität ","Deutschland"
+"VIERTES KAPITEL Finanzsystem in der Therapie: Noch ein weiter Weg","IV. Weiße Flecken auf der globalen Reformlandkarte","Ansätze für ein europäisches Restrukturierungsregime","176","Finanzmärkte und Finanzstabilität ","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen"," "," ","183","Öffentliche Finanzen","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","I. Haushaltskonsolidierung im Zeichen der Schuldenbremse"," ","186","Öffentliche Finanzen","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","I. Haushaltskonsolidierung im Zeichen der Schuldenbremse","Kurzfristige und langfristige Wirkungen der Staatsverschuldung","186","Öffentliche Finanzen","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","I. Haushaltskonsolidierung im Zeichen der Schuldenbremse","Entwicklung der staatlichen Einnahmen und Ausgaben","189","Öffentliche Finanzen","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","I. Haushaltskonsolidierung im Zeichen der Schuldenbremse","Finanzpolitische Kennziffern","191","Öffentliche Finanzen","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","I. Haushaltskonsolidierung im Zeichen der Schuldenbremse","Regelungsinhalt der neuen Schuldenregel","193","Öffentliche Finanzen","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","I. Haushaltskonsolidierung im Zeichen der Schuldenbremse","Probleme und Gestaltungsspielräume","199","Öffentliche Finanzen","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","I. Haushaltskonsolidierung im Zeichen der Schuldenbremse","Umsetzung der Schuldenregel in den Bundesländern","204","Öffentliche Finanzen","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","I. Haushaltskonsolidierung im Zeichen der Schuldenbremse","Zusammenfassende Bewertung der neuen Schuldenregel","207","Öffentliche Finanzen","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","I. Haushaltskonsolidierung im Zeichen der Schuldenbremse","Schuldenregel und „Zukunftspaket“ der Bundesregierung","207","Öffentliche Finanzen","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","II. Steuerpolitik zwischen großem Wurf und Scheitern"," ","209","Steuerpolitik","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","II. Steuerpolitik zwischen großem Wurf und Scheitern","Steuerpolitik im Überblick","209","Steuerpolitik","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","II. Steuerpolitik zwischen großem Wurf und Scheitern","Die Ausgangslage","212","Steuerpolitik","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","II. Steuerpolitik zwischen großem Wurf und Scheitern","Konzeptionelle Überlegungen","216","Steuerpolitik","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","II. Steuerpolitik zwischen großem Wurf und Scheitern","Belastungs- und Umverteilungswirkungen der Umsatzbesteuerung","220","Steuerpolitik","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","II. Steuerpolitik zwischen großem Wurf und Scheitern","Schlussfolgerungen","225","Steuerpolitik","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","II. Steuerpolitik zwischen großem Wurf und Scheitern","Eine andere Meinung","226","Steuerpolitik","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","II. Steuerpolitik zwischen großem Wurf und Scheitern","Die Reformalternativen im Überblick","227","Steuerpolitik","Deutschland"
+"FÜNFTES KAPITEL Öffentliche Finanzen: In der Realität angekommen","II. Steuerpolitik zwischen großem Wurf und Scheitern","Zusammenfassende Bewertung","230","Steuerpolitik","Deutschland"
+"SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen"," "," ","235","Soziale Sicherung","Deutschland"
+"SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen","I. Gesetzliche Krankenversicherung: Einstieg in ein Pauschalbeitragssystem?"," ","236","Kranken- und Pflegeversicherung und Gesundheitssystem","Deutschland"
+"SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen","I. Gesetzliche Krankenversicherung: Einstieg in ein Pauschalbeitragssystem?","Finanzielle Lage","237","Kranken- und Pflegeversicherung und Gesundheitssystem","Deutschland"
+"SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen","I. Gesetzliche Krankenversicherung: Einstieg in ein Pauschalbeitragssystem?","Einnahmeseite: Einstieg in ein Pauschalbeitragssystem?","239","Kranken- und Pflegeversicherung und Gesundheitssystem","Deutschland"
+"SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen","I. Gesetzliche Krankenversicherung: Einstieg in ein Pauschalbeitragssystem?","Stabilisierung der Ausgabenseite – Mehr Schatten als Licht","243","Kranken- und Pflegeversicherung und Gesundheitssystem","Deutschland"
+"SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen","II. Soziale Pflegeversicherung: Auf dem Weg ins Defizit"," ","246","Kranken- und Pflegeversicherung und Gesundheitssystem","Deutschland"
+"SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen","II. Soziale Pflegeversicherung: Auf dem Weg ins Defizit","Soziale Pflegeversicherung: Auf dem Weg ins Defizit","246","Kranken- und Pflegeversicherung und Gesundheitssystem","Deutschland"
+"SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen","III. Gesetzliche Rentenversicherung: Rentenpolitische Standfestigkeit erforderlich"," ","248","Rentensystem / Altersvorsorge","Deutschland"
+"SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen","III. Gesetzliche Rentenversicherung: Rentenpolitische Standfestigkeit erforderlich","Nullrunde bei den Renten","249","Rentensystem / Altersvorsorge","Deutschland"
+"SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen","III. Gesetzliche Rentenversicherung: Rentenpolitische Standfestigkeit erforderlich","Die Rente mit 67 und die Lage Älterer am Arbeitsmarkt","250","Rentensystem / Altersvorsorge","Deutschland"
+"SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen","IV. Arbeitslosenversicherung: Mit Finanzierungsdefizit"," ","253","Arbeitslosenversicherung","Deutschland"
+"SECHSTES KAPITEL Soziale Sicherung: Nur zaghafte Reformen","IV. Arbeitslosenversicherung: Mit Finanzierungsdefizit","Arbeitslosenversicherung: Mit Finanzierungsdefizit","253","Arbeitslosenversicherung","Deutschland"
+"SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen"," "," ","257","Arbeitsmarktpolitik","Deutschland"
+"SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen","I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt"," ","259","Arbeitsmarktpolitik","Deutschland"
+"SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen","I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt","Arbeitsmarkt über die Krise hinweg robust","260","Arbeitsmarktpolitik","Deutschland"
+"SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen","I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt","Unterschiedliche Entwicklung in den Wirtschaftsbereichen","262","Arbeitsmarktpolitik","Deutschland"
+"SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen","I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt","Rückgang bei atypischen Beschäftigungsverhältnissen","264","Arbeitsmarktpolitik","Deutschland"
+"SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen","I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt","Positive konjunkturelle Impulse beleben den Arbeitsmarkt im Jahr 2010","266","Arbeitsmarktpolitik","Deutschland"
+"SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen","I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt","Gute Arbeitsmarktentwicklung auch im Jahr 2011 zu erwarten","269","Arbeitsmarktpolitik","Deutschland"
+"SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen","I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt","Tariflohnpolitik sollte beschäftigungsfreundlichen Kurs beibehalten","269","Arbeitsmarktpolitik","Deutschland"
+"SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen","I. Trotz Krise überraschend positive Entwicklung auf dem Arbeitsmarkt","Bewegungsvorgänge und Problemgruppen","270","Arbeitsmarktpolitik","Deutschland"
+"SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen","II. Reform des Arbeitslosengelds II: Begrenzte Spielräume"," ","275","Grundsicherung","Deutschland"
+"SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen","II. Reform des Arbeitslosengelds II: Begrenzte Spielräume","Arbeitsanreize beim Arbeitslosengeld II: Wo liegen die Probleme?","279","Grundsicherung","Deutschland"
+"SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen","II. Reform des Arbeitslosengelds II: Begrenzte Spielräume","Variation der Hinzuverdienstregeln","282","Grundsicherung","Deutschland"
+"SIEBTES KAPITEL Arbeitsmarkt: Nach erfolgreichem Krisenmanagement vor institutionellen Veränderungen","II. Reform des Arbeitslosengelds II: Begrenzte Spielräume","Variation des Freibetrags","2

@@ -8,7 +8,6 @@ Sys.setenv(LANGUAGE = "en")
 #open the R environment file
 usethis::edit_r_environ()
 
-GOOGLE_API_KEY = 'AIzaSyDRFNwcGnF1DfiATswFl3uFHzzj3UvjKCs'
 
 # Set the path to the directory containing your PDF files
 wd<-getwd()

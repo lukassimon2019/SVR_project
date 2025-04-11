@@ -9,9 +9,6 @@ csv_strings <- readRDS(file = paste0(temp_directory,"inhaltsverz_csv_strings.rds
 prompt_vec <- readLines(paste0(prompt_directory,"class_prompt_csv_1.1.txt"))
 prompt_conc_string <- paste(prompt_vec, collapse = "\n")
 
-
-Sys.setenv(OPENAI_API_KEY = "AIzaSyB_jza8TWsNld8RcEv4GYNkza8h2OnClDQ")
-
 message_contents <- list()
 for (csv in csv_strings) {
   conversation <- llm_message((paste0(prompt_conc_string, csv))) |>

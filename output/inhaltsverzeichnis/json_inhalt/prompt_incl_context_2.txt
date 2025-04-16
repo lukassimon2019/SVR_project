@@ -425,28 +425,19 @@ Es kann sein, dass bereits ein Teil vom pdf in ein json Format extrahiert wurde.
 -Start Beispiel-
 Ende des bestehenden Jsons:
 """
-{
-      "ueberschrift_eins": "DRITTES KAPITEL\nStabilität des Internationalen Finanzsystems",
-      "seite": "89",
-      "zweite_ebene": [
-        {
-          "ueberschrift_zwei": "I. Finanzmärkte unter Stress",
-          "seite": "91",
+          "ueberschrift_zwei": "Beispielüberschrift 1",
+          "seite": "XY",
           "dritte_und_niedrigere_ebene": []
         },
         {
-          "ueberschrift_zwei": "II. Die treibenden Kräfte",
+          "ueberschrift_zwei": "Beispielüberschrift 2",
           "seite":
 """
 Wie du weitermachen sollst
 """
-          "ueberschrift_zwei": "II. Die treibenden Kräfte",
-          "seite": "92"
-          "dritte_und_niedrigere_ebene": [
-            {
-              "ueberschrift_drei_niedriger": "1. Expansive Zinspolitik in den Vereinigten Staaten schafft\nmakroökonomisches Umfeld für Übertreibungen an den Finanzmärkten",
-              "seite": "96"
-            },
+          "ueberschrift_zwei": "Beispielüberschrift 2",
+          "seite": "XX",
+          "dritte_und_niedrigere_ebene": [ 
 """
 -Ende Beispiel-
 Falls existierend, hier das bestehende JSON:

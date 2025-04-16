@@ -2,13 +2,8 @@ library(tidyllm)
 library(pdftools)
 
 
-#set R system language to English
-Sys.setenv(LANGUAGE = "en")
-
 #open the R environment file
 usethis::edit_r_environ()
-
-GOOGLE_API_KEY = 'AIzaSyDRFNwcGnF1DfiATswFl3uFHzzj3UvjKCs'
 
 # Set the path to the directory containing your PDF files
 wd<-getwd()
@@ -19,7 +14,7 @@ pdf_directory <- paste0(wd,"\\source_pdfs\\split_pdfs\\inhaltsverzeichnis\\test\
 
 
 #read message content from txt file C:\Users\P-Simon\Documents\SVR\prompts\inhaltsverzeichnis_prompt.txt
-prompt_vec <- readLines(paste0(prompt_directory,"pdf_to_json_prompt.txt"))
+prompt_vec <- readLines(paste0(prompt_directory,"pdf_to_json_split_prompt_2.txt"))
 prompt_conc_string <- paste(prompt_vec, collapse = "\n")
 
 
@@ -28,7 +23,7 @@ pdf_path_list <- list.files(pdf_directory, pattern = "\\.pdf$", full.names = TRU
 
 #only store pdf names
 pdf_filenames <- lapply(pdf_path_list, basename)
-print("These are the pdf filenames",names(pdf_filenames))
+print(paste("These are the pdf filenames",names(pdf_filenames)))
 
 # Define the schema for the extracted content
 inhaltsverzeichnis_schema<-tidyllm_schema(

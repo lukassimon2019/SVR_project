@@ -1,0 +1,732 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "DRITTES KAPITEL\nStabilität des Internationalen Finanzsystems",
+      "seite": "89",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Finanzmärkte unter Stress",
+          "seite": "91",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die treibenden Kräfte",
+          "seite": "92",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Expansive Zinspolitik in den Vereinigten Staaten schafft\nmakroökonomisches Umfeld für Übertreibungen an den Finanzmärkten",
+              "seite": "96"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Niedrige kurzfristige Zinsen begünstigen den „Leverage-Effekt“",
+              "seite": "97"
+            },
+            {
+              "ueberschrift_drei_niedriger": "US-Realzinsen waren außerordentlich niedrig",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "US-Immobilienmarkt im Zeichen der Zinspolitik",
+              "seite": "99"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Devisenmarktinterventionen und Carry Trades beeinträchtigen die Anpassung über den Wechselkursmechanismus",
+              "seite": "101"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Notenbanken finanzieren die Verschuldung in den Vereinigten Staaten",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Carry Trade führt zu destabilisierender Wechselkursentwicklung",
+              "seite": "105"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Die Alchemie der Verbriefung",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Techniken der Kreditverbriefung und des Kreditrisikotransfers",
+              "seite": "109"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Instrumente für den Risikotransfer von Kreditportfolios",
+              "seite": "111"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verbriefung von Portfolios mittels einer Zweckgesellschaft",
+              "seite": "111"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Tranchierung: Aus Landwein wird Qualitätswein",
+              "seite": "112"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Entwicklung der Märkte für den Transfer von Kreditrisiken",
+              "seite": "115"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Chancen und Risiken der Verbriefung",
+              "seite": "116"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anreizprobleme der Verbriefung",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verhältnis zwischen Bank und Kreditnehmer",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verhältnis zwischen Bank und Risikonehmer",
+              "seite": "120"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verhältnis zwischen Bank und ihren Einlegern und Aktionären",
+              "seite": "120"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Beziehung zwischen Rating-Agenturen und Emittenten von strukturierten Produkten",
+              "seite": "120"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Das Problem der scheinbaren Disintermediation des Bankensystems",
+              "seite": "121"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Hedgefonds: Die falschen Verdächtigen",
+              "seite": "131"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Definition und den Charakteristika von Hedgefonds",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sehr dynamische Entwicklung bis zum Jahr 2006",
+              "seite": "135"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Risiken für die Finanzmarktstabilität",
+              "seite": "137"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Die Finanzmärkte benötigen einen angemessenen Ordnungsrahmen",
+          "seite": "139",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Währungspolitik: Effektivere Überwachung durch den Internationalen\nWährungsfonds",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Geldpolitik muss die Finanzmarktstabilität stärker im Blick haben",
+              "seite": "141"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wandel der Finanzmärkte erfordert Reform der Bankenaufsicht",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Globale Märkte sind mit einer nationalen Bankenaufsicht nur schwer vereinbar",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wenig effizienter institutioneller Rahmen für die Bankenaufsicht in Europa",
+              "seite": "146"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einheitliche Bankenaufsicht durch die Deutsche Bundesbank",
+              "seite": "150"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Ansätze für mehr Transparenz",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was ändert sich durch Basel II",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mehr Transparenz durch ein europäisches Kreditregister",
+              "seite": "153"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Initiativen für mehr Transparenz von Hedgefonds",
+              "seite": "156"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mehr Transparenz im Verbriefungsprozess",
+              "seite": "157"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zusammenfassung",
+              "seite": "162"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "VIERTES KAPITEL\nSoziale Sicherung: Mehr Licht als Schatten",
+      "seite": "169",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Gesetzliche Rentenversicherung: Nachhaltigkeit deutlich erhöht",
+          "seite": "171",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Einnahme- und Ausgabenentwicklungen: Durchwirken der Erholung des\nArbeitsmarkts",
+              "seite": "171"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einnahmen: Erhöhung des Beitragssatzes und gute konjunkturelle\nRahmenbedingungen",
+              "seite": "171"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgaben: Trotz Rentenerhöhung nur leichter Anstieg",
+              "seite": "173"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der Nachhaltigkeitsrücklage",
+              "seite": "173"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Vom Defined-Benefit-System zum Defined-Contribution-System",
+              "seite": "174"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Nachhaltigkeitsfaktor erhöht Rentenanpassung",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Rente mit 67: Mehr als nur eine rentenpolitische Maßnahme",
+              "seite": "179"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirkungen für die Finanzlage der Gesetzlichen Rentenversicherung",
+              "seite": "179"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Langfristige Wachstumswirkungen",
+              "seite": "182"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Verlängerung der sozialabgabenfreien Entgeltumwandlung: Problematische\nVerteilungswirkungen",
+              "seite": "184"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Altersarmut vorbeugen",
+              "seite": "192"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Gesetzliche Krankenversicherung: Warten auf die nächste Reform",
+          "seite": "197",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Die geplante Pflegereform 2008: Kein weiter Wurf",
+          "seite": "199",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Entwicklung der Einnahmen und Ausgaben",
+              "seite": "199"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die geplanten Reformmaßnahmen: Leistungsausweitung und Dynamisierung",
+              "seite": "200"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Ausgleichszahlungen der Privaten Pflegeversicherung",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Determinanten der Beitragssatzentwicklung",
+              "seite": "204"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Die Beitragssatzentwicklung und Ergebnisse",
+              "seite": "208"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Nachhaltige finanzierungsseitige Absicherung: Nur noch begrenzte\nMöglichkeiten",
+              "seite": "211"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Arbeitslosenversicherung: Ein neuer Verschiebebahnhof",
+          "seite": "214",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Finanzielle Lage: Überschuss trotz Beitragssatzsenkung",
+              "seite": "215"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Der Haushalt der Bundesagentur: Kein Steinbruch für Steinbrück",
+              "seite": "220"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Das Solidarische Bürgergeld – keine Alternative zum heutigen Sozialstaat",
+          "seite": "222",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Das Solidarische Bürgergeld: Eine sozialpolitische Revolution",
+              "seite": "224"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Wirkungen des Solidarischen Bürgergelds: Anspruch und Wirklichkeit",
+              "seite": "227"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Struktur und Ablauf der Simulationsrechnungen",
+              "seite": "227"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Simulationsergebnisse zur Althaus Originalversion des Solidarischen Bürgergelds",
+              "seite": "233"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzielle Auswirkungen",
+              "seite": "233"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Belastungs- und Verteilungswirkungen",
+              "seite": "234"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsangebotseffekte",
+              "seite": "235"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Simulationsergebnisse zu einem vollständig gegenfinanzierten\nSolidarischen Bürgergeld",
+              "seite": "237"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Simulationsergebnisse zur Variante 1",
+              "seite": "238"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Simulationsergebnisse zur Variante 2",
+              "seite": "241"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Fazit",
+              "seite": "243"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "FÜNFTES KAPITEL\nFinanzpolitik: Bislang auf gutem Weg",
+      "seite": "249",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Öffentliche Haushalte: Erkennbare Erholung, verbleibende Risiken",
+          "seite": "251",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Staatlicher Haushalt ausgeglichen",
+              "seite": "251"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der staatlichen Ausgaben",
+              "seite": "251"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der staatlichen Einnahmen",
+              "seite": "253"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Entwicklung der kassenmäßigen Steuereinnahmen",
+              "seite": "254"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Haushalte der Gebietskörperschaften und der Sozialversicherung:\nWeiterhin heterogen",
+              "seite": "256"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einnahmen und Ausgaben des Bundes",
+              "seite": "257"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einnahmen und Ausgaben der Länder, der Gemeinden und der\nSozialversicherung",
+              "seite": "258"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Haushaltskonsolidierung weit fortgeschritten",
+              "seite": "259"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Bundesverfassungsgericht weist Klage gegen den Bundeshaushalt 2004 ab",
+              "seite": "261"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Mittelfristige Perspektive für die öffentlichen Haushalte und die Finanzpolitik",
+              "seite": "262"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die mittelfristige Haushaltsentwicklung der Gebietskörperschaften",
+              "seite": "263"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Perspektiven für eine mittelfristige Finanzpolitik",
+              "seite": "265"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Unternehmensteuerreform 2008: Kein großer Wurf, aber besser als Status quo",
+          "seite": "267",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Ziele und Eckpunkte der Unternehmensteuerreform 2008",
+              "seite": "268"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Standortattraktivität gestärkt, Entscheidungsneutralität verfehlt",
+              "seite": "270"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verbesserung der Standortattraktivität durch tarifliche Entlastung von\nKapitalgesellschaften",
+              "seite": "270"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Keine Belastungsgleichheit der Rechtsformen durch „Thesaurierungs-\nrücklage“ für Personenunternehmen",
+              "seite": "271"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Abgeltungsteuer als Achillesferse der Steuerreform",
+              "seite": "274"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgestaltung der Abgeltungsteuer",
+              "seite": "274"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Belastungsneutralität der Kapitalgeber?",
+              "seite": "277"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kapitalkosten und Unternehmensteuerreform",
+              "seite": "278"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Gegenfinanzierungsmaßnahmen problematisch",
+              "seite": "282"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Steuersystematische Einordnung und Ausblick",
+              "seite": "283"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Vorschläge zur Besteuerung von Ehegatten und Familien auf dem Prüfstand",
+          "seite": "284",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Steuerliche Wirkungen der Zusammenveranlagung von Ehegatten",
+              "seite": "285"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Höhe und Verlauf des Splittingvorteils: Eine Tarifanalyse",
+              "seite": "286"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zusammenveranlagung mit Ehegatten-Splitting versus getrennte\nVeranlagung: Eine empirische Analyse",
+              "seite": "288"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Individualbesteuerung statt Ehegatten-Splitting?",
+              "seite": "291"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Verteilungs- und Aufkommenseffekte eines Ehegatten-Realsplitting",
+              "seite": "296"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Verteilungs- und Aufkommenseffekte eines Familien-Splittings",
+              "seite": "299"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Fazit",
+              "seite": "303"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Anhang: Datenbasis und deskriptive Auswertung",
+              "seite": "304"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "SECHSTES KAPITEL\nArbeitsmarkt: Auf dem Weg zu mehr Beschäftigung",
+      "seite": "309",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Lage im Jahr 2007: Erfreuliche Nachrichten vom Arbeitsmarkt",
+          "seite": "310",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Beschäftigungszunahme setzt sich fort",
+              "seite": "311"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Beschleunigter Rückgang der Arbeitslosigkeit",
+              "seite": "314"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Grundsicherung für Arbeitsuchende: Trotz Rückgangs weiterhin hohe Anzahl an Bedarfsgemeinschaften",
+              "seite": "318"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Berufsausbildungsstellenmarkt: Schließen der Lehrstellenlücke",
+              "seite": "320"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Arbeitsmarktreformen oder zyklische Belebung: Worauf ist die Verbesserung auf dem Arbeitsmarkt zurückzuführen?",
+          "seite": "323",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die NAIRU als aggregierte Kennziffer der verfestigten Arbeitslosigkeit",
+              "seite": "323"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Vergleich der Aufschwungphasen: Wirken sich die Arbeitsmarktreformen bereits aus?",
+              "seite": "325"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Aktueller Aufschwung: Stärkere Zuwächse beim Arbeitsvolumen und der sozialversicherungspflichtigen Beschäftigung",
+              "seite": "328"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Aktueller Aufschwung: Markanter Rückgang der Arbeitslosigkeit",
+              "seite": "333"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erwerbspersonenpotenzial",
+              "seite": "335"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "335"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Langzeitarbeitslosigkeit und Arbeitslosigkeit im Rechtskreis des SGB II",
+              "seite": "336"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Langzeitarbeitslosigkeit",
+              "seite": "337"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosigkeit in der Grundsicherung für Arbeitsuchende",
+              "seite": "339"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Schlussbemerkungen",
+              "seite": "341"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Eine andere Meinung",
+              "seite": "341"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Arbeitsmarktpolitik",
+          "seite": "344",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Bundesagentur für Arbeit und aktive Arbeitsmarktpolitik",
+              "seite": "344"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausbau des Kinderzuschlags zu einem Erwerbstätigenzuschuss kollidiert mit der Grundsicherung für Arbeitsuchende",
+              "seite": "350"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "352"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Fachkräftemangel in Deutschland − eine Herausforderung für die Wirtschaftspolitik?",
+              "seite": "354"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fachkräftemangel − ein klärungsbedürftiger Begriff",
+              "seite": "354"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Messung und Bestandsaufnahme",
+              "seite": "355"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ursachen für einen Fachkräftemangel",
+              "seite": "357"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Handlungsbedarf und Lösungsansätze",
+              "seite": "357"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Tariflohnpolitik und Mitarbeiterbeteiligung",
+          "seite": "359",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Tariflöhne im Jahr 2007: Höhere Zuwächse bei größerem Verteilungsspielraum",
+              "seite": "359"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Zur Frage einer Tarifeinheit",
+              "seite": "361"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Die Beschlüsse des Koalitionsausschusses zum Mindestlohn: Verfehlt",
+              "seite": "364"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Mitarbeiterbeteiligung: Kein wirtschaftspolitischer Handlungsbedarf",
+              "seite": "368"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zielsetzungen",
+              "seite": "368"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Formen der Mitarbeiterbeteiligung",
+              "seite": "370"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirkungsanalyse aus theoretischer und empirischer Sicht",
+              "seite": "372"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verbreitung von Mitarbeiterbeteiligungen",
+              "seite": "376"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirtschaftspolitischer Handlungsbedarf?",
+              "seite": "377"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schlussfolgerungen",
+              "seite": "379"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "SIEBETES KAPITEL\nBeschränkung des Beteiligungserwerbs durch ausländische Investoren?",
+      "seite": "385",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einführung",
+          "seite": "386",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Deutschlands Interesse an offenen Kapitalmärkten",
+          "seite": "389",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Staatsfonds: Neue Akteure auf internationalen Kapitalmärkten?",
+          "seite": "394",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Europarechtliche Schranken",
+          "seite": "400",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "405"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Ökonomische Begründungen für Eingriffe",
+          "seite": "406",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Unternehmensspezifische Gemeinwohlinteressen",
+              "seite": "407"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Interessen an der Daseinsfürsorge",
+              "seite": "407"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Staatliche Regulierung oder eigentumsrechtliche Kompetenzen",
+              "seite": "408"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Dilemma der Privatisierung von öffentlichen Unternehmen",
+              "seite": "409"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Spielt die Identität oder die Nationalität der Eigentümer eine Rolle?",
+              "seite": "410"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Beispiel Gazprom: Ein Fall für die wettbewerbsrechtliche Fusionskontrolle",
+              "seite": "411"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "413"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Industriepolitik und „Nationale Champions“?",
+              "seite": "413"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Probleme einer aktiven Industriepolitik",
+              "seite": "414"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Regulatory Capture als Problem",
+              "seite": "416"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Strategische Industriepolitik und die Beteiligung von Ausländern an deutschen Unternehmen",
+              "seite": "416"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "418"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Allgemeine Gemeinwohlinteressen",
+              "seite": "418"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kapitalverkehrsfreiheit: Vorteile für die Kapital- und Risikoallokation",
+              "seite": "418"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Standortwettbewerb um Unternehmenssitze",
+              "seite": "421"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Macht der Aktionäre und Ohnmacht des Managements?",
+              "seite": "425"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Vorliegende Vorschläge zur Beschränkung ausländ

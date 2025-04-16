@@ -1,0 +1,260 @@
+```json
+            "seite": "429"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vorschläge in Deutschland",
+              "seite": "429"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die neuen Regelungen in den Vereinigten Staaten",
+              "seite": "432"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "434"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VII. Eine andere Meinung",
+          "seite": "435",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "ANALYSEN",
+      "seite": "439",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Das Produktionspotenzial in Deutschland: Ein Ansatz für die Mittel\nfristprognose",
+          "seite": "439",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Das Produktionspotenzial: Ein Begriff – viele Interpretationen",
+              "seite": "439"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Das Produktionspotenzial in der kurzfristigen Betrachtung",
+              "seite": "440"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Das Produktionspotenzial in der mittleren bis längeren Frist",
+              "seite": "441"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Das weiterentwickelte produktionstheoretische Verfahren des\nSachverständigenrates",
+              "seite": "442"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Bestimmung des aktuellen Produktionspotenzials",
+              "seite": "443"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bestimmung des mittelfristigen und langfristigen Produktionspotenzials",
+              "seite": "447"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Datengrundlage",
+              "seite": "449"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Ergebnisse der Potenzialschätzung für das Basisszenario",
+              "seite": "449"
+            },
+            {
+              "ueberschrift_drei_niedriger": "7. Zusammenfassung",
+              "seite": "454"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Entwicklung der personellen Einkommens- und Vermögensverteilung\nin Deutschland",
+          "seite": "455",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Einkommensverteilung",
+              "seite": "455"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Datenbasis",
+              "seite": "455"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einkommensbegriffe",
+              "seite": "455"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verteilungsmaße",
+              "seite": "456"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einkommensentwicklung und Einkommensverteilung in Deutschland",
+              "seite": "457"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umverteilung",
+              "seite": "462"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einkommensverteilung in den neuen Bundesländern und im früheren\nBundesgebiet",
+              "seite": "463"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zusammensetzung der Einkommen in Deutschland",
+              "seite": "465"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der relativen Einkommensarmut",
+              "seite": "467"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mobilitätsanalyse",
+              "seite": "471"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "473"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Vermögensverteilung",
+              "seite": "473"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zusammensetzung und Verteilung des Vermögens in Deutschland",
+              "seite": "475"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vermögensverteilung im internationalen Vergleich",
+              "seite": "477"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "478"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Die Unternehmensteuerreform 2008: Tarifbelastungen und\nKapitalkosten",
+          "seite": "480",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Effektive tarifliche Steuerbelastungen",
+              "seite": "480"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Kapitalkosten",
+              "seite": "482"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kapitalgesellschaften",
+              "seite": "482"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Selbstfinanzierung",
+              "seite": "482"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beteiligungsfinanzierung",
+              "seite": "484"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fremdfinanzierung",
+              "seite": "485"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Personenunternehmen",
+              "seite": "485"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "ANHÄNGE",
+      "seite": "489",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung",
+          "seite": "489",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft",
+          "seite": "491",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Verzeichnis der Gutachten und Expertisen des Sachverständigenrates",
+          "seite": "492",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Methodische Erläuterungen",
+          "seite": "495",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "A. Zur Berechnung der Arbeitseinkommensquote",
+              "seite": "495"
+            },
+            {
+              "ueberschrift_drei_niedriger": "B. Berechnung des lohnpolitischen Verteilungsspielraums",
+              "seite": "499"
+            },
+            {
+              "ueberschrift_drei_niedriger": "C. Abgrenzung der verdeckten Arbeitslosigkeit",
+              "seite": "504"
+            },
+            {
+              "ueberschrift_drei_niedriger": "D. Berechnung des strukturellen Defizits im disaggregierten Verfahren",
+              "seite": "508"
+            },
+            {
+              "ueberschrift_drei_niedriger": "E. Zur Konstruktion eines Index staatlich administrierter Verbraucherpreise",
+              "seite": "513"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Statistischer Anhang",
+          "seite": "518",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Erläuterung von Begriffen aus den Volkswirtschaftlichen Gesamtrechnungen für Deutschland",
+              "seite": "518"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verzeichnis der Tabellen im Statistischen Anhang",
+              "seite": "524"
+            },
+            {
+              "ueberschrift_drei_niedriger": "A. Internationale Tabellen",
+              "seite": "527"
+            },
+            {
+              "ueberschrift_drei_niedriger": "B. Tabellen für Deutschland",
+              "seite": "538"
+            },
+            {
+              "ueberschrift_drei_niedriger": "I. Makroökonomische Grunddaten",
+              "seite": "538"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Ausgewählte Daten zum System der Sozialen Sicherung",
+              "seite": "587"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Sachregister",
+      "seite": "602",
+      "zweite_ebene": [],
+      "dritte_und_niedrigere_ebene": []
+    }
+  ]
+}
+```
+
+ende_json

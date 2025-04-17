@@ -1,0 +1,660 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel\nKonjunktur: Erholung hängt vom Pandemieverlauf ab",
+      "seite": "10",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Internationale Konjunktur",
+          "seite": "12",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die Entwicklung der Weltwirtschaft in der Pandemie",
+              "seite": "12"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Die konjunkturelle Entwicklung der Weltwirtschaft bis Herbst 2020",
+              "seite": "15"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Die großen Volkswirtschaften im Einzelnen",
+              "seite": "19"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausblick",
+              "seite": "22"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Chancen und Risiken",
+              "seite": "25"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Die wirtschaftliche Entwicklung im Euro-Raum",
+              "seite": "29"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Konjunkturelle Lage",
+              "seite": "29"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Ausblick",
+              "seite": "37"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Deutsche Konjunktur",
+          "seite": "39",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Bisherige Entwicklung",
+              "seite": "39"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wirtschaft im Bann der Pandemie",
+              "seite": "40"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kräftige Erholung über den Sommer",
+              "seite": "43"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausblick",
+              "seite": "47"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Stagnation im Winterhalbjahr",
+              "seite": "47"
+            },
+            {
+              "ueberschrift_drei_niedriger": " In der Prognose berücksichtigte Auswirkungen der zweiten\nInfektionswelle",
+              "seite": "50"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Auswirkungen nach Umfang und Dauer der Einschränkungen",
+              "seite": "52"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Politik stabilisiert und stärkt Einkommen",
+              "seite": "56"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Arbeitsmarkt beweist seine Resilienz",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Hohes Defizit der öffentlichen Haushalte angesichts der Krise",
+              "seite": "64"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Mittelfrist: Demografie belastet Wachstum",
+              "seite": "66"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel\nStabilisierungspolitik in Zeiten von Corona",
+      "seite": "82",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Rolle von Geld- und Fiskalpolitik",
+          "seite": "84",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Erste Phase: Den Shutdown überbrücken helfen",
+          "seite": "85",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Pandemie beeinflusst Angebots- und Nachfrageseite",
+              "seite": "85"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Geldpolitische Lockerung und Staatsanleihemärkte",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Fiskalische Überbrückungshilfen",
+              "seite": "93"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Kurzarbeitergeld",
+              "seite": "100"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Zweite Phase: Stabilisierung und wirtschaftliche Erholung",
+          "seite": "101",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Strategien zur Stimulierung der Konjunktur",
+              "seite": "105"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wirtschaftsauslastung und geldpolitische Lockerung",
+              "seite": "105"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Diskretionäre Fiskalpolitik und Konjunkturpakete",
+              "seite": "110"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Das Konjunkturpaket der Bundesregierung",
+              "seite": "112"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Schätzung der gesamtwirtschaftlichen Wirkung",
+              "seite": "114"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Umsatzsteuerreduktion",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Investitionen",
+              "seite": "122"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Umgang mit der zweiten Infektionswelle",
+              "seite": "125"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Gesundheitspolitische Aspekte",
+              "seite": "125"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Stabilisierungspolitische Schlussfolgerungen",
+              "seite": "127"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Dritte Phase: Im Aufschwung Tragfähigkeit sichern",
+          "seite": "130",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Geldpolitik normalisieren",
+              "seite": "131"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausstieg aus den Überbrückungsmaßnahmen",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Konsolidierung der öffentlichen Haushalte",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Vorgaben der Schuldenbremse und Gestaltung der Tilgungspläne",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Nachtragshaushalte der Länder, Unterstützung der Kommunen",
+              "seite": "141"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel\nGemeinsam gestärkt aus der Krise hervorgehen",
+      "seite": "160",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Europäische Zusammenarbeit angesichts weltweiter Herausforderungen",
+          "seite": "162",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Unmittelbare wirtschaftspolitische Reaktionen auf die Corona-Pandemie",
+          "seite": "164",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Folgen der Pandemie überwinden und zukünftigen Krisen vorbeugen",
+          "seite": "170",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Den Europäischen Aufbauplan nutzen",
+              "seite": "170"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kreditfinanzierte Zuschüsse und Darlehen",
+              "seite": "170"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Begrenzter Beitrag zur Abfederung der Folgen der Corona-Pandemie",
+              "seite": "173"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Den Aufbaufonds gezielt einsetzen",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Fiskalische Spielräume wiederaufbauen und Staatsschuldenkrisen\nvorbeugen",
+              "seite": "177"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Stabilität der Banken und Finanzmärkte wahren",
+              "seite": "185"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Realwirtschaftliche Wachstumsbedingungen verbessern",
+          "seite": "190",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Wirtschaftliche Konvergenz stärken",
+              "seite": "190"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Den europäischen Binnenmarkt weiterentwickeln",
+              "seite": "193"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Handelsbeziehungen im Spannungsfeld zwischen Resilienz und Effizienz",
+              "seite": "198"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wohlfahrtssteigerungen zulassen, Protektionismus entgegentreten",
+              "seite": "198"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Folgen der Corona-Pandemie für den globalen Handel",
+              "seite": "201"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Versorgung mit medizinischen Produkten auf europäischer Ebene sicherstellen",
+              "seite": "204"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Fazit",
+          "seite": "207",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel\nKlimaschutz als industriepolitische Chance",
+      "seite": "220",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Motivation",
+          "seite": "222",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Klimapolitische Initiativen und ihre Chancen",
+          "seite": "224",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die Umsetzung globaler Klimaziele eröffnet neue Märkte",
+              "seite": "224"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Neue Initiativen auf mehreren Ebenen",
+              "seite": "226"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Europäische Initiativen",
+              "seite": "226"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Nationale Initiativen",
+              "seite": "227"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Die marktorientierten Mechanismen stärken",
+          "seite": "229",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Wirkung der anvisierten CO2-Preispfade",
+              "seite": "231"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Verzerrende Abgaben und Umlagen hinterfragen",
+              "seite": "233"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Steuerliche Belastung von Energieträgern",
+              "seite": "233"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Strompreise und deren Bestandteile für Haushalte und Industrie",
+              "seite": "235"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Effekte einer Energiepreisreform",
+              "seite": "237"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Finanzierung einer Energiepreisreform",
+              "seite": "238"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Effekte für Haushalte",
+              "seite": "244"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Effekte auf Unternehmen",
+              "seite": "247"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Green Finance",
+              "seite": "248"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Grenzausgleich",
+              "seite": "250"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Komplementäre Maßnahmen",
+          "seite": "255",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Strukturen für Forschung und Fachkräfte",
+              "seite": "255"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Forschungsstrukturen",
+              "seite": "256"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Der Bedarf an Fachkräften verändert sich",
+              "seite": "257"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Sektorspezifische Maßnahmen am Beispiel des Verkehrssektors",
+              "seite": "259"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Möglichkeiten der Emissionsreduktion im Verkehrssektor",
+              "seite": "260"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Förderung der Tank- und Ladeinfrastruktur",
+              "seite": "264"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Industriepolitische Förderung von Batteriezellen",
+              "seite": "266"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Zur Umsetzung der Wasserstoffstrategie",
+              "seite": "267"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Forschungsförderung weiter vorantreiben",
+              "seite": "268"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Die Attraktivität von Wasserstoffanwendungen stärken",
+              "seite": "269"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Nationale und internationale Kooperationen induzieren",
+              "seite": "271"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Fazit",
+          "seite": "272",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel\nProduktivitätswachstum durch Innovation: Digitalisierung vorantreiben",
+      "seite": "284",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Produktivitätswachstum durch Innovation",
+          "seite": "286",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": " Wachstumsmotor Produktivität",
+              "seite": "287"
+            },
+            {
+              "ueberschrift_drei_niedriger": " TFP-Wachstum als Maß des technologischen Fortschritts",
+              "seite": "288"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Innovationen und deren Diffusion",
+              "seite": "289"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Die Bedeutung der einzelnen Akteure im deutschen Innovationssystem",
+          "seite": "290",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Forschung und Entwicklung in öffentlichen Forschungseinrichtungen",
+              "seite": "291"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Innovationstätigkeit in Unternehmen",
+              "seite": "294"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Die Rolle von KMU und Großunternehmen im Innovationsprozess",
+              "seite": "295"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Innovationsaktivitäten deutscher KMU im europäischen Vergleich",
+              "seite": "296"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Humankapital als Voraussetzung für Innovationen in Unternehmen",
+              "seite": "300"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Finanzierung von Innovationen in Unternehmen",
+              "seite": "301"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Innovationsaktivität von Gründungen",
+              "seite": "302"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Potenziale für Produktivitätswachstum durch Digitalisierung",
+          "seite": "304",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Forschung und Innovation",
+              "seite": "305"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Innovationsaktivität in der deutschen IKT-Branche",
+              "seite": "305"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Die Rolle Deutschlands in der Vierten Industriellen Revolution",
+              "seite": "306"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Großes Wertschöpfungspotenzial digitaler Geschäftsmodelle",
+              "seite": "310"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Steigende Bedeutung von Daten für Innovationen",
+              "seite": "312"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Diffusion digitaler Technologien in Unternehmen",
+              "seite": "313"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Digitalisierungsschub durch die Corona-Krise",
+              "seite": "315"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Digitalisierung des Gesundheitssektors",
+              "seite": "316"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Digitalisierung der öffentlichen Verwaltung",
+              "seite": "318"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Digitalisierung des Bildungssystems",
+              "seite": "319"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Digitalisierung des Handels und mobiles Arbeiten",
+              "seite": "321"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Volkswirtschaftliche Auswirkungen",
+              "seite": "322"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Chancen der Digitalisierung nutzen und den Innovationsstandort stärken",
+          "seite": "325",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Ausbau der digitalen Infrastruktur",
+              "seite": "326"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausbildung digitaler Kompetenzen",
+              "seite": "328"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Potenziale der Digitalisierung nutzen",
+              "seite": "330"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Innovationsanreize stärken",
+              "seite": "333"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Sechstes Kapitel\nDemografischer Wandel: Nachhaltige Alterssicherung",
+      "seite": "350",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die alternde Gesellschaft und ihre ökonomischen Auswirkungen",
+          "seite": "352",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Fertilität",
+              "seite": "353"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Altersstruktur der Bevölkerung",
+              "seite": "355"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Herausforderungen der Bevölkerungsalterung",
+              "seite": "357"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Nachhaltige Ausgestaltung der Gesetzlichen Rentenversicherung",
+          "seite": "359",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Rentenformel und Nachholfaktor",
+              "seite": "359"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Tragfähigkeit der GRV",
+              "seite": "362"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Auswirkungen rentenpolitischer Reformen",
+              "seite": "366"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Lösungsansätze zur langfristigen Tragfähigkeit",
+              "seite": "368"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Inflationsanpassung",
+              "seite": "369"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Steigerung der Erwerbstätigkeit",
+              "seite": "370"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Einbeziehung von Selbständigen sowie Beamtinnen und Beamten",
+              "seite": "371"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Anpassung des Renteneintrittsalters",
+              "seite": "372"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Gesetzlicher und tatsächlicher Rentenzugang",
+              "seite": "376"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Anreize für längere Erwerbstätigkeit",
+              "seite": "376"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Abschlagsfreie Rente mit 63 Jahren",
+              "seite": "378"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Absicherung gegen Erwerbsunfähigkeit",
+              "seite": "383"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Altersarmut",
+          "seite": "387",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Entwicklung der Altersarmut",
+              "seite": "388"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Mütterrente",
+              "seite": "393"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Grundrente",
+              "seite": "395"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Effektive Maßnahmen gegen Altersarmut",
+              "seite": "399"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Fazit",
+          "seite": "400",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```ende_json
+

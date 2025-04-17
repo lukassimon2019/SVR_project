@@ -1,0 +1,312 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung",
+      "seite": "1",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Überblick",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Außenwirtschaft",
+          "seite": "8",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Der internationale Rahmen",
+              "seite": "8"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der Ausfuhr",
+              "seite": "12"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der Einfuhr",
+              "seite": "16"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außenhandelspreise, Auslandspreise und Wettbewerbsposition",
+              "seite": "20"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Warenverkehr zwischen den Währungsgebieten der DM-West und der DM-Ost",
+              "seite": "23"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Investitionen",
+          "seite": "24",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Ausrüstungsinvestitionen",
+              "seite": "24"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vorratsinvestitionen",
+              "seite": "32"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bauinvestitionen",
+              "seite": "33"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Produktion und Produktivität",
+          "seite": "39",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Produktion",
+              "seite": "40"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigung",
+              "seite": "46"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Produktivität",
+              "seite": "49"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kosten",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erzeugerpreise",
+              "seite": "55"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Produktivitätsfördernde Maßnahmen",
+              "seite": "55"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Einkommen",
+          "seite": "58",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Lohneinkommen",
+              "seite": "60"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reallöhne und Produktivität",
+              "seite": "64"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unternehmer- und Kapitaleinkommen",
+              "seite": "66"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Belastung des Einkommens",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Übertragene Einkommen",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verfügbares Einkommen",
+              "seite": "69"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Verbrauch und Ersparnis der privaten Haushalte",
+          "seite": "70",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "VII. Öffentliche Finanzen",
+          "seite": "75",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Die öffentlichen Haushalte 1967",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mittelfristige Finanzplanung",
+              "seite": "84"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VIII. Finanzierung: Geld-, Kredit- und Kapitalmärkte",
+          "seite": "86",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Bankengeldmarkt und Notenbankpolitik",
+              "seite": "87"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bankkredite, Geldkapitalbildung bei Banken, Geldvolumen",
+              "seite": "93"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kapitalmarkt",
+              "seite": "100"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zahlungsbilanz",
+              "seite": "107"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IX. Preisniveau",
+          "seite": "109",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Überblick",
+              "seite": "109"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Kern des Inflationsprozesses",
+              "seite": "115"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fortschreitende Gewöhnung an die Inflation",
+              "seite": "118"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die voraussebare Entwicklung",
+      "seite": "123",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Nachfrage",
+          "seite": "124",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Beschäftigung und Produktivität",
+          "seite": "126",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Preise",
+          "seite": "129",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Gegen Fehlentwicklungen - Für Währungsstabilität und Wachstum",
+      "seite": "133",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Überblick",
+          "seite": "133",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Konzertierte Aktion: Konzeption und Reaktion",
+          "seite": "139",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Die wirtschaftspolitischen Lehren des Jahres 1966",
+          "seite": "141",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Der Entwurf eines Gesetzes zur Förderung der wirtschaftlichen Stabilität",
+          "seite": "143",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "V. Stabilisierungspolitik ohne Illusionen",
+          "seite": "145",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "VI. Wege zur Währungsstabilität",
+          "seite": "147",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Gehärteter Devisenstandort",
+              "seite": "147"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Möglichkeiten der wechselkurspolitischen Absicherung oder Abstützung einer konzertierten Stabilisierungsaktion",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zusammenfassung",
+              "seite": "159"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VII. Kontrollierte Expansion",
+          "seite": "161",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Alternativprojektion I",
+              "seite": "165"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Alternative Projektionen für 1967",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Alternativprojektion II",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Alternativprojektion III",
+              "seite": "167"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Vierter Kapitel: Einzelprobleme einer stabilitätskonformen Einkommenspolitik",
+      "seite": "170",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Die Berücksichtigung von Preissteigerungen",
+          "seite": "171",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Die Berücksichtigung der Kapitalkosten",
+          "seite": "173",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Die Berücksichtigung vermögenswirksamer Zuschläge auf das Arbeitseinkommen",
+          "seite": "174",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Zur Frage der Lohndrift",
+          "seite": "177",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Kurzfristige versus mittelfristige Produktivitätsfortschritte",
+          "seite": "179",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Zur Entwicklung der Arbeitseinkommen 1958 bis 1965",
+          "seite": "181",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+ende_json
+
+

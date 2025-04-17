@@ -1,0 +1,229 @@
+gestaltung des Arbeitslosengelds",
+              "seite": "321"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weitere Korrekturen",
+              "seite": "321"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ein zielführendes Kombilohnmodell",
+              "seite": "322"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Beseitigung der Privilegierung bestimmter Formen atypischer Beschäftigung",
+              "seite": "323"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Attraktivität von Minijobs reduzieren",
+              "seite": "323"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Midijobs: Gleitzone ausbauen",
+              "seite": "324"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Leiharbeit: Kein Korrekturbedarf",
+              "seite": "325"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Flexibilisierung des Tarifvertragsrechts",
+              "seite": "325"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kollektive Lohnverhandlungen: Vor- und Nachteile",
+              "seite": "326"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Probleme des rechtlichen Rahmenwerks",
+              "seite": "328"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung zum Günstigkeitsprinzip",
+              "seite": "331"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung zum Mindestlohn",
+              "seite": "337"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Fazit",
+          "seite": "343",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung zur Lohn- und Arbeitsmarktpolitik",
+              "seite": "345"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Noch mehr Markt am Arbeitsmarkt?",
+              "seite": "345"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wie erfolgreich waren die letzten Jahre?",
+              "seite": "346"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Löhne sind zu wenig gestiegen",
+              "seite": "348"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Deutschlands Sonderweg bei den Mindestlöhnen",
+              "seite": "349"
+            },
+            {
+              "ueberschrift_drei_niedriger": "„Flexibilisierung“ für alle?",
+              "seite": "350"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Negative Einkommensteuer statt Kombilohn",
+              "seite": "350"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "SECHSTES KAPITEL\nSoziale Sicherung: Wider der Halbherzigkeit",
+      "seite": "355",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Gesetzliche Rentenversicherung: Glaubwürdigkeit erhalten",
+          "seite": "356",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Weiterhin Entspannung bei der Finanzlage in der Rentenversicherung",
+              "seite": "357"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einnahmen: Deutlicher Anstieg trotz Konjunktureintrübung",
+              "seite": "357"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgaben: Mehrausgaben durch außerplanmäßige Rentenerhöhung",
+              "seite": "358"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der Nachhaltigkeitsrücklage",
+              "seite": "358"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Stärkere Erhöhung der Rentenanpassung durch Aussetzen der\n„Riester-Treppe“",
+              "seite": "359"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Vereinheitlichung der Rentenberechnung in Deutschland",
+              "seite": "365"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Übergangsregelungen bei der Rentenberechnung",
+              "seite": "366"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Übergangsregelungen bei der Ermittlung der Entgeltpunkte",
+              "seite": "367"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Übergangsregelungen bei der Rentenanpassung",
+              "seite": "369"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stand der Rentenüberleitung",
+              "seite": "370"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Möglichkeiten für eine Vereinheitlichung der Rentenberechnung",
+              "seite": "375"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Angleichung der aktuellen Rentenwerte",
+              "seite": "375"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umbasierung der rentenrechtlich relevanten Größen auf\nbundeseinheitliche Größen",
+              "seite": "376"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Risiken einer zunehmenden Altersarmut nicht verdrängen",
+              "seite": "378"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Gesundheitspolitik: Fehler beseitigen – weitere Schritte unerlässlich",
+          "seite": "386",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gesetzliche Krankenversicherung: Annähernd ausgeglichene\nFinanzsituation",
+              "seite": "386"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der Einnahmen und Ausgaben",
+              "seite": "387"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beitragssatzentwicklung und Start des Gesundheitsfonds",
+              "seite": "388"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Handlungsbedarf im Gesundheitswesen",
+              "seite": "393"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Über den Gesundheitsfonds zur Bürgerpauschale",
+              "seite": "394"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein einheitlicher Krankenversicherungsmarkt",
+              "seite": "395"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wachstums- und beschäftigungsfreundliche Beitragsgestaltung",
+              "seite": "396"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umsetzung",
+              "seite": "398"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgabenseitiger Reformbedarf",
+              "seite": "399"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Monistische Krankenhausfinanzierung",
+              "seite": "399"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Versorgungsformneutrale Vergütung von Gesundheitsleistungen",
+              "seite": "405"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wettbewerbsorientiertere Distribution von Arzneimitteln",
+              "seite": "406"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Soziale Pflegeversicherung: Die Chance vertan",
+          "seite": "406",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Arbeitslosenversicherung: Nachhaltigkeit gewährleisten",
+          "seite": "409",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Finanzielle Lage: Eine rote Null",
+              "seite": "409"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ende der staatlichen Förderung von Altersteilzeit",
+              "seite": "413"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+ende_json

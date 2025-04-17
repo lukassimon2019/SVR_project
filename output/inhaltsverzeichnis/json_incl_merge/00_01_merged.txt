@@ -1,0 +1,463 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Chancen auf einen höheren Wachstumspfad",
+      "seite": "1",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Solider Aufschwung",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Die voraussichtliche Entwicklung im Jahre 2001",
+              "seite": "5"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Verbesserte Ausgangsbedingungen – fortdauernde Zielverfehlungen am Arbeitsmarkt",
+          "seite": "6",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Lohnpolitik und Arbeitsmarktordnung: Den eingeschlagenen Weg fortsetzen – die neuen Herausforderungen annehmen",
+              "seite": "7"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Gesetzliche Rentenversicherung: Vor einer durchgreifenden Reform",
+              "seite": "8"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gesundheitspolitik: Nach der Reform ist vor der Reform",
+              "seite": "10"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitik: Die wachstumsfreundliche Orientierung beibehalten",
+              "seite": "11"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Europäische Geldpolitik: Der Preisniveaustabilität verpflichtet",
+              "seite": "13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die wirtschaftliche Lage im Jahre 2000",
+      "seite": "15",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Weltwirtschaft: Gute konjunkturelle Entwicklung",
+          "seite": "15",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin kräftige Expansion in den Vereinigten Staaten",
+              "seite": "15"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erholung in Japan unsicher",
+              "seite": "18"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Aufstrebende Volkswirtschaften im Aufwind",
+              "seite": "20"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Zur Bedeutung der Aktienpreisentwicklung",
+              "seite": "26"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Europäische Union: Aufschwung mit Kraft",
+          "seite": "37",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die gesamtwirtschaftliche Entwicklung",
+              "seite": "37"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Europaweiter Aufschwung",
+              "seite": "37"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beitrittskandidaten: Konjunktur in der EU strahlt positiv aus",
+              "seite": "45"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die monetäre Lage im Euro-Raum",
+              "seite": "48"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Deutschland: Der Aufschwung hat sich fortgesetzt",
+          "seite": "63",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Expansion nach klassischem Muster",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bessere Auslastung der Produktionskapazitäten",
+              "seite": "64"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwungvolle Exportentwicklung",
+              "seite": "66"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Langsamer Anstieg des Konsums",
+              "seite": "69"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bauinvestitionen brechen erneut ein",
+              "seite": "71"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausdehnung des Angebotsspielraums",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lebhafte Entwicklung der Ausrüstungsinvestitionen",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Produktionspotential",
+              "seite": "75"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Negative außenwirtschaftliche Einflüsse auf das Preisniveau",
+              "seite": "75"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Belebung am Arbeitsmarkt",
+              "seite": "79"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigung – Zunahme nur in Westdeutschland",
+              "seite": "79"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosigkeit sinkt",
+              "seite": "80"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitskräftemangel und Green-Card-Verordnung",
+              "seite": "83"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Aktive Arbeitsmarktpolitik auf hohem Ausgabenniveau",
+              "seite": "84"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entspannung auf dem Berufsausbildungsstellenmarkt",
+              "seite": "85"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Tarifabschlüsse produktivitätsorientiert",
+              "seite": "86"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entgeltdifferenzierung innerhalb der Tarifstruktur",
+              "seite": "92"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Öffentliche Finanzen: Erkennbare Konsolidierungsfortschritte",
+              "seite": "94"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außerordentliche Einnahmen durch Versteigerungserlöse",
+              "seite": "94"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schuldenstände unverändert hoch",
+              "seite": "99"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steueraufkommen gestiegen",
+              "seite": "99"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Haushalte – Konsolidierung bei Bund und Ländern",
+              "seite": "103"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steuerreform 2000",
+              "seite": "104"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Mischfinanzierung – umfangreich, aber wenig beachtet",
+              "seite": "108"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Haushaltsentwicklung in der Sozialversicherung",
+              "seite": "111"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Ostdeutschland: Zuversicht ist begründet",
+          "seite": "115",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Konvergenz und Strukturwandel",
+              "seite": "116"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anhaltende Strukturprobleme am Arbeitsmarkt",
+              "seite": "124"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Hoffnungsträger Neue Ökonomie?",
+          "seite": "127",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Neue Technologien und Produktivitätsfortschritt in den Vereinigten Staaten",
+              "seite": "127"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rückstand in Deutschland",
+              "seite": "132"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Technologiefreundliche Rahmenbedingungen",
+              "seite": "135"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs I: Netzwerkeffekte und Wettbewerb in der Softwareindustrie",
+              "seite": "140"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs II: Phillipskurve und Neue Ökonomie",
+              "seite": "143"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs III: Neue Ökonomie – Herausforderungen an die Geldpolitik",
+              "seite": "145"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. EU-Osterweiterung – Die Voraussetzungen schaffen",
+          "seite": "146",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Kriterien für die Aufnahme der Beitrittskandidaten",
+              "seite": "146"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirtschaftliche Integration der Beitrittskandidaten",
+              "seite": "147"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirtschaftspolitische Problembereiche in den Beitrittsverhandlungen",
+              "seite": "153"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Institutionelle Reformen der Europäischen Union",
+              "seite": "158"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Die voraussichtliche Entwicklung im Jahre 2001",
+      "seite": "161",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Überblick",
+          "seite": "161",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Ausgangslage und Annahmen der Prognose",
+          "seite": "161",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Das weltwirtschaftliche Umfeld",
+          "seite": "164",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Die Entwicklung in Europa",
+          "seite": "164",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "V. Die wirtschaftlichen Aussichten für Deutschland",
+          "seite": "165",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Grundlinien der Wirtschaftspolitik",
+      "seite": "174",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Verbesserte Ausgangsbedingungen – fortdauernde Zielverfehlung am Arbeitsmarkt",
+          "seite": "174",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Über die Aufgabenteilung und Politikmischung",
+          "seite": "176",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Offensiv die Globalisierung und den technologischen Umbruch annehmen",
+          "seite": "180",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Globalisierter Wettbewerb – weitere Reformen unabweisbar",
+              "seite": "181"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neue Ökonomie – neue Herausforderungen",
+              "seite": "182"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Flankierung durch eine moderne Einwanderungspolitik",
+          "seite": "186",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel: Die Politikbereiche im Einzelnen",
+      "seite": "189",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Europäische Geldpolitik: Der Preisniveaustabilität verpflichtet",
+          "seite": "189",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Mit Zinserhöhungen auf Kurs",
+              "seite": "189"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die mittelfristige Orientierung bekräftigen",
+              "seite": "190"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldwertsicherung durch Euro-Abwertung erschwert",
+              "seite": "194"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Gleichgewichtige Wechselkurse",
+              "seite": "195"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Finanzpolitik: Die wachstumsfreundliche Orientierung beibehalten",
+          "seite": "197",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Steuerreform 2000: Verlässliche Bedingungen sind gesetzt",
+              "seite": "198"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unerledigte steuerpolitische Aufgaben",
+              "seite": "200"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die ökologische Steuerreform: Den Lenkungscharakter stärken",
+              "seite": "205"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsolidierung beherzter angehen",
+              "seite": "206"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform des Finanzausgleichs",
+              "seite": "208"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Lohnpolitik: Den eingeschlagenen Weg fortsetzen – die neuen Herausforderungen annehmen",
+          "seite": "212",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosigkeit nach wie vor bedrückend",
+              "seite": "212"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Moderate Lohnpolitik – ein Anfang ist gemacht",
+              "seite": "213"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Angemessene Lohndifferenzierung – eine ständige Aufgabe",
+              "seite": "215"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Am Arbeitsmarkt auf die Neue Ökonomie zugehen",
+              "seite": "217"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Institutionelle Wege zu einer dezentraleren Lohnfindung",
+              "seite": "221"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Die Gesetzliche Rentenversicherung: Vor einer durchgreifenden Reform",
+          "seite": "222",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Schritte in die richtige Richtung",
+              "seite": "222"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Strukturelemente der Reform",
+              "seite": "225"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Robustheit der Ergebnisse",
+              "seite": "231"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ansätze für Verbesserungen",
+              "seite": "233"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Gesundheitspolitik: Nach der Reform ist vor der Reform",
+          "seite": "237",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Ziele und Befunde",
+              "seite": "237"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fehlanreize und Organisationsmängel",
+              "seite": "242"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reformkonzeption I: Systemwechsel",
+              "seite": "245"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reformkonzeption II: Systemevolution",
+              "seite": "249"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+ende_json
+
+

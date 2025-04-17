@@ -1,0 +1,649 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel\nWirtschaftspolitik: Zukunftsfähigkeit in den Mittelpunkt",
+      "seite": "6",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Neue Herausforderungen",
+          "seite": "7",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Konjunkturelle Erholung, expansive Geldpolitik",
+          "seite": "9",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Bewältigung der Flüchtlingsmigration",
+          "seite": "12",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Szenarien für Erwerbspotenzial und Ausgaben",
+              "seite": "14"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Politikimplikationen für eine erfolgreiche Integration",
+              "seite": "17"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Wege zu mehr Stabilität in Europa",
+          "seite": "20",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Fehlende Elemente der Euro-Architektur",
+              "seite": "20"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Grundzüge einer Insolvenzordnung",
+              "seite": "22"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Entprivilegierung von Forderungen gegenüber Staaten",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Mehr Finanzintegration in Europa",
+              "seite": "30"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Voraussetzungen für mehr Wachstum in Deutschland",
+          "seite": "31",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. TTIP: Handelserleichterungen und Investitionsschutz",
+              "seite": "32"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Weitere Steuerreformen gegen wohlfahrtsmindernde\nVerzerrungen",
+              "seite": "34"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Anreizkonforme Arbeitsmarkt- und Bildungspolitik",
+              "seite": "35"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Wirtschaftsverträglicher Klimaschutz",
+              "seite": "36"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Effizienzsteigerungen im Krankenhausbereich",
+              "seite": "37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel\nInternationale Konjunktur: Im Spannungsfeld gegenläufiger\nGeldpolitik",
+      "seite": "46",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Weltwirtschaft: Moderates Wachstum",
+          "seite": "48",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Konjunkturelle Lage",
+              "seite": "48"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Geldpolitische Zweiteilung in den Industrieländern",
+              "seite": "48"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wachstumstempo der Schwellenländer sinkt",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausblick",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Chancen und Risiken",
+              "seite": "60"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Konjunktur außerhalb des Euro-Raums",
+          "seite": "62",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Vereinigte Staaten: Geldpolitik verunsichert",
+              "seite": "62"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. China: Keine harte Landung erwartet",
+              "seite": "65"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Japan: Demografie dämpft Potenzialwachstum",
+              "seite": "68"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Vereinigtes Königreich: Zinswende birgt Risiken",
+              "seite": "70"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Euro-Raum: Sonderfaktoren treiben Konjunkturerholung",
+          "seite": "72",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Konjunkturelle Lage",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Geldpolitik verschleiert Grunddynamik",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Ausblick",
+              "seite": "79"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel\nDeutschland: Aufschwung hält an, Risiken erhöht",
+      "seite": "82",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Überblick",
+          "seite": "84",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Privater Konsum trägt den Konjunkturaufschwung",
+              "seite": "84"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Die Stimmung in der deutschen Wirtschaft",
+              "seite": "86"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausblick",
+              "seite": "89"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Die Entwicklung im Einzelnen",
+          "seite": "95",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Rahmenbedingungen und Annahmen der Prognose",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Anstieg der Exporte trotz Abschwung in China",
+              "seite": "100"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Exportentwicklung trübt Unternehmensinvestitionen",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Stabiler Arbeitsmarkt stützt privaten Konsum",
+              "seite": "103"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Schwacher Verbraucherpreisanstieg",
+              "seite": "106"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Arbeitsmarkt: Weitere Beschäftigungsgewinne",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "7. Öffentliche Finanzen: Weiterhin Überschüsse",
+              "seite": "110"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Mittelfristprognose",
+          "seite": "113",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel\nEuro-Raum: Anleihekäufe verlangsamen, Reformen\nbeschleunigen",
+      "seite": "124",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Streit über den Weg zu mehr Wachstum",
+          "seite": "126",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Von fallenden Energiepreisen zu umfangreichen Staatsanleihekäufen",
+          "seite": "129",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Inflationsentwicklung und Energiepreise",
+              "seite": "129"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Negative Zinsen und die Ausweitung der EZB-Bilanz",
+              "seite": "131"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Auswirkungen",
+              "seite": "135"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Einordnung und Risiken der Geldpolitik",
+              "seite": "141"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Zwischenfazit",
+              "seite": "145"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Realzins und Stagnationsthese",
+          "seite": "146",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Negative Realzinsen gab es schon öfter",
+              "seite": "146"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Gleichgewichtszins und säkulare Stagnation",
+              "seite": "147"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Empirische Evidenz zum Gleichgewichtszins",
+              "seite": "149"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Reformen und Konsolidierung nicht aufschieben",
+          "seite": "153",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Heterogenität im Euro-Raum spricht für Reformen",
+              "seite": "153"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Erneute Rufe nach Konjunkturpaketen",
+              "seite": "157"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Zinsuntergrenze kein Grund für Reformaufschub",
+              "seite": "159"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Fazit",
+          "seite": "161",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel\nRisiken durch Niedrigzinsen, Chancen durch die\nKapitalmarktunion",
+      "seite": "178",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Stabilitätsrisiken durch Niedrigzinsen",
+          "seite": "180",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Folgen der Niedrigzinsen für Banken und Versicherer",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Vermögenspreise: Hinweise auf Blasenbildung?",
+              "seite": "185"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Risiken für die Finanzstabilität",
+              "seite": "189"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Regulatorische Antworten auf die Niedrigzinsphase",
+              "seite": "195"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Fazit",
+              "seite": "200"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Europäische Kapitalmarktunion: Finanzierungshürden\nüberwinden",
+          "seite": "201",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Ziele der Europäischen Kapitalmarktunion",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Diversifikation der Finanzierungsquellen sinnvoll",
+              "seite": "204"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Nachhaltige finanzielle Integration wünschenswert",
+              "seite": "208"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Schuldenüberhang hemmt Investitionen",
+              "seite": "210"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Fazit",
+              "seite": "212"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Sechstes Kapitel\nArbeitsmarkt- und Sozialpolitik vor neuen Heraus-\nforderungen",
+      "seite": "226",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Eine gute Ausgangslage",
+          "seite": "228",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Sichere Beschäftigung, verfestigte Arbeitslosigkeit",
+              "seite": "228"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Stabile Verteilungsergebnisse",
+              "seite": "231"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Die Wachstumswirkungen von Ungleichheit",
+              "seite": "236"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Eine ganzheitliche Perspektive",
+              "seite": "239"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Zwischenfazit",
+              "seite": "240"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Neue Herausforderungen",
+          "seite": "241",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die Integration von Flüchtlingen",
+              "seite": "241"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Verhaltene Arbeitsmarktaussichten für Flüchtlinge",
+              "seite": "243"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Szenarien zur Arbeitsmarktintegration von Flüchtlingen",
+              "seite": "245"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Erste Erfahrungen mit dem Mindestlohn",
+              "seite": "249"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Möglichkeiten und Grenzen der Evaluation",
+              "seite": "252"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Innovative Arbeitswelten",
+              "seite": "256"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Zwischenfazit",
+              "seite": "258"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Wirtschaftspolitische Optionen",
+          "seite": "259",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Chancengerechtigkeit in den Mittelpunkt rücken",
+              "seite": "259"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Anpassungen am Arbeitsmarkt",
+              "seite": "262"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wohlstand und Fortschritt erfassen",
+              "seite": "265"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Siebtes Kapitel\nProduktivität: An den Ursachen ansetzen",
+      "seite": "282",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Trends in der Arbeitsproduktivität",
+          "seite": "284",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gesamtwirtschaftliche Bestandsaufnahme",
+              "seite": "285"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Outsourcing im Verarbeitenden Gewerbe zu Ende?",
+              "seite": "291"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wettbewerbshemmnisse bei den Dienstleistungen",
+              "seite": "298"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Zwischenfazit",
+              "seite": "303"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Produktivität und Investitionen",
+          "seite": "303",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Diskussionen über Symptome",
+              "seite": "303"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Wechselbeziehung von Investitionen und Produktivität",
+              "seite": "306"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Zwischenfazit",
+              "seite": "307"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Digitalisierung und Produktivität",
+          "seite": "308",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Einfluss auf die Gesamtwirtschaft",
+              "seite": "308"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Industrie 4.0 als die vierte industrielle Revolution?",
+              "seite": "311"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Rolle der Wirtschaftspolitik",
+              "seite": "313"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Innovationsaktivität Deutschlands",
+          "seite": "315",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Einschätzung der Innovationstätigkeit",
+              "seite": "315"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Herausforderungen des demografischen Wandels",
+              "seite": "316"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Junge Unternehmen und Gründungsfinanzierung",
+              "seite": "319"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Fazit",
+          "seite": "322",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Achtes Kapitel\nÖffentliche Finanzen: Fehlende Neutralität im\nSteuersystem hemmt Investitionen und Wachstum",
+      "seite": "336",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Fiskalische Freiräume sinnvoll nutzen",
+          "seite": "338",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Effizienzerhöhung möglich und nötig",
+          "seite": "339",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Verzerrungen bei Investitionsentscheidungen",
+              "seite": "339"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Konzepte für einen Abbau der Verzerrungen",
+              "seite": "340"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Die Zinsbereinigung des Grundkapitals",
+              "seite": "343"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Keine guten Alternativen zur Zinsbereinigung",
+              "seite": "346"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Handlungsbedarf trotz Niedrigzinsphase",
+              "seite": "346"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Steuerreformen in Deutschland",
+          "seite": "347",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Überblick",
+              "seite": "347"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Einkommen- und Gewinnsteuern",
+              "seite": "348"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Arbeitnehmer",
+              "seite": "348"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Veräußerungsgewinne von Privatpersonen",
+              "seite": "351"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kapitalgesellschaften und ihre Anteilseigner",
+              "seite": "351"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Personengesellschaften",
+              "seite": "354"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Erbschaftsteuer und andere Vermögensteuern",
+              "seite": "355"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Auswirkungen der Steuerreformen",
+          "seite": "357",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Positive Effekte der Reformen",
+              "seite": "357"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Effektivbelastung ist gesunken",
+              "seite": "357"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Positive Anreizwirkungen und Einnahmeentwicklung",
+              "seite": "359"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wachstums- und Wohlfahrtseffekte",
+              "seite": "361"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Negative Effekte der Reformen",
+              "seite": "362"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Fehlende Finanzierungsneutralität hemmt Investitionen",
+              "seite": "362"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Fehlende Rechtsformneutralität",
+              "seite": "366"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Wirtschaftspolitisches Fazit",
+          "seite": "368",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Unternehmensteuern",
+              "seite": "368"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Keine Erhöhung der Einkommensteuer",
+              "seite": "370"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Erbschaftsteuer und andere Vermögensteuern",
+              "seite": "373"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```ende_json

@@ -1,0 +1,335 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Eine kürzere Fassung",
+      "seite": "1",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "15",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "TEIL A: Der internationale Rahmen",
+          "seite": "15",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Überschuldung in der Welt",
+              "seite": "15"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Anhaltende Stagnation in den westlichen Industrieländern",
+              "seite": "17"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Noch Rezession in den Vereinigten Staaten",
+              "seite": "17"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stockung auch in Japan",
+              "seite": "17"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsolidierungsanstrengungen in Europa",
+              "seite": "20"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Störungen an den Finanzmärkten",
+              "seite": "24"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Handlungsspielraum der Geldpolitik begrenzt",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Dollarstärke dominiert Devisenmärkte",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Protektionismus: Gefahren für den Welthandel",
+              "seite": "28"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Europäische Gemeinschaft: Keine neuen Perspektiven",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Haushalt: Umstrittene Prioritäten",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Europäisches Währungssystem im Zeichen häufigerer Leitkursänderungen",
+              "seite": "31"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "TEIL B: Die Binnenkonjunktur 1982",
+          "seite": "38",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Im Zeichen rezessiver Einflüsse von außen",
+              "seite": "38"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mangelnde Widerstandskraft gegen rezessive Auslandseinflüsse",
+              "seite": "38"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erneuter Produktionsrückgang",
+              "seite": "45"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Verschärfte Probleme am Arbeitsmarkt",
+              "seite": "48"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unverminderter Beschäftigungsrückgang",
+              "seite": "50"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wachsende Ungleichgewichte am Arbeitsmarkt",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Jugendarbeitslosigkeit: ein drängendes Problem",
+              "seite": "59"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarktpolitik unter dem Druck finanzieller Engpässe",
+              "seite": "60"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Nur wenig nachlassender Preisauftrieb",
+              "seite": "62"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Einkommensverteilung unter dem Einfluß abnehmender Beschäftigung",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verbesserte Ertragslage der Unternehmen",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Höhere Abgabenlast, höhere Renten und mehr Empfänger von Transfereinkommen",
+              "seite": "70"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Abbau des außenwirtschaftlichen Ungleichgewichts",
+              "seite": "73"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Leistungsbilanz knapp ausgeglichen",
+              "seite": "75"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Abflüsse im langfristigen Kapitalverkehr",
+              "seite": "77"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wertzuwachs der D-Mark trotz Schwäche gegenüber dem Dollar",
+              "seite": "79"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Geldpolitik: Rückkehr auf einen potentialorientierten Pfad",
+              "seite": "80"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zentralbankgeldmenge beschleunigt ausgeweitet",
+              "seite": "80"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Feinsteuerung am Geldmarkt",
+              "seite": "87"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Uneinheitliche monetäre Expansion",
+              "seite": "89"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwächere Kreditausweitung",
+              "seite": "92"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beginnende Normalisierung am Kapitalmarkt",
+              "seite": "93"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VII. Finanzpolitik: Rezession verdeckt Konsolidierung",
+              "seite": "97"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsolidierung der öffentlichen Haushalte umstritten",
+              "seite": "97"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Haushalterisiken",
+              "seite": "104"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Abnehmende Nachfrageimpulse",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Frage der konjunkturellen Impulse und der Normalverschuldung des Staates",
+              "seite": "111"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Zur voraussichtlichen Entwicklung im Jahre 1983",
+      "seite": "122",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Weltkonjunktur im Jahre 1983",
+          "seite": "122",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die Binnenkonjunktur im Jahre 1983",
+          "seite": "124",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Die Ausgangssituation Ende 1982",
+              "seite": "124"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Noch einmal: Die Grundlinie der Prognose im Sondergutachten vom Oktober 1982",
+              "seite": "124"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Im ganzen kein Anlaß zur Revision der Prognose",
+              "seite": "126"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Aufgaben für den Markt und für den Staat",
+      "seite": "133",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Wirtschaftspolitik für 1983 und danach",
+          "seite": "133",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Grundlinien",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lohnpolitik",
+              "seite": "140"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitik",
+              "seite": "144"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geld- und Währungspolitik",
+              "seite": "150"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Steuerungsfehler im Marktprozeß",
+          "seite": "153",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Staatliche Transfers",
+              "seite": "154"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Interventionen und Subventionen",
+              "seite": "155"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Energiesparen und Fernwärmeausbau",
+              "seite": "156"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schutz und Förderung der deutschen Steinkohle",
+              "seite": "157"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anpassung mit Staatshilfe: Stahl",
+              "seite": "158"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anpassung ohne Staatshilfe: Mineralölverarbeitung",
+              "seite": "161"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anreizstörungen bei Innovatoren",
+              "seite": "161"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Auch ein Bauherren-Modell",
+          "seite": "162",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Das Beispiel",
+              "seite": "164"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ergänzende Würdigung durch die Mehrheit des Sachverständigenrates",
+              "seite": "172"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Bauherren-Modell: Wichtige Fragen bleiben offen",
+              "seite": "176"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Finanzpolitik für mehr Investitionen",
+      "seite": "180",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Vermeidung der Besteuerung von Scheingewinnen",
+          "seite": "180",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Steuerliche Erleichterung von Produktionsumwegen",
+          "seite": "186",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Risikokapital bilden",
+          "seite": "186",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Risikokapital in Arbeitnehmerhand",
+          "seite": "189",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Steuerliche Förderung der Selbstfinanzierung",
+          "seite": "190",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Finanzierungshilfen für junge Unternehmen",
+          "seite": "191",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Für einen funktionsfähigen Markt für Beteiligungskapital",
+          "seite": "192",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```ende_json

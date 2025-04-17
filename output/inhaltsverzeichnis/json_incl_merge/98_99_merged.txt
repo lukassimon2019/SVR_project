@@ -1,0 +1,517 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Vor weitreichenden Entscheidungen",
+      "seite": "1",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Aufschwung zwischen Hoffen und Bangen",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Neue Rahmenbedingungen durch die Europäische Währungsunion",
+          "seite": "6",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Zur Orientierung der Wirtschaftspolitik",
+          "seite": "8",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Was zu tun ist",
+          "seite": "9",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitik: Steuern senken, Haushalte konsolidieren",
+              "seite": "9"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sozialpolitik: Am Grundsatz der Fairness orientieren",
+              "seite": "10"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lohnpolitik: Beschäftigungsorientiert bleiben",
+              "seite": "11"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bildungspolitik: Hochschulbereich umfassend reformieren",
+              "seite": "12"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Technologiepolitik: Ordnungspolitisch fundieren",
+              "seite": "13"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umweltpolitik: Ökologische Steuerreform ökologisch ausrichten",
+              "seite": "13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die wirtschaftliche Lage im Jahre 1998",
+      "seite": "15",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Weltwirtschaftliches Umfeld: Verunsicherung durch Finanzkrisen",
+          "seite": "15",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Neueinschätzung der Schwellenländer nach der Asien-Krise?",
+              "seite": "16"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rußland: Scheitert der Transformationsprozeß?",
+              "seite": "24"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gravierende Angebotsprobleme in Japan",
+              "seite": "25"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nordamerika: Binnenwirtschaftliche Kräfte behalten die Oberhand",
+              "seite": "28"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Europäische Union: Aufwärtsbewegung trotz weltwirtschaftlicher Belastungen",
+          "seite": "30",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Konjunkturaufschwung im Euro-Währungsraum",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigungspolitik in der Europäischen Union",
+              "seite": "36"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Situation der mittel- und osteuropäischen Beitrittskandidaten",
+              "seite": "40"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Deutschland: Konjunkturaufschwung setzte sich fort – Lage am Arbeitsmarkt bleibt unverändert ernst",
+          "seite": "46",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Allmähliche Belebung der Binnennachfrage",
+              "seite": "46"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausfuhr weiterhin bedeutsam",
+              "seite": "52"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Belebung des Privaten Verbrauchs",
+              "seite": "57"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bauinvestitionen nach wie vor rückläufig",
+              "seite": "59"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Preisniveaustabilität erreicht",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Vor einer neuen Investitionsdynamik?",
+              "seite": "65"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Investitionstätigkeit in Deutschland belebt sich",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gewinnentwicklung verbessert Investitionsbedingungen",
+              "seite": "70"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Keine grundlegende Besserung am Arbeitsmarkt",
+              "seite": "79"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ende des Rückgangs der Erwerbstätigkeit",
+              "seite": "79"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Keine Entwarnung bei der Arbeitslosigkeit",
+              "seite": "84"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Neue Bundesländer: Entwicklung in der Industrie eröffnet Chancen für den weiteren Aufbauprozeß",
+              "seite": "90"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Dynamik im Verarbeitenden Gewerbe hält an",
+              "seite": "90"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Regionale Entwicklungsunterschiede",
+              "seite": "97"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weitere Festigung im Unternehmensbereich",
+              "seite": "99"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Angebotsbedingungen in Deutschland: Licht, aber auch Schatten",
+          "seite": "104",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Günstiges monetäres Umfeld zu Beginn der neuen Geldordnung",
+              "seite": "105"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldmengenexpansion zielkonform",
+              "seite": "105"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsolidierung an den Aktienmärkten",
+              "seite": "109"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anpassungen an die neue Währungsordnung",
+              "seite": "115"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Zurückhaltung bei den Tariflöhnen – geringe Fortschritte bei der Flexibilisierung",
+              "seite": "117"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Früheres Bundesgebiet: Überwiegend moderate Tariflohnabschlüsse",
+              "seite": "117"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neue Bundesländer: Anhaltende Lohnangleichung trotz hoher Arbeitslosigkeit",
+              "seite": "123"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitseinkommensquote in Deutschland weiter rückläufig",
+              "seite": "127"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Hohe Abgabenbelastung – Spannungen in den öffentlichen Haushalten",
+              "seite": "127"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Staatsdefizit rückläufig",
+              "seite": "127"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nur vordergründige Konsolidierungsfortschritte",
+              "seite": "129"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steuereinnahmen wieder ansteigend",
+              "seite": "132"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsolidierung bei den Gebietskörperschaften unverändert dringend",
+              "seite": "135"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Haushaltsentwicklung in der Sozialversicherung",
+              "seite": "136"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Zur personellen Einkommensverteilung in Deutschland",
+          "seite": "141",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Die voraussichtliche Entwicklung im Jahre 1999",
+      "seite": "148",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Prognose",
+          "seite": "148",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Ausgangslage und Annahmen",
+              "seite": "148"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das weltwirtschaftliche Umfeld",
+              "seite": "150"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Entwicklung in Europa",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die wirtschaftlichen Aussichten für Deutschland",
+              "seite": "153"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Wirtschaftspolitische Ziele: Was verfehlt und was erreicht wurde",
+          "seite": "161",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Verfehlung des Beschäftigungsziels nach wie vor gravierend",
+              "seite": "161"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einkommensverteilung: Keine tiefgreifenden Änderungen",
+              "seite": "163"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Neue Rahmenbedingungen durch die Europäische Währungsunion",
+      "seite": "165",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Zur Ausgangslage",
+          "seite": "165",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Die Entscheidung vom 2. Mai 1998",
+              "seite": "165"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Transmissionskanäle der gemeinsamen Geldpolitik",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konjunkturverbund und realwirtschaftliche Konvergenz",
+              "seite": "170"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Konzeptionelle Anforderungen an die gemeinsame Geldpolitik",
+          "seite": "176",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Innere Stabilität des Euro vorrangig",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Strategische Weichenstellungen",
+              "seite": "179"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zum geldpolitischen Instrumentarium",
+              "seite": "183"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Finanzpolitik in der Europäischen Währungsunion",
+          "seite": "185",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Grenzen antizyklischer Finanzpolitik beachten",
+              "seite": "186"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Strenge Konsolidierungsanforderungen",
+              "seite": "187"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sicherung des steuerpolitischen Handlungsspielraums",
+              "seite": "189"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Lohnpolitik in der Europäischen Währungsunion",
+          "seite": "194",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zur Orientierung der Tarifpolitik in der Währungsunion",
+              "seite": "195"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Für größere Flexibilität sorgen",
+              "seite": "197"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gegen eine Europäisierung der Lohn- und Sozialpolitik",
+              "seite": "198"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel: Eine Politik für Wachstum und Beschäftigung",
+      "seite": "202",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Handlungsbedarf am Beginn der neuen Legislaturperiode",
+          "seite": "202",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zur konzeptionellen Grundlage der Wirtschaftspolitik",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Veränderte Voraussetzungen im internationalen Umfeld",
+              "seite": "203"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Angebotsseite als Ansatzpunkt erfolgversprechender Wirtschaftspolitik",
+              "seite": "204"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nachfrageorientierte Politik: Grenzen und Gefahren",
+              "seite": "206"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Für Konsistenz der Wirtschaftspolitik sorgen",
+              "seite": "208"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Neue Bundesländer: Die Wirtschaftspolitik langfristig orientieren",
+          "seite": "210",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Zur Diskussion um die Neuordnung des Weltfinanzsystems",
+          "seite": "214",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Sechstes Kapitel: Zur wirtschaftspolitischen Agenda – Wege und Irrwege",
+      "seite": "220",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Finanzpolitik: Steuerreform, Haushaltssanierung, Reform der Finanzverfassung",
+          "seite": "220",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Im Zentrum: Reform der Einkommensteuer",
+              "seite": "220"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Haushaltssanierung voranbringen",
+              "seite": "224"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgabenkürzungsprogramm vorlegen",
+              "seite": "227"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform der Finanzverfassung auf den Weg bringen",
+              "seite": "228"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Sozialpolitik: Was heißt Fairness bei der Gestaltung der sozialen Sicherung?",
+          "seite": "231",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Rentenversicherung: Für einen fairen Ausgleich zwischen den Generationen",
+              "seite": "233"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Krankenversicherung: Für mehr Wettbewerb",
+              "seite": "234"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sozialhilfe: Zwischen Solidarität und Subsidiarität",
+              "seite": "235"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Lohnpolitik und Arbeitsmarkt: Jetzt keine Fehler machen",
+          "seite": "238",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Den Kurs der Lohnzurückhaltung beibehalten",
+              "seite": "238"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bündnis für Arbeit und Ausbildung: Was es bringen kann",
+              "seite": "243"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Regulierungsdichte nicht erhöhen",
+              "seite": "245"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Bildungspolitik: Grundlegende Reformen im Hochschulbereich",
+          "seite": "247",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Leitbild und Problembefund",
+              "seite": "247"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Grundlinien einer Hochschulreform",
+              "seite": "252"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Technologiepolitik: Möglichkeiten und Grenzen staatlicher Innovationsförderung",
+          "seite": "256",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Die deutsche Wirtschaft im technologischen Wettbewerb",
+              "seite": "256"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwerpunkte richtig setzen",
+              "seite": "260"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Innovationsbedingten Strukturwandel bewältigen",
+              "seite": "265"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Umweltpolitik: Ökologische Steuerreform und internationale Rahmenbedingungen",
+          "seite": "267",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Der Ausgangspunkt: Globale Klimaveränderung",
+              "seite": "267"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zu den Auswirkungen einer Ökosteuer",
+              "seite": "271"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Welthandelsordnung bei der Lösung umweltpolitischer Probleme nicht überfordern",
+              "seite": "276"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+
+ende_json
+
+

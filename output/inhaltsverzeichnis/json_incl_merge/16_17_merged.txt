@@ -1,0 +1,893 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel\nWirtschaftspolitik: Zeit für Reformen",
+      "seite": "6",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Mangel an Reformbereitschaft",
+          "seite": "7",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Fortgesetzter Aufschwung mit Risiken",
+          "seite": "10",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Reformen für Europa",
+          "seite": "13",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Europäische Union: Einheit in Vielfalt",
+              "seite": "14"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Stärkung des Subsidiaritätsprinzips für mehr\nSystemwettbewerb",
+              "seite": "14"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Neuausrichtung nationaler und gemeinschaftlicher\nVerantwortung",
+              "seite": "15"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Globale Ausgestaltung der Klimapolitik",
+              "seite": "17"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Finanzpolitik auf nationaler und EU-Ebene",
+              "seite": "18"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Euro-Raum: Politik für mehr Stabilität",
+              "seite": "18"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Gute Gründe für eine weniger expansive Geldpolitik",
+              "seite": "19"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Handlungsbedarf im Finanzsektor",
+              "seite": "20"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Fehlende Elemente der Bankenunion",
+              "seite": "21"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Solide Staatsfinanzen, wirkungsvoller Krisenmechanismus",
+              "seite": "23"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Reformen für Deutschland",
+          "seite": "25",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Fokus auf Chancengerechtigkeit",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Schlussfolgerungen aus der Ungleichheitsdebatte",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Für eine höhere Aufnahmefähigkeit des Arbeitsmarkts",
+              "seite": "27"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Rahmenbedingungen für mehr Innovation",
+              "seite": "28"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Voraussetzungen für die Integration anerkannter Asylbewerber",
+              "seite": "29"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Solide Finanzpolitik, demografiefeste Sozialsysteme",
+              "seite": "32"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kein Aktionismus bei öffentlichen Ausgaben",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Reformen für eine wachstumsfreundliche Steuerpolitik",
+              "seite": "34"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Mehr Markt in der Gesundheitsversorgung",
+              "seite": "37"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Drei starke Säulen für die Altersvorsorge",
+              "seite": "38"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Ausblick: Zeit für Reformen",
+          "seite": "40",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel\nInternationale Konjunktur: Geldpolitik nicht überfordern",
+      "seite": "48",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Weltwirtschaft: Verhaltenes Wachstum mit zahlreichen Risiken",
+          "seite": "50",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Konjunkturelle Lage",
+              "seite": "50"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausblick",
+              "seite": "55"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Chancen und Risiken",
+              "seite": "56"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Konjunktur außerhalb des Euro-Raums",
+          "seite": "59",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Vereinigte Staaten: Globale Rahmenbedingungen schwächen\nUnternehmensinvestitionen",
+              "seite": "59"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. China: Wachstum nach Plan",
+              "seite": "62"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Japan: Aufschwung trotz geringer Zuwachsraten",
+              "seite": "64"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Vereinigtes Königreich: Eintrübung nach Brexit-Votum",
+              "seite": "67"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Euro-Raum: Erholung bei zu geringen strukturellen Fortschritten",
+          "seite": "69",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Konjunkturelle Lage",
+              "seite": "69"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Kurzfristige Impulse ohne langfristige Lösungen",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Geldpolitik hält Wachstum über Potenzial",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Expansive Impulse von der Fiskalpolitik",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Anpassungsprozesse nicht abgeschlossen",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kreditvergabe erholt sich nur schleppend",
+              "seite": "79"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Reformeifer der Mitgliedstaaten versiegt",
+              "seite": "80"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Ausblick",
+              "seite": "80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel\nDeutschland: Expansive Geldpolitik treibt Wachstum über\nPotenzial",
+      "seite": "88",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Überblick",
+          "seite": "90",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Aktuelle Lage",
+              "seite": "90"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Konjunkturelle Effekte der expansiven Geldpolitik",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Niedrigzins und schwache Konjunktur im Euro-Raum",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Effekte diskretionärer geldpolitischer Impulse auf die Konjunktur",
+              "seite": "97"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Ausblick",
+              "seite": "100"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Die Entwicklung im Einzelnen",
+          "seite": "107",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Rahmenbedingungen und Annahmen der Prognose",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Niedriger Wechselkurs fördert Exportnachfrage",
+              "seite": "110"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Deutliche Impulse von Konsum und Wohnungsbau",
+              "seite": "113"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Unternehmensinvestitionen weiterhin moderat",
+              "seite": "115"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Weiterhin schwacher Verbraucherpreisanstieg",
+              "seite": "117"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Beschäftigungsaufbau setzt sich fort",
+              "seite": "119"
+            },
+            {
+              "ueberschrift_drei_niedriger": "7. Öffentliche Finanzierungsüberschüsse trotz expansiver Fiskalpolitik",
+              "seite": "121"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Mittelfristprojektion",
+          "seite": "123",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die schwache Produktivitäts- und Investitionsentwicklung",
+              "seite": "127"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Abbildungen und Tabellen",
+              "seite": "130"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel\nBrexit-Votum: Schaden abwenden, Europa durch\nSubsidiarität stärken",
+      "seite": "136",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "138",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Ökonomische Folgen eines Brexit",
+          "seite": "141",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Verflechtung des Vereinigten Königreichs mit der EU und Deutschland",
+              "seite": "141"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Kurzfristige wirtschaftliche Auswirkungen",
+              "seite": "144"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Langfristige wirtschaftliche Auswirkungen",
+              "seite": "146"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Institutionelle Folgen eines Brexit",
+          "seite": "152",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Verschiebung der Machtbalance in EU-Gremien",
+              "seite": "153"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Möglicher Richtungswechsel in EU-Politikbereichen",
+              "seite": "154"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. EU-Haushalt und andere Verflechtungen",
+              "seite": "157"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Die EU auf dem Prüfstand",
+          "seite": "158",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Subsidiarität stärken",
+              "seite": "158"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Freizügigkeit bei verzögerter Integration in die Sozialsysteme",
+              "seite": "164"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. EU-Finanzen neu ordnen",
+              "seite": "170"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Fazit: Das europäische Projekt durch mehr Subsidiarität stärken",
+          "seite": "171",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel\nNiedrigzinsen weder für den Euro-Raum noch für\nDeutschland angemessen",
+      "seite": "182",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Negative Zinsen und Geldpolitik",
+          "seite": "184",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Massive Lockerung noch ausgeweitet",
+          "seite": "185",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Starke Auswirkungen der Geldpolitik",
+          "seite": "192",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Zinsstruktur, Wechselkurse und Vermögenspreise",
+              "seite": "192"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Gesamtwirtschaftliche Nachfrage und Inflation",
+              "seite": "197"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Geldpolitik für den Euro-Raum nicht angemessen",
+          "seite": "200",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Geldpolitik und Inflation",
+              "seite": "200"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Gleichgewichtszins, Zinsregeln und Schattenzinsen",
+              "seite": "204"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Risiken für Finanzsektor und Konsolidierungspolitik",
+              "seite": "208"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Debatte um die quantitative Interpretation des\nPreisstabilitätsmandats",
+              "seite": "213"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Zinsniveau für Deutschland zu niedrig",
+          "seite": "215",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Makroökonomische Entwicklung und Zinsniveau",
+              "seite": "215"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Stabilisierungspolitische Optionen in Deutschland",
+              "seite": "219"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Fazit: Anleihekäufe beenden",
+          "seite": "223",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Sechstes Kapitel\nEuropäisches Bankensystem instabil,\nReformen müssen weitergehen",
+      "seite": "242",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Regulierungsbedarf besteht fort",
+          "seite": "244",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Geringe Widerstandfähigkeit der Banken in Europa",
+          "seite": "245",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Ungewichtete Eigenkapitalquoten zu niedrig",
+              "seite": "245"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Niedrige Gewinne, hohe Dividenden",
+              "seite": "251"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Europäische Banken unter Stress",
+              "seite": "253"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Profitabilität der Banken zunehmend unter Druck",
+              "seite": "255"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Zwischenfazit: Eigenkapital weiter stärken",
+              "seite": "259"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Notleidende Kredite belasten Banken",
+          "seite": "260",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Bail-in: Erhöhte Marktdisziplin oder Verschärfung von Krisen?",
+          "seite": "265",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Turbulenzen auf den Finanzmärkten",
+              "seite": "265"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Glaubwürdigkeit des Bail-in-Regimes",
+              "seite": "266"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Nachrangige Schulden kein Ersatz für Eigenkapital",
+              "seite": "268"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Staaten-Banken-Nexus besteht fort",
+          "seite": "269",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Hohe Forderungen der Sparkassen gegenüber öffentlichen Haushalten",
+              "seite": "270"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Voraussetzungen für gemeinsame Einlagensicherung noch nicht erfüllt",
+              "seite": "274"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Leitlinien für ein stabileres Finanzsystem",
+          "seite": "278",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Anhang: Einflussfaktoren des Staaten-Banken-Nexus",
+          "seite": "279",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Siebtes Kapitel\nAltersvorsorge: Drei-Säulen-Modell stärken",
+      "seite": "288",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Angst vor Altersarmut",
+          "seite": "290",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Das Drei-Säulen-Modell",
+          "seite": "292",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Umlageverfahren und Kapitaldeckung",
+              "seite": "292"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Der Übergang zum Drei-Säulen-Modell",
+              "seite": "295"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Gesetzliche Rentenversicherung",
+              "seite": "296"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Betriebliche Altersvorsorge",
+              "seite": "298"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Private Altersvorsorge",
+              "seite": "300"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Reformbedarf in den drei Säulen",
+          "seite": "301",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gesetzliche Rentenversicherung",
+              "seite": "301"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Finanzlage noch entspannt",
+              "seite": "301"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Weiterhin Handlungsbedarf im Hinblick auf die Tragfähigkeit",
+              "seite": "304"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Flexiblen Renteneintritt erleichtern",
+              "seite": "309"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Rentenrecht vereinheitlichen",
+              "seite": "310"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Betriebsrenten",
+              "seite": "312"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Verbreitung der betrieblichen Altersvorsorge ausbaufähig",
+              "seite": "312"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Handlungsbedarf verbleibt",
+              "seite": "314"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Private Altersvorsorge: Die Riester-Rente",
+              "seite": "320"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Fehlende Ersparnis führt zur Rentenlücke",
+              "seite": "320"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Verbreitung der Riester-Rente stagniert",
+              "seite": "322"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Akzeptanz und Transparenz erhöhen",
+              "seite": "324"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Fazit: Alle drei Säulen stärken",
+          "seite": "326",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Anhang: Die implizite Rendite der Gesetzlichen Rentenversicherung",
+          "seite": "332",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Methodik und Annahmen",
+              "seite": "332"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Vorsicht bei der Interpretation",
+              "seite": "334"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Ergebnisse",
+              "seite": "335"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Vergleich mit anderen aktuellen Studien",
+              "seite": "336"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Achtes Kapitel\nFlüchtlingsmigration: Integration als zentrale\nHerausforderung",
+      "seite": "342",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Bestandsaufnahme",
+          "seite": "344",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Auswirkungen auf die öffentlichen Finanzen",
+          "seite": "347",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Kurzfristige Mehrausgaben tragbar",
+              "seite": "348"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Geringe Auswirkungen auf langfristige Tragfähigkeit",
+              "seite": "349"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Herausforderungen der Integration",
+          "seite": "358",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Bildung fördern und fordern",
+              "seite": "359"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Wege in den Arbeitsmarkt",
+              "seite": "362"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Mobilitätsbeschränkungen und Integrationserfolg",
+              "seite": "364"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Fazit: Fördern und fordern",
+          "seite": "366",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Neuntes Kapitel\nKeine Kapitulation vor der verfestigten Arbeitslosigkeit",
+      "seite": "370",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Licht und Schatten am Arbeitsmarkt",
+          "seite": "372",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Erfolge bei der Reduktion der Arbeitslosigkeit",
+              "seite": "372"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Verfestigung der Langzeitarbeitslosigkeit",
+              "seite": "374"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Grenzen der Arbeitsmarktpolitik",
+              "seite": "376"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Der Niedriglohnsektor vor einer Bewährungsprobe",
+          "seite": "380",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Begrenzte Aufstiegschancen im Niedriglohnsektor",
+              "seite": "380"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Beschäftigungsdynamik als Schlüssel",
+              "seite": "385"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Auswirkungen des Mindestlohns",
+              "seite": "387"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Fazit: Langzeitarbeitslose nicht zurücklassen",
+          "seite": "392",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zehntes Kapitel\nStarke Umverteilung, geringe Mobilität",
+      "seite": "398",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "400",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Starke Umverteilung der Einkommen",
+          "seite": "401",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Funktionale und personelle Einkommensverteilung",
+              "seite": "401"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Verteilung der Einkommen",
+              "seite": "406"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Verteilung der Löhne",
+              "seite": "411"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Vermögensbildung und -verteilung",
+          "seite": "413",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Vermögen der privaten Haushalte",
+              "seite": "413"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Vermögen im internationalen Vergleich",
+              "seite": "419"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Herausforderung Einkommens- und Vermögensmobilität",
+          "seite": "422",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Elftes Kapitel\nEnergiewende: Umsteuern zu einer globalen Klimapolitik",
+      "seite": "430",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die klimapolitische Aufgabe",
+          "seite": "432",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Zwischenbilanz der Energiewende",
+          "seite": "439",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger
+
+": "1. Ziele des Energiekonzepts 2010",
+              "seite": "439"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Großteil der Ziele nicht erreicht",
+              "seite": "440"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Klimapolitische Einordnung",
+              "seite": "443"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Lehren aus dem Strommarkt",
+          "seite": "447",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Technologiemix bei der Stromerzeugung",
+              "seite": "448"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. EEG-Novelle: Kosten immer noch zu hoch",
+              "seite": "451"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Potenziale der Sektorkopplung",
+              "seite": "455"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Fazit: Mehr Arbeitsteilung anstreben",
+          "seite": "457",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zwölftes Kapitel\nTransformation in China birgt Risiken",
+      "seite": "464",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Schwieriger Transformationsprozess",
+          "seite": "466",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Wirtschaftswachstum mit Schattenseiten",
+              "seite": "466"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Bisheriges Wachstumsmodell nicht zukunftsfähig",
+              "seite": "468"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Kann die Transformation gelingen?",
+              "seite": "473"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Risiken für die Weltwirtschaft",
+              "seite": "478"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Entkopplung des Handels vom Wirtschaftswachstum",
+              "seite": "478"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Risiken für das Finanzsystem",
+              "seite": "479"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Implikationen für die deutsche Wirtschaft",
+          "seite": "483",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Exportmarkt China: Nachlassende Dynamik",
+              "seite": "483"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. China als Standort für Produktion und Vertrieb",
+              "seite": "487"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Von „Made in China“ zu „Created in China“",
+              "seite": "489"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Konkurrenz für Deutschland auf internationalen Märkten",
+              "seite": "491"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. China als Investor",
+              "seite": "493"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Fazit",
+          "seite": "497",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+"""
+ende_json
+

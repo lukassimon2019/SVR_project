@@ -1,0 +1,865 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "ERSTES KAPITEL\nDie Zukunft nicht aufs Spiel setzen",
+      "seite": "1",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Ausgangslage: Erholung, aber kein Aufschwung",
+          "seite": "3",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die Exit-Strategie: Haushaltskonsolidierung und Überwindung der Finanz-\nkrise",
+          "seite": "6",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Europäische Geld- und Fiskalpolitik: Vor schwierigen Entzugsprozessen",
+              "seite": "7"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die nationale Perspektive: Vorrang für die Haushaltskonsolidierung",
+              "seite": "10"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Reformen für eine stabile Finanzmarktarchitektur",
+              "seite": "12"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Bildung und Innovationen als Zukunftsinvestitionen",
+          "seite": "16",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Reform des Bildungssystems: Eine Bildungsoffensive",
+              "seite": "16"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Innovations- und Industriepolitik",
+              "seite": "19"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Verbesserung der Standortattraktivität",
+              "seite": "22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "ZWEITES KAPITEL\nDie wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland",
+      "seite": "25",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Weltwirtschaft: Nach dem Absturz",
+          "seite": "26",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Auf dem Weg aus der Rezession",
+              "seite": "27"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die konjunkturelle Entwicklung in wichtigen Wirtschaftsräumen",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vereinigte Staaten und andere große Industrienationen",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vereinigte Staaten",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Japan",
+              "seite": "36"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Andere große Industriestaaten außerhalb Europas",
+              "seite": "37"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Asiatische Schwellenländer",
+              "seite": "38"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Russland, Brasilien und andere große Rohstoffexporteure",
+              "seite": "39"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Länder der Europäischen Union",
+              "seite": "41"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Die deutsche Volkswirtschaft nach dem Wachstumseinbruch",
+          "seite": "46",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Auswirkungen der Krise auf das Produktionspotenzial",
+              "seite": "47"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Zweitrundeneffekte auf dem Arbeitsmarkt und den Finanzmärkten",
+              "seite": "50"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Problembereich Arbeitsmarkt",
+              "seite": "51"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Problembereich Finanzsystem",
+              "seite": "52"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Der steinige Weg aus der Krise",
+          "seite": "58",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die Prognose im Überblick",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die Prognose im Einzelnen",
+              "seite": "60"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außenwirtschaft: Erholung mit positiven Impulsen für Deutschland",
+              "seite": "60"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausrüstungsinvestitionen: Konsequenzen der massiven Kapazitäts-\nunterauslastung",
+              "seite": "62"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bauinvestitionen",
+              "seite": "62"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsumausgaben",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entstehungsseite: Industrieproduktion hat Talsohle durchschritten",
+              "seite": "66"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Preisniveauentwicklung: Stabilisierung bei niedrigen Teuerungsraten",
+              "seite": "66"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarkt im Prognosezeitraum",
+              "seite": "66"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Finanzen: Erheblicher Anstieg der Staatsverschuldung",
+              "seite": "69"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "DRITTES KAPITEL\nMakroökonomische Herausforderungen der Finanz- und Wirtschaftskrise für das nächste Jahrzehnt",
+      "seite": "73",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Fiskalpolitik vor schwierigem Entzugsprozess",
+          "seite": "74",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die Phase der Krisenintervention: Öffentliche Defizite als Ausgleich\nfür zunehmende private Geldvermögensbildung",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ein Konsolidierungspakt für Europa",
+              "seite": "79"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Risiken einer unzureichenden fiskalpolitischen Konsolidierung",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwachpunkte des Europäischen Stabilitäts- und Wachstumspakts",
+              "seite": "84"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein temporäres Sicherheitspaket für den Stabilitäts- und Wachstumspakt",
+              "seite": "88"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Ausstieg der Notenbanken aus unkonventioneller Politik technisch leicht\nrealisierbar",
+          "seite": "92",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Ungewöhnliche Situation rechtfertigt unkonventionelle Geldpolitik",
+              "seite": "92"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Qualitative Easing: Massive Veränderungen der Bilanzstrukturen",
+              "seite": "94"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Quantitative Easing: Kann man über die Sättigungsmenge hinausgehen?",
+              "seite": "97"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Risiken für die Geldwertstabilität sind beherrschbar",
+              "seite": "99"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Überschussliquidität könnte schnell wieder eingesammelt werden",
+              "seite": "100"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Unabhängigkeit der Notenbanken als Schutzschild",
+              "seite": "101"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Deflationsrisiken durch steigende Arbeitslosenquoten?",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Solide Finanzpolitik erleichtert Exit-Strategie der Geldpolitik",
+              "seite": "103"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Risiken durch eine hohe Verschuldung mittel- und osteuropäischer Länder",
+          "seite": "105",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Einen unkontrollierten Ausstieg aus dem US-Dollar vermeiden",
+          "seite": "109",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Der US-Dollar ist nach wie vor die wichtigste Reservewährung",
+              "seite": "109"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Reservewährung: Fluch oder Segen?",
+              "seite": "111"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein kontrollierter Ausstieg aus dem US-Dollar",
+              "seite": "112"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "VIERTES KAPITEL\nFinanzsystem am Tropf: Vor schwierigen Entzugsprozessen",
+      "seite": "117",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Ein Jahr Krise und Krisenmanagement",
+          "seite": "118",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Internationales Krisenmanagement: Entspannung, aber keine Normalisierung",
+              "seite": "119"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Das Krisenmanagement in Deutschland",
+              "seite": "123"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zweckgesellschaftsmodell",
+              "seite": "125"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsolidierungsbankmodell",
+              "seite": "128"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Lehren aus der Krise und Handlungsbedarf",
+          "seite": "130",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Verbleibende Herausforderungen zur Bewältigung der aktuellen Krise",
+              "seite": "130"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Leitlinien für einen Neuanfang",
+              "seite": "133"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Ein Regulierungsregime zur Reduktion systemischer Risiken",
+          "seite": "136",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Systemrisiken durch Finanzintermediäre",
+              "seite": "137"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mengenregulierung: Nur eingeschränkt empfehlenswert",
+              "seite": "138"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Preisregulierung: Ein Vorschlag",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Messung systemischer Risiken",
+              "seite": "140"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Systemrisiken durch Produkte und Märkte",
+              "seite": "144"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Ein Regime zum Umgang mit Schieflagen",
+          "seite": "146",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Grundsätzlicher Reformbedarf",
+              "seite": "146"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ein stilisiertes Eingriffs- und Restrukturierungsregime",
+              "seite": "148"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Phase eins: Eingriffsmodalitäten bei beginnender Schieflage",
+              "seite": "149"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Phase zwei: Kompetenzen bei einer Unterkapitalisierung",
+              "seite": "150"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Phase drei: Abwicklungs- oder Sanierungslösungen",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Umgang mit Schieflagen von grenzüberschreitend tätigen Finanzinstituten",
+              "seite": "152"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Krisenprävention: Widerstandsfähigkeit erhöhen und Prozyklizität mindern",
+          "seite": "155",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "VI. Aufsichtskompetenzen neu ausrichten",
+          "seite": "160",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Nationale Aufsichtsreformen: Fortschritte und verbleibende Defizite",
+              "seite": "160"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Internationale Aufsichtsreformen: Verpasste Chance",
+              "seite": "161"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "FÜNFTES KAPITEL\nFinanzpolitik und Soziale Sicherung: Vorrang für die\nHaushaltskonsolidierung",
+      "seite": "165",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Finanzpolitik in der Wirtschaftskrise: Insgesamt angemessen",
+          "seite": "166",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Was bislang getan wurde",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Multiplikatorwirkungen der Konjunkturpakete",
+              "seite": "169"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Konsolidierung der öffentlichen Haushalte: Zurück auf „Los“",
+          "seite": "174",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die aktuelle Lage: Öffentliche Haushalte im Jahr 2009",
+              "seite": "175"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der staatlichen Einnahmen und Ausgaben",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitische Kennziffern",
+              "seite": "177"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die längerfristige Perspektive: Erheblicher Konsolidierungsbedarf",
+              "seite": "179"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Haushaltskonsolidierung: Strukturelle Finanzierungsdefizite reduzieren",
+              "seite": "179"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Konsolidierungsstrategien: Harte Einschnitte statt Tagträumereien",
+              "seite": "185"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Tagträumereien: Konsolidierung durch Wachstum und Steuersenkungen",
+              "seite": "185"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsolidierung über die Ausgabenseite oder die Einnahmeseite",
+              "seite": "186"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Steuerpolitik in der neuen Legislaturperiode: Begrenzter Handlungsspielraum",
+          "seite": "190",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Erbschaftsteuer: Reform der Reform in Angriff nehmen",
+              "seite": "191"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Unternehmensbesteuerung: Auf dem richtigen Weg",
+              "seite": "192"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Einkommensteuer und Umsatzsteuer: Als Folge der Finanzkrise kleine\nBrötchen backen",
+              "seite": "196"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Soziale Sicherung: Weiterhin Handlungsbedarf",
+          "seite": "198",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gesetzliche Rentenversicherung: Finanzielle Nachhaltigkeit weiter beschädigt",
+              "seite": "198"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die finanzielle Lage",
+              "seite": "199"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Trotz Krise höchste Rentenanpassung seit Jahren",
+              "seite": "199"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Rentengarantie als Folge der Finanz- und Wirtschaftskrise",
+              "seite": "200"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Gesundheitspolitik: Start des Gesundheitsfonds − vor der nächsten Reform",
+              "seite": "201"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzsituation",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin Handlungsbedarf auf der Einnahmeseite",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "... und der Ausgabenseite",
+              "seite": "203"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Soziale Pflegeversicherung: Generationengerechtigkeit herstellen",
+              "seite": "204"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Arbeitslosenversicherung: Von der Krise schwer getroffen",
+              "seite": "205"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzielle Lage",
+              "seite": "206"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein nachhaltiger Beitragssatz",
+              "seite": "207"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "SECHSTES KAPITEL\nIndustriepolitik: Marktprozesse wirken lassen und Innovationen\nermöglichen",
+      "seite": "211",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Industriepolitische Rettungsmaßnahmen: Licht und Schatten",
+          "seite": "212",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die Rolle der Industriepolitik in Rezessionen",
+              "seite": "212"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wettbewerbspolitik: Der Staat muss Unparteiischer bleiben",
+              "seite": "212"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Es gibt keine harmlosen Eingriffe",
+              "seite": "216"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Rettungsmaßnahmen in der aktuellen Wirtschaftskrise",
+              "seite": "218"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zeitweise veränderte Rahmenbedingungen",
+              "seite": "218"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gezielte Eingriffe auf Branchen- und Unternehmensebene",
+              "seite": "222"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Vertikale Industriepolitik: Kein taugliches Rezept",
+          "seite": "226",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Flankierende Industriepolitik statt Anmaßung von Wissen",
+              "seite": "227"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wettbewerbspolitik als industriepolitische Daueraufgabe",
+              "seite": "227"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Möglichkeiten und Grenzen einer vertikalen Industriepolitik",
+              "seite": "231"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Energiepolitik: Vorrang für marktwirtschaftliche Instrumente",
+              "seite": "234"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sockelbergbau: Kein geeigneter Beitrag zur Versorgungssicherheit",
+              "seite": "235"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Den Ausbau erneuerbarer Energien intelligenter gestalten",
+              "seite": "238"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Innovationspolitik: Wege zum Wachstum",
+          "seite": "240",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Eckpfeiler moderner Innovationspolitik",
+              "seite": "241"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Innovationspolitische Strategien: Prinzipien",
+              "seite": "241"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mobilisierung durch konkrete Zielvorgaben",
+              "seite": "244"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Umsetzung in der Praxis",
+              "seite": "247"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Handlungsfelder: Vorrang für Eigeninitiative und Wettbewerb",
+              "seite": "247"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steuerung als lernendes System",
+              "seite": "251"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "SIEBENTES KAPITEL\nArbeitsmarkt: Den Blick nach vorne richten − eine Bildungsoffensive\nstarten",
+      "seite": "257",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Der Arbeitsmarkt im Sog der schweren Rezession",
+          "seite": "258",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Verzögertes Durchschlagen der Rezession auf den Arbeitsmarkt",
+              "seite": "258"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Bewegungsvorgänge und Problemgruppen auf dem Arbeitsmarkt",
+              "seite": "266"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Wirtschaftspolitische Herausforderungen im Zuge des Abschwungs",
+          "seite": "272",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Bisherige Maßnahmen und Reformoptionen des Gesetzgebers",
+              "seite": "273"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kurzarbeiterregelung",
+              "seite": "273"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosenversicherung",
+              "seite": "275"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Altersteilzeit",
+              "seite": "275"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zuständigkeiten bei Hartz IV-Leistungen",
+              "seite": "277"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Lohnpolitik",
+              "seite": "278"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Institutionelle Rahmenbedingungen",
+              "seite": "280"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Chancen für Wachstum und Beschäftigung fördern: Eine bildungspolitische Offensive",
+          "seite": "282",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die Bedeutung der Bildungspolitik für Wachstum und Chancengleichheit",
+              "seite": "283"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Was ist bildungspolitisch zu tun?",
+              "seite": "284"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Herausforderungen an die Bildungspolitik",
+              "seite": "284"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwächen des deutschen Bildungssystems",
+              "seite": "286"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Leitlinien einer Bildungsreform",
+              "seite": "287"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was bildungspolitisch zu tun ist",
+              "seite": "289"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Elementarbereich",
+              "seite": "289"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schulbereich",
+              "seite": "291"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Berufliche Bildung und Weiterbildung",
+              "seite": "293"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Tertiärbereich",
+              "seite": "295"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Ein 10-Punkte-Plan",
+              "seite": "296"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Beurteilung des Koalitionsvertrags",
+              "seite": "297"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Eine andere Meinung",
+          "seite": "299",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Lohnpolitik muss Deflation verhindern",
+              "seite": "299"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kein deutscher Sonderweg beim Mindestlohn",
+              "seite": "302"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kündigungsschutz beibehalten",
+              "seite": "302"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Studiengebühren führen nicht zu mehr Hochschulabsolventen",
+              "seite": "303"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "ANALYSE\nEinkommens- und Vermögensverteilung in Deutschland",
+      "seite": "309",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einkommensverteilung",
+          "seite": "309",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Datenbasis",
+              "seite": "309"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einkommensbegriffe und Verteilungsmaße",
+              "seite": "310"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung, Verteilung und Zusammensetzung der Einkommen in\nDeutschland",
+              "seite": "311"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einkommensmobilität",
+              "seite": "317"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Internationaler Vergleich",
+              "seite": "320"
+            }
+          ]
+        },
+        {
+          
+
+"ueberschrift_zwei": "II. Vermögensverteilung",
+          "seite": "322",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Datenbasis",
+              "seite": "322"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung, Verteilung und Zusammensetzung der Vermögen in\nDeutschland",
+              "seite": "323"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bestimmungsfaktoren der Vermögensverteilung",
+              "seite": "327"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vermögensmobilität",
+              "seite": "330"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Internationaler Vergleich",
+              "seite": "331"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "ANHÄNGE",
+      "seite": "335",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der\ngesamtwirtschaftlichen Entwicklung",
+          "seite": "335",
+           "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft",
+          "seite": "337",
+           "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Verzeichnis der Gutachten und Expertisen des Sachverständigenrates",
+          "seite": "338",
+           "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV Methodische Erläuterungen",
+          "seite": "341",
+           "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "A. Abgrenzung der verdeckten Arbeitslosigkeit",
+              "seite": "341"
+            },
+            {
+              "ueberschrift_drei_niedriger": "B. Berechnung der Arbeitseinkommensquote",
+              "seite": "346"
+            },
+            {
+              "ueberschrift_drei_niedriger": "C. Berechnung des lohnpolitischen Verteilungsspielraums",
+              "seite": "347"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Statistischer Anhang",
+          "seite": "348",
+           "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "A. Internationale Tabellen",
+              "seite": "351"
+            },
+            {
+              "ueberschrift_drei_niedriger": "B. Tabellen für Deutschland",
+              "seite": "358"
+            },
+            {
+              "ueberschrift_drei_niedriger": "I. Makroökonomische Grunddaten",
+              "seite": "358"
+            },
+             {
+              "ueberschrift_drei_niedriger": "II. Ausgewählte Daten zum System der Sozialen Sicherung",
+              "seite": "399"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Sachregister",
+          "seite": "414",
+           "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+ende_json
+
+

@@ -1,0 +1,770 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel:\nVor wichtigen wirtschaftspolitischen Weichenstellungen",
+      "seite": "8",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Vor wichtigen wirtschaftspolitischen Weichenstellungen",
+          "seite": "9",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": " Globaler Multilateralismus und europäische Integration",
+              "seite": "9"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Demografischer Wandel und Digitalisierung",
+              "seite": "10"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Globalisierung: Protektionismus verhindern, multilateral handeln",
+          "seite": "11",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Weitere Liberalisierung statt Protektionismus",
+              "seite": "11"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Den internationalen Steuerwettbewerb annehmen",
+              "seite": "18"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Effizienter Klimaschutz durch marktbasierte Lösungen",
+              "seite": "20"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Europa: Brexit abfedern, EU und Euro-Raum stärken",
+          "seite": "25",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Verwerfungen durch den Brexit abwenden",
+              "seite": "25"
+            },
+            {
+              "ueberschrift_drei_niedriger": " „No Brexit“, statt „No deal“",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Umfangreiches Freihandelsabkommen als Minimallösung",
+              "seite": "29"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die EU auf ihren Mehrwert fokussieren",
+              "seite": "31"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Stärkung des Subsidiaritätsprinzips",
+              "seite": "31"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kohäsions- und Strukturfonds effektiver einsetzen",
+              "seite": "34"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Stabilität für den Euro-Raum",
+              "seite": "35"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Fiskal- und Geldpolitik: Spielräume für Krisenzeiten schaffen",
+              "seite": "36"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Stabilisierung im Euro-Raum",
+              "seite": "40"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Europäische Banken- und Kapitalmarktunion vorantreiben",
+              "seite": "44"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Demografischer Wandel: Dringender Handlungsbedarf",
+          "seite": "47",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Erwerbsmigration gegen Fachkräfteengpässe",
+              "seite": "48"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Arbeitskräftepotenzial nutzen und erhöhen",
+              "seite": "48"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Zuwanderung von Fachkräften weiter vorantreiben",
+              "seite": "50"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Demografiefeste Alterssicherung vorsehen",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wohnimmobilien und Eigentumserwerb",
+              "seite": "56"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Angebot von Wohnimmobilien ausweiten",
+              "seite": "56"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Private Vermögensbildung flexibilisieren",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Stärkung des Wettbewerbs im Gesundheitswesen",
+              "seite": "60"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Digitalisierung: Rahmenbedingungen schaffen, Chancen ergreifen",
+          "seite": "62",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Wohlfahrtssteigernder technologischer Fortschritt",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Moderne digitale Infrastruktur und Verwaltung",
+              "seite": "68"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Zurückhaltung bei industriepolitischen Eingriffen",
+              "seite": "72"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel:\nInternationale Konjunktur: Nachlassendes\nExpansionstempo bei hohen Risiken",
+      "seite": "94",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Weltwirtschaft: Aufschwung hält an – Risiken sind hoch",
+          "seite": "96",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Überblick",
+              "seite": "96"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Aufschwung der Weltwirtschaft hält noch an",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wirtschaftliche Stabilität der Schwellenländer",
+              "seite": "100"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Chancen und Risiken",
+              "seite": "103"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Ausblick",
+              "seite": "105"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Konjunktur außerhalb des Euro-Raums",
+          "seite": "107",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Vereinigte Staaten: Aufschwung schreitet weiter fort",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. China: Handelsstreit verschärft Zielkonflikte",
+              "seite": "110"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Japan: Kapazitäten zunehmend ausgelastet",
+              "seite": "112"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Vereinigtes Königreich: Damoklesschwert Brexit",
+              "seite": "114"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Euro-Raum: Weniger schwungvoll als im Vorjahr",
+          "seite": "116",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Konjunkturelle Lage",
+              "seite": "117"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Geringere Impulse vom Außenhandel",
+              "seite": "117"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Geld- und Fiskalpolitik weiter expansiv",
+              "seite": "119"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Aufschwung im Euro-Raum fortgeschritten",
+              "seite": "121"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Überauslastung möglicherweise größer als gedacht",
+              "seite": "121"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Langsam steigender Preisdruck",
+              "seite": "127"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Dynamische Lohn- und Beschäftigungsentwicklung",
+              "seite": "128"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Ausblick",
+              "seite": "130"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel:\nDeutsche Konjunktur: Aufschwung stößt an Grenzen",
+      "seite": "134",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Expansionstempo sinkt",
+          "seite": "136",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Angebotsseitige Beschränkungen nehmen zu",
+              "seite": "137"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Beschäftigungsaufbau lebt von Zuwanderung",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Bedeutung der Exporte nach wie vor hoch",
+              "seite": "141"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Ungünstigere Rahmenbedingungen",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Allmählicher Wachstumsrückgang erwartet",
+              "seite": "150"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Die Entwicklung im Einzelnen",
+          "seite": "154",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Verwendungskomponenten",
+              "seite": "154"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Außenhandel weniger dynamisch",
+              "seite": "154"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Investitionen bleiben kräftig",
+              "seite": "156"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Konsum expandiert robust",
+              "seite": "156"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Verbraucherpreisinflation über 2 Prozent",
+              "seite": "158"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Dynamik am Arbeitsmarkt lässt etwas nach",
+              "seite": "159"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Staatliche Überschüsse verleiten zu expansiver Ausgabenpolitik",
+              "seite": "162"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Mittelfristprojektion",
+          "seite": "164",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel:\nGeld- und Fiskalpolitik im Euro-Raum: Normalisierung und\nStabilisierung",
+      "seite": "172",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Den Euro-Raum stabilisieren",
+          "seite": "174",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Aus der lockeren Geldpolitik aussteigen",
+          "seite": "176",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Geldpolitische Maßnahmen 2018",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Notwendige Normalisierung der Geldpolitik",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Forward Guidance zu Ratsprognose ausbauen",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Reihenfolge der Normalisierungsmaßnahmen",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Symmetrische Reaktion und rechtzeitige Normalisierung",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Risiken einer verspäteten Normalisierung",
+              "seite": "181"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Die Notenbankbilanz wieder reduzieren",
+              "seite": "182"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Bisheriges Vorgehen der Federal Reserve",
+              "seite": "182"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Bilanzhöhe als Instrument der Geldpolitik",
+              "seite": "183"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Rolle der Bilanzhöhe für Finanzstabilität und Unabhängigkeit",
+              "seite": "187"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Bilanzhöhe, Überschussreserven und operationelles Regime",
+              "seite": "188"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Neue Herausforderungen",
+          "seite": "190",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Bilanzrisiken und Unabhängigkeit der Notenbanken",
+              "seite": "190"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Vorsorge für Notenbankbilanzrisiken",
+              "seite": "190"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Problematische Vorschläge zur Schuldenreduktion zulasten\nder Notenbankbilanz",
+              "seite": "192"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Geldpolitik bei negativem Eigenkapital der Notenbank",
+              "seite": "193"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Kryptowährungen: Wettbewerb in der Geldschöpfung",
+              "seite": "195"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Stabilisierungspolitik in einer heterogenen Währungsunion",
+          "seite": "198",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Rolle von Geld- und Fiskalpolitik",
+              "seite": "198"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausmaß an Heterogenität",
+              "seite": "199"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Möglichkeiten nationaler Stabilisierungspolitik",
+              "seite": "203"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Zur Fiskalkapazität für den Euro-Raum",
+          "seite": "208",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Konkrete Vorschläge für eine Fiskalkapazität",
+              "seite": "208"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Temporäre oder längerfristige Nettotransfers",
+              "seite": "210"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Antizyklisch wirkende zwischenstaatliche Transfers",
+              "seite": "211"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Transfers, Risikoteilung und Fehlanreize",
+              "seite": "213"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel:\nBanken- und Kapitalmarktunion entschiedener\nvorantreiben",
+      "seite": "234",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Verhaltene Fortschritte bei der Banken- und Kapitalmarktunion",
+          "seite": "236",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Banken- und Kapitalmarkt zehn Jahre nach der Finanzkrise",
+          "seite": "237",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Vertiefung der Bankenunion",
+          "seite": "242",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Aufhebung der regulatorischen Privilegierung von Forderungen gegenüber\nStaaten",
+              "seite": "242"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Vorschläge zur Regulierung von Forderungen gegenüber Staaten",
+              "seite": "246"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Fiskalische Letztsicherung für den Abwicklungsfonds",
+              "seite": "252"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Diskussion über eine gemeinsame europäische Einlagensicherung",
+              "seite": "256"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Risikoreduzierung und Risikoteilung",
+              "seite": "259"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Hürden im europäischen Finanzmarkt",
+          "seite": "261",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Geringe Risikoteilung im Euro-Raum",
+              "seite": "262"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Hürden für den gemeinsamen Bankenmarkt schrittweise reduzieren",
+              "seite": "265"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Impulse für die europäische Kapitalmarktunion",
+              "seite": "267"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Hürden für Kapitalmarktfinanzierungen in Europa",
+              "seite": "269"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Beseitigung von Hürden durch die Kapitalmarktunion",
+              "seite": "271"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Sechstes Kapitel:\nDem internationalen Steuerwettbewerb begegnen",
+      "seite": "284",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Motivation",
+          "seite": "286",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Der Tax Cuts and Jobs Act und seine Auswirkungen",
+          "seite": "286",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Wesentliche Elemente der Steuerreform",
+              "seite": "286"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Senkungen der Steuersätze und Verbreiterung der\nBemessungsgrundlagen",
+              "seite": "287"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Finanzierungsneutralität und Anreize für Investitionen",
+              "seite": "288"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Internationale Besteuerung",
+              "seite": "289"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Makroökonomische Auswirkungen der Steuerreform",
+              "seite": "292"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Auswirkungen auf die Vereinigten Staaten",
+              "seite": "292"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Auswirkungen auf andere Volkswirtschaften",
+              "seite": "296"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Deutschland im internationalen Steuerwettbewerb",
+          "seite": "299",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gewinnsteuersätze international im Abwärtstrend",
+              "seite": "299"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Diskriminierende Besteuerung von mobilen und immobilen Aktivitäten",
+              "seite": "303"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Herausforderungen bei der internationalen Besteuerung",
+          "seite": "307",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Prinzipien zur Festlegung der Besteuerungsrechte",
+              "seite": "308"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Besteuerung der Digitalwirtschaft als Herausforderung",
+              "seite": "310"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Alternative Harmonisierungsbestrebungen",
+              "seite": "313"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Steuerpolitische Optionen zur Förderung privater Investitionen",
+          "seite": "315",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Moderate Senkung der Steuerbelastung",
+              "seite": "315"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Abbau von Verzerrungen",
+              "seite": "318"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Siebtes Kapitel:\nKeine schnellen Lösungen in der Wohnungspolitik",
+      "seite": "330",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Herausforderung Immobilienmarkt",
+          "seite": "332",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Demografische Einflüsse auf Immobilienpreise und Mieten",
+          "seite": "333",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Überhitzung am Immobilienmarkt?",
+          "seite": "336",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Hinweise auf Preisübertreibungen in Großstädten",
+              "seite": "336"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Keine übermäßige Angebotsausweitung",
+              "seite": "341"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Implikationen für das Finanzsystem",
+              "seite": "342"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Makroprudenzieller Handlungsbedarf nimmt zu",
+              "seite": "345"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Sozial- und wohnungsbaupolitische Dimension",
+          "seite": "349",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Schutz der Mieter vor Mieterhöhungen",
+              "seite": "350"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Mietpreisbremse: Symptomtherapie mit Nebenwirkungen",
+              "seite": "351"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Wohngeld: Sinnvolle Förderung für Haushalte mit niedrigem Einkommen",
+              "seite": "356"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Sozialer Wohnungsbau: Fehler der Vergangenheit vermeiden",
+              "seite": "357"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Wie lässt sich generell das Angebot an Wohnungen ausweiten?",
+              "seite": "361"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Reform der Grundsteuer",
+              "seite": "361"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Abbau von Regulierungen",
+              "seite": "366"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Zweckentfremdungsverbote",
+              "seite": "367"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Förderung des Erwerbs von Immobilien für private Haushalte",
+              "seite": "368"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Reform der Grunderwerbsteuer angezeigt",
+              "seite": "369"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Bestehende steuerliche Investitionsanreize für Wohnimmobilien",
+              "seite": "372"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Unsystematische Förderung durch das Baukindergeld",
+              "seite": "373"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Bestellerprinzip beim Immobilienkauf",
+              "seite": "376"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Förderung peripherer Immobilienmärkte",
+              "seite": "376"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Achtes Kapitel:\nÜber Wettbewerb mehr Effizienz im Gesundheitswesen",
+      "seite": "384",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Gesundheitswesen vor großen Veränderungen",
+          "seite": "386",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Demografischer Wandel als Kernherausforderung",
+          "seite": "387",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Wachsende Bedeutung des Gesundheitswesens",
+              "seite": "387"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Dynamische Entwicklung der GKV",
+              "seite": "389"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Zukünftige finanzielle Belastungen",
+              "seite": "391"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Kein effizienter Mitteleinsatz",
+              "seite": "394"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Eigenschaften des deutschen Gesundheitswesens",
+              "seite": "394"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Bestehende Überkapazitäten",
+              "seite": "397"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Zuspitzung der Fachkräfteengpässe",
+              "seite": "401"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Finanzierung sichern, Überkapazitäten abbauen",
+          "seite": "405",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Einnahmesichernde Maßnahmen",
+              "seite": "406"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Bürgerpauschale als Zielvorstellung",
+              "seite": "406"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Zusatzbeiträge beleben den Kassenwettbewerb",
+              "seite": "409"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Wettbewerbspotenziale im stationären Sektor",
+              "seite": "412"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Effizienzmängel erfordern stärkere Wettbewerbsorientierung",
+              "seite": "412"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Krankenhausfinanzierung aus einer Hand ermöglichen",
+              "seite": "415"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Strukturbereinigung im Krankenhaussektor vorantreiben",
+              "seite": "418"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Selektivverträge im stationären Sektor stärker zulassen",
+              "seite": "42

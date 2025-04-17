@@ -1,0 +1,569 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Eine kürzere Fassung\nStaatsfinanzen konsolidieren – Steuersystem reformieren",
+      "seite": "1",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "I. Weltwirtschaft: Aufschwung bei anhaltenden Unsicherheiten",
+      "seite": "3",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "II. Deutschland: Außenwirtschaftliche Belebung bei schwacher\nBinnennachfrage",
+      "seite": "7",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Die voraussichtliche Entwicklung im Jahr 2004: Konjunktur-\nhoffnungen ruhen auf der Weltwirtschaft",
+          "seite": "10",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "III. Staatsfinanzen konsolidieren – Steuersystem reformieren",
+      "seite": "12",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1. Öffentliche Haushalte sanieren",
+          "seite": "12",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "2. Steuerpolitik: Vom Chaos zum System",
+          "seite": "20",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "3. Lohnpolitik und Arbeitsmarkt: Chancen für mehr Beschäftigung\nverantwortungsvoll wahrnehmen",
+          "seite": "24",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "4. Geldpolitik: Revision der geldpolitischen Strategie",
+          "seite": "26",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die wirtschaftliche Lage im Jahr 2003",
+      "seite": "27",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "I. Weltwirtschaft: Erholung bei andauernden Unsicherheiten",
+      "seite": "27",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1. Vereinigte Staaten: Erholung bei expansiver Wirtschaftspolitik",
+          "seite": "28",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Ist das Leistungsbilanzdefizit der Vereinigten Staaten\naufrechtzuerhalten?",
+              "seite": "36"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "2. Japan: Wende zum Besseren?",
+          "seite": "40",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "3. Schwellenländer auf dem Pfad der wirtschaftlichen Erholung",
+          "seite": "43",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "4. Institutionelle Regelwerke: Stillstand und Fortschritt",
+          "seite": "44",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "II. Europäische Union: Reformen in stagnierendem Umfeld",
+      "seite": "56",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1. Konjunkturelle Belebung ließ weiter auf sich warten",
+          "seite": "56",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "2. Der monetäre Rahmen im Euro-Raum – Geldpolitik\nweiterhin expansiv",
+          "seite": "73",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Strategieanpassung der Europäischen Zentralbank –\nAuf dem Weg zur Inflationssteuerung?",
+              "seite": "86"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "3. EU-Osterweiterung und institutionelle Entwicklungen",
+          "seite": "92",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Beitrittsverhandlungen erfolgreich abgeschlossen",
+              "seite": "92"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Konvergenz zwischen den Beitrittsländern und\nder Europäischen Union",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konvent zur Zukunft Europas - Auf dem Weg zu einer\neuropäischen Verfassung",
+              "seite": "101"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Änderung der Abstimmungsregeln im EZB-Rat",
+              "seite": "104"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform der Europäischen Agrarpolitik: Zu kurz\ngesprungen",
+              "seite": "107"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "III. Deutschland in der Stagnation",
+      "seite": "108",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1. Binnenkonjunktur bleibt schwach",
+          "seite": "109",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Schwaches Potentialwachstum",
+              "seite": "109"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anhaltende Investitionsschwäche",
+              "seite": "110"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsum: Zögerliche Verbesserung der Konsumentenstimmung",
+              "seite": "120"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Volatiler Außenhandel",
+              "seite": "124"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entstehungsseite: Industrie und Dienstleistungen schwach",
+              "seite": "128"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Preisentwicklung: Niedrige Inflationsraten – aber keine\nDeflation",
+              "seite": "131"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "2. Arbeitsmarkt: Weiterhin Warten auf die Wende",
+          "seite": "132",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Erwerbstätigkeit und Zahl der Erwerbspersonen rückläufig",
+              "seite": "132"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosigkeit weiter gestiegen",
+              "seite": "134"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Berufsausbildungsstellenmarkt angespannt",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarktreformen und die Umsetzung der Vorschläge\nder Hartz-Kommission",
+              "seite": "142"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Tarifpolitik: Viel Streit bei geringem Verteilungsspielraum",
+              "seite": "158"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "3. Öffentliche Finanzen: Ein ausgeglichener Staatshaushalt\nin weiter Ferne",
+          "seite": "165",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Defizitquote des Staates übersteigt 4 vH-Marke",
+              "seite": "165"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterer Anstieg der Staatsausgaben – nur leichte Zunahme\nder Einnahmen",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bund, Länder und Gemeinden: defizitäre Haushalte\nauf allen Ebenen",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steueraufkommen leicht steigend",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schuldenstand weiter zunehmend",
+              "seite": "179"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bedeutende Reformvorhaben im Bereich der\nöffentlichen Finanzen",
+              "seite": "179"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "IV. Soziale Sicherung: Reformbemühungen und Reformdiskussionen",
+      "seite": "194",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1. Gesetzliche Krankenversicherung: Reformschritte und\nfortbestehender Reformdruck",
+          "seite": "195",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Die finanzielle Lage der Gesetzlichen Krankenversicherung",
+              "seite": "195"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gesundheitsreform: Nur eine Atempause",
+              "seite": "195"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform des Finanzierungssystems: Pauschalprämie\nversus Bürgerversicherung",
+              "seite": "203"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gesundheitsprämienmodell",
+              "seite": "203"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bürgerversicherung",
+              "seite": "208"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vergleich des Gesundheitsprämienmodells mit der\nBürgerversicherung",
+              "seite": "211"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mischformen",
+              "seite": "215"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "2. Rentenversicherung: Vor einer Fortentwicklung\nder Rentenreform 2001",
+          "seite": "216",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Die finanzielle Lage der Gesetzlichen Rentenversicherung",
+              "seite": "216"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reformvorschläge und Reformvorhaben in der Gesetzlichen\nRentenversicherung",
+              "seite": "218"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgangssituation",
+              "seite": "218"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anhebung des gesetzlichen Renteneintrittsalters",
+              "seite": "222"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "3. Pflegeversicherung: Reform unvermeidlich",
+          "seite": "230",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Die finanzielle Lage der Sozialen Pflegeversicherung",
+              "seite": "230"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reformvorschlag der Rürup-Kommission",
+              "seite": "231"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Die voraussichtliche Entwicklung im Jahr 2004",
+      "seite": "234",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "I. Überblick: Konjunkturhoffnungen ruhen auf der Weltwirtschaft",
+      "seite": "234",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "II. Prognose",
+      "seite": "236",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Kräftige Belebung der Weltkonjunktur",
+          "seite": "236",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Moderate Erholung im Euro-Raum",
+          "seite": "237",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Deutschland: Nur verhaltene Erholung trotz kräftiger Impulse\nvon außen",
+          "seite": "239",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Öffentliche Haushalte sanieren",
+      "seite": "248",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "I. Wirtschaftspolitik im ersten Jahr der 15. Legislaturperiode",
+      "seite": "249",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "II. Stabilitäts- und Wachstumspakt: Flexibilität überstrapaziert",
+      "seite": "256",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Ausgestaltung und Begründung des Stabilitäts- und\nWachstumspakts",
+          "seite": "257",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Hat der Pakt versagt?",
+          "seite": "260",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Die aktuelle Lage",
+          "seite": "262",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Der Pakt vor der Zerreißprobe",
+          "seite": "264",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Fazit: Der Pakt ist besser als sein Ruf",
+          "seite": "267",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "III. Tragfähigkeit der öffentlichen Haushalte sichern",
+      "seite": "270",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Nachhaltigkeit, Tragfähigkeit, explizite und implizite Staats-\nschulden",
+          "seite": "270",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Quantifizierung von Tragfähigkeitslücken und\nKonsolidierungserfordernisse",
+          "seite": "276",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Bestimmungsgründe der Tragfähigkeitslücke und\nSensitivitätsanalysen",
+          "seite": "277",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Rentenreform und Tragfähigkeitslücke",
+          "seite": "280",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Fazit: Tragfähigkeitslücken berechnen, aber vorsichtig\ninterpretieren",
+          "seite": "281",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "IV. Haushaltskonsolidierung: Strategien und Optionen",
+      "seite": "283",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Grundsätzliche Fragen zur Konsolidierungsstrategie",
+          "seite": "284",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Mögliche Ansatzpunkte einer konkreten Konsolidierungs-\nstrategie",
+          "seite": "288",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Konsolidierung durch Rückführung von Finanzhilfen",
+          "seite": "289",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Konsolidierung durch Rückführung der aktiven\nArbeitsmarktpolitik",
+          "seite": "293",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Konsolidierung durch die Abschaffung von Steuer-\nvergünstigungen",
+          "seite": "294",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "V. Föderalismus mutig reformieren",
+      "seite": "304",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel: Die Politikbereiche im Einzelnen",
+      "seite": "308",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "I. Steuerpolitik: Vom Chaos zum System",
+      "seite": "308",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Verschlechterung der steuerlichen Rahmenbedingungen",
+          "seite": "309",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Weiter schwindende Systematik und zunehmende\nSchedularisierung der Einkommensteuer",
+          "seite": "316",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Kriterien für und Ausblick auf eine Reform der Einkommens-\nund Unternehmensbesteuerung",
+          "seite": "324",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Steuerreformoption I: Integration von Körperschaftsteuer\nund Einkommensteuer",
+          "seite": "328",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Steuerreformoption II: Duale Einkommensteuer",
+          "seite": "333",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Vergleich der Steuerreformoptionen des Sachverständigenrates\nmit dem „Karlsruher Entwurf“",
+          "seite": "341",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Schlussfolgerungen: Zehn Thesen zur Steuerreform",
+          "seite": "347",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Exkurs I: Verfassungsrechtliche Rahmenbedingungen\neiner dualen Einkommensteuer in Deutschland",
+              "seite": "348"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs II: Duale Einkommensbesteuerung in Finnland,\nNorwegen und Schweden",
+              "seite": "351"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "II. Arbeitsmarkt: Chancen für neue Arbeitsplätze verantwortungsvoll\nwahrnehmen",
+      "seite": "361",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1. Die Verantwortung der Tarifvertragsparteien: Auf einen\nbeschäftigungsfreundlichen Kurs einschwenken",
+          "seite": "361",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "2. Die Verantwortung des Gesetzgebers: Kurs bei Arbeitsmarkt-\nreformen halten, weitere Herausforderungen annehmen",
+          "seite": "378",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "2.1 Nach der Reform ist vor der Reform: Hartz und danach",
+              "seite": "378"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2.2 Kündigungsschutz: Mehr Rechtssicherheit und Chancengleichheit",
+              "seite": "382"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Problematik des geltenden Kündigungsschutzrechts",
+              "seite": "383"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform des gesetzlichen Kündigungsschutzes",
+              "seite": "388"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2.3 Arbeitslosenversicherung und Mindestsicherung: Reformen\nausbauen",
+              "seite": "392"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosenversicherung: Arbeitsanreize stärken,\nQuersubventionierung verringern",
+              "seite": "392"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein Reformvorschlag",
+              "seite": "397"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mindestsicherung: Unzureichende Anreize zur Arbeitsaufnahme",
+              "seite": "402"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "III. Europäische Geldpolitik: Preisniveaustabilität erreicht",
+      "seite": "403",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Zielgerichtete Geldpolitik fortgesetzt",
+          "seite": "404",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Geldpolitische Strategie mit der Praxis in Einklang gebracht",
+          "seite": "407",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Ausblick auf das Jahr 2004",
+          "seite": "410",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```ende_json
+

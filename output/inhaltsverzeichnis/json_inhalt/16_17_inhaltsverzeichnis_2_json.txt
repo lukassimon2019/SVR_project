@@ -1,0 +1,109 @@
+": "1. Ziele des Energiekonzepts 2010",
+              "seite": "439"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Großteil der Ziele nicht erreicht",
+              "seite": "440"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Klimapolitische Einordnung",
+              "seite": "443"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Lehren aus dem Strommarkt",
+          "seite": "447",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Technologiemix bei der Stromerzeugung",
+              "seite": "448"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. EEG-Novelle: Kosten immer noch zu hoch",
+              "seite": "451"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Potenziale der Sektorkopplung",
+              "seite": "455"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Fazit: Mehr Arbeitsteilung anstreben",
+          "seite": "457",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zwölftes Kapitel\nTransformation in China birgt Risiken",
+      "seite": "464",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Schwieriger Transformationsprozess",
+          "seite": "466",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Wirtschaftswachstum mit Schattenseiten",
+              "seite": "466"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Bisheriges Wachstumsmodell nicht zukunftsfähig",
+              "seite": "468"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Kann die Transformation gelingen?",
+              "seite": "473"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Risiken für die Weltwirtschaft",
+              "seite": "478"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Entkopplung des Handels vom Wirtschaftswachstum",
+              "seite": "478"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Risiken für das Finanzsystem",
+              "seite": "479"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Implikationen für die deutsche Wirtschaft",
+          "seite": "483",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Exportmarkt China: Nachlassende Dynamik",
+              "seite": "483"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. China als Standort für Produktion und Vertrieb",
+              "seite": "487"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Von „Made in China“ zu „Created in China“",
+              "seite": "489"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Konkurrenz für Deutschland auf internationalen Märkten",
+              "seite": "491"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. China als Investor",
+              "seite": "493"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Fazit",
+          "seite": "497",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+"""
+ende_json

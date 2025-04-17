@@ -1,0 +1,419 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "27",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Der internationale Rahmen",
+          "seite": "27",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Überblick",
+              "seite": "27"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Schwache Aufwärtsentwicklung in den Industrieländern",
+          "seite": "30",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Nur langsame Belebung der Konjunktur in Amerika",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwächere Konjunktur in Ostasien",
+              "seite": "34"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nur schleppende Konjunkturbelebung in Westeuropa",
+              "seite": "36"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zunahme der Arbeitslosigkeit in den Industrieländern",
+              "seite": "41"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Abnehmender Inflationsdruck",
+              "seite": "44"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Risiken für den freien Welthandel",
+              "seite": "46"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Mittel und Osteuropa: Umstellungsprozess dauert an, tiefe Anpassungskrise in Rußland",
+          "seite": "53",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Polen, Ungarn, Tschechoslowakei: Noch keine durchgreifende Aufwärtsentwicklung",
+              "seite": "54"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgangsbedingungen belasten Reformen in Rußland",
+              "seite": "59"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Mittel- und Osteuropa: Auswirkungen auf den deutschen Arbeitsmarkt",
+          "seite": "65",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Die wirtschaftliche Entwicklung in Deutschland",
+          "seite": "67",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Überblick",
+              "seite": "67"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Stagnation in Westdeutschland",
+          "seite": "71",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Enttäuschte Exporterwartungen",
+              "seite": "71"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stagnierende Investitionstätigkeit in Westdeutschland",
+              "seite": "77"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bauinvestitionen: Nochmals hoher Zuwachs",
+              "seite": "80"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwache Verbrauchskonjunktur - steigender Staatsverbrauch",
+              "seite": "81"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ende des Importsogs - aber weitere Passivierung der Leistungsbilanz",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gesamtwirtschaftliche Kapazitätsauslastung geht zurück",
+              "seite": "83"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unverminderter Preisauftrieb auf Verbraucherebene",
+              "seite": "84"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Ostdeutsche Wirtschaft - Noch kein Durchbruch zu kräftiger Expansion",
+          "seite": "86",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Differenzierte Entwicklung im Unternehmenssektor",
+              "seite": "86"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Deutliche Belebung der Investitionstätigkeit in Ostdeutschland",
+              "seite": "93"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fortschritte im Aufbau des privaten Unternehmenssektors",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Einkommenssteigerungen stimulieren den Privaten Verbrauch",
+              "seite": "97"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Güterbezüge",
+              "seite": "100"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Konjunkturelle Abschwächung am Arbeitsmarkt in Westdeutschland - Noch keine Trendwende in Ostdeutschland",
+          "seite": "101",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Hohe Tarifabschlüsse erzeugen Kostendruck",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterer Anstieg der Arbeitseinkommensquote",
+              "seite": "112"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ende der Beschäftigungsexpansion in Westdeutschland",
+              "seite": "113"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wieder Zunahme der Arbeitslosigkeit in Westdeutschland",
+              "seite": "115"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigungsabbau in Ostdeutschland deutlich verlangsamt",
+              "seite": "119"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitskräfteangebot in Ostdeutschland kaum noch rückläufig",
+              "seite": "120"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarktpolitik fängt Unterbeschäftigung in den jungen Bundesländern auf",
+              "seite": "121"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur geplanten Einführung eines Arbeitszeitgesetzes",
+              "seite": "124"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Geldpolitik: Übermäßige monetäre Expansion",
+          "seite": "124",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Geldmengenwachstum überschreitet Zielvorgabe",
+              "seite": "124"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Geldmarktsteuerung: Bis zum Sommer hohe Zinsen",
+              "seite": "131"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzmärkte: Inverse Zinsstruktur, im Herbst abgeflacht",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Turbulenzen im Europäischen Währungssystem",
+              "seite": "135"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Finanzpolitik: Konsolidierung noch nicht auf den Weg gebracht",
+          "seite": "139",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Bislang keine Revision der Ausgabenpolitik",
+              "seite": "141"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kräftig sprudelnde Steuerquellen",
+              "seite": "146"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Haushalte mit sprunghaft gestiegenem Defizit",
+              "seite": "148"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sozialversicherung erstmals wieder mit hohem Defizit",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gesetzliche Krankenversicherung erneut in der Krise",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Zu den Verteilungswirkungen der \"Finanzierung der Einheit\"",
+              "seite": "155"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Zur voraussichtlichen Entwicklung im Jahre 1993",
+      "seite": "162",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Ausgangslage",
+          "seite": "162",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die Annahmen der Prognose",
+          "seite": "162",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Das weltwirtschaftliche Umfeld",
+          "seite": "163",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Die wirtschaftlichen Aussichten für die Bundesrepublik",
+          "seite": "166",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Wirtschaftspolitik für 1993 und danach",
+      "seite": "179",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Aufgaben und Möglichkeiten",
+          "seite": "179",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Was auf dem Spiel steht",
+              "seite": "179"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Ziele und Wirklichkeit",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Grundlinien der Wirtschaftspolitik",
+              "seite": "182"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wachstumskräfte nicht durch Verteilungsstreit lähmen",
+              "seite": "182"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Möglichkeiten, Grenzen und Gefahren eines \"Solidarpakts\"",
+              "seite": "183"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Standort Deutschland in einer sich wandelnden Weltwirtschaft",
+              "seite": "184"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Wirtschaftspolitik für die jungen Bundesländer: An der wachstumsorientierten Politik festhalten",
+              "seite": "186"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zwei Jahre nach der Vereinigung: Wie steht es mit dem wirtschaftlichen Neuaufbau",
+              "seite": "186"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gibt es Alternativen?",
+              "seite": "188"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vorrangige Aufgaben der staatlichen Wirtschaftspolitik",
+              "seite": "190"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Zu den Politikbereichen im einzelnen",
+          "seite": "195",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Geldpolitik: Rückkehr zu einer potentialgerechten Geldversorgung",
+              "seite": "195"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitische Gratwanderung im Jahre 1992",
+              "seite": "195"
+            },
+            {
+              "ueberschrift_drei_niedriger": "An der potentialorientierten Geldpolitik festhalten",
+              "seite": "197"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitische Verantwortung bei fortschreitender Integration in Europa",
+              "seite": "199"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Orientierungslinien für die monetäre Expansion 1993",
+              "seite": "200"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Finanzpolitik: Neue Prioritäten setzen",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin hohe Leistungen an die neuen Bundesländer",
+              "seite": "203"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gewaltige Konsolidierungsaufgabe",
+              "seite": "204"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Alternative I: Ausgaben drastisch einschränken",
+              "seite": "207"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Alternative II: Steuererhöhungen unvermeidbar",
+              "seite": "209"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Änderungen in der Abgabenstruktur",
+              "seite": "210"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform des Finanzausgleichs: Akuter Handlungsbedarf",
+              "seite": "212"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform der Gesetzlichen Krankenversicherung: An den Ursachen der Krise ansetzen",
+              "seite": "218"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Lohnpolitik: Deutlicher Kurswechsel geboten",
+              "seite": "226"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verantwortung für die Beschäftigung",
+              "seite": "227"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neue Bundesländer: Mehr Raum für Lohndifferenzierung schaffen, vorgesehene Lohnerhöhungen strecken",
+              "seite": "227"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Westdeutschland: Löhne enger an der Produktivität orientieren",
+              "seite": "231"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Wirtschaftspolitik für Europa nach Maastricht",
+      "seite": "233",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Ein ehrgeiziges Integrationsvorhaben verständlich machen",
+          "seite": "233",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Europäische Währungsunion: Auf stabilitätspolitischen Grundkonsens bauen",
+          "seite": "236",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Gemeinsamer Binnenmarkt: Wettbewerbsorientierung bewahren",
+          "seite": "243",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Binnenmarkt und Drittländer: Auf Handelsliberalisierung setzen",
+          "seite": "247",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "V. Innergemeinschaftliche Finanztransfers: Möglichkeiten und Grenzen beachten",
+          "seite": "249",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+
+ende_json
+
+

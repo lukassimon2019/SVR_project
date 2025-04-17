@@ -1,0 +1,708 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "ERSTES KAPITEL\nDie wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland",
+      "seite": "14",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Internationale Konjunktur: Weltwirtschaft unter dem Einfluss der Euro-Krise",
+          "seite": "16",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Hohe Schulden dämpfen die Weltwirtschaft noch immer",
+              "seite": "17"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsolidierung im öffentlichen und privaten Sektor",
+              "seite": "17"
+            },
+            {
+              "ueberschrift_drei_niedriger": "EZB stabilisiert Euro-Raum",
+              "seite": "21"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik außerhalb des Euro-Raums",
+              "seite": "22"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die konjunkturelle Entwicklung in den einzelnen Wirtschaftsräumen",
+              "seite": "24"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vereinigte Staaten",
+              "seite": "24"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vereinigtes Königreich",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Japan",
+              "seite": "27"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwellenländer",
+              "seite": "28"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Euro-Raum",
+              "seite": "31"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Die Entwicklung im Prognosezeitraum",
+              "seite": "36"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Konjunktur in Deutschland: Keine Entkopplung vom außenwirtschaftlichen\nUmfeld",
+          "seite": "40",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die konjunkturelle Entwicklung bis zur Mitte des Jahres 2012",
+              "seite": "41"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die aktuelle Indikatorenlage",
+              "seite": "45"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Die Entwicklung im Prognosezeitraum",
+              "seite": "47"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verwendungsseite des Bruttoinlandsprodukts",
+              "seite": "50"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarkt",
+              "seite": "55"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Finanzen",
+              "seite": "57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "ZWEITES KAPITEL\nEuropäische Wirtschaftspolitik: Stabile Architektur für Europa",
+      "seite": "62",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Euro-Krise im dritten Jahr: Bislang noch wenige Lichtblicke",
+          "seite": "64",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Staatsschuldenkrise: Anstieg der Schuldenstandsquoten setzt sich fort",
+              "seite": "65"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Makroökonomische Krise: Licht und Schatten",
+              "seite": "71"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Bankenkrise: Vertrauen kehrt nicht zurück",
+              "seite": "76"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. EZB in der Zwickmühle",
+          "seite": "81",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Stützung der Kapitalmärkte",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Stabilisierung des Bankensystems",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wie hoch sind die Inflationsgefahren?",
+              "seite": "91"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Fortschritte bei institutionellen Reformen",
+          "seite": "96",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Disziplinierung der Fiskalpolitik",
+              "seite": "96"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Einrichtung eines Europäischen Stabilitätsmechanismus (ESM)",
+              "seite": "97"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Weitere Reformen der wirtschaftspolitischen Steuerung",
+              "seite": "100"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Vom Krisenmanagement zu einer stabilen Architektur für die\nEuropäische Währungsunion",
+          "seite": "101",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Probleme des Krisenmanagements",
+              "seite": "101"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Langfristiger Ordnungsrahmen: Das Drei-Säulen-Modell des\nSachverständigenrates",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die fiskalische Säule von „Maastricht 2.0“",
+              "seite": "104"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Säule für die Krisenbewältigung: Insolvenzordnung und ESM",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Maastricht 2.0 ist die Basis für eine Stabilitätsunion",
+              "seite": "108"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "109"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Brücken zum langfristigen Ordnungsrahmen",
+              "seite": "110"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Risiken einer dauerhaften Rettungsfunktion der EZB",
+              "seite": "110"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Schuldentilgungspakt",
+              "seite": "112"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Anhang zum zweiten Kapitel: Institutionelle Änderungen im Euro-Raum und der\nEuropäischen Union",
+          "seite": "117",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Überblick über die Reformen",
+              "seite": "117"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Fiskalpolitik",
+              "seite": "121"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Korrektive Komponente des Stabilitäts- und Wachstumspakts",
+              "seite": "121"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Präventive Komponente des Stabilitäts- und Wachstumspakts",
+              "seite": "125"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umsetzung von Fiskalregeln in nationales Recht",
+              "seite": "128"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weitere Sanktionsmöglichkeiten",
+              "seite": "132"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit und Bewertung",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Makroökonomische Ungleichgewichte",
+              "seite": "135"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bewertung",
+              "seite": "140"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Wachstum und Strukturreformen",
+              "seite": "141"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Koordinierung der Haushalts- und Wirtschaftspolitik",
+              "seite": "144"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "DRITTES KAPITEL\nFinanzmärkte in Europa: Vom Binnenmarkt zur Bankenunion",
+      "seite": "150",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Analyse der aktuellen Entwicklungen im Bankensektor",
+          "seite": "152",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Zunehmende Fragmentierung des Binnenmarkts",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Verstärkung von Strukturproblemen",
+              "seite": "154"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Leitlinien für das Krisenmanagement",
+              "seite": "157"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Arbeiten an der europäischen Finanzmarktarchitektur",
+          "seite": "160",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Regulierung und Aufsicht von Banken",
+              "seite": "160"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mikroprudenzielle Regulierung",
+              "seite": "161"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Makroprudenzielle Regulierung",
+              "seite": "163"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "164"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Restrukturierungs- und Abwicklungsregime",
+              "seite": "165"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Prävention und Frühintervention",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Restrukturierungs- und Abwicklungsinstrumente",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzierung von Restrukturierungs- und Abwicklungsmaßnahmen",
+              "seite": "168"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Internationale Koordination",
+              "seite": "169"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "169"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Europäische Verantwortung im Rahmen einer Bankenunion",
+          "seite": "171",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Vorschläge für eine europäische Bankenunion",
+              "seite": "171"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Argumente für eine europäische Bankenaufsicht",
+              "seite": "172"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Risiken aus einer Einbeziehung der Notenbank in die Aufsicht",
+              "seite": "174"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wie weit sollte die europäische Aufsicht ausgedehnt werden?",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Argumente für europäische Restrukturierungs- und Abwicklungskompetenzen",
+              "seite": "177"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzierung von Restrukturierung und Abwicklung",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Voraussetzungen für die Einführung einer europäischen Einlagensicherung",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Notwendigkeit weitergehender Reformen",
+              "seite": "183"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Zusammenfassender Vorschlag des Sachverständigenrates",
+          "seite": "185",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Eckpunkte einer Bankenunion",
+              "seite": "186"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Dreistufiges Konzept für den Übergang in eine Bankenunion",
+              "seite": "188"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Phase 1: Schaffung des rechtlichen Rahmens und Aufbau der\nInstitutionen",
+              "seite": "189"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Phase 2: Qualifizierung der Banken",
+              "seite": "190"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Phase 3: Übergang zur vollumfänglichen Bankenunion",
+              "seite": "191"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "VIERTES KAPITEL\nÖffentliche Finanzen: Reformbedarf bei der Unternehmensbesteuerung, mehr\nEhrgeiz bei der Konsolidierung",
+      "seite": "198",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Konsolidierung der öffentlichen Haushalte",
+          "seite": "200",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Entwicklung des öffentlichen Gesamthaushalts",
+              "seite": "200"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentlichen Haushalte im Jahr 2012",
+              "seite": "200"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Analyse der Ausgabenentwicklung in den vergangenen Jahren",
+              "seite": "203"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die deutsche Schuldenregel und die Umsetzung des Fiskalvertrags",
+              "seite": "212"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Haushalte des Bundes und der Länder im zulässigen Rahmen der\nSchuldenregel",
+              "seite": "212"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verabschiedung des Fiskalvertrags",
+              "seite": "214"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Die Verschuldung der Kommunen",
+              "seite": "215"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Duale Einkommensteuer zur Verbesserung der Eigenfinanzierung und Investitionstätigkeit inländischer Unternehmen",
+          "seite": "220",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Unternehmensteuerreform 2008/09 und Einführung der Abgeltungsteuer",
+              "seite": "220"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Folgen fehlender Finanzierungsneutralität",
+              "seite": "226"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Duale Einkommensteuer mit einer „Zinsbereinigung des Grundkapitals“",
+              "seite": "229"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Alternative Konzepte zur Erreichung von Finanzierungsneutralität",
+              "seite": "229"
+            },
+            {
+              "ueberschrift_drei_niedriger": "„Zinsbereinigung des Grundkapitals“ bei Kapitalgesellschaften",
+              "seite": "230"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterführender Regelungsbedarf bei der Besteuerung von Kapitalgesellschaften",
+              "seite": "235"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsequenzen für die Besteuerung von Personenunternehmen und\nprivaten Kapitalerträgen",
+              "seite": "237"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steuermindereinnahmen",
+              "seite": "239"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Eine andere Meinung",
+              "seite": "241"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "FÜNFTES KAPITEL\nEnergiepolitik: Bei der Energiewende mehr Marktwirtschaft wagen",
+      "seite": "248",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Ein Jahr Energiewende: Überschaubare Fortschritte",
+          "seite": "250",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Erzeugungsmix und Stromaußenhandel",
+              "seite": "251"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Auswirkungen auf die Versorgungssicherheit",
+              "seite": "254"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Auswirkungen auf die Strompreise",
+              "seite": "255"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "261"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Bisherige Weichenstellungen und ihre Bewertung",
+          "seite": "261",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Weichen beim Netzausbau sind gestellt",
+              "seite": "262"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Bereitstellung gesicherter Erzeugungskapazitäten steht noch aus",
+              "seite": "264"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Halbherzige Reformen bei der Förderung der erneuerbaren Energien",
+              "seite": "272"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mehrfache, aber halbherzige Novellierungen des EEG in den Jahren\n2009 bis 2011",
+              "seite": "274"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die erneute Änderung des EEG im Juni 2012",
+              "seite": "275"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "279"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Bei der Energiewende mehr Marktwirtschaft wagen",
+          "seite": "279",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Schwächen der aktuellen Förderung der erneuerbaren Energien",
+              "seite": "279"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Marktbasierte Mengensteuerung statt Einspeisevergütungen",
+              "seite": "282"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "291"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Eine andere Meinung",
+              "seite": "292"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "SECHSTES KAPITEL\nArbeitsmarkt: Erfolge sichern und ausbauen",
+      "seite": "300",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Zur Entwicklung der Beschäftigung in Deutschland: Stabilisierung auf\nhohem Niveau",
+          "seite": "302",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die aktuelle Arbeitsmarktsituation",
+              "seite": "302"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die Entwicklung atypischer Beschäftigungsverhältnisse",
+              "seite": "313"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Reformen voranbringen, statt sie zu verwässern",
+              "seite": "317"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Zur Einkommensungleichheit in Deutschland: An wen wurden die Einkommenszuwächse verteilt?",
+          "seite": "319",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die gesamtwirtschaftliche Lohnquote: Verlauf, Bestimmungsgründe und\nAussagekraft",
+              "seite": "320"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Höhe und Verlauf der Lohnquote",
+              "seite": "321"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bestimmungsgründe für das Verlaufsmuster der Lohnquote",
+              "seite": "324"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zwischenfazit",
+              "seite": "328"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Von der Lohnquote zur personellen Einkommensverteilung",
+              "seite": "329"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Lohnungleichheit: Zeitliche Entwicklung und Determinanten",
+              "seite": "332"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Fazit und Folgerungen für die Wirtschaftspolitik",
+              "seite": "338"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Eine andere Meinung",
+          "seite": "341"
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "SIEBENTES KAPITEL\nSoziale Sicherung: Weiterhin Reformbedarf trotz guter Finanzlage",
+      "seite": "348",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Gesetzliche Krankenversicherung: Reformnotwendigkeiten trotz\nÜberschüssen",
+          "seite": "350",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Aktuelle finanzielle Lage",
+              "seite": "350"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Wachstums- und Beschäftigungseffekte einer Weiterentwicklung der\nZusatzbeiträge",
+              "seite": "354"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgaben- und Einnahmeprojektion bis zum Jahr 2060",
+              "seite": "355"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ökonomische Konsequenzen verschiedener Möglichkeiten der GKVFinanzierung",
+              "seite": "358"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Optionen zur Weiterentwicklung der Zusatzbeiträge",
+              "seite": "361"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wachstums- und Beschäftigungseffekte verschiedener Weiterentwicklungsoptionen",
+              "seite": "363"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "368"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Ausgabenseitige Reformen",
+              "seite": "369"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die ambulante Versorgung",
+              "seite": "369"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die stationäre Versorgung",
+              "seite": "371"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "373"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Soziale Pflegeversicherung: Trotz Pflegereform keine finanzielle Nachhaltigkeit erreicht",
+          "seite": "373",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Aktuelle finanzielle Lage",
+              "seite": "374"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Pflegeneuausrichtungsgesetz – Umsetzung und Bewertung",
+              "seite": "374"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Gesetzliche Rentenversicherung: Prävention von Altersarmut sollte Vorrang\nhaben",
+          "seite": "376",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Aktuelle finanzielle Lage",
+              "seite": "376"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Reformvorhaben „Rentenpaket“",
+              "seite": "378"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hintergrund",
+              "seite": "378"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgestaltung",
+              "seite": "379"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Auswirkungen der Zuschussrente",
+              "seite": "383"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bewertung",
+              "seite": "386"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Arbeitslosenversicherung: Beginn des Aufbaus einer Rücklage",
+          "seite": "388"
+        }
+      ]
+    }
+  ]
+}
+```
+

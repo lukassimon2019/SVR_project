@@ -1,0 +1,404 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "20",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die deutsche Wirtschaft im Jahre 1995: Ein Überblick",
+          "seite": "20",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Der weltwirtschaftliche Rahmen: Aufwärtsentwicklung mit weniger\nSchwung",
+          "seite": "25",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Konjunkturelle Erholung in Westeuropa setzt sich fort",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Entwicklung in Mittel- und Osteuropa bleibt uneinheitlich",
+              "seite": "35"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Abgeschwächter Aufschwung in Nordamerika - anhaltende Ex-\npansion in Lateinamerika",
+              "seite": "38"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Keine Erholung der japanischen Wirtschaft - unvermindertes\nWachstum in den Schwellenländern Ostasiens",
+              "seite": "42"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Herausforderungen für den Internationalen Währungsfonds und\ndie Welthandelsorganisation",
+              "seite": "44"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Der Angebotsspielraum der deutschen Wirtschaft: Schwaches Potentialwachstum",
+          "seite": "51",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Wachstum des Kapitalstocks und Entwicklung der Kapitalprodukti-\nvität in Westdeutschland",
+              "seite": "52"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zum Anlagevermögen in Ostdeutschland",
+              "seite": "54"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Schätzung des Produktionspotentials",
+              "seite": "56"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Konjunktur nur verhalten aufwärts gerichtet",
+          "seite": "60",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Nachlassender Schwung im Außenhandel",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gedämpfte Belebung der Investitionstätigkeit in Westdeutschland\n- anhaltende Investitionsdynamik in Ostdeutschland",
+              "seite": "66"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konjunkturelle Impulse durch Bauinvestitionen deutlich schwächer",
+              "seite": "71"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Privater Verbrauch bleibt verhalten",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zu Umstellungen in der amtlichen Statistik",
+              "seite": "75"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Neue Bundesländer: Weitere Fortschritte",
+          "seite": "78",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zu den einzelnen Wirtschaftsbereichen: Aufbau kommt weiter\nvoran",
+              "seite": "78"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Festigung des Unternehmenssektors",
+              "seite": "83"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur regionalen Entwicklung in den neuen Bundesländern",
+              "seite": "89"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erfahrungen mit der Wirtschaftsförderung in den neuen Bundes-\nländern",
+              "seite": "90"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Der Preisniveaustabilität nähergekommen",
+          "seite": "95",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "VII. Der Arbeitsmarkt: Keine durchgreifende Besserung, übermäßige Tarif-\nlohnerhöhungen",
+          "seite": "99",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigung unverändert niedrig",
+              "seite": "100"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosigkeit auf hohem Niveau",
+              "seite": "105"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Deutliche Tarillohnerhöhungen",
+              "seite": "108"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarktförderung in den neuen Bundesländern: Eine Be-\nstandsaufnahme",
+              "seite": "118"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VIII. Monetäre Entwicklung: Kein geldpolitischer Aktionismus trotz verän-\nderten Umfeldes",
+          "seite": "121",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zentralbankgeldmenge leicht oberhalb des Zielpfades",
+              "seite": "122"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steuerungsgröße der Bundesbank unterhalb des Zielkorridors",
+              "seite": "125"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zinssenkungsprozeß verlangsamt",
+              "seite": "129"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Niedrigeres Zinsniveau am Kapitalmarkt",
+              "seite": "131"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zeitweise starke Aufwertung der D-Mark",
+              "seite": "131"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fortschritte auf dem Weg in die Währungsunion?",
+              "seite": "133"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IX. Öffentliche Finanzen: Kein Konsolidierungsfortschritt trotz steigender\nSteuerbelastung",
+          "seite": "138",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Kein Konsolidierungserfolg",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ende der vereinigungsbedingten Sonderregelungen",
+              "seite": "142"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Divergierende Entwicklungen in den Haushalten der Gebietskör-\nperschaften",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Trotz Steuererhöhungen nur verlangsamter Anstieg der Steuerein-\nnahmen",
+              "seite": "147"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sozialversicherung: Die Gesetzliche Krankenversicherung erneut\nin Schwierigkeiten",
+              "seite": "149"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Leistungen für die neuen Länder: Eine Zwischenbilanz",
+              "seite": "150"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Zur voraussichtlichen Entwicklung im Jahre 1996",
+      "seite": "158",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Ausgangslage und Annahmen",
+          "seite": "158",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Das weltwirtschaftliche Umfeld",
+          "seite": "159",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Die konjunkturelle Entwicklung in Deutschland",
+          "seite": "161",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Grundlinien der Wirtschaftspolitik",
+      "seite": "172",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Standortwettbewerb: Der Herausforderung rechtzeitig begegnen",
+          "seite": "172",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Zielverfehlungen: Ursachen und Konsequenzen",
+          "seite": "173",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Schwächen im Wachstumsprozess",
+              "seite": "174"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigungsstand: Nach wie vor die gravierendste Zielverfehlung",
+              "seite": "175"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erfolgreiche Stabilitätspolitik: Das Erreichte bewahren",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außenwirtschaft: Belastung durch reale Aufwertung",
+              "seite": "176"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Besinnung auf die ordnungspolitischen Aufgaben: Fundamentale Kor-\nrekturen statt punktueller Symptomtherapie",
+          "seite": "177",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Falsche Weichenstellungen auf dem Arbeitsmarkt",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Staatsfinanzen: Haushaltskonsolidierung und Senkung der Abgabenlast",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rahmenbedingungen für Innovationen",
+              "seite": "181"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein Ordnungsrahmen für Europa: Stabiles Geld, offene Märkte",
+              "seite": "183"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Fortschritte in den neuen Bundesländern - Bewährungsprobe ist noch\nzu bestehen",
+          "seite": "185",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Zu den Politikbereichen im einzelnen",
+      "seite": "191",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Finanzpolitik: Dauerhaft Handlungsspielräume gewinnen - verläss-\nliche Rahmenbedingungen für die Wirtschaft schaffen",
+          "seite": "191",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Schwierigkeiten mit der Konsolidierung",
+              "seite": "192"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Klarer Kurs in der Steuerpolitik",
+              "seite": "199"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitisches Handlungsprogramm",
+              "seite": "208"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gemeindefinanzsystem reformieren",
+              "seite": "209"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Subventionierung des Steinkohlenbergbaus beenden",
+              "seite": "214"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Lohnpolitik: Kurswechsel und institutionelle Reformen notwendig",
+          "seite": "217",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Chancen für mehr Beschäftigung vertan",
+              "seite": "217"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Lohnfindung: Orientierungshilfen in einem schwierigeren Um-\nfell",
+              "seite": "219"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitszeitflexibilisierung verstärken",
+              "seite": "224"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Flächentarifvertrag: Überholungsbedürftig",
+              "seite": "226"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lohnpolitik im europäischen Binnenmarkt: Zur Problematik des\nEntsendegesetzes",
+              "seite": "229"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Reform des Arbeitsförderungsgesetzes",
+              "seite": "231"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Geldpolitik: Die Stabilitätsfortschritte sichern",
+          "seite": "233",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Vorrang für Stetigkeit und Regelhaftigkeit",
+              "seite": "234"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldmengensteuerung bei verändertem Umfeld",
+              "seite": "236"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Zur Diskussion um die internationale Währungspolitik",
+          "seite": "239",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Wechselkurszielzonen und Devisensteuern: Fragwürdig",
+              "seite": "240"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Aktives Krisenmanagement und neue Sonderziehungsrechte: Pro-\nblematisch",
+              "seite": "242"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsequente Stabilitätspolitik: Unabdingbar",
+              "seite": "244"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel: Europa: An den Voraussetzungen für die monetäre Inte-\ngration arbeiten",
+      "seite": "246",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Die Kriterien strikt und eng anwenden",
+          "seite": "246",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Realwirtschaftliche Konvergenz und Transferbedarf in der Wäh-\nrungsunion",
+          "seite": "252",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Ein haushaltspolitischer Pakt: Bindung für die Finanzpolitik",
+          "seite": "253",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Zur Problematik einer kleinen Teilwährungsunion",
+          "seite": "256",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Die Ausgestaltung der zweiten Stufe",
+          "seite": "256",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+
+ende_json

@@ -1,0 +1,230 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Zur Konjunkturlage",
+      "seite": "1",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Überblick",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Der neue Aufschwung",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Entscheidende Anregungen von den Konjunkturprogrammen",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Lageraufbau als Verstärker",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verzögerter Lohn- und Preisanstieg",
+              "seite": "1"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Ein neuer Konjunkturzyklus?",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Produktion und Produktionspotential",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Sachkapazitäten und Auslastungsgrad",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitskräftepotential und Beschäftigungsstand",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Alters-, Berufs- und Regionalstruktur der Arbeitslosigkeit",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bevölkerung und Arbeitskräftepotential bis 1985",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsproduktivität",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der nichtausgenutzte Produktionsspielraum im Jahre 1968",
+              "seite": "1"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Das außenwirtschaftliche Ungleichgewicht",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Der hohe Überschuss in der laufenden Rechnung",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Labiler Kapitalexport",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unruhe im Weltwährungssystem",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weitgehend stabile Inlandspreise, steigende Auslandspreise",
+              "seite": "1"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Öffentliche Finanzen",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Keine Expansionswirkung der öffentlichen Haushalte",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Investitionen unter der Zielprojektion",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konjunkturbedingter Anstieg des Steueraufkommens",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nettokreditaufnahme weit geringer als veranschlagt",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur mittelfristigen Finanzplanung 1968 bis 1972",
+              "seite": "1"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VII. Die Finanzierung des Aufschwungs",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Geringe inländische Kreditnachfrage",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Auslandseinflüsse erhöhen die Zinssenkungstendenzen",
+              "seite": "1"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Liquiditätspolster der Unternehmen",
+              "seite": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die voraussehbare Entwicklung",
+      "seite": "1",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Weltkonjunktur im Jahre 1969",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die öffentlichen Haushalte im Jahre 1969",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Die voraussehbare Entwicklung der Binnenkonjunktur bei unveränderten wirtschaftspolitischen Bedingungen (Status quo)",
+          "seite": "49",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Gegen Fehlentwicklungen, für Expansion bei Stabilität und außenwirtschaftlichem Gleichgewicht",
+      "seite": "55",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die konjunkturpolitische Diskussion des Jahres 1968 im Rückblick",
+          "seite": "55",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Gestörtes außenwirtschaftliches Gleichgewicht",
+          "seite": "58",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Das Für und Wider einer DM-Aufwertung",
+          "seite": "59",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Alternativen außenwirtschaftlicher Anpassung",
+          "seite": "67",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Strategie I: Verstärkte Binnennachfrage mit Anpassungsinflation",
+              "seite": "68"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Strategie II: Verstärkte Binnennachfrage ohne Anpassungsinflation",
+              "seite": "69"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Strategie III: Konjunkturneutrale Aufwertung",
+              "seite": "71"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Strategie IV: Konjunkturdämpfende Aufwertung",
+              "seite": "75"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Strategie V: Konjunkturpolitisches Laissez-Faire",
+              "seite": "76"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Einkommenspolitik 1969",
+          "seite": "78",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Zu einigen aktuellen Problemen der Wirtschafts- und Finanzpolitik",
+      "seite": "81",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Zur Vermögensbildung",
+          "seite": "81",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Zur Finanzreform",
+          "seite": "84",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Zur Regionalpolitik",
+          "seite": "89",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```ende_json

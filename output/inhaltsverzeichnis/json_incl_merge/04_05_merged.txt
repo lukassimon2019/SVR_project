@@ -1,0 +1,578 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Zusammenfassung\nErfolge im Ausland – Herausforderungen im Inland",
+      "seite": "1",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Weltwirtschaft: Aufschwung auf breitem Fundament",
+          "seite": "2",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Deutschland: Exportgetragener Aufschwung – keine Linderung der\nbinnenwirtschaftlichen Probleme",
+          "seite": "6",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Die voraussichtliche Entwicklung im Jahr 2005: Konjunktur-\nhoffnungen ruhen auf der Belebung der Binnenwirtschaft",
+              "seite": "15"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Erfolge im Ausland – Herausforderungen im Inland",
+          "seite": "17",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Krankenversicherung und Pflegeversicherung: Pauschalprämien\nstatt einkommensabhängiger Beiträge",
+              "seite": "19"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Das deutsche Bildungssystem: Kein gutes Zeugnis",
+              "seite": "22"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wirtschaftspolitik für den Aufbau Ost: Königsweg nicht in Sicht",
+              "seite": "23"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Finanzpolitik: Unverändert dringender Handlungsbedarf",
+              "seite": "27"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Lohnpolitik: Dynamische und wettbewerbsfähige Arbeitsmärkte\nals Wachstumsmotoren",
+              "seite": "29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die wirtschaftliche Lage im Jahr 2004",
+      "seite": "31",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Weltwirtschaft: Aufschwung auf breitem Fundament",
+          "seite": "31",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Vereinigte Staaten: Wirtschaftliche Dynamik über Potential-\nwachstum",
+              "seite": "35"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Japan: Hoffnungen auf eine nachhaltige Erholung festigen sich",
+              "seite": "49"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Positive weltwirtschaftliche Entwicklung erfasst alle Schwellen-\nländer",
+              "seite": "54"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ostasien: Ausstrahlungseffekte von China verstärken\nAufwärtstrend",
+              "seite": "54"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Die zunehmende Bedeutung Chinas für die welt-\nwirtschaftliche Entwicklung",
+              "seite": "56"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirtschaftliche Erholung stabilisiert sich auch in Latein-\namerika",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. WTO: Kein Ende der Doha-Runde",
+              "seite": "62"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Europäische Union: Verhaltene Reformen in günstigerem\nkonjunkturellen Umfeld",
+          "seite": "68",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Verbesserte konjunkturelle Entwicklung im Euro-Raum",
+              "seite": "68"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Unverändert expansive Geldpolitik bei wechselnden Risiken",
+              "seite": "77"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Günstige konjunkturelle Entwicklung in den übrigen Ländern\nder Europäischen Union",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vereinigtes Königreich: Anhaltende Dynamik in strafferem\nmonetären Umfeld",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Voranschreitender Aufholprozess in den neuen Mitglied-\nstaaten der Europäischen Union",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Osterweiterung des Euro-Raums – Differenzierte Bewertung\nder Kandidaten erforderlich",
+              "seite": "100"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Institutionelle Entwicklungen in der Europäischen Union",
+              "seite": "110"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Osterweiterung der Europäischen Union",
+              "seite": "110"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Finanzplanung der Europäischen Union für die\nJahre 2007 bis 2013: Chance zur Neuausrichtung\nder Kohäsionspolitik vergeben",
+              "seite": "111"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einigung über einen Europäischen Verfassungsvertrag",
+              "seite": "114"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform der Gemeinsamen Marktordnung für Zucker:\nDen Rüben an den Kragen",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Emissionshandel – Umsetzung des Kyoto-Protokolls auf\neuropäischer Ebene",
+              "seite": "121"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Deutschland: Exportgetragener Aufschwung – keine Linderung\nder binnenwirtschaftlichen Probleme",
+          "seite": "127",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Außenwirtschaftliche Stärke – anhaltend schwache Binnen-\nnachfrage",
+              "seite": "128"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirtschaftliche Erholung übersteigt Potentialwachstum",
+              "seite": "129"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sehr zögerliche Erholung des Konsums",
+              "seite": "135"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Keine durchgreifende Erholung der Investitionen",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außenwirtschaft: Motor der konjunkturellen Entwicklung",
+              "seite": "143"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entstehungsseite: Erholung im Verarbeitenden Gewerbe",
+              "seite": "146"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Preisniveauentwicklung: Dominiert von Sondereffekten",
+              "seite": "146"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Auswirkungen von Ölpreisschocks auf Konjunktur\nund Inflation",
+              "seite": "150"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Arbeitsmarkt: Beschäftigungsabbau läuft aus, Arbeitsmarktlage\naber noch desolat",
+              "seite": "165"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigungsabbau läuft aus",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosigkeit verharrt auf hohem Niveau",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Berufsausbildungsstellenmarkt: Lage trotz verstärkter\nBemühungen weiterhin prekär",
+              "seite": "184"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein wichtiger Reformschritt erreicht: Das Arbeitslosengeld II",
+              "seite": "187"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bundesagentur für Arbeit und arbeitsmarktpolitisches\nInstrumentarium",
+              "seite": "193"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Tarifpolitik und Lohnentwicklung: Beschäftigungsfreundliche\nZurückhaltung angesichts drohender Arbeitsplatzverluste",
+              "seite": "195"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Öffentliche Finanzen: Trotz Aufschwungs keine Besserung\nder Haushaltslage",
+              "seite": "203"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Defizitquote überschreitet Maastricht-Kriterium erneut\ndeutlich",
+              "seite": "204"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einnahmen und Ausgaben des Staates fast unverändert",
+              "seite": "205"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Haushalte der staatlichen Ebenen: Probleme des Bundes\nverschärfen sich",
+              "seite": "207"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Staatlicher Schuldenstand nimmt weiter zu",
+              "seite": "215"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kassenmäßiges Steueraufkommen fast unverändert",
+              "seite": "217"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Alterseinkünftegesetz: Eine weit reichende Entscheidung",
+              "seite": "222"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Soziale Sicherung: Reformen und fortdauernde Einnahme-\nschwäche",
+              "seite": "237"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rentenversicherung: Stabilisierung durch Nachhaltigkeits-\nfaktor",
+              "seite": "237"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gesetzliche Krankenversicherung: Atempause durch\ndie Gesundheitsreform 2003",
+              "seite": "246"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Pflegeversicherung: Der Reformdruck wächst",
+              "seite": "260"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Einnahmeschwäche der Sozialversicherungen",
+              "seite": "266"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Das deutsche Bankensystem: Befunde und Perspektiven",
+              "seite": "272"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Drei-Säulen-Struktur des deutschen Bankensystems",
+              "seite": "274"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Lage der deutschen Kreditwirtschaft",
+              "seite": "276"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Krisen- und Makrostabilität gewährleistet",
+              "seite": "281"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mögliche Ineffizienzen des deutschen Bankensystems durch\nWettbewerbsverzerrungen und unausgenutzte Skaleneffekte",
+              "seite": "289"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reformen des öffentlich-rechtlichen Bankensektors",
+              "seite": "294"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Zur wirtschaftlichen Lage in den neuen Bundesländern",
+              "seite": "303"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Aggregierte und disaggregierte Kennzahlen der wirtschaft-\nlichen Entwicklung in Ostdeutschland",
+              "seite": "304"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin desolate Lage auf dem Arbeitsmarkt",
+              "seite": "312"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Haushalte: geringe eigene Steuereinnahmen,\nhohe Zuweisungen und hohe Verschuldung",
+              "seite": "318"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Demographische Entwicklung in Ostdeutschland",
+              "seite": "325"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Literatur: Diagnose",
+              "seite": "327"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Die voraussichtliche Entwicklung im Jahr 2005",
+      "seite": "331",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Überblick: Konjunkturhoffnungen ruhen auf moderater Belebung\nder inländischen Nachfrage",
+          "seite": "331",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Prognose",
+          "seite": "333",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Risiken für die Prognose",
+              "seite": "333"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin robuste weltwirtschaftliche Entwicklung",
+              "seite": "334"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erholung im Euro-Raum setzt sich fort",
+              "seite": "335"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Deutschland: Moderate Erholung der Binnennachfrage",
+              "seite": "337"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Deutschland im internationalen Wettbewerb",
+      "seite": "349",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1. Was ist internationale Wettbewerbsfähigkeit?",
+          "seite": "350",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "2. Die Entwicklung der Exporte: Weltmeister oder Basar?",
+          "seite": "354",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "3. Ausländische Direktinvestitionen: Wird nur noch in Osteuropa\nund Asien investiert?",
+          "seite": "365",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "4. Deindustrialisierung: Droht der Verlust der industriellen\nBasis?",
+          "seite": "371",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "5. Fazit",
+          "seite": "376",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel: Herausforderungen annehmen",
+      "seite": "387",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Krankenversicherung und Pflegeversicherung: Pauschalprämien statt\neinkommensabhängiger Beiträge",
+          "seite": "387",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Krankenversicherung: Finanzierung des Gesundheitssystems\nwachstums- und beschäftigungsfreundlich gestalten",
+              "seite": "387"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Grundsätzliche Ausgestaltung eines Finanzierungssystems",
+              "seite": "388"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vorschlag für eine Neugestaltung der Finanzierungsseite\ndes Gesundheitssystems: Die Bürgerpauschale",
+              "seite": "397"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Andere Reformmodelle",
+              "seite": "408"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Pflegeversicherung: Reform unausweichlich",
+              "seite": "413"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausstieg aus dem Umlageverfahren: das Kohortenmodell",
+              "seite": "413"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein umlagefinanziertes Pauschalbeitragssystem",
+              "seite": "418"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reformen auf der Leistungsseite",
+              "seite": "420"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "421"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Das deutsche Bildungssystem: Kein gutes Zeugnis",
+          "seite": "422",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Bedeutung von Bildung und Humankapital: Gesamt-\nwirtschaftliche und einzelwirtschaftliche Aspekte",
+              "seite": "423"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Erfolgsfaktoren von Bildungssystemen im internationalen\nVergleich",
+              "seite": "430"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bildungsbeteiligung und Bildungsausgaben",
+              "seite": "431"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Leistungserhebungen im schulischen Bereich",
+              "seite": "435"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vorschulbereich und Schulsystem",
+              "seite": "438"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was zu tun ist",
+              "seite": "444"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Tertiärbereich: Stärkere finanzielle Beteiligung der\nStudierenden",
+              "seite": "446"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "457"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Wirtschaftspolitik für den Aufbau Ost: Königsweg nicht in Sicht",
+          "seite": "458",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Ist Ostdeutschland anders?",
+              "seite": "459"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Vorschläge zum Aufbau Ost: Fehlende Patentrezepte",
+              "seite": "462"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Solidarpakt II neu ausrichten",
+              "seite": "467"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wie effektiv ist die Investitionsförderung?",
+              "seite": "468"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mut zur Wahrheit: Fehlverwendung der Solidarpakt-I-Mittel",
+              "seite": "470"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Solidarpakt II neu justieren",
+              "seite": "473"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Fiskalische Auswirkungen der demographischen Entwicklung\nin den neuen Bundesländern",
+              "seite": "479"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Arbeitsmärkte in Ostdeutschland: Wenig Aussicht auf rasche\nBesserung",
+              "seite": "483"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Dynamische und wettbewerbsfähige Arbeitsmärkte als Wachstums-\nmotoren",
+          "seite": "487",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Reformen am Arbeitsmarkt: Zielführende Regelungen wirken\nlassen",
+              "seite": "488"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosengeld II",
+              "seite": "488"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Länger arbeiten für mehr Wachstum und Beschäftigung?",
+              "seite": "491"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Berufliche Bildung: Chancen für mehr Ausbildungsplätze\nwahrnehmen",
+              "seite": "497"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Lohnpolitischen Kurs halten, Arbeitsmarktflexibilität erhöhen",
+              "seite": "501"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "507"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Finanzpolitik: Unverändert dringender Handlungsbedarf",
+          "seite": "517",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Öffentliche Haushalte unter Konsolidierungsdruck",
+              "seite": "518"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Steuerreform: Es kommt auf die Unternehmensbesteuerung an!",
+              "seite": "526"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Mehr Mut bei der Föderalismusreform",
+              "seite": "537"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entflechtung der Ausgaben",
+              "seite": "538"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entflechtung der Einnahmen",
+              "seite": "539"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neuordnung des Finanzausgleichs",
+              "seite": "540"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nationaler Stabilitätspakt zur Begrenzung von Verschuldungs-\nanreizen",
+              "seite": "541"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform der Finanzverfassung mit Kompensation der Verlierer",
+              "seite": "545"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "546"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "546"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+
+ende_json
+
+

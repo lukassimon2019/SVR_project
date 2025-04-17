@@ -1,0 +1,342 @@
+{
+"kapitel": [
+{
+"ueberschrift_eins": "Inhalt",
+"seite": " "
+},
+{
+"ueberschrift_eins": "Die Lage",
+"seite": "1"
+},
+{
+"ueberschrift_eins": "Die voraussichtliche Entwicklung",
+"seite": "1"
+},
+{
+"ueberschrift_eins": "Erstes Kapitel: Zur Konjunkturlage",
+"seite": "2",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die Weltkonjunktur 1970: Differenziertes Wachstum bei beschleunigtem Preisanstieg",
+"seite": "2",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Fortdauer der Hochkonjunktur in Kontinentaleuropa",
+"seite": "2"
+},
+{
+"ueberschrift_drei_niedriger": "Weiterhin geringes Wachstum in Großbritannien, andauernder Boom in Japan",
+"seite": "4"
+},
+{
+"ueberschrift_drei_niedriger": "Das konjunkturpolitische Dilemma der Vereinigten Staaten",
+"seite": "4"
+},
+{
+"ueberschrift_drei_niedriger": "International beschleunigtes Inflationstempo",
+"seite": "6"
+}
+]
+},
+{
+"ueberschrift_zwei": "II. Konjunktur im Umbruch",
+"seite": "7",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Gedämpfte Auslandsnachfrage",
+"seite": "9"
+},
+{
+"ueberschrift_drei_niedriger": "Nachlassende Investitionsneigung",
+"seite": "10"
+},
+{
+"ueberschrift_drei_niedriger": "Verringerte Vorratsbildung",
+"seite": "10"
+},
+{
+"ueberschrift_drei_niedriger": "Verstärkte Verbrauchskonjunktur",
+"seite": "11"
+},
+{
+"ueberschrift_drei_niedriger": "Noch hohe Auslastung des Produktionspotentials",
+"seite": "12"
+},
+{
+"ueberschrift_drei_niedriger": "Leergefegter Arbeitsmarkt",
+"seite": "15"
+},
+{
+"ueberschrift_drei_niedriger": "Anhaltende Entlastung durch Importe",
+"seite": "16"
+},
+{
+"ueberschrift_drei_niedriger": "Verschärfter Kampf um die Einkommensverteilung",
+"seite": "16"
+},
+{
+"ueberschrift_drei_niedriger": "Ungewöhnlicher Anstieg der Erzeugerpreise, Nachziehen der Verbraucherpreise",
+"seite": "23"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Spektakuläre Preissteigerungen auf dem Baumarkt",
+"seite": "27",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Unelastische Nachfrage",
+"seite": "28"
+},
+{
+"ueberschrift_drei_niedriger": "Unelastisches Angebot",
+"seite": "28"
+},
+{
+"ueberschrift_drei_niedriger": "Steigende Kosten, steigende Gewinne",
+"seite": "29"
+},
+{
+"ueberschrift_drei_niedriger": "Für eine Enquête über die Bauwirtschaft",
+"seite": "30"
+}
+]
+},
+{
+"ueberschrift_zwei": "IV. Öffentliche Finanzen - leicht kontraktiv",
+"seite": "31",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Haushalte der Gebietskörperschaften erneut konjunkturdämpfend",
+"seite": "34"
+},
+{
+"ueberschrift_drei_niedriger": "Nachhinken öffentlicher Investitionen",
+"seite": "39"
+},
+{
+"ueberschrift_drei_niedriger": "Konsolidierter Haushalt erstmals leicht kontraktiv",
+"seite": "40"
+}
+]
+},
+{
+"ueberschrift_zwei": "V. Geld- und Kreditpolitik auf Restriktionskurs",
+"seite": "40",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Liquiditätsverknappung und Kreditverteuerung",
+"seite": "42"
+},
+{
+"ueberschrift_drei_niedriger": "Kapitalmarkt unter Restriktionsdruck",
+"seite": "44"
+},
+{
+"ueberschrift_drei_niedriger": "Grenzen der restriktiven Geld- und Kreditpolitik erreicht",
+"seite": "45"
+},
+{
+"ueberschrift_drei_niedriger": "Langer Bremsweg",
+"seite": "46"
+}
+]
+},
+{
+"ueberschrift_zwei": "VI. Die Außenwirtschaft nach der Aufwertung",
+"seite": "46",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Keine Verbilligung der Einfuhr, Verteuerung der Ausfuhr",
+"seite": "46"
+},
+{
+"ueberschrift_drei_niedriger": "Außenwirtschaftliche Überschüsse nur wenig verringert",
+"seite": "48"
+},
+{
+"ueberschrift_drei_niedriger": "Tendenzwandel im langfristigen Kapitalverkehr",
+"seite": "50"
+},
+{
+"ueberschrift_drei_niedriger": "Erneut starker Anstieg der Devisenreserven",
+"seite": "50"
+}
+]
+},
+{
+"ueberschrift_zwei": "VII. Ein Gesamtindikator für die Konjunkturdiagnose - ein Versuch",
+"seite": "51"
+}
+]
+},
+{
+"ueberschrift_eins": "Zweites Kapitel: Die voraussehbare Entwicklung",
+"seite": "53",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die Weltkonjunktur im Jahre 1971",
+"seite": "53"
+},
+{
+"ueberschrift_zwei": "II. Die öffentlichen Finanzen im Jahre 1971",
+"seite": "56"
+},
+{
+"ueberschrift_zwei": "III. Die voraussichtliche Entwicklung der Binnenkonjunktur",
+"seite": "57"
+}
+]
+},
+{
+"ueberschrift_eins": "Drittes Kapitel: Gegen Geldwertschwund - für stetiges Wachstum",
+"seite": "63",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Nach der konjunkturellen Wende",
+"seite": "63"
+},
+{
+"ueberschrift_zwei": "II. Ursprünge der Fehlentwicklungen",
+"seite": "64"
+},
+{
+"ueberschrift_zwei": "III. Grundprobleme gegenwärtiger Stabilitätspolitik",
+"seite": "67",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Geldwertstabilität heute",
+"seite": "67"
+},
+{
+"ueberschrift_drei_niedriger": "Einkommenspolitik und Verteilungskampf",
+"seite": "71"
+},
+{
+"ueberschrift_drei_niedriger": "Größerer Anteil für den Staat?",
+"seite": "75"
+}
+]
+},
+{
+"ueberschrift_zwei": "IV. Rückkehr zum Gleichgewicht",
+"seite": "78",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Kurzfristig: Begrenzte Chancen",
+"seite": "80"
+},
+{
+"ueberschrift_drei_niedriger": "Gleichgewicht in spätestens zwei Jahren",
+"seite": "80"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "***",
+"seite": " "
+},
+{
+"ueberschrift_eins": "Zur Mitverantwortung der Sozialpartner für die Wirtschaftspolitik",
+"seite": "85"
+},
+{
+"ueberschrift_eins": "Zur Problematik beweglicherer Wechselkurse",
+"seite": "86"
+},
+{
+"ueberschrift_eins": "Viertes Kapitel: Zu Elementen einer potentialorientierten Konjunkturpolitik",
+"seite": "91",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Noch einmal: Der konjunkturneutrale Haushalt",
+"seite": "91",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Das Konzept",
+"seite": "91"
+},
+{
+"ueberschrift_drei_niedriger": "Basisjahrprobleme",
+"seite": "92"
+},
+{
+"ueberschrift_drei_niedriger": "Preisniveau und Preisstruktur",
+"seite": "93"
+},
+{
+"ueberschrift_drei_niedriger": "Konjunkturneutrale Steuereinnahmen",
+"seite": "94"
+},
+{
+"ueberschrift_drei_niedriger": "Konjunkturneutrale Kreditaufnahme",
+"seite": "95"
+},
+{
+"ueberschrift_drei_niedriger": "Berücksichtigung von Strukturveränderungen bei den Staatsausgaben und den Steuereinnahmen",
+"seite": "97"
+},
+{
+"ueberschrift_drei_niedriger": "Zur konjunkturellen Würdigung der sonstigen Einnahmen",
+"seite": "97"
+},
+{
+"ueberschrift_drei_niedriger": "Die Sozialversicherung als Teil eines konsolidierten Haushaltes",
+"seite": "98"
+}
+]
+},
+{
+"ueberschrift_zwei": "II. Potentialorientierte Kreditpolitik",
+"seite": "100"
+}
+]
+},
+{
+"ueberschrift_eins": "Anhang",
+"seite": " "
+},
+{
+"ueberschrift_eins": "I. Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung",
+"seite": "104"
+},
+{
+"ueberschrift_eins": "II. Auszug aus dem Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft",
+"seite": "106"
+},
+{
+"ueberschrift_eins": "III. Verzeichnis der Gutachten des Sachverständigenrates",
+"seite": "107"
+},
+{
+"ueberschrift_eins": "IV. Brief des Sachverständigenrates vom 21. März 1970 an den Bundeskanzler",
+"seite": "108"
+},
+{
+"ueberschrift_eins": "V. Sondergutachten vom 9. Mai 1970: Zur Konjunkturlage im Frühjahr 1970",
+"seite": "110"
+},
+{
+"ueberschrift_eins": "VI. Brief des Vorsitzenden des Sachverständigenrates vom 14. November 1970 an den Präsidenten des Statistischen Bundesamtes",
+"seite": "118"
+},
+{
+"ueberschrift_eins": "VII. DGB-Zielprojektion 1971 bis 1975",
+"seite": "119"
+},
+{
+"ueberschrift_eins": "VIII. Methodische Erläuterungen",
+"seite": "124"
+},
+{
+"ueberschrift_eins": "IX. Statistischer Anhang",
+"seite": "127"
+},
+{
+"ueberschrift_eins": "Sachregister",
+"seite": "190"
+}
+]
+}

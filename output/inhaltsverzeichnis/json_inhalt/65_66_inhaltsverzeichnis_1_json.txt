@@ -1,0 +1,228 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Zur Konjunkturlage",
+      "seite": "1",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Überblick",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Investitionen",
+          "seite": "8",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Ausrüstungsinvestitionen",
+              "seite": "8"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bauinvestitionen",
+              "seite": "13"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Außenwirtschaft",
+          "seite": "21",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der Ausfuhr",
+              "seite": "24"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der Einfuhr",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wettbewerbsposition und Preise",
+              "seite": "34"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zahlungsbilanz",
+              "seite": "38"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Produktionskapazität und Produktion",
+          "seite": "40",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarkt",
+              "seite": "40"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Produktivität",
+              "seite": "48"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Produktion",
+              "seite": "53"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Die Entwicklung des Einkommens",
+          "seite": "54",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Lohneinkommen",
+              "seite": "55"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Löhne und Produktivität",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unternehmer- und Kapitaleinkommen",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Belastung der Einkommen",
+              "seite": "64"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einkommensübertragungen",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verfügbares Einkommen",
+              "seite": "67"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Privater Verbrauch und Ersparnis",
+          "seite": "68",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Die Ersparnis im gegenwärtigen Aufschwung",
+              "seite": "68"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Haushaltseinkommen und Verbrauchsstruktur",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der private Verbrauch im gegenwärtigen Aufschwung",
+              "seite": "74"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VII. Die Finanzierung der Nachfrageexpansion",
+          "seite": "77",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Geld, Kredit und Banken",
+              "seite": "77"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kapitalmarkt",
+              "seite": "82"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VIII. Öffentliche Finanzen",
+          "seite": "88",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die voraussehbare Entwicklung",
+      "seite": "94",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Gegen den Geldwertschwund",
+      "seite": "105",
+      "zweite_ebene": [
+        {
+          "ueberschrift_drei_niedriger": "Quantitative Konsequenzen für 1966",
+          "seite": "122"
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Wachstum und Strukturwandel",
+      "seite": "125",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "125",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Wandel der Branchenstruktur in der Bundesrepublik seit 1933",
+          "seite": "127",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Umfang des Strukturwandels",
+              "seite": "127"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Produktivitätseffekte des Strukturwandels",
+              "seite": "134"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Untersuchungsergebnisse",
+              "seite": "135"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erläuterungen",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Änderung der Preisrelationen",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Löhne und Mobilität der Arbeitskräfte",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gewinne - Wettbewerb und Leistungsfähigkeit",
+              "seite": "154"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Regionalstruktur und Wirtschaftswachstum",
+          "seite": "159",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Untersuchungsergebnisse",
+              "seite": "159"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Änderung der regionalen Produktionsstruktur",
+              "seite": "161"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wanderungen",
+              "seite": "161"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Regionale Expansionskraft und überkommene Produktionsstruktur",
+              "seite": "165"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Ausbildung, berufliche Mobilität und wirtschaftliches Wachstum",
+          "seite": "173",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+
+ende_json
+

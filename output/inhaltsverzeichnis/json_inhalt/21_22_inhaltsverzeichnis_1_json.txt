@@ -1,0 +1,726 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Kurzfassung\nTransformation gestalten: Bildung, Digitalisierung und\nNachhaltigkeit",
+      "seite": "1",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Weitreichende Auswirkungen der Corona-Pandemie",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Die Transformation gestalten",
+          "seite": "4",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zur Transformation befähigen",
+              "seite": "4"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geeignetes Umfeld für die Transformation schaffen",
+              "seite": "6"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Chancen der Transformation nutzen",
+              "seite": "8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Erstes Kapitel\nKonjunktur: Angebotsseitige Engpässe dämpfen\nWachstum",
+      "seite": "10",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Internationale Konjunktur",
+          "seite": "12",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die Entwicklung der Weltwirtschaft – Pandemie und Engpässe bestimmen die\nKonjunktur",
+              "seite": "12"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der Weltwirtschaft bis Herbst 2021",
+              "seite": "17"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Engpässe prägen die weitere weltwirtschaftliche Entwicklung",
+              "seite": "28"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die großen Volkswirtschaften im Einzelnen",
+              "seite": "28"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "2. Euro-Raum – Zügige Erholung trotz Produktionshemmnissen",
+          "seite": "34",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Konjunkturelle Lage – Industrielle Stagnation, Dienstleistungen im\nAufschwung",
+              "seite": "34"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausblick – Das Wachstum setzt sich fort",
+              "seite": "41"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "3. Chancen und Risiken",
+          "seite": "45",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Deutsche Konjunktur",
+          "seite": "47",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Bisherige Entwicklung – Konsum erholt sich, aber Industrieproduktion stockt",
+              "seite": "49"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erneut kräftige Erholung der privaten Nachfrage im Sommer",
+              "seite": "51"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Angebotsseitige Engpässe bremsen die Industrieproduktion",
+              "seite": "52"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Seit Sommer wieder anziehendes Pandemiegeschehen",
+              "seite": "57"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rahmenbedingungen weiterhin günstig",
+              "seite": "59"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausblick – Kräftiges Wachstum im nächsten Jahr",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wachstum dürfte im Winterhalbjahr 2021/22 gedämpft sein",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erholung des Außenhandels und der Investitionen erst im nächsten Jahr\nzu erwarten",
+              "seite": "65"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Positive Signale auf dem Arbeitsmarkt",
+              "seite": "68"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Verringerung der pandemiebedingten Mehrbelastungen der öffentlichen\nFinanzen ab dem Jahr 2022",
+              "seite": "71"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Mittelfrist – Potenzialwachstum weiter rückläufig",
+              "seite": "74"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel\nFiskal- und Geldpolitik nach der Corona-Krise\nnormalisieren",
+      "seite": "88",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung: Corona-Krise und Verschuldung",
+          "seite": "90",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Fiskalpolitik und Schulden: Der Weg aus der Corona-Krise",
+          "seite": "92",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Fiskalpolitik und Schuldentragfähigkeit in Europa",
+              "seite": "92"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schuldentragfähigkeit",
+              "seite": "92"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zinsausgabenentwicklung mit Risiken behaftet",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Risiken für die Finanzstabilität",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Diskussion gestellt: Zwei unterschiedliche Sichtweisen zur Anwendung und\nReform der Europäischen Fiskalregeln",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Europäische Fiskalregeln (Veronika Grimm und Volker Wieland)",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fiskalregeln einhalten und wirtschaftliche Erholung sichern",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fiskalregeln reformieren, um in guten Zeiten Resilienz zu stärken",
+              "seite": "112"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Europäische Fiskalregeln (Monika Schnitzer und Achim Truger)",
+              "seite": "116"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Fiskalpolitische Normalisierung in Deutschland",
+              "seite": "119"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Fiskal- und geldpolitische Wechselwirkungen",
+          "seite": "129",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Zusammenhänge zwischen geld- und fiskalpolitischen Entscheidungen",
+              "seite": "129"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Bewertung der Gefahr von fiskalischer Dominanz",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Geldpolitische Normalisierung im Euro-Raum",
+              "seite": "140"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Implikationen der EZB-Strategieüberprüfung",
+              "seite": "140"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik und aktuelle Inflationsentwicklung",
+              "seite": "143"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Inflationsrisiken im Blick behalten",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausstieg aus den pandemiebedingten geldpolitischen Maßnahmen",
+              "seite": "147"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Normalisierungsstrategie rechtzeitig kommunizieren",
+              "seite": "148"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Potenziale heben und langfristig wachsen",
+          "seite": "151",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Europäische Wachstumsperspektiven",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirtschaftspolitik und längerfristiges Wachstum",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umsetzung des Aufbaupakets der Europäischen Union",
+              "seite": "154"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Wachstumspotenziale in Deutschland heben",
+              "seite": "158"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Chancen und Risiken für das Potenzialwachstum",
+              "seite": "159"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Institutionellen Rahmen für zukunftsorientierte Ausgaben verbessern",
+              "seite": "163"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Diskussion gestellt: Zwei unterschiedliche Sichtweisen zur Mobilisierung und\nFinanzierung von Investitionen",
+              "seite": "165"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Mobilisierung von Investitionen und ihre Finanzierung (Veronika Grimm\nund Volker Wieland)",
+              "seite": "165"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Private und öffentliche Investitionsbedarfe abhängig von\nRahmenbedingungen",
+              "seite": "165"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Investitionen seit 2014 gestiegen",
+              "seite": "168"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Debatte um öffentliche Investitionen",
+              "seite": "168"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mehr Spielraum für öffentliche Investitionen schaffen",
+              "seite": "170"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die parlamentarische Kontrolle ernst nehmen",
+              "seite": "172"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Privatwirtschaftliche Investitionen auslösen",
+              "seite": "173"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Schuldenbremse in der Corona-Krise",
+              "seite": "173"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Mobilisierung von Investitionen und ihre Finanzierung (Monika Schnitzer\nund Achim Truger)",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gestaltung der Transformation erfordert überzeugende\nFinanzierungsstrategie",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Teilweise Kreditfinanzierung von Zukunftsausgaben ökonomisch\nbegründbar",
+              "seite": "177"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzierungsmöglichkeiten durch vorübergehend höhere\nHaushaltsspielräume begrenzt",
+              "seite": "179"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Dauerhafte Möglichkeiten kreditfinanzierter Investitionen unter der\nSchuldenbremse ausloten",
+              "seite": "180"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel\nCorona-Krise, Einkommensverteilung und\nBildungschancen",
+      "seite": "194",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "196",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Einkommensverteilung vor der Corona-Krise",
+          "seite": "197",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Verteilung der Haushaltseinkommen",
+              "seite": "198"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Verteilung der Bruttoarbeitslöhne",
+              "seite": "202"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Corona-Krise, Einkommensverteilung und Arbeitsmarkt",
+          "seite": "205",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Einkommensverteilung, Konsum und Ersparnis",
+              "seite": "205"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Heterogene Effekte der Corona-Krise auf Erwerbstätige",
+              "seite": "208"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosigkeit",
+              "seite": "208"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geringfügige Beschäftigung",
+              "seite": "215"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Selbständige",
+              "seite": "216"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Folgen der Corona-Krise für Gesundheit und Haushaltssituation",
+              "seite": "216"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Situation am Ausbildungsmarkt",
+              "seite": "219"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Maßnahmen für den Arbeitsmarkt",
+          "seite": "221",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. (Langzeit-)Arbeitslosigkeit reduzieren",
+              "seite": "221"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Übergang in betriebliche Ausbildung erleichtern",
+              "seite": "222"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Weiterbildung stärken",
+              "seite": "223"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Komplexität in der deutschen Weiterbildungslandschaft",
+              "seite": "225"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterbildungsfinanzierung weiterentwickeln",
+              "seite": "227"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterbildung als festen Teil des Bildungssystems verankern",
+              "seite": "230"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Selbständige absichern",
+              "seite": "231"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Erwerbsanreize von Zweitverdienenden stärken",
+              "seite": "232"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Bildungschancen von Kindern und Jugendlichen in und nach der Pandemie",
+          "seite": "239",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Ausgangslage: Chancenungleichheit in Deutschland",
+              "seite": "239"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Auswirkungen der Corona-Eindämmungsmaßnahmen auf Kinder und\nJugendliche",
+              "seite": "242"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Handlungsbedarfe bei schulischer und frühkindlicher Bildung",
+          "seite": "248",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Aufholen pandemiebedingter Lern- und Entwicklungsrückstände",
+              "seite": "249"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Chancengleichheit und Effektivität des Schulsystems erhöhen",
+              "seite": "254"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Digitalisierung in Schulen vorantreiben",
+              "seite": "258"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Bildungsausgaben im Föderalismus steigern",
+              "seite": "264"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel\nProduktivität: Corona-Krise und Strukturwandel",
+      "seite": "286",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Produktivitätseffekte der Corona-Krise",
+          "seite": "288",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Reallokation und Produktivitätsentwicklung",
+          "seite": "291",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die Rolle von Rezessionen für den Reallokationsprozess",
+              "seite": "292"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Marktaustritte in der Corona-Krise",
+              "seite": "297"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Aktuelle Entwicklung der Marktaustrittsraten",
+              "seite": "297"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gründe für einen Rückgang der Marktaustritte",
+              "seite": "298"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mögliche Folgen der aktuellen Entwicklung der Marktaustritte",
+              "seite": "301"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Eigenkapitalentwicklung in der Corona-Krise",
+              "seite": "304"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Unternehmensgründungen in der Corona-Krise",
+              "seite": "306"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Die Reallokation von Arbeitskräften in der Corona-Krise",
+              "seite": "308"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Aktuelle Entwicklung der Reallokation von Arbeitskräften",
+              "seite": "308"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitskräftereallokation zwischen und innerhalb von\nWirtschaftsbereichen",
+              "seite": "309"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Rolle der Kurzarbeit für den Reallokationsprozess",
+              "seite": "312"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Effiziente Reallokation und Strukturwandel unterstützen",
+          "seite": "314",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Geordnete Marktaustritte ermöglichen: Reformbedarf im Insolvenz- und\nRestrukturierungsrecht",
+              "seite": "314"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Verschuldung kleiner Unternehmen durch Umwandlung bestehender\nLiquiditätshilfen reduzieren",
+              "seite": "315"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Zukunftsfähige Gründungen besser unterstützen",
+              "seite": "317"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Die Reallokation von Arbeitskräften gezielter fördern",
+              "seite": "318"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Wachstumspotenziale durch Geschäftsmodelle der Datenökonomie",
+          "seite": "321",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Veränderte Wertschöpfung in der Datenökonomie",
+              "seite": "323"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Besonderheiten datenbasierter Geschäftsmodelle",
+              "seite": "323"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Plattformen als dominantes Geschäftsmodell der Datenökonomie",
+              "seite": "328"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Potenziale der gewerblichen Nutzung von Plattformen",
+              "seite": "329"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hindernisse bei der gewerblichen Nutzung digitaler Plattformen in\nDeutschland",
+              "seite": "332"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hemmnisse bei der Entwicklung von Plattformen in Deutschland",
+              "seite": "334"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Cloud-Ökosysteme als technologische Basis der Datenökonomie",
+              "seite": "340"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Dominanz der Hyperscaler auf dem Cloud-Computing-Markt",
+              "seite": "341"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gaia-X – ein europäisches Ökosystem zur Stärkung der digitalen\nSouveränität",
+              "seite": "343"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Entwicklungshemmnisse in der Datenökonomie abbauen",
+          "seite": "344",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Förderung des Datenzugangs und -austauschs in Deutschland und der EU",
+              "seite": "345"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Stärkung des Wettbewerbs in der Plattformökonomie",
+              "seite": "348"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Verbraucherschutz in der Datenökonomie stärken",
+              "seite": "353"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Technologische Souveränität als wirtschaftspolitisches Handlungsfeld",
+              "seite": "354"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Initiativen zur Erhöhung der Cybersicherheit besser koordinieren",
+              "seite": "358"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Kohärente Strategie und Priorisierung notwendig",
+              "seite": "358"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel\nGlobaler Klimaschutz: Rahmenbedingungen und\nHandlungsoptionen",
+      "seite": "376",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Internationale Kooperation ist Voraussetzung für erfolgreiche Klimapolitik",
+          "seite": "378",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Regionale Herausforderungen und Chancen des Klimaschutzes",
+          "seite": "380",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Regionale Unterschiede der Klimarisiken",
+              "seite": "381"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Herausforderungen der Dekarbonisierung",
+              "seite": "387"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umstellungskosten bei Energieversorgung und Güterproduktion",
+              "seite": "389"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Situation der Länder mit großen Reserven fossiler Energieträger",
+              "seite": "392"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wirtschaftliche Chancen und Handlungsbedarfe der Dekarbonisierung",
+              "seite": "397"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Volkswirtschaftliche Technologiepotenziale",
+              "seite": "398"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzierung von Innovationen",
+              "seite": "402"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Realwirtschaftliche Rahmenbedingungen",
+              "seite": "405"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erneuerbare Energien verändern Energieimporte",
+              "seite": "406"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Förderung kritischer Mineralien",
+              "seite": "407"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Implikationen für klimapolitische Verhandlungspositionen",
+              "seite": "409"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Multilaterale Klimakooperation",
+          "seite": "411",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Klimapolitik innerhalb der Vereinten Nationen",
+              "seite": "411"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lastenausgleich durch internationale Klimafinanzierung",
+              "seite": "414"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lastenausgleich durch Technologiediffusion",
+              "seite": "418"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Anpassung der internationalen Handelskooperation",
+              "seite": "420"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Bi- und plurilaterale Möglichkeiten der Klimapolitik",
+          "seite": "425",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Bilaterale Partnerschaften",
+              "seite": "425"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Investitionsschutzabkommen",
+              "seite": "428"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Handelsabkommen",
+              "seite": "432"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Klimaklub",
+              "seite": "437"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Möglichkeiten der klimapolitischen Koordination",
+              "seite": "438"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nutzen aus dem Klub und Sanktionen als Beitritts- und\nKooperationsanreiz",
+              "seite": "441"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vorgehen zur Gründung eines Klimaklubs",
+              "seite": "444"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Fazit",
+          "seite": "445",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+
+ende_json
+

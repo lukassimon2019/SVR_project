@@ -1,0 +1,446 @@
+Bundesagentur für Arbeit und aktive Arbeitsmarktpolitik",
+              "seite": "344"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausbau des Kinderzuschlags zu einem Erwerbstätigenzuschuss kollidiert\nmit der Grundsicherung für Arbeitsuchende",
+              "seite": "350"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "352"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Fachkräftemangel in Deutschland − eine Herausforderung für die\nWirtschaftspolitik?",
+              "seite": "354"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fachkräftemangel − ein klärungsbedürftiger Begriff",
+              "seite": "354"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Messung und Bestandsaufnahme",
+              "seite": "355"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ursachen für einen Fachkräftemangel",
+              "seite": "357"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Handlungsbedarf und Lösungsansätze",
+              "seite": "357"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Tariflohnpolitik und Mitarbeiterbeteiligung",
+          "seite": "359",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Tariflöhne im Jahr 2007: Höhere Zuwächse bei größerem Verteilungs-\nspielraum",
+              "seite": "359"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Zur Frage einer Tarifeinheit",
+              "seite": "361"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Die Beschlüsse des Koalitionsausschusses zum Mindestlohn: Verfehlt",
+              "seite": "364"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Mitarbeiterbeteiligung: Kein wirtschaftspolitischer Handlungsbedarf",
+              "seite": "368"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zielsetzungen",
+              "seite": "368"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Formen der Mitarbeiterbeteiligung",
+              "seite": "370"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirkungsanalyse aus theoretischer und empirischer Sicht",
+              "seite": "372"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verbreitung von Mitarbeiterbeteiligungen",
+              "seite": "376"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirtschaftspolitischer Handlungsbedarf?",
+              "seite": "377"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schlussfolgerungen",
+              "seite": "379"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "SIEBENTES KAPITEL\nBeschränkung des Beteiligungserwerbs durch ausländische Investoren?",
+      "seite": "385",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einführung",
+          "seite": "386",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Deutschlands Interesse an offenen Kapitalmärkten",
+          "seite": "389",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Staatsfonds: Neue Akteure auf internationalen Kapitalmärkten?",
+          "seite": "394",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Europarechtliche Schranken",
+          "seite": "400",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "405"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Ökonomische Begründungen für Eingriffe",
+          "seite": "406",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Unternehmensspezifische Gemeinwohlinteressen",
+              "seite": "407"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Interessen an der Daseinsfürsorge",
+              "seite": "407"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Staatliche Regulierung oder eigentumsrechtliche Kompetenzen",
+              "seite": "408"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Dilemma der Privatisierung von öffentlichen Unternehmen",
+              "seite": "409"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Spielt die Identität oder die Nationalität der Eigentümer eine Rolle?",
+              "seite": "410"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Beispiel Gazprom: Ein Fall für die wettbewerbsrechtliche\nFusionskontrolle",
+              "seite": "411"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "413"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Industriepolitik und „Nationale Champions“?",
+              "seite": "413"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Probleme einer aktiven Industriepolitik",
+              "seite": "414"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Regulatory Capture als Problem",
+              "seite": "416"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Strategische Industriepolitik und die Beteiligung von Ausländern an\ndeutschen Unternehmen",
+              "seite": "416"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "418"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Allgemeine Gemeinwohlinteressen",
+              "seite": "418"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kapitalverkehrsfreiheit: Vorteile für die Kapital- und Risikoallokation",
+              "seite": "418"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Standortwettbewerb um Unternehmenssitze",
+              "seite": "421"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Macht der Aktionäre und Ohnmacht des Managements?",
+              "seite": "425"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Vorliegende Vorschläge zur Beschränkung ausländischer Investitionen",
+          "seite": "429",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Vorschläge in Deutschland",
+              "seite": "429"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die neuen Regelungen in den Vereinigten Staaten",
+              "seite": "432"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "434"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VII. Eine andere Meinung",
+          "seite": "435",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "ANALYSEN\nI. Das Produktionspotenzial in Deutschland: Ein Ansatz für die Mittel-\nfristprognose",
+      "seite": "439",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1. Das Produktionspotenzial: Ein Begriff – viele Interpretationen",
+          "seite": "439",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "2. Das Produktionspotenzial in der kurzfristigen Betrachtung",
+          "seite": "440",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "3. Das Produktionspotenzial in der mittleren bis längeren Frist",
+          "seite": "441",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "4. Das weiterentwickelte produktionstheoretische Verfahren des\nSachverständigenrates",
+          "seite": "442",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Die Bestimmung des aktuellen Produktionspotenzials",
+              "seite": "443"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bestimmung des mittelfristigen und langfristigen Produktionspotenzials",
+              "seite": "447"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "5. Datengrundlage",
+          "seite": "449",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "6. Ergebnisse der Potenzialschätzung für das Basisszenario",
+          "seite": "449",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "7. Zusammenfassung",
+          "seite": "454",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "II. Entwicklung der personellen Einkommens- und Vermögensverteilung\nin Deutschland",
+      "seite": "455",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1. Einkommensverteilung",
+          "seite": "455",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Datenbasis",
+              "seite": "455"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einkommensbegriffe",
+              "seite": "455"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verteilungsmaße",
+              "seite": "456"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einkommensentwicklung und Einkommensverteilung in Deutschland",
+              "seite": "457"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umverteilung",
+              "seite": "462"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einkommensverteilung in den neuen Bundesländern und im früheren\nBundesgebiet",
+              "seite": "463"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zusammensetzung der Einkommen in Deutschland",
+              "seite": "465"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der relativen Einkommensarmut",
+              "seite": "467"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mobilitätsanalyse",
+              "seite": "471"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "473"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "2. Vermögensverteilung",
+          "seite": "473",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zusammensetzung und Verteilung des Vermögens in Deutschland",
+              "seite": "475"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vermögensverteilung im internationalen Vergleich",
+              "seite": "477"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "478"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "III. Die Unternehmensteuerreform 2008: Tarifbelastungen und\nKapitalkosten",
+      "seite": "480",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1. Effektive tarifliche Steuerbelastungen",
+          "seite": "480",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "2. Kapitalkosten",
+          "seite": "482",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Kapitalgesellschaften",
+              "seite": "482"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Selbstfinanzierung",
+              "seite": "482"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beteiligungsfinanzierung",
+              "seite": "484"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fremdfinanzierung",
+              "seite": "485"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Personenunternehmen",
+              "seite": "485"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "ANHÄNGE\nI. Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der\ngesamtwirtschaftlichen Entwicklung",
+      "seite": "489",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "II. Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft",
+      "seite": "491",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "III. Verzeichnis der Gutachten und Expertisen des Sachverständigenrates",
+      "seite": "492",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "IV. Methodische Erläuterungen",
+      "seite": "495",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "A. Zur Berechnung der Arbeitseinkommensquote",
+          "seite": "495",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "B. Berechnung des lohnpolitischen Verteilungsspielraums",
+          "seite": "499",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "C. Abgrenzung der verdeckten Arbeitslosigkeit",
+          "seite": "504",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "D. Berechnung des strukturellen Defizits im disaggregierten Verfahren",
+          "seite": "508",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "E. Zur Konstruktion eines Index staatlich administrierter Verbraucherpreise",
+          "seite": "513",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "V. Statistischer Anhang",
+      "seite": "518",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Erläuterung von Begriffen aus den Volkswirtschaftlichen Gesamtrechnungen\nfür Deutschland",
+          "seite": "518",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Verzeichnis der Tabellen im Statistischen Anhang",
+          "seite": "524",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "A. Internationale Tabellen",
+          "seite": "527",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "B. Tabellen für Deutschland",
+          "seite": "538",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Makroökonomische Grunddaten",
+              "seite": "538"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Ausgewählte Daten zum System der Sozialen Sicherung",
+              "seite": "587"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+ende_json

@@ -1,0 +1,66 @@
+0"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Sektorenübergreifende Versorgung ausbauen",
+              "seite": "421"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Unterversorgung zuvorkommen",
+          "seite": "422",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": " Arbeitskräftepotenzial im Gesundheitsbereich erhöhen",
+              "seite": "424"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Attraktivität der Gesundheitsberufe steigern",
+              "seite": "426"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Digitalisierung als Innovationsmotor",
+          "seite": "428",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": " Effizientere Strukturen durch Digitalisierung",
+              "seite": "428"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Berechtigte Bedenken berücksichtigen",
+              "seite": "431"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wandel annehmen, nicht behindern",
+              "seite": "431"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Anhang",
+      "seite": "440",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Sachverständigenratsgesetz",
+          "seite": "441",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Stabilitäts- und Wachstumsgesetz",
+          "seite": "444",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Gutachten und Expertisen des Sachverständigenrates",
+          "seite": "445",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+

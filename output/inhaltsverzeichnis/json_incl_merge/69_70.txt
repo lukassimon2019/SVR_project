@@ -1,0 +1,333 @@
+{
+  "type": "object",
+  "properties": {
+    "kapitel": {
+      "type": "array",
+      "items": [
+        {
+          "ueberschrift_eins": "Vorschau",
+          "seite": "1",
+          "zweite_ebene": []
+        },
+        {
+          "ueberschrift_eins": "Die Lage",
+          "seite": "1",
+          "zweite_ebene": []
+        },
+        {
+          "ueberschrift_eins": "Die voraussehbare Entwicklung",
+          "seite": "1",
+          "zweite_ebene": []
+        },
+        {
+          "ueberschrift_eins": "Erstes Kapitel: Zur Konjunkturlage",
+          "seite": "2",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Die Weltkonjunktur 1969",
+              "seite": "2",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "Boom in Kontinentaleuropa, gebremste Expansion in den Vereinigten\nStaaten",
+                  "seite": "2"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Weltweite Preissteigerungen",
+                  "seite": "2"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Anhaltende außenwirtschaftliche Ungleichgewichte",
+                  "seite": "3"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Internationale Zinseskalation",
+                  "seite": "6"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "II. Ein neuer Boom",
+              "seite": "7",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "Anhaltende Expansion der Auslandsnachfrage",
+                  "seite": "7"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Übernachfrage nach Investitionsgütern",
+                  "seite": "9"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Aufholende Baukonjunktur",
+                  "seite": "10"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Kräftiger Lageraufbau",
+                  "seite": "11"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Produktionspotential wieder voll ausgelastet",
+                  "seite": "11"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Angespannter Arbeitsmarkt",
+                  "seite": "13"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Konjunkturelles „Produktivitätswunder“\noder Wachstumsbeschleunigung?",
+                  "seite": "15"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Steiler Anstieg der Wareneinfuhr",
+                  "seite": "18"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Eine neue Preiswelle",
+                  "seite": "18"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Spontane Lohnanpassung",
+                  "seite": "22"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Brutto- und Nettoeinkommen",
+                  "seite": "28"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Aufholende Verbrauchskonjunktur",
+                  "seite": "30"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "III. Außenwirtschaft: Vom Ungleichgewicht zum Gleichgewicht?",
+              "seite": "30",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "Hartnäckig hohe Überschüsse in der laufenden Rechnung",
+                  "seite": "31"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Ungewöhnlich hoher Kapitalexport",
+                  "seite": "33"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Entspannung an den Devisenmärkten nach der Aufwertung",
+                  "seite": "34"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "IV. Öffentliche Finanzen",
+              "seite": "38",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "Der Kurs der Finanzpolitik seit dem Herbst 1968",
+                  "seite": "38"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Zur Messung der konjunkturellen Wirkungen öffentlicher Haushalte",
+                  "seite": "41"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Erstmals Ansätze zu einer bewußt antizyklischen Finanzpolitik",
+                  "seite": "42"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Öffentliche Haushalte möglicherweise nicht wachstumsgerecht",
+                  "seite": "45"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Konjunkturdämpfung durch Schuldentilgung und Umschuldung?",
+                  "seite": "47"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Geringes Finanzierungsdefizit",
+                  "seite": "48"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "V. Die Finanzierung des Booms",
+              "seite": "48",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "Restriktionskurs der Bundesbank bei außenwirtschaftlichen Über-\nschüssen",
+                  "seite": "49"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Zunahme der Fremdfinanzierung",
+                  "seite": "51"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Tendenzen nach der Aufwertung",
+                  "seite": "52"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "VI. Preisniveau und Preisstruktur auf mittlere Sicht",
+              "seite": "52",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "Der Rhythmus der Geldentwertung",
+                  "seite": "52"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Außendeterminiertes Preisniveau",
+                  "seite": "54"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Maßstäbe für die Geldentwertung",
+                  "seite": "55"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Preisniveau, Preisstruktur und Produktivitätsentwicklung",
+                  "seite": "57"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Administrierte Preise",
+                  "seite": "58"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ueberschrift_eins": "Zweites Kapitel: Die voraussehbare Entwicklung",
+          "seite": "58",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Die Weltkonjunktur im Jahre 1970",
+              "seite": "59",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "II. Die öffentlichen Haushalte im Jahre 1970",
+              "seite": "61",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "III. Die voraussichtliche Entwicklung der Binnenkonjunktur",
+              "seite": "62",
+              "dritte_und_niedrigere_ebene": []
+            }
+          ]
+        },
+        {
+          "ueberschrift_eins": "Drittes Kapitel: Risiken und Möglichkeiten 1970/71",
+          "seite": "70",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Der Befund im Herbst 1969",
+              "seite": "70",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "II. Risiken in der Hochkonjunktur",
+              "seite": "71",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "III. Eine Strategie der präventiven Einkommenssicherung",
+              "seite": "73",
+              "dritte_und_niedrigere_ebene": []
+            }
+          ]
+        },
+        {
+          "ueberschrift_eins": "Viertes Kapitel: Zu einigen Grundsatzfragen der Konjunkturpolitik",
+          "seite": "76",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Konjunkturpolitische Lehren der letzten sechs Jahre",
+              "seite": "76",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "II. Wenn die D-Mark flexibel gewesen wäre,...",
+              "seite": "79",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "Der mittelfristige Aufwertungstrend der Mark",
+                  "seite": "80"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Die konjunkturglättende Wirkung des freien Wechselkurses",
+                  "seite": "82"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Mögliche Einwände",
+                  "seite": "84"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "III. Neue Wege in der Konjunkturpolitik",
+              "seite": "85",
+              "dritte_und_niedrigere_ebene": []
+            }
+          ]
+        },
+        {
+          "ueberschrift_eins": "Fünftes Kapitel: Zu aktuellen Problemen der Wirtschaftspolitik",
+          "seite": "87",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Alternativen zum gegenwärtigen Weltwährungssystem",
+              "seite": "87",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "Die Entwicklung des Bretton-Woods-Systems",
+                  "seite": "88"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Reform durch größere Flexibilität",
+                  "seite": "89"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Wechselkursflexibilität und Integration",
+                  "seite": "92"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Wechselkursflexibilität und Agrarpolitik",
+                  "seite": "93"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "II. Agrarpolitik in der wachsenden Wirtschaft",
+              "seite": "95",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "Zwischenbilanz",
+                  "seite": "96"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Die Agrarwirtschaft und die Ziele des Stabilitäts- und Wachstums-\ngesetzes",
+                  "seite": "97"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Agrarpolitische Fehlentwicklungen",
+                  "seite": "98"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Neue agrarpolitische Programme",
+                  "seite": "99"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Rahmenbedingungen der Agrarpolitik",
+                  "seite": "101"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Die Landwirtschaft im wachstumsbedingten Strukturwandel",
+                  "seite": "101"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

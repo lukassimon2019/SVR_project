@@ -1,0 +1,397 @@
+{
+"kapitel": [
+{
+"ueberschrift_eins": "Inhalt",
+"seite": " "
+},
+{
+"ueberschrift_eins": "Eine kürzere Fassung",
+"seite": "1",
+"zweite_ebene": []
+},
+{
+"ueberschrift_eins": "Erstes Kapitel: Die Weltwirtschaft im Zeichen der Ölkrise",
+"seite": "15",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Zweistellige Inflationsraten",
+"seite": "16",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Zunehmende außenwirtschaftliche Ungleichgewichte",
+"seite": "17",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "III. Vertagte Weltwährungsreform",
+"seite": "21",
+"dritte_und_niedrigere_ebene": []
+}
+]
+},
+{
+"ueberschrift_eins": "Zweites Kapitel: Die Konjunkturlage",
+"seite": "28",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "Teil A: Die Konjunktur in der Europäischen Gemeinschaft",
+"seite": "28",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "I. Erdölkrise verschärft die Probleme der Gemeinschaft",
+"seite": "28",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Gedämpfte Konjunktur",
+"seite": "30",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Weltweit unsicherer Konjunkturverlauf",
+"seite": "30"
+},
+{
+"ueberschrift_drei_niedriger": "Die Gemeinschaft im Abschwung",
+"seite": "31"
+},
+{
+"ueberschrift_drei_niedriger": "Regionale Differenzierung",
+"seite": "34"
+},
+{
+"ueberschrift_drei_niedriger": "Gelockerter Konjunkturverbund?",
+"seite": "35"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Wirtschaftspolitik unkoordiniert",
+"seite": "37",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Anziehen der monetären Zügel",
+"seite": "37"
+},
+{
+"ueberschrift_drei_niedriger": "Zwiespältige Finanzpolitik",
+"seite": "41"
+}
+]
+},
+{
+"ueberschrift_zwei": "Teil B: Die Binnenkonjunktur 1974",
+"seite": "45",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "I. Überblick",
+"seite": "45",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Gedämpfte Konjunktur",
+"seite": "47",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Investoren und Verbraucher überwiegend zurückhaltend",
+"seite": "48"
+},
+{
+"ueberschrift_drei_niedriger": "Hohe Auslandsaufträge",
+"seite": "52"
+},
+{
+"ueberschrift_drei_niedriger": "Gedrosselte Produktion",
+"seite": "53"
+},
+{
+"ueberschrift_drei_niedriger": "Mäßiger Zuwachs der Importe",
+"seite": "54"
+},
+{
+"ueberschrift_drei_niedriger": "Abnehmender Arbeitskräftebedarf nicht nur konjunkturell bedingt",
+"seite": "55"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Hohe inflatorische Spannungen",
+"seite": "58",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Preisschub auf Industriemärkten",
+"seite": "59"
+},
+{
+"ueberschrift_drei_niedriger": "Anstieg der Verbraucherpreise gedämpft",
+"seite": "61"
+}
+]
+},
+{
+"ueberschrift_zwei": "IV. Einkommensentwicklung: Fehler und Irrtümer",
+"seite": "63",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "V. Unerwünschte Leistungsbilanzsalden",
+"seite": "72",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Überraschendes Anschwellen des Außenbeitrages",
+"seite": "72"
+},
+{
+"ueberschrift_drei_niedriger": "Aufwertung durch Kapitalexporte gebremst",
+"seite": "76"
+}
+]
+},
+{
+"ueberschrift_zwei": "VI. Monetäre Politik weiter auf Restriktionskurs",
+"seite": "78",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Zentralbankgeld knappgehalten",
+"seite": "78"
+},
+{
+"ueberschrift_drei_niedriger": "Gezügelte monetäre Expansion",
+"seite": "83"
+},
+{
+"ueberschrift_drei_niedriger": "Nachgebende, doch immer noch hohe Zinsen",
+"seite": "86"
+},
+{
+"ueberschrift_drei_niedriger": "Kapitalmarkt-Anpassung an Anlegerwünsche",
+"seite": "87"
+}
+]
+},
+{
+"ueberschrift_zwei": "VII. Öffentliche Haushalte: Konjunkturstützend?",
+"seite": "89",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Ausgabenexpansion unter dem Druck der Personalkosten",
+"seite": "93"
+},
+{
+"ueberschrift_drei_niedriger": "Einnahmenerwartungen nicht erfüllt",
+"seite": "94"
+},
+{
+"ueberschrift_drei_niedriger": "Konjunkturelle Impulse: Nur bedingt konjunkturstützend",
+"seite": "96"
+}
+]
+},
+{
+"ueberschrift_zwei": "VIII. Mittelfristige Aspekte des Stabilisierungsprozesses",
+"seite": "100",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Verlangsamtes Potentialwachstum",
+"seite": "100"
+},
+{
+"ueberschrift_drei_niedriger": "Beschäftigungseinbruch in der Automobilindustrie",
+"seite": "102"
+},
+{
+"ueberschrift_drei_niedriger": "Bauwirtschaft unter Anpassungszwang",
+"seite": "103"
+}
+]
+},
+{
+"ueberschrift_eins": "Drittes Kapitel: Zur voraussehbaren Entwicklung",
+"seite": "108",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die Weltkonjunktur im Jahre 1975",
+"seite": "109",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Die öffentlichen Finanzen im Jahre 1975",
+"seite": "111",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "III. Zur voraussichtlichen Entwicklung der Binnenkonjunktur",
+"seite": "113",
+"dritte_und_niedrigere_ebene": []
+}
+]
+},
+{
+"ueberschrift_eins": "Viertes Kapitel: Vollbeschäftigung für morgen",
+"seite": "120",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Wovon auszugehen ist",
+"seite": "120",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Worauf es ankommt",
+"seite": "121",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Die geldpolitische Grundlinie",
+"seite": "121"
+},
+{
+"ueberschrift_drei_niedriger": "Die Verkrampfung lösen",
+"seite": "122"
+},
+{
+"ueberschrift_drei_niedriger": "Die Binnennachfrage anregen",
+"seite": "124"
+},
+{
+"ueberschrift_drei_niedriger": "Stabilisierung auf mittlere Sicht",
+"seite": "124"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Was zu tun ist",
+"seite": "126",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Monetäre Politik",
+"seite": "126"
+},
+{
+"ueberschrift_drei_niedriger": "Währungspolitik",
+"seite": "128"
+},
+{
+"ueberschrift_drei_niedriger": "Finanzpolitik",
+"seite": "130"
+},
+{
+"ueberschrift_drei_niedriger": "Einkommenspolitik",
+"seite": "134"
+},
+{
+"ueberschrift_drei_niedriger": "Einkommenspolitik für die Landwirtschaft",
+"seite": "140"
+},
+{
+"ueberschrift_drei_niedriger": "Marktpolitik",
+"seite": "140"
+}
+]
+},
+{
+"ueberschrift_zwei": "IV. Wie es sein könnte",
+"seite": "142",
+"dritte_und_niedrigere_ebene": []
+}
+]
+},
+{
+"ueberschrift_eins": "Fünftes Kapitel: Zur stabilitätspolitischen Konzeption",
+"seite": "146",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Stabilität ist Vollbeschäftigung für morgen",
+"seite": "146",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Geldpolitik",
+"seite": "148",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Preisniveau- und Beschäftigungswirkungen der Geldpolitik",
+"seite": "149"
+},
+{
+"ueberschrift_drei_niedriger": "Zentralbankgeldmenge und monetäre Expansion",
+"seite": "151"
+},
+{
+"ueberschrift_drei_niedriger": "Zur Ausgestaltung der mengenorientierten Geldpolitik",
+"seite": "152"
+},
+{
+"ueberschrift_drei_niedriger": "Stabilisierungspolitische Grenzen der mengenorientierten Geldpolitik",
+"seite": "155"
+},
+{
+"ueberschrift_drei_niedriger": "Konjunkturneutrale und konjunkturgerechte Geldpolitik",
+"seite": "156"
+},
+{
+"ueberschrift_drei_niedriger": "Zusammenfassung",
+"seite": "156"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Finanzpolitik",
+"seite": "157",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Die Abgrenzung von der monetären Politik",
+"seite": "157"
+},
+{
+"ueberschrift_drei_niedriger": "Zur Wirkungsanalyse konjunktureller Impulse der Finanzpolitik",
+"seite": "158"
+},
+{
+"ueberschrift_drei_niedriger": "Dasselbe für eine wachsende Wirtschaft: Der konjunkturneutrale Haushalt",
+"seite": "161"
+},
+{
+"ueberschrift_drei_niedriger": "Beschränkung der stabilitätspolitischen Aufgaben",
+"seite": "164"
+}
+]
+},
+{
+"ueberschrift_zwei": "IV. Flankensicherung",
+"seite": "165",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Außenwirtschaftliche Absicherung",
+"seite": "165"
+},
+{
+"ueberschrift_drei_niedriger": "Stabilitätsgerechte Einkommens- und Marktpolitik",
+"seite": "167"
+}
+]
+},
+{
+"ueberschrift_eins": "Sechstes Kapitel: Längerfristige Folgen der Erdölkrise",
+"seite": "170",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Zur Frage des richtigen Ölpreises",
+"seite": "171",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Veränderte Preisrelationen",
+"seite": "173",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "III. Hin zum neuen Gleichgewicht",
+"seite": "174",
+"dritte_und_niedrigere_ebene": []
+}
+]
+}
+]
+}
+```ende_json

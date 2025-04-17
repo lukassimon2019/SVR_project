@@ -1,0 +1,717 @@
+```json
+                  "properties": {
+                        "ueberschrift_drei_niedriger": "1. Rückkehr zu tragfähigen Haushalten erfordert weitere Haushaltsdisziplin",
+                        "seite": "304"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Die positive Haushaltslage als Spiegelbild außergewöhnlicher Entwick-\nlungen",
+                        "seite": "313"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Einfluss des niedrigen Zinsniveaus auf die Einnahmen und Ausgaben\ndes Staates",
+                        "seite": "313"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "„Demografisches Zwischenhoch“",
+                        "seite": "315"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Die Verschuldungssituation des Staates",
+                  "seite": "317"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Konsolidierung auf Ebene der Gebietskörperschaften",
+                  "seite": "320",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Gesetz zur innerstaatlichen Umsetzung des Fiskalvertrags",
+                        "seite": "321"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Der Bundeshaushalt im Rahmen der Schuldenregel",
+                        "seite": "322"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Die Länder auf dem schwierigen Weg zu ausgeglichenen Haushalten",
+                        "seite": "323"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Konsolidierungserfordernisse der Länder und Gemeinden bis zum\nJahr 2020",
+                        "seite": "323"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Potenziale bei den Ausgaben von Ländern und Kommunen",
+                        "seite": "326"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "IV. Fazit",
+                  "seite": "329"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "Eine andere Meinung",
+                  "seite": "330"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "ACHTES KAPITEL\nSteuerpolitik: Vor falschen Weichenstellungen",
+            "seite": "336",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Vermögensteuer und Spitzensteuersatz der Einkommensteuer",
+                  "seite": "338",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Die Vermögensteuer: Steuerpolitischer Holzweg",
+                        "seite": "339"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Investitionstätigkeit und internationale Standortattraktivität",
+                        "seite": "340"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Erhebungskosten und gleichmäßige Besteuerung bei einer Vermögen-\nsteuer",
+                        "seite": "343"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Anhebung des Spitzensteuersatzes bei der Einkommensteuer",
+                        "seite": "345"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Reform des Ehegattensplittings",
+                  "seite": "348",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Reformvorschläge zur Eingrenzung des Ehegattensplittings",
+                        "seite": "349"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Verfassungsrechtliche Rahmenbedingungen",
+                        "seite": "350"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Arbeitsanreize für den Zweitverdiener",
+                        "seite": "352"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Grundsätzliche Auswirkungen der Reformoptionen",
+                        "seite": "352"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Wechselwirkungen von Ehegattensplitting und Minijob-Regelung",
+                        "seite": "358"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "4. Aufkommens- und Verteilungswirkungen",
+                        "seite": "360"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "5. Familiensplitting und Familienrealsplitting",
+                        "seite": "362"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Was steuerpolitisch zu tun und zu lassen ist",
+                  "seite": "364"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "Anhang: Mehrbelastungen durch die Kalte Progression",
+                  "seite": "367"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "NEUNTES KAPITEL\nSozialpolitik: Die richtigen Reformen statt Leistungsausweitungen",
+            "seite": "372",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Die Agenda 2010 und ihre Weiterentwicklung",
+                  "seite": "374"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Zur Verteilungsdiskussion: Mehr Chancengleichheit notwendig",
+                  "seite": "376",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Verteilung der Einkommen",
+                        "seite": "376"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Intra- und intergenerationale Mobilität",
+                        "seite": "379"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Eine andere Meinung",
+                        "seite": "381"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Sozialversicherungen: Erfolge der Agenda 2010, dennoch weiterhin Hand-\nlungsbedarf",
+                  "seite": "384",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Gesetzliche Rentenversicherung",
+                        "seite": "384"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Zur Aufstockung niedriger Renten",
+                        "seite": "385"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Zur rentenrechtlichen Besserstellung von Müttern",
+                        "seite": "388"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Was noch zu tun ist",
+                        "seite": "389"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Gesetzliche Krankenversicherung",
+                        "seite": "391"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Was noch zu tun ist",
+                        "seite": "393"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Soziale Pflegeversicherung",
+                        "seite": "393"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Was noch zu tun ist",
+                        "seite": "394"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "IV. Familienpolitik aus ökonomischer Perspektive",
+                  "seite": "394",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Überblick über die familien- und ehebezogenen Leistungen",
+                        "seite": "395"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Familienpolitik und die Agenda 2010",
+                        "seite": "397"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Was noch zu tun ist",
+                        "seite": "399"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Familienpolitik, Potenzialwachstum und demografischer Wandel",
+                        "seite": "399"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Zur Erhöhung der Anzahl der Erwerbspersonen",
+                        "seite": "400"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Zur Erhöhung der Fertilität",
+                        "seite": "402"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Zur Erhöhung der Produktivität durch Bildung",
+                        "seite": "403"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "4. Fazit",
+                        "seite": "405"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Anhang zur Analyse der Einkommensverteilung: Datenbasis, Einkommenskon-\nzepte und Verteilungsmaß",
+                        "seite": "407"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Datenbasis",
+                        "seite": "407"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Einkommenskonzepte",
+                        "seite": "407"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Verteilungsmaß",
+                        "seite": "408"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "ZEHNTES KAPITEL\nEnergiepolitik: Warten auf die dringend notwendigen Weichenstellungen",
+            "seite": "414",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Kaum Fortschritte im zweiten Jahr der Energiewende",
+                  "seite": "416",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Erzeugungsmix und Stromaußenhandel",
+                        "seite": "417"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Strompreis und EEG-Umlage",
+                        "seite": "419"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Versorgungssicherheit",
+                        "seite": "424"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Reform des Erneuerbare-Energien-Gesetzes",
+                  "seite": "427",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Grundsätzliche Überlegungen",
+                        "seite": "427"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Vorschläge für eine grundlegende Neugestaltung des EEG",
+                        "seite": "429"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Die mangelnde Reformierbarkeit des EEG",
+                        "seite": "432"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Was wirtschaftspolitisch zu tun ist",
+                  "seite": "436"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "Eine andere Meinung",
+                  "seite": "437"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "ELFTES KAPITEL\nImmobilienmarkt: Kein Grund für Aktionismus",
+            "seite": "440",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Anspannungen am deutschen Immobilienmarkt?",
+                  "seite": "442"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Die makroökonomische Perspektive",
+                  "seite": "443",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Gesamtwirtschaftliche Bedeutung der Immobilienwirtschaft",
+                        "seite": "443"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Gefahr gesamtwirtschaftlich destabilisierender Effekte",
+                        "seite": "445"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Spekulative Prozesse und Fehlallokationen",
+                        "seite": "446"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Effekte auf den privaten Verbrauch",
+                        "seite": "449"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Effekte auf das Finanzsystem",
+                        "seite": "450"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Bisher kaum Anzeichen für Fehlentwicklungen auf dem deutschen\nImmobilienmarkt",
+                        "seite": "451"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "4. Stabilisierende Elemente",
+                        "seite": "459"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "5. Zwischenfazit",
+                        "seite": "461"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Die mikroökonomische Perspektive",
+                  "seite": "463",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Eingriffe in den Preismechanismus",
+                        "seite": "463"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Private Investitionsanreize",
+                        "seite": "467"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Öffentlicher Wohnungsbau",
+                        "seite": "472"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "4. Sozialpolitische Optionen",
+                        "seite": "473"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "5. Fazit",
+                        "seite": "475"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "ZWÖLFTES KAPITEL\nWachstum, Wohlstand, Lebensqualität",
+            "seite": "478",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "1. Ganzheitliche Wohlfahrtsberichterstattung: Einordnung",
+                  "seite": "480"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "2. Anstrengungen zur Wohlfahrtsmessung: Der Indikatorensatz W3",
+                  "seite": "483"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "3. Wachstum, Wohlstand, Lebensqualität im Jahresgutachten",
+                  "seite": "488"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "ANHÄNGE",
+            "seite": "495",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Methodische Erläuterungen",
+                  "seite": "495",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "A. Berechnung der Arbeitseinkommensquote",
+                        "seite": "496"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "B. Berechnung des lohnpolitischen Verteilungsspielraums",
+                        "seite": "497"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der\ngesamtwirtschaftlichen Entwicklung",
+                  "seite": "498"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft",
+                  "seite": "500"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "IV. Verzeichnis der Gutachten und Expertisen des Sachverständigenrates",
+                  "seite": "501"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
+```
+ende_json

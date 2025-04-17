@@ -1,0 +1,375 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "23",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die deutsche Wirtschaft im Jahre 1994: Ein Überblick",
+          "seite": "23",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Der weltwirtschaftliche Rahmen: Auftriebskräfte setzen sich durch",
+          "seite": "27",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Erholung der Konjunktur in Westeuropa",
+              "seite": "34"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anhaltend kräftiger Aufschwung in Amerika",
+              "seite": "37"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Asien: Leichte Belebung in Japan - anhaltende Dynamik in den\nSchwellenländern",
+              "seite": "38"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin unterschiedliche Entwicklungen in Mittel- und Osteuropa",
+              "seite": "40"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Uruguay-Runde des GATT beendet",
+              "seite": "53"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Steigende Produktion und wieder höhere Investitionen in Deutschland",
+          "seite": "56",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Investitionstätigkeit: Wieder anziehende Entwicklung im Westen\n- stabiler Aufwärtstrend im Osten",
+              "seite": "57"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nur leicht erhöhtes Wachstum der Produktionskapazitäten",
+              "seite": "62"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Westdeutschland: Deutliche Konjunkturerholung",
+          "seite": "64",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Export: Hauptmotor der Konjunktur",
+              "seite": "65"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wohnungsbau treibt Baukonjunktur an",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Privater Verbrauch im Zeichen mäßiger Einkommensentwicklung",
+              "seite": "69"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Staatsverbrauch real stagnierend",
+              "seite": "71"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nur mäßiger Rückgang der Inflationsrate",
+              "seite": "71"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Ostdeutschland: Aufwärtsentwicklung festigt sich",
+          "seite": "75",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Produktionsanstieg gewinnt an Breite",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Export im Umbruch",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rege Gründungstätigkeit, Privatisierung vor dem Abschluß",
+              "seite": "83"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin kräftige Einkommenssteigerungen bei geringem Preis-\nanstieg",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erste Anhaltspunkte für ein regionales Differenzierungsmuster",
+              "seite": "88"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Trendwende am Arbeitsmarkt?",
+          "seite": "93",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigungsabbau zu Ende",
+              "seite": "93"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unterbeschäftigung rückläufig",
+              "seite": "99"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Tarifpolitik mit Augenmaß",
+              "seite": "105"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VII. Geldmengensteuerung weiterhin in Schwierigkeiten",
+          "seite": "114",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Geldmengenziel erneut überschritten",
+              "seite": "114"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldmarktzinsen gesunken",
+              "seite": "119"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Volatilität an den Kapitalmärkten",
+              "seite": "119"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beruhigung an den Devisenmärkten",
+              "seite": "124"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Währungsunion: Zweite Stufe",
+              "seite": "124"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Zur Stabilität der Geldnachfrage",
+              "seite": "130"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VIII. Öffentliche Finanzen: Konsolidierung kommt voran",
+          "seite": "132",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Haushaltsfehlbeträge immer noch hoch",
+              "seite": "132"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gebietskörperschaften auf Konsolidierungskurs eingeschwenkt",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wieder kräftigere Entwicklung der Steuereinnahmen",
+              "seite": "140"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der Abgabenbelastung: Rückblick und Ausblick",
+              "seite": "142"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur finanziellen Lage der Sozialversicherung",
+              "seite": "146"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IX. Zur Diskussion gestellt: Strukturelles Defizit und konjunktureller\nImpuls",
+          "seite": "151",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Zur voraussichtlichen Entwicklung im Jahre 1995",
+      "seite": "159",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Ausgangslage",
+          "seite": "159",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Das weltwirtschaftliche Umfeld",
+          "seite": "161",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Die wirtschaftlichen Aussichten in Deutschland",
+          "seite": "162",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Grundlinien der Wirtschaftspolitik",
+      "seite": "176",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Nach der Rezession: Voraussetzungen für einen dauerhaften Aufschwung schaffen",
+          "seite": "176",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Ziele der Wirtschaftspolitik: Wo stehen wir - wie geht es weiter?",
+          "seite": "177",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Stetiges und angemessenes Wachstum in ganz Deutschland ist\nerreichbar",
+              "seite": "177"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hoher Beschäftigungsstand: Deutliche Annäherung an das Ziel\ndringend geboten",
+              "seite": "179"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stabiles Preisniveau: Orientierungsprobleme der Geldpolitik",
+              "seite": "181"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außenwirtschaftliches Gleichgewicht: Vertrauensbasis erhalten",
+              "seite": "182"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Rahmenbedingungen für den Wachstumsprozeß: Die besondere Ver-\nantwortung des Staates",
+          "seite": "182",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Wirtschaftspolitik für die neuen Bundesländer: Den Weg zur Normalität finden",
+          "seite": "188",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Zu den Politikbereichen im einzelnen",
+      "seite": "192",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Finanzpolitik: Für mehr Wachstum und Beschäftigung",
+          "seite": "192",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Senkung der Staatsquote, Rückführung der Abgabenbelastung",
+              "seite": "192"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Noch einmal: Für eine Reform der Unternehmensbesteuerung",
+              "seite": "200"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anpassung des Grundfreibetrags in der Einkommensteuer",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitisches Handlungsprogramm",
+              "seite": "203"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzbeziehungen zur Europäischen Union",
+              "seite": "205"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bedingungen für eine ausgewogene ökologische Steuerreform schaffen",
+              "seite": "209"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Geldpolitik: Trotz Schwierigkeiten am Potentialpfad orientieren",
+          "seite": "214",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Eine nicht einfache Ausgangslage",
+              "seite": "214"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Geldmengenkonzeption auf dem Prüfstand",
+              "seite": "216"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zu den Alternativen",
+              "seite": "220"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zielbestimmung für 1995",
+              "seite": "223"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die europäische Dimension",
+              "seite": "224"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Lohnpolitik: Vorrang für neue Arbeitsplätze",
+          "seite": "226",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Ostdeutschland: Pause bei der Lohnangleichung",
+              "seite": "226"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Westdeutschland: Den eingeschlagenen Kurs halten",
+              "seite": "226"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Außenwirtschaft: Vor großen Herausforderungen",
+          "seite": "228",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Erhöhter Anpassungsbedarf an weltwirtschaftliche Veränderungen",
+              "seite": "228"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Für ein offenes Europa",
+              "seite": "232"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die weltwirtschaftliche Ordnung voranbringen",
+              "seite": "241"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel: Arbeitslosigkeit - Ursachen und Lösungsansätze",
+      "seite": "247",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Arbeitslosigkeit als Folge von Rezession und Wachstumsschwäche",
+          "seite": "248",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Funktionsstörungen auf Arbeitsmärkten",
+          "seite": "250",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Höhe und Struktur der Löhne",
+          "seite": "258",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Was gegen Arbeitslosigkeit getan werden kann",
+          "seite": "264",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+ende_json
+

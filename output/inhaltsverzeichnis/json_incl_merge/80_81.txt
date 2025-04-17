@@ -1,0 +1,353 @@
+{
+"kapitel": [
+{
+"ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+"seite": "12",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "TEIL A: Der internationale Rahmen",
+"seite": "12",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Schwerer Start in die achtziger Jahre",
+"seite": "12"
+},
+{
+"ueberschrift_drei_niedriger": "II. Industrieländer im Anpassungsprozeß",
+"seite": "17"
+},
+{
+"ueberschrift_drei_niedriger": "III. Zunehmende Leistungsbilanzungleichgewichte",
+"seite": "29"
+},
+{
+"ueberschrift_drei_niedriger": "Recycling mit Hindernissen",
+"seite": "30"
+},
+{
+"ueberschrift_drei_niedriger": "Wechselkurse im Sog der Zinsdifferenzen",
+"seite": "35"
+},
+{
+"ueberschrift_drei_niedriger": "IV. Zunehmende Probleme in der Europäischen Gemeinschaft",
+"seite": "37"
+},
+{
+"ueberschrift_drei_niedriger": "Gefahr eines zunehmenden Protektionismus",
+"seite": "41"
+}
+]
+},
+{
+"ueberschrift_zwei": "TEIL B: Die Binnenkonjunktur 1980",
+"seite": "42",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Überblick",
+"seite": "42"
+},
+{
+"ueberschrift_drei_niedriger": "II. Unter Anpassungszwang",
+"seite": "44"
+},
+{
+"ueberschrift_drei_niedriger": "Privater Verbrauch durch Kaufkraftentzug gedämpft",
+"seite": "44"
+},
+{
+"ueberschrift_drei_niedriger": "Differenzierte Auslandseinflüsse",
+"seite": "46"
+},
+{
+"ueberschrift_drei_niedriger": "Veränderte Angebotsbedingungen als Herausforderung",
+"seite": "47"
+},
+{
+"ueberschrift_drei_niedriger": "Investitionsneigung vergleichsweise wenig beeinträchtigt",
+"seite": "52"
+},
+{
+"ueberschrift_drei_niedriger": "Wenig verminderte Expansion der staatlichen Nachfrage",
+"seite": "55"
+},
+{
+"ueberschrift_drei_niedriger": "Deutliche Unterschiede in der Produktionsentwicklung",
+"seite": "55"
+},
+{
+"ueberschrift_drei_niedriger": "Nochmals hohe Auslastung des Produktionspotentials",
+"seite": "57"
+},
+{
+"ueberschrift_drei_niedriger": "Beschäftigung im Jahresverlauf wieder vermindert",
+"seite": "59"
+},
+{
+"ueberschrift_drei_niedriger": "III. Wieder größere Probleme auf dem Arbeitsmarkt",
+"seite": "61"
+},
+{
+"ueberschrift_drei_niedriger": "Steigende Arbeitslosigkeit im Jahresverlauf",
+"seite": "62"
+},
+{
+"ueberschrift_drei_niedriger": "Ausbildungschancen weiter verbessert",
+"seite": "67"
+},
+{
+"ueberschrift_drei_niedriger": "Arbeitsmarktpolitik: Erfahrungen der letzten Jahre",
+"seite": "70"
+},
+{
+"ueberschrift_drei_niedriger": "IV. Höhepunkt der Preissteigerungen überschritten",
+"seite": "73"
+},
+{
+"ueberschrift_drei_niedriger": "Geldwertschwund weiterhin hoch",
+"seite": "73"
+},
+{
+"ueberschrift_drei_niedriger": "Was alles zum Preisanstieg beiträgt",
+"seite": "76"
+},
+{
+"ueberschrift_drei_niedriger": "V. Geringer Anstieg der realen Einkommen",
+"seite": "79"
+},
+{
+"ueberschrift_drei_niedriger": "Wenig veränderte Verteilungsrelationen",
+"seite": "79"
+},
+{
+"ueberschrift_drei_niedriger": "Leichter Rückgang der Gewinnsteuern, höhere Lohnabzüge",
+"seite": "83"
+},
+{
+"ueberschrift_drei_niedriger": "Realeinkommen der privaten Haushalte nur wenig höher",
+"seite": "85"
+},
+{
+"ueberschrift_drei_niedriger": "VI. Zahlungsbilanz im Ungleichgewicht",
+"seite": "86"
+},
+{
+"ueberschrift_drei_niedriger": "Erhebliches Leistungsbilanzdefizit",
+"seite": "86"
+},
+{
+"ueberschrift_drei_niedriger": "Wettbewerbsvorteile durch D-Mark-Schwäche",
+"seite": "90"
+},
+{
+"ueberschrift_drei_niedriger": "Hohe Direktinvestitionen",
+"seite": "92"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": null,
+"seite": null,
+"zweite_ebene": [
+{
+"ueberschrift_zwei": null,
+"seite": null,
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Finanzierung des Leistungsbilanzdefizits durch Kapitalimporte\nnoch nicht erreicht",
+"seite": "93"
+},
+{
+"ueberschrift_drei_niedriger": "Starke reale Abwertung der D-Mark",
+"seite": "95"
+},
+{
+"ueberschrift_drei_niedriger": "VII. Geldpolitik: Stabilisierung unter veränderten außenwirtschaftlichen\nBedingungen",
+"seite": "96"
+},
+{
+"ueberschrift_drei_niedriger": "Schwache Expansion der Zentralbankgeldmenge",
+"seite": "97"
+},
+{
+"ueberschrift_drei_niedriger": "Umschichtung zu höher verzinslichem Geld",
+"seite": "103"
+},
+{
+"ueberschrift_drei_niedriger": "Allmähliche Abschwächung der Kreditexpansion",
+"seite": "106"
+},
+{
+"ueberschrift_drei_niedriger": "Kapitalmarkt unter Auslandseinflüssen",
+"seite": "106"
+},
+{
+"ueberschrift_drei_niedriger": "VIII. Finanzpolitik: Keine Abkehr von hohen Defiziten",
+"seite": "112"
+},
+{
+"ueberschrift_drei_niedriger": "Konsolidierung: Die Last früherer Jahre",
+"seite": "112"
+},
+{
+"ueberschrift_drei_niedriger": "Ausgabenanstieg nicht gebremst",
+"seite": "113"
+},
+{
+"ueberschrift_drei_niedriger": "Steuerquote trotz Progressionswirkung rückläufig",
+"seite": "117"
+},
+{
+"ueberschrift_drei_niedriger": "Öffentliche Defizite nochmals gestiegen",
+"seite": "118"
+},
+{
+"ueberschrift_drei_niedriger": "Konjunktureller Impuls außerordentlich hoch",
+"seite": "119"
+},
+{
+"ueberschrift_drei_niedriger": "Gewerbesteuer: Verhalten der Gemeinden umstritten",
+"seite": "123"
+},
+{
+"ueberschrift_drei_niedriger": "Neue steuerpolitische Entscheidungen",
+"seite": "123"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "Zweites Kapitel: Die voraussichtliche Entwicklung",
+"seite": "126",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die voraussichtliche Entwicklung der Konjunktur im Ausland",
+"seite": "127",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Die voraussichtliche Entwicklung der Binnenkonjunktur",
+"seite": "131",
+"dritte_und_niedrigere_ebene": []
+}
+]
+},
+{
+"ueberschrift_eins": "Drittes Kapitel: Wirtschaftspolitik für 1981 und danach",
+"seite": "140",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Zur Grundlinie",
+"seite": "140",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Schwere Störungen",
+"seite": "140"
+},
+{
+"ueberschrift_drei_niedriger": "Was uns die Weltwirtschaft aufgibt",
+"seite": "141"
+},
+{
+"ueberschrift_drei_niedriger": "Das Dilemma der Wirtschaftspolitik",
+"seite": "142"
+},
+{
+"ueberschrift_drei_niedriger": "Grundmuster einer Lösung",
+"seite": "145"
+}
+]
+},
+{
+"ueberschrift_zwei": "II. Zu den Politikbereichen im einzelnen",
+"seite": "148",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Geld- und Währungspolitik",
+"seite": "148"
+},
+{
+"ueberschrift_drei_niedriger": "Finanzpolitik",
+"seite": "150"
+},
+{
+"ueberschrift_drei_niedriger": "Lohnpolitik und Arbeitsmarkt",
+"seite": "163"
+},
+{
+"ueberschrift_drei_niedriger": "Marktpolitik",
+"seite": "166"
+},
+{
+"ueberschrift_drei_niedriger": "Energiepolitik",
+"seite": "168"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "Viertes Kapitel: Agrarpolitik in Europa",
+"seite": "176",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Ärgernisse",
+"seite": "176",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Grundsätze für einen Neubeginn",
+"seite": "187",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "III. Wie man es nicht machen sollte",
+"seite": "189",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "IV. Marktausgleich und Optionen für die Bauern",
+"seite": "194",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "V. Berechtigte Forderungen dritter Länder",
+"seite": "197",
+"dritte_und_niedrigere_ebene": []
+}
+]
+}
+]
+},
+{
+"kapitel": [
+{
+"ueberschrift_eins": null,
+"seite": null,
+"zweite_ebene": [
+{
+"ueberschrift_zwei": null,
+"seite": null,
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Eine andere Meinung",
+"seite": "200"
+},
+{
+"ueberschrift_drei_niedriger": "Zu den wirtschaftspolitischen Grundlinien",
+"seite": "200"
+},
+{
+"ueberschrift_drei_niedriger": "Wirtschaftspolitische Schlussfolgerungen",
+"seite": "204"
+}
+]
+}
+]
+}
+]
+}
+]
+}

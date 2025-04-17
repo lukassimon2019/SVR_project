@@ -1,0 +1,391 @@
+{
+"kapitel": [
+{
+"ueberschrift_eins": "Eine kürzere Fassung",
+"seite": "1",
+"zweite_ebene": []
+},
+{
+"ueberschrift_eins": "Erstes Kapitel: Die Konjunkturlage",
+"seite": "11",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "Teil A: Der internationale Rahmen",
+"seite": "11",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Weltkonjunktur im Zeichen erneuter Ölteuerung",
+"seite": "11"
+},
+{
+"ueberschrift_drei_niedriger": "Erneute Preissteigerungen bei zumeist noch hoher Arbeitslosigkeit",
+"seite": "13"
+},
+{
+"ueberschrift_drei_niedriger": "Jüngste Konjunkturtendenzen",
+"seite": "15"
+},
+{
+"ueberschrift_drei_niedriger": "II. Veränderte Währungsprobleme",
+"seite": "25"
+},
+{
+"ueberschrift_drei_niedriger": "Äußerliche Stabilisierung des Dollar",
+"seite": "28"
+},
+{
+"ueberschrift_drei_niedriger": "Europäisches Währungssystem: Erste Erfahrungen",
+"seite": "29"
+},
+{
+"ueberschrift_drei_niedriger": "Harmonisierung der Geldpolitik in Europa?",
+"seite": "34"
+},
+{
+"ueberschrift_drei_niedriger": "Finanzpolitik in Europa",
+"seite": "35"
+}
+]
+},
+{
+"ueberschrift_zwei": "Teil B: Die Binnenkonjunktur 1979",
+"seite": "36",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Überblick",
+"seite": "36"
+},
+{
+"ueberschrift_drei_niedriger": "II. Kräftiger Aufschwung",
+"seite": "38"
+},
+{
+"ueberschrift_drei_niedriger": "Deutlicher Schub bei den Investitionen",
+"seite": "38"
+},
+{
+"ueberschrift_drei_niedriger": "Geringere Angebotsprobleme",
+"seite": "41"
+},
+{
+"ueberschrift_drei_niedriger": "Privater Verbrauch durch Preissteigerungen belastet",
+"seite": "47"
+},
+{
+"ueberschrift_drei_niedriger": "Noch deutliche Ausweitung der staatlichen Nachfrage",
+"seite": "48"
+},
+{
+"ueberschrift_drei_niedriger": "Höhepunkt der Baukonjunktur überschritten?",
+"seite": "48"
+},
+{
+"ueberschrift_drei_niedriger": "Lebhafte Auslandsnachfrage bei weiterem Vordringen der Importe",
+"seite": "49"
+},
+{
+"ueberschrift_drei_niedriger": "Deutliche Ausweitung der Produktion",
+"seite": "50"
+},
+{
+"ueberschrift_drei_niedriger": "Nur mäßiger Produktivitätsfortschritt",
+"seite": "52"
+},
+{
+"ueberschrift_drei_niedriger": "Spürbarer Beschäftigungsanstieg",
+"seite": "54"
+},
+{
+"ueberschrift_drei_niedriger": "Noch immer schwaches Wachstum des Produktionspotentials",
+"seite": "56"
+},
+{
+"ueberschrift_drei_niedriger": "III. Fortschritte am Arbeitsmarkt",
+"seite": "58"
+},
+{
+"ueberschrift_drei_niedriger": "Aufschwung durch Engpässe auf dem Arbeitsmarkt behindert?",
+"seite": "58"
+},
+{
+"ueberschrift_drei_niedriger": "Unterschiedliche Entwicklung der Beschäftigungschancen",
+"seite": "59"
+},
+{
+"ueberschrift_drei_niedriger": "Räumliche Unterschiede leicht abgeschwächt",
+"seite": "65"
+},
+{
+"ueberschrift_drei_niedriger": "Arbeitsmarktpolitische Maßnahmen",
+"seite": "67"
+},
+{
+"ueberschrift_drei_niedriger": "IV. Verstärkte Preissteigerungen",
+"seite": "69"
+},
+{
+"ueberschrift_drei_niedriger": "Außenwirtschaftliche Einflüsse prägend",
+"seite": "69"
+},
+{
+"ueberschrift_drei_niedriger": "Dauerhafte Veränderung des Preisklimas?",
+"seite": "71"
+},
+{
+"ueberschrift_drei_niedriger": "V. Bessere Unternehmensgewinne",
+"seite": "78"
+},
+{
+"ueberschrift_drei_niedriger": "Bestätigte Gewinnerwartungen",
+"seite": "78"
+},
+{
+"ueberschrift_drei_niedriger": "Geringere Abgabenlast und höhere Transfereinkommen",
+"seite": "82"
+},
+{
+"ueberschrift_drei_niedriger": "Ölpreisanstieg dämpft Zuwachs der Realeinkommen",
+"seite": "84"
+},
+{
+"ueberschrift_drei_niedriger": "VI. Geldpolitik: Stark abgeschwächte monetäre Expansion",
+"seite": "85"
+},
+{
+"ueberschrift_drei_niedriger": "Geldmenge: Auf den Zielpfad abgeschwenkt",
+"seite": "85"
+},
+{
+"ueberschrift_drei_niedriger": "Hohe Kreditnachfrage",
+"seite": "91"
+},
+{
+"ueberschrift_drei_niedriger": "Umlaufsgeschwindigkeit des Geldes wenig gestiegen",
+"seite": "96"
+},
+{
+"ueberschrift_drei_niedriger": "Stabiler Kapitalmarkt",
+"seite": "97"
+},
+{
+"ueberschrift_drei_niedriger": "Veränderte Zinsstruktur",
+"seite": "98"
+},
+{
+"ueberschrift_drei_niedriger": "Zahlungsbilanz: Abbau des Zahlungsbilanzüberschusses",
+"seite": "100"
+},
+{
+"ueberschrift_drei_niedriger": "VII. Öffentliche Haushalte weiter expansiv",
+"seite": "103"
+},
+{
+"ueberschrift_drei_niedriger": "Hohe Staatsausgaben",
+"seite": "106"
+},
+{
+"ueberschrift_drei_niedriger": "Erneut Steuererleichterungen",
+"seite": "109"
+},
+{
+"ueberschrift_drei_niedriger": "Konjunktureller Impuls noch einmal höher",
+"seite": "111"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "Zweites Kapitel: Für mehr Stabilität und weiterhin hohe Investitionen",
+"seite": "118",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die voraussichtliche Entwicklung",
+"seite": "118",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Die voraussichtliche Entwicklung der Auslandskonjunktur",
+"seite": "118"
+},
+{
+"ueberschrift_drei_niedriger": "Die voraussichtliche Entwicklung der Binnenkonjunktur",
+"seite": "121"
+},
+{
+"ueberschrift_drei_niedriger": "II. Hauptaufgaben der Wirtschaftspolitik",
+"seite": "129"
+},
+{
+"ueberschrift_drei_niedriger": "Die Führungsrolle der Investitionen",
+"seite": "129"
+},
+{
+"ueberschrift_drei_niedriger": "Ziele und Wirklichkeit",
+"seite": "130"
+},
+{
+"ueberschrift_drei_niedriger": "Wirtschaftspolitische Grundlinien",
+"seite": "131"
+},
+{
+"ueberschrift_drei_niedriger": "III. Wie es auch kommen könnte",
+"seite": "133"
+},
+{
+"ueberschrift_drei_niedriger": "Variante I",
+"seite": "133"
+},
+{
+"ueberschrift_drei_niedriger": "Variante II",
+"seite": "134"
+},
+{
+"ueberschrift_drei_niedriger": "IV. Wirtschaftspolitik für 1980 und danach",
+"seite": "135"
+},
+{
+"ueberschrift_drei_niedriger": "Geld- und Währungspolitik",
+"seite": "135"
+},
+{
+"ueberschrift_drei_niedriger": "Finanzpolitik",
+"seite": "138"
+},
+{
+"ueberschrift_drei_niedriger": "Lohnpolitik und Arbeitsmarkt",
+"seite": "144"
+},
+{
+"ueberschrift_drei_niedriger": "Investitionspolitik",
+"seite": "148"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "Drittes Kapitel: Anpassung an teures Öl",
+"seite": "153",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die stabilitätspolitische Herausforderung",
+"seite": "153",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Die Hauptklage: Unstetigkeit der Preisentwicklung",
+"seite": "153"
+},
+{
+"ueberschrift_drei_niedriger": "Die Hauptaufgabe: Eine dauerhafte Anpassung",
+"seite": "154"
+},
+{
+"ueberschrift_drei_niedriger": "Das Hauptproblem: Anpassung ohne Inflationsstoß und ohne Rezession",
+"seite": "156"
+},
+{
+"ueberschrift_drei_niedriger": "Der Hauptstreit: Die Verteilung der Anpassungslast",
+"seite": "158"
+},
+{
+"ueberschrift_drei_niedriger": "Die Hauptsorge: Mengenprobleme wegen unzureichender Flexibilität",
+"seite": "159"
+},
+{
+"ueberschrift_drei_niedriger": "II. Die energiepolitischen Aufgaben",
+"seite": "160"
+},
+{
+"ueberschrift_drei_niedriger": "Die strategischen Optionen",
+"seite": "161"
+},
+{
+"ueberschrift_drei_niedriger": "Die Sparstrategie",
+"seite": "163"
+},
+{
+"ueberschrift_drei_niedriger": "Die Substitutionsstrategie",
+"seite": "164"
+},
+{
+"ueberschrift_drei_niedriger": "III. Was der Energiepolitik zu tun bleibt",
+"seite": "166"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "Viertes Kapitel: Für ein Angebot an die Entwicklungsländer",
+"seite": "170",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Herausforderung aus dem Süden",
+"seite": "170",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "II. Bilanz einer Dekade",
+"seite": "173"
+},
+{
+"ueberschrift_drei_niedriger": "III. Handelspolitik als Entwicklungspolitik",
+"seite": "180"
+},
+{
+"ueberschrift_drei_niedriger": "IV. Rohstoffpolitik",
+"seite": "182"
+},
+{
+"ueberschrift_drei_niedriger": "V. Kapitalexport und Technologietransfer",
+"seite": "185"
+},
+{
+"ueberschrift_drei_niedriger": "VI. Entwicklungshilfe",
+"seite": "188"
+},
+{
+"ueberschrift_drei_niedriger": "VII. Zu den Anpassungsproblemen",
+"seite": "189"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "Anhang",
+"seite": " ",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung",
+"seite": "194",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "II. Auszug aus dem Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft",
+"seite": "196"
+},
+{
+"ueberschrift_drei_niedriger": "III. Verzeichnis der Gutachten des Sachverständigenrates",
+"seite": "197"
+},
+{
+"ueberschrift_drei_niedriger": "IV. Tabellenanhang zum dritten Kapitel: Anpassung an teures Öl",
+"seite": "198"
+},
+{
+"ueberschrift_drei_niedriger": "V. Methodische Erläuterungen",
+"seite": "213"
+},
+{
+"ueberschrift_drei_niedriger": "VI. Statistischer Anhang",
+"seite": "223"
+},
+{
+"ueberschrift_drei_niedriger": "Sachregister",
+"seite": "317"
+}
+]
+}
+]
+}
+]
+}

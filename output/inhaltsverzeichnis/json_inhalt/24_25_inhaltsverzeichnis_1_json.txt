@@ -1,0 +1,621 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Kurzfassung\nVersäumnisse angehen, entschlossen modernisieren",
+      "seite": "1",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "1. Konjunktur springt noch immer nicht an",
+      "seite": "3",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "2. Zukunftsorientierung der öffentlichen Finanzen stärken",
+      "seite": "4",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "3. Chancen der Digitalisierung im Finanzsystem nutzen",
+      "seite": "7",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "4. Wohnraumangebot ausweiten – soziale Härten im\nBlick behalten",
+      "seite": "8",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "5. Güterverkehr dekarbonisieren – Verkehrsinfrastruktur\nertüchtigen",
+      "seite": "11",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "Erstes Kapitel\nAufschwung bleibt trotz besserer Weltkonjunktur aus",
+      "seite": "14",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Kurzfassung",
+          "seite": "16",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Internationale Konjunktur",
+          "seite": "19",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Weltwirtschaft auf moderatem Expansionskurs",
+              "seite": "20"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Inflation: Dienstleistungen bremsen Rückgang",
+              "seite": "25"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Chancen und Risiken: Konflikte und US-Wirtschaftspolitik",
+              "seite": "28"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Euro-Raum",
+          "seite": "29",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Realwirtschaft gewinnt leicht an Schwung",
+              "seite": "29"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Allmähliche Rückkehr zum Inflationsziel",
+              "seite": "37"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Chancen und Risiken: Wirtschaftspolitik und Inflation",
+              "seite": "42"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Deutschland",
+          "seite": "43",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Industrieschwäche belastet Konjunktur",
+              "seite": "44"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Konsumausgaben",
+              "seite": "51"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Investitionen",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Außenhandel",
+              "seite": "55"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Inflation wieder auf Kurs",
+              "seite": "59"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wirtschaftliche Schwächephase belastet Arbeitsmarkt",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Fiskalpolitik: Schwierige Konsolidierung nach den Krisen",
+              "seite": "65"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Chancen und Risiken: Vertiefung der Industrieschwäche und sinkende\nSparquote",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Totale Faktorproduktivität nimmt kaum zu – mittelfristige\nWachstumsaussichten bleiben verhalten",
+              "seite": "70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel\nZukunftsorientierung der öffentlichen Finanzen stärken",
+      "seite": "82",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "84",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Ausgangslage: Zukunftsorientierte Ausgaben",
+          "seite": "86",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Identifizierung und staatliche Zuständigkeit",
+              "seite": "86"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Entwicklung",
+              "seite": "89"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Öffentliche Investitionen",
+              "seite": "89"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Verkehrsinfrastruktur, Bildung und Verteidigung",
+              "seite": "92"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Quantifizierung der Bedarfe",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Gesamtwirtschaftliche Wirkung",
+              "seite": "100"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Herausforderungen",
+          "seite": "104",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Polit-ökonomische Probleme",
+              "seite": "104"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Enger werdende fiskalische Spielräume",
+              "seite": "105"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wirkung von Fiskalregeln",
+              "seite": "111"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Bürokratische Hindernisse und fehlende Kapazitäten",
+              "seite": "114"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Handlungsoptionen: Zukunftsorientierte öffentliche Ausgaben steigern und\nverstetigen",
+          "seite": "117",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Entscheidungsgrundlage für öffentliche Ausgaben verbessern",
+              "seite": "117"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Verbindlichkeit erhöhen",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Mindestquoten",
+              "seite": "119"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Sondervermögen oder Investitionsfonds",
+              "seite": "120"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Öffentliche Unternehmen",
+              "seite": "124"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Goldene Regel",
+              "seite": "127"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Fiskalische Spielräume erweitern",
+              "seite": "130"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Evaluierung bestehender Ausgaben",
+              "seite": "130"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Stabilitätsorientierte Reform der Schuldenbremse",
+              "seite": "131"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Fazit",
+          "seite": "133",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Eine andere Meinung",
+          "seite": "136",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel\nDigitale Innovationen im Finanzsektor ermöglichen,\nFinanzstabilität sichern",
+      "seite": "156",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "158",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Digitaler Wandel: Neue Akteure mischen den Finanzmarkt auf",
+          "seite": "160",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. FinTechs – mal Freund, mal Feind der Etablierten",
+              "seite": "160"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. BigTechs – übernehmen Tech-Konzerne auch die Finanzbranche?",
+              "seite": "164"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Zentralbanken – ein neuer Wettbewerber mit digitaler Währung?",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Digitale Zentralbankwährung",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Der digitale Euro",
+              "seite": "170"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Chancen: Digitale Innovation im Finanzsektor",
+          "seite": "171",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Status quo: Kostensituation und Digitalisierung im Finanzsektor",
+              "seite": "171"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wie viel zahlen Nutzerinnen und Nutzer für Finanzdienstleistungen\nin Deutschland?",
+              "seite": "172"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Digitalisierung des Finanzsektors",
+              "seite": "177"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Deutscher Bankenmarkt: geringe Konzentration, niedrige Profitabilität",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Digitale Innovation durch neue Akteure: FinTechs und BigTechs",
+              "seite": "181"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Prozessinnovationen",
+              "seite": "182"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Produktinnovationen",
+              "seite": "183"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Finanzielle Inklusion",
+              "seite": "185"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Markteintritt von FinTechs und BigTechs",
+              "seite": "186"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Der ökonomische Mehrwert des digitalen Euro",
+              "seite": "187"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Geldpolitik und der Bedeutungsverlust von Bargeld",
+              "seite": "187"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Verbesserungen im Zahlungsverkehr",
+              "seite": "188"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Schutz der Privatsphäre",
+              "seite": "192"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Strategische Autonomie",
+              "seite": "192"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Perspektiven für Wholesale CBDC",
+              "seite": "193"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Risiken für die Finanzstabilität, neue Herausforderungen für die Regulierung",
+          "seite": "194",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Regulierung der FinTechs und der Finanzdienstleistungen von BigTechs",
+              "seite": "194"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Regulatorische Anforderungen vom Geschäftsmodell abhängig",
+              "seite": "195"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Innovationen durch angemessene Fin-Tech-Regulierung zulassen",
+              "seite": "196"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Hinkt die Regulierung von BigTechs den Risiken hinterher?",
+              "seite": "197"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Digitaler Wandel und die Stabilität der Banken",
+              "seite": "198"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Ein Risiko für das Intermediationsmodell der Banken?",
+              "seite": "200"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Dis-Intermediationsrisiken durch den digitalen Euro",
+              "seite": "201"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Wirtschaftspolitische Implikationen",
+          "seite": "204",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel\nWohnen in Deutschland: Knappheiten beheben und\nZugang erleichtern",
+      "seite": "216",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "218",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Ausgangslage: Der Wohnungsmarkt in Deutschland",
+          "seite": "221",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Preisentwicklungen",
+              "seite": "221"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Wohnraumnachfrage",
+              "seite": "224"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Bevölkerungsentwicklung",
+              "seite": "225"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Entwicklung der Haushaltsgröße und Wohnfläche",
+              "seite": "229"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wohnraumangebot",
+              "seite": "232"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wohnungsbestand und Entwicklungen im Wohnungsbau",
+              "seite": "232"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kostenentwicklung im Wohnungsbau",
+              "seite": "237"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Herausforderungen: Verfügbarkeit und Zugang zu Wohnraum",
+          "seite": "242",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Mangelnde Verfügbarkeit in Ballungsräumen",
+              "seite": "242"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Unzureichende Erschließung von Wohnraum",
+              "seite": "243"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Hemmnisse bei der Reallokation von Wohnraum",
+              "seite": "246"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Zugang für einkommensschwache und benachteiligte Bevölkerungsgruppen",
+              "seite": "252"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Folgen von Zahlungs- und Zugangsschwierigkeiten",
+              "seite": "253"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Soziale Wohnungspolitik gegen Zahlungs- und Zugangsschwierigkeiten",
+              "seite": "255"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Handlungsoptionen",
+          "seite": "261",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Wohnungsneubau stärken",
+              "seite": "261"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Flächenpotenziale heben",
+              "seite": "261"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Baukosten senken",
+              "seite": "264"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wohnraumpotenziale in anderen Regionen erschließen",
+              "seite": "266"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Weitere Maßnahmen zur Erhöhung des Wohnraumangebots",
+              "seite": "266"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Anreize zur effizienten Nutzung von Wohnraum erhöhen",
+              "seite": "267"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Umzugsbarrieren verringern",
+              "seite": "267"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Mietpreisregulierung sinnvoller ausgestalten",
+              "seite": "268"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kaufnebenkosten senken",
+              "seite": "270"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Subjekt- und Objektförderung in der sozialen Wohnungspolitik kombinieren",
+              "seite": "271"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Eine andere Meinung",
+          "seite": "274",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel\nGüterverkehr zwischen Infrastrukturanforderungen und\nDekarbonisierung",
+      "seite": "290",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "292",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Ausgangslage: Güterverkehr in Deutschland und Europa",
+          "seite": "296",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Struktur des bestehenden Güterverkehrs",
+              "seite": "296"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Herausforderung: Verkehrsinfrastruktur",
+              "seite": "301"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Herausforderung: Dekarbonisierung",
+              "seite": "309"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Regulatorischer Rahmen für die Dekarbonisierung des Güterverkehrs",
+              "seite": "311"
+            },
+            {
+              "ueberschrift_drei_niedriger": " CO2-spezifische Regulierung im Straßengüterverkehr",
+              "seite": "312"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kosten für Infrastrukturnutzung und Energie im Schienengüterverkehr",
+              "seite": "313"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Strategien zur Dekarbonisierung des Güterverkehrs",
+          "seite": "315",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gütertransporte auf Schiene und Wasserstraße verlagern",
+              "seite": "315"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Geringes nachfrageseitiges Verlagerungspotenzial",
+              "seite": "316"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Verlagerung durch geringe Kapazität und Effizienz im\nSchienengüterverkehr nur eingeschränkt möglich",
+              "seite": "318"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Straßengüterverkehr dekarbonisieren",
+              "seite": "321"
+            },
+            {
+              "ueberschrift_drei_niedriger": " BE-LKW mit höchster Marktreife für den Einsatz im Straßengüterverkehr",
+              "seite": "321"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Alternative Antriebe können gegenüber dem Diesel zeitnah\nWirtschaftlichkeit erreichen",
+              "seite": "325"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Alternative Antriebe benötigen eine alternative Energieinfrastruktur",
+              "seite": "329"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Maßnahmen: Reformoptionen für den Güterverkehr der Zukunft",
+          "seite": "336",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Hemmnisse bei der Modernisierung der Infrastruktur abbauen",
+              "seite": "336"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Schienengüterverkehr stärken",
+              "seite": "338"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Effizienz und Kapazität im Schienengüterverkehr steigern",
+              "seite": "339"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wettbewerbsfähigkeit des Schienengüterverkehrs erhöhen",
+              "seite": "340"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Energieinfrastruktur für alternative Antriebe aufbauen",
+              "seite": "342"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Technologieoffen bleiben – öffentliche Mittel effizient priorisieren",
+              "seite": "346"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Eine andere Meinung",
+          "seite": "351",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+
+ende_json
+

@@ -8,4 +8,6 @@ Hier ein Beispiel:
 "Die Wirtschaftskrise kommt","Krise auf dem Arbeitsmarkt"," ","6"
 "Die Wirtschaftskrise kommt","Krise auf dem Arbeitsmarkt","Die Baubranche","8"
 -Beispiel Ende
-Stelle außerdemsicher, dass die Überschriften im CSV von Anführungszeichen " umgeben sind, damit kommas nicht als Spalten interpretiert werden. Entferne außerdem alle linebreaks "/n". Wichtig ist, dass ich keinen Code möchte, sondern das tatsächliche csv file. Außerdem möchte ich nur das csv als Antwort, und keinen Kommentar wie "Hier ist das csv" oder "CSV:" dabei.
+Bei manchen jsons kann es passieren, dass eine Überschrift einmal wiederholt wird. In diesem Fall, schreibe diese Überschrift nur einmal und nicht doppelt ins csv.
+Stelle außerdem sicher, dass die Überschriften im CSV von Anführungszeichen " umgeben sind, damit kommas nicht als Spalten interpretiert werden. Entferne außerdem alle linebreaks "/n". Wichtig ist, dass ich keinen Code möchte, sondern das tatsächliche csv file. Außerdem möchte ich nur das csv als Antwort, und keinen Kommentar wie "Hier ist das csv" oder "CSV:" dabei. 
+Hier das json, welches du in das csv umwandeln sollst:

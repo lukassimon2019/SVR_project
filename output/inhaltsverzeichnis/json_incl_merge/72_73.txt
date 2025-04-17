@@ -1,0 +1,401 @@
+{
+"kapitel": [
+{
+"ueberschrift_eins": "Erstes Kapitel: Auf dem Wege zu einer europäischen Wirtschafts- und\nWährungsunion",
+"seite": "1",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Stabilisierungspolitik in der Gemeinschaft",
+"seite": "1",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Europäische Tatsachen",
+"seite": "1"
+},
+{
+"ueberschrift_drei_niedriger": "Der stabilisierungspolitische Spielraum der Länder - eine Restgröße\noder mehr?",
+"seite": "4"
+},
+{
+"ueberschrift_drei_niedriger": "Die Lücke zwischen dem Verlust an nationaler Autonomie und\ngemeinschaftlichem Handeln",
+"seite": "6"
+},
+{
+"ueberschrift_drei_niedriger": "Die Konsequenzen einer währungspolitischen Vorgabe",
+"seite": "7"
+}
+]
+},
+{
+"ueberschrift_zwei": "II. Zyklus und Trend",
+"seite": "8"
+},
+{
+"ueberschrift_zwei": "III. Außenbeziehungen",
+"seite": "20",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Der Außenhandel mit Drittländern",
+"seite": "20"
+},
+{
+"ueberschrift_drei_niedriger": "Die Zahlungsbilanz der Gemeinschaft",
+"seite": "22"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "Zweltes Kapitel: Zur Konjunkturlage",
+"seite": "25",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "Teil A: Der europäische Rahmen 1972",
+"seite": "25",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Wende zu neuem Aufschwung",
+"seite": "25"
+},
+{
+"ueberschrift_drei_niedriger": "Verstärkte Nachfrage von außen",
+"seite": "25"
+},
+{
+"ueberschrift_drei_niedriger": "Ungebrochene Verbrauchskonjunktur - schwache Investitionsbelebung",
+"seite": "30"
+},
+{
+"ueberschrift_drei_niedriger": "Geringe Unterauslastung der Produktivkräfte",
+"seite": "32"
+},
+{
+"ueberschrift_drei_niedriger": "Abschwächung der Einkommensexpansion beendet",
+"seite": "33"
+},
+{
+"ueberschrift_drei_niedriger": "Ungebrochener Preisauftrieb",
+"seite": "34"
+},
+{
+"ueberschrift_drei_niedriger": "Regionale Differenzierung",
+"seite": "35"
+}
+]
+},
+{
+"ueberschrift_zwei": "II. Außenwirtschaft: Neue währungspolitische Bedingungen",
+"seite": "37"
+},
+{
+"ueberschrift_zwei": "III. Geld- und Kreditpolitik im Konflikt",
+"seite": "39"
+},
+{
+"ueberschrift_zwei": "IV. Expansive öffentliche Haushalte",
+"seite": "41"
+},
+{
+"ueberschrift_zwei": "Teil B: Die Binnenkonjunktur 1972",
+"seite": "43",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Neuer, aber schwacher Aufschwung - anhaltender Geldwertschwund",
+"seite": "43"
+},
+{
+"ueberschrift_drei_niedriger": "Wieder verstärkte Auslandsaufträge",
+"seite": "43"
+},
+{
+"ueberschrift_drei_niedriger": "Anhaltend hohe Verbrauchsnachfrage",
+"seite": "46"
+},
+{
+"ueberschrift_drei_niedriger": "Baukonjunktur im Zeichen des Wohnungsbaus",
+"seite": "47"
+},
+{
+"ueberschrift_drei_niedriger": "Allmähliche Belebung der Investitionsneigung",
+"seite": "47"
+},
+{
+"ueberschrift_drei_niedriger": "Wieder verstärkter Lageraufbau",
+"seite": "49"
+},
+{
+"ueberschrift_drei_niedriger": "Geringe Kapazitätsreserven",
+"seite": "49"
+},
+{
+"ueberschrift_drei_niedriger": "Hoher Beschäftigungsstand",
+"seite": "52"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "Inhalt",
+"seite": "Seite",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "Starker Anstieg der Importe",
+"seite": "54",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Vorübergehende Mäßigung in der Lohnpolitik",
+"seite": "54",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Anhaltender Preisauftrieb",
+"seite": "63",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Preisniveau und Preisstruktur im Zyklus und im Trend",
+"seite": "68",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Die Außenwirtschaft nach dem Realignment",
+"seite": "69",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Weiterhin Zunahme der Ausfuhr – Starke Expansion der Einfuhr",
+"seite": "69",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Leichtes Defizit in der Leistungsbilanz",
+"seite": "71",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Kapitalzuflüsse aus dem Ausland gebremst",
+"seite": "72",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "III. Geld- und Kreditpolitik: Ab Herbst wieder restriktiv",
+"seite": "74",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Neuerliche Devisenzuflüsse",
+"seite": "74",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Zunehmende Kontrollen im Kapitalverkehr",
+"seite": "77",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Starke monetäre Expansion",
+"seite": "78",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Differenziertere Zinsstruktur",
+"seite": "81",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "IV. Offentliche Haushalte – noch stärker expansiv",
+"seite": "83",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Erneute Ausgabenexpansion",
+"seite": "86",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Konjunkturell bedingte Steuermehreinnahmen",
+"seite": "89",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Expansive Effekte der Finanzpolitik abermals größer",
+"seite": "90",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Finanzierungssaldo und konjunkturelle Wirkungen der öffentlichen\nHaushalte",
+"seite": "93",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Zur Aufteilung der Staatsquote auf Bund, Länder und Gemeinden",
+"seite": "96",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Regionalisierung der Fiskalpolitik?",
+"seite": "96",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "V. Der Gesamtindikator zur Konjunkturdiagnose – Wende auf hohem\nNiveau",
+"seite": "98",
+"dritte_und_niedrigere_ebene": []
+}
+]
+},
+{
+"ueberschrift_eins": "Drittes Kapitel: Die voraussehbare Entwicklung",
+"seite": "99",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die Weltkonjunktur im Jahre 1973",
+"seite": "99",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Die öffentlichen Finanzen im Jahre 1973",
+"seite": "102",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "III. Die voraussichtliche Entwicklung der Binnenkonjunktur",
+"seite": "104",
+"dritte_und_niedrigere_ebene": []
+}
+]
+},
+{
+"ueberschrift_eins": "Viertes Kapitel: Widerstand gegen die Inflation",
+"seite": "111",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die Situation im Herbst 1972",
+"seite": "111",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Der Befund für die Gemeinschaft",
+"seite": "111"
+},
+{
+"ueberschrift_drei_niedriger": "Der Befund für die Bundesrepublik",
+"seite": "111"
+}
+]
+},
+{
+"ueberschrift_zwei": "II. Die Wirtschaftspolitik 1972 im Rückblick",
+"seite": "112",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "EWG: Schwieriger Start in eine europäische Währungsunion",
+"seite": "112"
+},
+{
+"ueberschrift_drei_niedriger": "Bundesrepublik: Die Chancen des Abschwungs vergeben",
+"seite": "113"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Gleicher Rang für den Geldwert",
+"seite": "116",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Die Inflationsgewöhnung bannen",
+"seite": "116"
+},
+{
+"ueberschrift_drei_niedriger": "EWG: Schwache Hoffnung auf Stabilisierung",
+"seite": "120"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "Inhalt",
+"seite": "Seite",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "Bundesrepublik: Eine Strategie der gedämpften Expansion",
+"seite": "123",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Zwei Alternativen",
+"seite": "134",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Minderheitsvotum: Zur Frage der Beurteilung des wirtschaftspolitischen\nKurses und zur Frage des monetären Konzepts",
+"seite": "137",
+"dritte_und_niedrigere_ebene": []
+}
+]
+},
+{
+"ueberschrift_eins": "Fünftes Kapitel: Grundprobleme der Einkommensverteilung",
+"seite": "141",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Zur mittelfristigen Entwicklung der Einkommensverteilung",
+"seite": "141",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Erfahrungen des letzten Jahrzehnts",
+"seite": "141"
+},
+{
+"ueberschrift_drei_niedriger": "Umverteilung durch den Staat",
+"seite": "148"
+},
+{
+"ueberschrift_drei_niedriger": "Verteilungswirkungen der Geldentwertung",
+"seite": "152"
+}
+]
+},
+{
+"ueberschrift_zwei": "II. Der stabilitätspolitische Aspekt der Einkommensverteilung",
+"seite": "154",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Marktmacht und Stabilität",
+"seite": "154"
+},
+{
+"ueberschrift_drei_niedriger": "Lehren der dirigistischen Preis- und Lohnpolitik",
+"seite": "156"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Der verteilungspolitische Aspekt – Chancen der Umverteilung",
+"seite": "158",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Verteilungspolitische Ziele",
+"seite": "158"
+},
+{
+"ueberschrift_drei_niedriger": "Wege zur Umverteilung",
+"seite": "161"
+},
+{
+"ueberschrift_drei_niedriger": "Gewinnbeteiligung bei begrenzter Haftung",
+"seite": "162"
+},
+{
+"ueberschrift_drei_niedriger": "Die Brücke zur Vermögensbildung",
+"seite": "164"
+}
+]
+}
+]
+}
+]
+}

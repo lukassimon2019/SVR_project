@@ -1,0 +1,302 @@
+{
+"kapitel": [
+{
+"ueberschrift_eins": "Erstes Kapitel: Die Konjunkturlage",
+"seite": "13",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "Teil A: Der internationale Rahmen",
+"seite": "13",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Kein konjunktureller Durchbruch",
+"seite": "13"
+},
+{
+"ueberschrift_drei_niedriger": "Anhaltend differenzierte Konjunkturentwicklung",
+"seite": "13"
+},
+{
+"ueberschrift_drei_niedriger": "Arbeitslosigkeit noch unvermindert",
+"seite": "30"
+},
+{
+"ueberschrift_drei_niedriger": "Welthandel ohne Schwung",
+"seite": "33"
+},
+{
+"ueberschrift_drei_niedriger": "II. Mühsamer Erholungsprozess in Europa",
+"seite": "34"
+},
+{
+"ueberschrift_drei_niedriger": "Zahlungsbilanzungleichgewichte abgebaut",
+"seite": "34"
+},
+{
+"ueberschrift_drei_niedriger": "Geld- und Finanzpolitik vorsichtig expansiv",
+"seite": "38"
+}
+]
+},
+{
+"ueberschrift_zwei": "Teil B: Die Binnenkonjunktur 1978",
+"seite": "39",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Überblick",
+"seite": "39"
+},
+{
+"ueberschrift_drei_niedriger": "II. Verzögerter Aufschwung",
+"seite": "41"
+},
+{
+"ueberschrift_drei_niedriger": "Fortbestehende Angebotsprobleme",
+"seite": "41"
+},
+{
+"ueberschrift_drei_niedriger": "Unternehmen noch zögernd",
+"seite": "50"
+},
+{
+"ueberschrift_drei_niedriger": "Hohe Ausgabeneigung der privaten Haushalte",
+"seite": "54"
+},
+{
+"ueberschrift_drei_niedriger": "Kräftige Ausweitung der staatlichen Nachfrage",
+"seite": "55"
+},
+{
+"ueberschrift_drei_niedriger": "Verschärfte Konkurrenz aus dem Ausland",
+"seite": "56"
+},
+{
+"ueberschrift_drei_niedriger": "Kaum Zunahme der Beschäftigung",
+"seite": "57"
+},
+{
+"ueberschrift_drei_niedriger": "III. Bauwirtschaft vor neuem Boom?",
+"seite": "60"
+},
+{
+"ueberschrift_drei_niedriger": "IV. Zunehmende Differenzierung am Arbeitsmarkt",
+"seite": "64"
+},
+{
+"ueberschrift_drei_niedriger": "Änderungen in der Struktur der Arbeitslosigkeit",
+"seite": "64"
+},
+{
+"ueberschrift_drei_niedriger": "Teilweise Arbeitskräftemangel",
+"seite": "69"
+},
+{
+"ueberschrift_drei_niedriger": "Arbeitsmarktpolitische Maßnahmen",
+"seite": "72"
+},
+{
+"ueberschrift_drei_niedriger": "V. Beschleunigter Anstieg der Realeinkommen",
+"seite": "73"
+},
+{
+"ueberschrift_drei_niedriger": "Wenig veränderte Verteilungsrelationen",
+"seite": "73"
+},
+{
+"ueberschrift_drei_niedriger": "Steuerliche Entlastung der Markteinkommen",
+"seite": "76"
+},
+{
+"ueberschrift_drei_niedriger": "Geringerer Anstieg der Transfereinkommen",
+"seite": "76"
+},
+{
+"ueberschrift_drei_niedriger": "Verstärkter Anstieg des verfügbaren Einkommens",
+"seite": "77"
+},
+{
+"ueberschrift_drei_niedriger": "VI. Geldpolitik: Mengenziel weit übertroffen",
+"seite": "78"
+},
+{
+"ueberschrift_drei_niedriger": "Hohe Nachfrage nach Geld",
+"seite": "83"
+},
+{
+"ueberschrift_drei_niedriger": "Zahlungsbilanz im Zeichen der Nachfrage nach D-Mark",
+"seite": "90"
+},
+{
+"ueberschrift_drei_niedriger": "VII. Verminderte Wettbewerbsfähigkeit?",
+"seite": "92"
+},
+{
+"ueberschrift_drei_niedriger": "VIII. Finanzpolitik: Nachfragestützend",
+"seite": "96"
+},
+{
+"ueberschrift_drei_niedriger": "Deutlich aufgestockte Ausgabenpläne",
+"seite": "98"
+},
+{
+"ueberschrift_drei_niedriger": "Nur geringer Rückgang der Steuerquote",
+"seite": "103"
+},
+{
+"ueberschrift_drei_niedriger": "Öffentliche Haushalte im Zeichen des Kurswechsels",
+"seite": "105"
+},
+{
+"ueberschrift_drei_niedriger": "Sozialversicherungen: Konsolidierung eingeleitet",
+"seite": "107"
+},
+{
+"ueberschrift_drei_niedriger": "IX. Zur Entwicklung der Abgabenbelastung",
+"seite": "112"
+}
+]
+]
+},
+{
+"ueberschrift_eins": "Zweites Kapitel: Die voraussichtliche Entwicklung",
+"seite": "122",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die wirtschaftspolitischen Rahmenbedingungen",
+"seite": "122",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Die voraussichtliche Entwicklung der Auslandskonjunktur",
+"seite": "123",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "III. Die voraussichtliche Entwicklung der Binnenkonjunktur",
+"seite": "126",
+"dritte_und_niedrigere_ebene": []
+}
+]
+},
+{
+"ueberschrift_eins": "Drittes Kapitel: Beschäftigung, Wachstum, Währung",
+"seite": "134",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Zur beschäftigungspolitischen Diskussion",
+"seite": "134",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Zur Problemdiagnose",
+"seite": "134"
+},
+{
+"ueberschrift_drei_niedriger": "Die Diskussion um die Lohnpolitik",
+"seite": "138"
+},
+{
+"ueberschrift_drei_niedriger": "Lohnpolitik und Wechselkurs",
+"seite": "140"
+}
+]
+},
+{
+"ueberschrift_zwei": "II. Zur finanzpolitischen Diskussion",
+"seite": "142",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Höhere Defizite auf Dauer?",
+"seite": "142"
+},
+{
+"ueberschrift_drei_niedriger": "Änderungen im Steuersystem",
+"seite": "148"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Zur währungspolitischen Diskussion",
+"seite": "151",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Ein Rolle ist unbesetzt",
+"seite": "151"
+},
+{
+"ueberschrift_drei_niedriger": "Zu den Plänen für ein Europäisches Währungssystem",
+"seite": "153"
+},
+{
+"ueberschrift_drei_niedriger": "Zur Weiterentwicklung des Europäischen Währungssystems",
+"seite": "158"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "Viertes Kapitel: Angetriebene Konjunktur",
+"seite": "161",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die stabilitäts- und wachstumspolitische Situation",
+"seite": "161",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Zu den Zielen",
+"seite": "161"
+},
+{
+"ueberschrift_drei_niedriger": "Zur Grundlinie",
+"seite": "162"
+}
+]
+},
+{
+"ueberschrift_zwei": "II. Wirtschaftspolitik für 1979 und danach",
+"seite": "164",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Lohnpolitik",
+"seite": "164"
+},
+{
+"ueberschrift_drei_niedriger": "Geldpolitik",
+"seite": "167"
+},
+{
+"ueberschrift_drei_niedriger": "Finanzpolitik",
+"seite": "172"
+},
+{
+"ueberschrift_drei_niedriger": "Marktpolitik",
+"seite": "176"
+},
+{
+"ueberschrift_drei_niedriger": "Arbeitsmarktpolitik",
+"seite": "179"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Alternativen zum Status quo",
+"seite": "182",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Strategie der forcierten Arbeitszeitverkürzung",
+"seite": "183"
+},
+{
+"ueberschrift_drei_niedriger": "Strategie der verstärkten Nachfragestimulierung",
+"seite": "185"
+},
+{
+"ueberschrift_drei_niedriger": "Minderheitsvotum",
+"seite": "186"
+}
+]
+}
+]
+}
+]
+}

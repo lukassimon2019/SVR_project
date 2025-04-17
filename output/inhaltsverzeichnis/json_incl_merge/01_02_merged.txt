@@ -1,0 +1,404 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Für Stetigkeit – gegen Aktionismus",
+      "seite": "1",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Weltwirtschaft in der Rezession",
+          "seite": "2",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Deutsche Konjunktur auf Talfahrt – Tiefpunkt im nächsten Jahr durch-\nschritten",
+          "seite": "4",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Den Weg zu mehr Wachstum und Beschäftigung frei machen",
+          "seite": "9",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Europäische Geldpolitik: Geldwertstabilität hat Vorrang",
+              "seite": "10"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Finanzpolitik: Durchwachsene Bilanz – unerledigte Aufgaben",
+              "seite": "11"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Lohnpolitik: Voraussetzungen für mehr Beschäftigung schaffen",
+              "seite": "13"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Agrarpolitik: Handlungsbedarf vor allem auf europäischer Ebene",
+              "seite": "15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die wirtschaftliche Lage im Jahre 2001",
+      "seite": "17",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Das weltwirtschaftliche Umfeld",
+          "seite": "17",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Weltkonjunktur: Deutliche Bremsspuren",
+              "seite": "17"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vereinigte Staaten: Terroranschläge in fragiler konjunktureller Lage",
+              "seite": "18"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Muss die Hypothese der Neuen Ökonomie revidiert werden?",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Japan: Kein Licht am Ende des Tunnels",
+              "seite": "27"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Institutionelle Regelwerke auf dem Prüfstand",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Welthandelsordnung quo vadis?",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Die Reform der internationalen Richtlinien zur Eigenkapital-\nunterlegung im Kreditgeschäft (Basel II)",
+              "seite": "35"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Europäische Union: Mehr Schatten als Licht",
+          "seite": "47",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gesamtwirtschaftliche Entwicklung schwach",
+              "seite": "47"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Der monetäre Rahmen im Euro-Raum",
+              "seite": "52"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. EU-Osterweiterung und institutionelle Reformen",
+              "seite": "62"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stand der Beitrittsverhandlungen",
+              "seite": "62"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Vertrag von Nizza",
+              "seite": "65"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Deutschland: Starke konjunkturelle Abkühlung",
+          "seite": "75",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Geschwächte Binnennachfrage, verhaltene Exportzunahme",
+              "seite": "75"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rückgang der Auftragseingänge und der Produktion",
+              "seite": "75"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsum stabil, aber schwächer als erwartet",
+              "seite": "80"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Investitionsschwäche beeinträchtigt die Ausweitung des Angebotsspiel-\nraums",
+              "seite": "81"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bauinvestitionen: Tiefpunkt erreicht?",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausrüstungsinvestitionen so schwach wie lange nicht mehr",
+              "seite": "83"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außenhandel: Kein Einbruch, aber nachlassende Dynamik",
+              "seite": "87"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Unerwartet hoher Preisniveauanstieg",
+              "seite": "90"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Arbeitsmarkt: Konjunkturelle Belastungen – strukturelle Probleme",
+              "seite": "93"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Trendumkehr bei der Entwicklung der Erwerbstätigkeit",
+              "seite": "93"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosigkeit steigt wieder",
+              "seite": "96"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eingliederungsprojekte im Niedriglohnbereich",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fachkräftemangel: Wirkungen und Auswege",
+              "seite": "103"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Berufsausbildungsstellenmarkt weiterhin gespalten",
+              "seite": "106"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neue arbeitsrechtliche Regelungen",
+              "seite": "106"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Moderate Tariflohnabschlüsse",
+              "seite": "113"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Öffentliche Finanzen: Geprägt durch Steuerreform und Konjunktur-\nschwäche",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steigende Defizitquote des Staates",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steueraufkommen rückläufig",
+              "seite": "121"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Differenzierte Entwicklung bei Bund, Ländern und Gemeinden",
+              "seite": "123"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steigende explizite Verschuldung",
+              "seite": "126"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Bundesländer vor einem Berg von Versorgungslasten",
+              "seite": "128"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neuordnung der föderalen Finanzbeziehungen",
+              "seite": "132"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Soziale Sicherung: Reformfortschritte und Reformdefizite",
+          "seite": "143",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Haushaltsentwicklung in der Sozialversicherung",
+              "seite": "143"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die Reform der Gesetzlichen Rentenversicherung",
+              "seite": "144"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reformen im Umlagesystem: Die neue Rentenanpassungsformel",
+              "seite": "144"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Intergenerative Verteilungswirkungen der geänderten Rentenformel",
+              "seite": "146"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Staatlich geförderter Ausbau des kapitalgedeckten Systems",
+              "seite": "148"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weitere Neuregelungen",
+              "seite": "154"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Lösungen und Scheinlösungen",
+              "seite": "159"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Unbefriedigende Entwicklungen im Gesundheitswesen",
+              "seite": "162"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Risikostrukturausgleich: Bestehende Funktionsmängel und geplante\nReformmaßnahmen",
+              "seite": "162"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geänderte Regeln bei der Kostensteuerung",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Die Pflegeversicherungsurteile des Bundesverfassungsgerichtes",
+              "seite": "169"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Die voraussichtliche Entwicklung im Jahre 2002: Zuver-\nsicht trotz Verunsicherung",
+      "seite": "173",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Überblick",
+          "seite": "173",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die Basisprognose",
+          "seite": "175",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Ein Alternativszenario",
+          "seite": "183",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Grundlinien der Wirtschaftspolitik: Handeln mit wei-\ntem Zeithorizont",
+      "seite": "185",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Nach den Anschlägen vom September",
+          "seite": "185",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Schon zuvor bedenkliche Zielverfehlungen",
+          "seite": "188",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Verpasste Reformchancen",
+          "seite": "190",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Den Weg nach vorn frei machen",
+          "seite": "194",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "V. Außenwirtschaftlich die Offenheit bewahren",
+          "seite": "197",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "VI. Verlässlichkeit auch in der Zuwanderungspolitik",
+          "seite": "200",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel: Die Politikbereiche im Einzelnen",
+      "seite": "202",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Europäische Geldpolitik: Die Geldwertstabilität muss den Vorrang haben",
+          "seite": "202",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Mit klarem Kurs steuern",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kommunikationspolitik: Glaubwürdigkeit zählt",
+              "seite": "205"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Zwei-Säulen-Strategie nachbessern",
+              "seite": "206"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Langfristig auf ein demographisch verändertes Umfeld einstellen",
+              "seite": "208"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Finanzpolitik: Durchwachsene Bilanz – unerledigte Aufgaben",
+          "seite": "210",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Reform des Länderfinanzausgleichs: Vertane Chance",
+              "seite": "211"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steuerpolitik: Den eingeschlagenen Weg fortsetzen",
+              "seite": "215"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Haushaltskonsolidierung fortsetzen, Nachhaltigkeit sichern",
+              "seite": "222"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Lohnpolitik und Arbeitsmarkt: Voraussetzungen für mehr Beschäftigung\nschaffen",
+          "seite": "227",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Lohnabschlüsse moderat halten",
+              "seite": "227"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Flexibilisierung ausbauen",
+              "seite": "231"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Anreize zur Arbeitsaufnahme auf den Prüfstand",
+              "seite": "236"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Abweichende Meinungen",
+              "seite": "240"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Agrarpolitik: Handlungsbedarf vor allem auf europäischer Ebene",
+          "seite": "244",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "EU-Agrarpolitik: Was bisher erreicht wurde",
+              "seite": "244"
+            },
+            {
+              "ueberschrift_drei_niedriger": "EU-Agrarpolitik: Was noch zu tun ist",
+              "seite": "245"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was bringt die Wende in der deutschen Agrarpolitik?",
+              "seite": "249"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```ende_json
+
+

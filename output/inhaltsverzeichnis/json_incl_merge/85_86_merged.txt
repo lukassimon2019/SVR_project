@@ -1,0 +1,343 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "15",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Der internationale Rahmen",
+          "seite": "15",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Risiken für die Fortdauer des Aufschwungs größer",
+              "seite": "15"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Vereinigte Staaten: Belastung durch Ungleichgewichte nimmt zu",
+              "seite": "17"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Labile Devisenmärkte, schwelende Verschuldungskrise",
+              "seite": "21"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Fernöstliche Wachstumszentren im Fahrwasser der amerikanischen\nKonjunktur",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Aufschwung in Europa noch immer verhalten",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Europäische Gemeinschaft: Alte Probleme, neue Mitglieder",
+              "seite": "33"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Die Binnenkonjunktur im Jahre 1985",
+          "seite": "41",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Überblick",
+              "seite": "41"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Gespaltener Aufschwung",
+              "seite": "43"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Starker Anstieg der Investitionen",
+              "seite": "43"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außenwirtschaftliche Erfolge",
+              "seite": "50"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwacher privater Verbrauch - Wohnungsbau unter Anpassungsdruck",
+              "seite": "52"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verhaltene Nachfrage des Staates",
+              "seite": "56"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bessere Auslastung der Kapazitäten",
+              "seite": "57"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Weiterhin hohe Arbeitslosigkeit trotz steigender Beschäftigung",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mehr Bewegung am Arbeitsmarkt",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Struktur der Arbeitslosigkeit",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur besonderen Situation der Frau am Arbeitsmarkt",
+              "seite": "66"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Geldpolitik: Weiter auf Stabilisierungskurs",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwächere Expansion der Zentralbankgeldmenge",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neue Feinsteuerung am Geldmarkt",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zinssenkungsspielräume von der außenwirtschaftlichen Seite",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwache monetäre Expansion",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Öffentliche Haushalte: Gute Gesamtlage - schlechte Struktur",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fortgesetzter Defizitabbau",
+              "seite": "78"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Abnehmender konjunktureller Impuls",
+              "seite": "81"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Haushaltskonsolidierung im Rückblick",
+              "seite": "86"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Fortschreitende Internationalisierung der deutschen Wirtschaft",
+              "seite": "96"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zunehmende Integration der Gütermärkte",
+              "seite": "96"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zunehmende internationale Verflechtung der Finanzmärkte",
+              "seite": "98"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Zur voraussichtlichen Entwicklung im Jahre 1986",
+      "seite": "99",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Ausgangslage",
+          "seite": "99",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die Annahmen der Prognose",
+          "seite": "100",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Die Weltkonjunktur im Jahre 1986",
+          "seite": "100",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Die voraussichtliche Entwicklung der Binnenkonjunktur",
+          "seite": "103",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Wirtschaftspolitik für 1986 und danach",
+      "seite": "112",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Aufgaben und Möglichkeiten",
+          "seite": "112",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Ziele und Wirklichkeit",
+              "seite": "112"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Den Anstieg der Beschäftigung sichern",
+              "seite": "115"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mehr Arbeitsplätze durch mehr Investitionen",
+              "seite": "115"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik: Raum geben für stabilitätsgerechtes Wachstum",
+              "seite": "116"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitik: Wachstumshemmnisse abbauen",
+              "seite": "117"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lohnpolitik: Stabile Lohnstückkosten - verstärkte Lohndifferenzierung",
+              "seite": "117"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Für bessere Rahmenbedingungen und mehr dynamischen Wettbewerb",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wettbewerbsorientierte Innovationspolitik",
+              "seite": "119"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Marktöffnung",
+              "seite": "119"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wachstum bei Stabilität: auch Vorteile für die Partnerländer",
+              "seite": "120"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Brauchen wir eine andere Wirtschaftspolitik zur Bekämpfung der\nArbeitslosigkeit?",
+              "seite": "121"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wichtige Kennzeichen der anderen Vorstellungen",
+              "seite": "121"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Worin wir mit den Befürwortern einer anderen Wirtschaftspolitik\nübereinstimmen",
+              "seite": "123"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Worin wir mit den Befürwortern einer anderen Wirtschaftspolitik\nnicht übereinstimmen",
+              "seite": "123"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Zu den Politikbereichen im einzelnen",
+          "seite": "128",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Geld- und Währungspolitik",
+              "seite": "128"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Finanzpolitik",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsolidierungspause 1986",
+              "seite": "134"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Subventionsabbau nicht noch weiter vertagen",
+              "seite": "135"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mittelfristige Perspektiven",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Handlungsspielraum richtig nutzen",
+              "seite": "138"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steuerreform vorbereiten",
+              "seite": "138"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Tarifpolitik",
+              "seite": "143"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Rolle der Lohnpolitik im Aufschwung",
+              "seite": "143"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unzureichende Lohndifferenzierung",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erste Erfahrungen mit der Verkürzung der Wochenarbeitszeit",
+              "seite": "147"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Arbeitsmarktpolitik",
+              "seite": "150"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil C: Wettbewerb und Marktöffnung",
+          "seite": "152",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Dynamischer Wettbewerb, Innovation, Marktöffnung",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Individuelles Handeln im Wettbewerbsprozess",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Dynamischer Wettbewerb und Innovationspolitik",
+              "seite": "154"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mehr dynamischer Wettbewerb durch die Politik der Marktöffnung (Deregulierung)",
+              "seite": "156"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Marktöffnung beim Straßengüterverkehr",
+              "seite": "157"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Marktöffnung bei der Telekommunikation",
+              "seite": "160"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Stahlpolitik: Kein Schritt voran",
+              "seite": "163"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Gesundheitspolitik: Wege zu einer Reform",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgabenexpansion und Kostendämpfungspolitik",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgabenbegrenzung im Konflikt mit der Wachstumsdynamik",
+              "seite": "168"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Sanierung des Gesundheitswesens",
+              "seite": "170"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+
+ende_json
+
+

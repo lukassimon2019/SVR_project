@@ -1,0 +1,373 @@
+{
+"kapitel": [
+{
+"ueberschrift_eins": "Erstes Kapitel: Die Konjunkturlage",
+"seite": "1",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "Teil A: Der internationale Rahmen",
+"seite": "17",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Weltweite Rezession",
+"seite": "17"
+},
+{
+"ueberschrift_drei_niedriger": "Konjunkturgleichschritt verzögert Erholung",
+"seite": "20"
+},
+{
+"ueberschrift_drei_niedriger": "Abnehmende außenwirtschaftliche Ungleichgewichte",
+"seite": "21"
+}
+]
+},
+{
+"ueberschrift_zwei": "II. Mühsamer Stabilisierungsprozess in Europa",
+"seite": "23",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Verbesserung der Terms of Trade mildert außenwirtschaftliche\nAnpassungslast",
+"seite": "25"
+},
+{
+"ueberschrift_drei_niedriger": "Unterschiedliche Stabilisierungserfolge",
+"seite": "26"
+},
+{
+"ueberschrift_drei_niedriger": "Ausweitung des Finanzierungsspielraums",
+"seite": "26"
+},
+{
+"ueberschrift_drei_niedriger": "Stark ansteigende öffentliche Verschuldung",
+"seite": "28"
+},
+{
+"ueberschrift_drei_niedriger": "Steiniger Weg zur Wirtschaftsunion",
+"seite": "34"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Außenwirtschaftliche Anpassungsprobleme gemildert",
+"seite": "35",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Bedrängte Entwicklungsländer",
+"seite": "36"
+},
+{
+"ueberschrift_drei_niedriger": "Flexibles Weltwährungssystem",
+"seite": "37"
+}
+]
+},
+{
+"ueberschrift_zwei": "Teil B: Die Binnenkonjunktur 1975",
+"seite": "40",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Überblick",
+"seite": "40"
+},
+{
+"ueberschrift_drei_niedriger": "II. Ursprünge der Krise",
+"seite": "41"
+},
+{
+"ueberschrift_drei_niedriger": "III. Erholung verzögert",
+"seite": "47"
+},
+{
+"ueberschrift_drei_niedriger": "Einbruch der Auslandsnachfrage",
+"seite": "47"
+},
+{
+"ueberschrift_drei_niedriger": "Anhaltend schwache Investitionsneigung",
+"seite": "48"
+},
+{
+"ueberschrift_drei_niedriger": "Verbraucher wenig ausgabefreudig",
+"seite": "51"
+},
+{
+"ueberschrift_drei_niedriger": "Erhebliche Unterauslastung der Kapazitäten",
+"seite": "53"
+},
+{
+"ueberschrift_drei_niedriger": "Hohe Arbeitslosigkeit",
+"seite": "55"
+},
+{
+"ueberschrift_drei_niedriger": "IV. Klimawechsel in der Einkommenspolitik",
+"seite": "60"
+},
+{
+"ueberschrift_drei_niedriger": "Mäßigung in der Lohnpolitik",
+"seite": "60"
+},
+{
+"ueberschrift_drei_niedriger": "Entlastung durch die Steuerreform",
+"seite": "67"
+},
+{
+"ueberschrift_drei_niedriger": "Hohe Transfereinkommen",
+"seite": "69"
+},
+{
+"ueberschrift_drei_niedriger": "V. Preisauftrieb abgeschwächt",
+"seite": "70"
+},
+{
+"ueberschrift_drei_niedriger": "Deutliche Beruhigung bei den Erzeugerpreisen",
+"seite": "70"
+},
+{
+"ueberschrift_drei_niedriger": "Verlangsamter Anstieg der Verbraucherpreise",
+"seite": "73"
+}
+]
+},
+{
+"ueberschrift_zwei": "VI. Abbau der außenwirtschaftlichen Überschüsse",
+"seite": "75",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Mehr langfristiger Kapitalexport",
+"seite": "81"
+},
+{
+"ueberschrift_drei_niedriger": "Vorübergehende Abwertung der D-Mark",
+"seite": "82"
+}
+]
+},
+{
+"ueberschrift_zwei": "VII. Monetäre Politik auf angekündigtem Expansionskurs",
+"seite": "82",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Zentralbankgeld wieder reichlich",
+"seite": "83"
+},
+{
+"ueberschrift_drei_niedriger": "Ausgeprägte Liquiditätsneigung",
+"seite": "87"
+},
+{
+"ueberschrift_drei_niedriger": "Konjunkturgerechter Zinsrückgang?",
+"seite": "88"
+},
+{
+"ueberschrift_drei_niedriger": "Versiegende Kapitalmärkte",
+"seite": "91"
+},
+{
+"ueberschrift_drei_niedriger": "Zur Instrumentierung der Mengensteuerung",
+"seite": "93"
+}
+]
+},
+{
+"ueberschrift_zwei": "VIII. Finanzpolitik: Massive expansive Impulse",
+"seite": "94",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Expansive Haushaltspläne und Sonderprogramme",
+"seite": "94"
+},
+{
+"ueberschrift_drei_niedriger": "Kürzungen im Haushaltsvollzug",
+"seite": "97"
+},
+{
+"ueberschrift_drei_niedriger": "Unerwartet hohe Steuerausfälle",
+"seite": "98"
+},
+{
+"ueberschrift_drei_niedriger": "Konjunkturelle Impulse nicht voll wirksam",
+"seite": "101"
+},
+{
+"ueberschrift_drei_niedriger": "Exkurs: Öffentliche Schuld und Zinslast",
+"seite": "106"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "Zweites Kapitel: Zur vorausssehbaren Entwicklung",
+"seite": "109",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die Weltkonjunktur im Jahre 1976",
+"seite": "111",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Zur voraussichtlichen Entwicklung der Binnenkonjunktur",
+"seite": "113",
+"dritte_und_niedrigere_ebene": []
+}
+]
+},
+{
+"ueberschrift_eins": "Drittes Kapitel: Krise der Marktwirtschaft?",
+"seite": "121",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die Probleme",
+"seite": "121",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Qualitatives versus quantitatives Wachstum",
+"seite": "121"
+},
+{
+"ueberschrift_drei_niedriger": "Verteilungsgerechtigkeit",
+"seite": "123"
+},
+{
+"ueberschrift_drei_niedriger": "Versorgung mit öffentlichen Gütern",
+"seite": "124"
+},
+{
+"ueberschrift_drei_niedriger": "Mehr Strukturpolitik?",
+"seite": "125"
+}
+]
+},
+{
+"ueberschrift_zwei": "II. Wachstum und Vollbeschäftigung",
+"seite": "127",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Die zentrale Rolle der Investitionen",
+"seite": "128"
+},
+{
+"ueberschrift_drei_niedriger": "Unechte Strukturprobleme",
+"seite": "133"
+},
+{
+"ueberschrift_drei_niedriger": "Außenwirtschaftliche Aspekte",
+"seite": "134"
+},
+{
+"ueberschrift_drei_niedriger": "Zum Spielraum für mehr Produktion und mehr Beschäftigung",
+"seite": "135"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Revision der Staatstätigkeit",
+"seite": "137",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Öffentliches Geld ist knapp",
+"seite": "137"
+},
+{
+"ueberschrift_drei_niedriger": "Beispiel: Personalausgaben",
+"seite": "139"
+},
+{
+"ueberschrift_drei_niedriger": "Beispiel: Sozialausgaben und Finanzhilfen",
+"seite": "140"
+},
+{
+"ueberschrift_drei_niedriger": "Beispiel: Bundesbahn",
+"seite": "140"
+},
+{
+"ueberschrift_drei_niedriger": "Beispiel: Sozialversicherungen",
+"seite": "142"
+},
+{
+"ueberschrift_drei_niedriger": "Ansätze",
+"seite": "144"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "IV. Probleme der Einkommenspolitik",
+"seite": "145",
+"zweite_ebene": [],
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Gewinnbeteiligung bei begrenzter Haftung",
+"seite": "148"
+}
+]
+},
+{
+"ueberschrift_eins": "V. Reinigungskrise der Globalsteuerung",
+"seite": "152",
+"zweite_ebene": [],
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Unvermeidliche Stabilisierung",
+"seite": "152"
+},
+{
+"ueberschrift_drei_niedriger": "Folgen der Inflationserfahrung",
+"seite": "153"
+}
+]
+},
+{
+"ueberschrift_eins": "Viertes Kapitel: Expansion und Konsolidierung zugleich",
+"seite": "156",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Ziele und Wirklichkeit",
+"seite": "156",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Stabilisierung der Erwartungen",
+"seite": "157",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Was für die Expansion zu tun ist",
+"seite": "158"
+},
+{
+"ueberschrift_drei_niedriger": "Monetäre Politik",
+"seite": "160"
+},
+{
+"ueberschrift_drei_niedriger": "Finanzierungsspielraum und Schuldenpolitik des Staates",
+"seite": "161"
+},
+{
+"ueberschrift_drei_niedriger": "Währungspolitik",
+"seite": "164"
+},
+{
+"ueberschrift_drei_niedriger": "Finanzpolitik",
+"seite": "166"
+},
+{
+"ueberschrift_drei_niedriger": "Arbeitsmarktpolitik",
+"seite": "173"
+},
+{
+"ueberschrift_drei_niedriger": "Einkommenspolitik",
+"seite": "174"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Varianten",
+"seite": "176",
+"dritte_und_niedrigere_ebene": []
+}
+]
+}
+]
+}
+```ende_json

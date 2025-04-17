@@ -1,0 +1,494 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "24",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Der internationale Rahmen",
+          "seite": "24",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Zunehmendes Konjunkturgefälle zwischen den Industrieländern",
+              "seite": "25"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Günstige Konjunkturentwicklung in Japan und in vielen europäischen Ländern",
+              "seite": "25"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rezessive Tendenzen in Nordamerika, Großbritannien, Schweden und Finnland",
+              "seite": "29"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Spanien - Erste Verspannungen in der dynamischen Aufwärtsentwicklung",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verschärfte Stabilitätsprobleme",
+              "seite": "31"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verminderung der Leistungsbilanzsalden durch differenzierte Konjunkturentwicklung",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik auf Stabilitätskurs",
+              "seite": "34"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitik: Keine weiteren Konsolidierungsfortschritte",
+              "seite": "34"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Golfkrise: Kurzfristig nur geringe Auswirkungen auf die Weltwirtschaft",
+              "seite": "36"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Osteuropa im Umbruch",
+              "seite": "39"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwierige Umgestaltung der sozialistischen Volkswirtschaften",
+              "seite": "40"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Osteuropas Bemühungen um weltwirtschaftliche Integration",
+              "seite": "43"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Auswirkungen auf die internationalen Kapitalströme",
+              "seite": "45"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Das multilaterale Handelssystem am Scheideweg",
+              "seite": "47"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Die wirtschaftliche Entwicklung in Deutschland",
+          "seite": "57",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Überblick",
+              "seite": "57"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Die wirtschaftliche Entwicklung im Osten Deutschlands",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Strukturschwächen belasten marktwirtschaftlichen Neubeginn",
+              "seite": "62"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Investitionsattentismus noch nicht überwunden",
+              "seite": "65"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe offene und verdeckte Arbeitslosigkeit",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erhöhte Kaufkraft, verbesserte Güterversorgung",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Deckungslücken im Staatshaushalt",
+              "seite": "78"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwere Erblasten der sozialistischen Planwirtschaft: Umweltschäden",
+              "seite": "80"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vernachlässigte Infrastruktur",
+              "seite": "81"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Wechsel der Auftriebskräfte in Westdeutschland",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Starke Impulse vom Privaten Verbrauch",
+              "seite": "84"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Staatsverbrauch mäßig ausgeweitet",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Investitionen treiben den Aufschwung voran",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hochkonjunktur in der Bauwirtschaft",
+              "seite": "91"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gesamtwirtschaftliche Kapazitätsreserven werden knapper",
+              "seite": "94"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Abgeschwächte Exportentwicklung",
+              "seite": "96"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffnung der innerdeutschen Grenze forciert die Einfuhr",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschleunigung des Preisanstiegs",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Arbeitsmarkt im Zeichen kräftiger Beschäftigungsexpansion und hoher Zuwanderung",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stark beschleunigter Beschäftigungsanstieg",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konjunkturelle Verspannungen kaum verstärkt",
+              "seite": "105"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosigkeit geht weiter zurück",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unterschiedlich schnelle Integration von Aussiedlern und Übersiedlern",
+              "seite": "108"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hartnäckige Strukturprobleme",
+              "seite": "111"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin hohe Arbeitslosigkeit trotz anhaltendem Wirtschaftswachstum?",
+              "seite": "113"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsförderung wieder verstärkt",
+              "seite": "114"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lohnpolitik: Entkoppelung von Lohntarifverträgen und Vereinbarungen über die Arbeitszeit",
+              "seite": "115"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Geldpolitik: Herausforderung durch die deutsche Währungsunion",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erste Jahreshälfte: Moderate Geldmengenexpansion",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zweite Jahreshälfte: Die deutsche Währungsunion als Herausforderung für die Geldpolitik",
+              "seite": "126"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Entwicklung an den Finanzmärkten",
+              "seite": "130"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Finanzpolitik: Noch keine Konsolidierungsstrategie",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kräftiger Ausgabenschub infolge der deutschen Vereinigung",
+              "seite": "137"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einnahmenentwicklung im Zeichen von Steuersenkungen und guter Konjunktur",
+              "seite": "142"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Expansive Impulse durch hohe Defizite",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sozialversicherung: Nochmals höhere Überschüsse",
+              "seite": "148"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Zur voraussichtlichen Entwicklung",
+      "seite": "153",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Ausgangslage nach der deutschen Vereinigung",
+          "seite": "153",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Über die Schwierigkeiten einer quantitativen Vorausschau für Gesamtdeutschland",
+          "seite": "153",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Die Annahmen der Prognose",
+          "seite": "154",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Das weltwirtschaftliche Umfeld",
+          "seite": "155",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "V. Die wirtschaftlichen Aussichten für die Bundesrepublik",
+          "seite": "158",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Wirtschaftspolitik für 1991 und danach",
+      "seite": "171",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Aufgaben und Möglichkeiten",
+          "seite": "171",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Auf dem Wege zur wirtschaftlichen Einheit Deutschlands",
+              "seite": "171"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die deutsche Wirtschaft nach der staatlichen Vereinigung",
+              "seite": "171"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wettbewerbsschwäche der neuen Bundesländer",
+              "seite": "173"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Perspektiven",
+              "seite": "173"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Ziele und Wirklichkeit",
+              "seite": "175"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Befund",
+              "seite": "175"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Ziel Umweltschutz",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Risiken und Chancen",
+              "seite": "177"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Die stabilisierungspolitische Aufgabe",
+              "seite": "177"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Die wachstumspolitische Aufgabe",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Die Aufgabe in den neuen Bundesländern - den Aufbolprozeß breit in Gang setzen",
+              "seite": "182"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Zu den Politikbereichen im einzelnen",
+          "seite": "184",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Finanzpolitik: Den Beitrag zur Herstellung der Wirtschaftseinheit leisten",
+              "seite": "184"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Finanzierungsaufgabe",
+              "seite": "185"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kreditfinanzierung: nur für Investitionen, begrenzt und zeitlich befristet tolerabel",
+              "seite": "187"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgabenumschichtungen und Abbau von Steuervergünstigungen: Neue Prioritäten für die Finanzpolitik",
+              "seite": "189"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Privatisieren",
+              "seite": "193"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steuererhöhungen: Tariferhöhungen und neue Steuern möglichst vermeiden",
+              "seite": "194"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unternehmenssteuerreform - im Blick behalten",
+              "seite": "195"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Budgetpolitik: Wege zur Konsolidierung",
+              "seite": "195"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Geldpolitik: Zielbestimmung unter erschwerten Bedingungen",
+              "seite": "198"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Tarifpolitik am zusammenwachsenden Arbeitsmarkt: Unterschiedliche Strategien",
+              "seite": "201"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ostdeutschland: Löhne und Leistungskraft in der strukturellen Erneuerung ausbalancieren",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umrisse einer lohnpolitischen Konzeption für Ostdeutschland",
+              "seite": "207"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Westdeutschland: Zur Stabilität zurückfinden",
+              "seite": "208"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil C: Finanzausgleich reformieren - Eigenverantwortung und Unabhängigkeit stärken",
+          "seite": "210",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Maßstäbe für die Gestaltung des Finanzausgleichs",
+              "seite": "211"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Für mehr Autonomie der Länder auf der Einnahmenseite",
+              "seite": "211"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fremdbestimmte Ausgaben reduzieren",
+              "seite": "213"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Horizontale und vertikale Ausgleichszahlungen begrenzen",
+              "seite": "213"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ansätze zur Reform des Finanzausgleichs",
+              "seite": "215"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil D: Die Europäische Gemeinschaft - Herausforderungen zu Beginn der neunzigerjahre",
+          "seite": "217",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Hürden auf dem Weg zum Binnenmarkt überwinden",
+              "seite": "217"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Handelspolitik - die weltwirtschaftliche Verantwortung der Gemeinschaft",
+              "seite": "219"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. EG-Agrarpolitik: Weitere Liberalisierungsschritte müssen folgen",
+              "seite": "221"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Europäische Währungsunion: Start in eine ungewisse Phase",
+              "seite": "222"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Erneuerung der Wirtschaftsstruktur im östlichen Teil Deutschlands",
+      "seite": "228",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Überblick",
+          "seite": "228",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Das Kernproblem: Entwicklung leistungsfähiger Unternehmen",
+          "seite": "229",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Privatisierung: Die Rolle der Treuhandanstalt",
+              "seite": "229"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stillegungen: Der Markt als Entscheidungsinstanz",
+              "seite": "234"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neugründungen: Unverzichtbar für die strukturelle Erneuerung",
+              "seite": "236"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Investitionshemmnisse abbauen",
+              "seite": "238"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Investitionsförderung: Prioritäten richtig setzen",
+              "seite": "240"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Probleme einzelner Bereiche",
+          "seite": "244",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Neue Organisationsformen für die Landwirtschaft",
+              "seite": "244"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neugestaltung der Energiewirtschaft",
+              "seite": "246"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wohnungswirtschaft",
+              "seite": "248"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Rahmenbedingungen",
+          "seite": "249",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Umweltpolitik: Grundlegende Sanierung vordringlich",
+              "seite": "249"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wege zu einer leistungsfähigen Infrastruktur",
+              "seite": "251"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarkt und soziale Sicherung",
+              "seite": "253"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+
+ende_json
+

@@ -1,0 +1,279 @@
+{
+"kapitel": [
+{
+"ueberschrift_eins": "Vorschau",
+"seite": "1",
+"zweite_ebene": []
+},
+{
+"ueberschrift_eins": "Die Lage",
+"seite": "1",
+"zweite_ebene": []
+},
+{
+"ueberschrift_eins": "Die voraussichtliche Entwicklung",
+"seite": "1",
+"zweite_ebene": []
+},
+{
+"ueberschrift_eins": "Erstes Kapitel: Zur Konjunkturlage",
+"seite": "2",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Der internationale Rahmen 1971: Währungsunruhen, schwächeres\nWachstum, anhaltende Kosteninflation",
+"seite": "2",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Weltwährungssystem in der Krise",
+"seite": "2"
+},
+{
+"ueberschrift_drei_niedriger": "Der Weg in die Krise",
+"seite": "2"
+},
+{
+"ueberschrift_drei_niedriger": "Unmittelbare Ursachen und Folgen der Maßnahmen vom 15. August",
+"seite": "5"
+},
+{
+"ueberschrift_drei_niedriger": "Schwacher Aufschwung in den Vereinigten Staaten",
+"seite": "5"
+},
+{
+"ueberschrift_drei_niedriger": "Entspannung in Kontinentaleuropa",
+"seite": "12"
+},
+{
+"ueberschrift_drei_niedriger": "Stagnation in Großbritannien, Ende des Booms in Japan",
+"seite": "14"
+},
+{
+"ueberschrift_drei_niedriger": "Weltweit kosteninduzierte Inflation",
+"seite": "16"
+}
+]
+},
+{
+"ueberschrift_zwei": "II. Entspannung ohne Stabilität",
+"seite": "18",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Zurückhaltende Auslandsnachfrage",
+"seite": "20"
+},
+{
+"ueberschrift_drei_niedriger": "Labile Investitionsneigung",
+"seite": "21"
+},
+{
+"ueberschrift_drei_niedriger": "Differenzierte Baukonjunktur",
+"seite": "22"
+},
+{
+"ueberschrift_drei_niedriger": "Zurückhaltende Lagerdispositionen",
+"seite": "23"
+},
+{
+"ueberschrift_drei_niedriger": "Kräftig expandierende Verbrauchsnachfrage",
+"seite": "23"
+},
+{
+"ueberschrift_drei_niedriger": "Nachlassende Überforderung des Produktionspotentials",
+"seite": "24"
+},
+{
+"ueberschrift_drei_niedriger": "Deutliche Entspannung am Arbeitsmarkt",
+"seite": "28"
+},
+{
+"ueberschrift_drei_niedriger": "Abnehmender Importsog",
+"seite": "29"
+},
+{
+"ueberschrift_drei_niedriger": "Spätes Abklingen des Verteilungskampfes",
+"seite": "30"
+},
+{
+"ueberschrift_drei_niedriger": "Zur Einkommenssituation der Landwirtschaft",
+"seite": "38"
+},
+{
+"ueberschrift_drei_niedriger": "Preisklima nur wenig abgekühlt",
+"seite": "40"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Die Außenwirtschaft unter dem Einfluß des „Floating“",
+"seite": "43",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Kontinuierliche Aufwertung ohne nennenswerten Abbau der Devi-\nsenreserven",
+"seite": "43"
+},
+{
+"ueberschrift_drei_niedriger": "Verschärfter Wettbewerb im Außenhandel",
+"seite": "46"
+},
+{
+"ueberschrift_drei_niedriger": "Kaum veränderte außenwirtschaftliche Überschüsse",
+"seite": "49"
+},
+{
+"ueberschrift_drei_niedriger": "Kapitalverkehr mit dem Ausland: Reflex der Kredit- und Währungs-\npolitik",
+"seite": "50"
+}
+]
+},
+{
+"ueberschrift_zwei": "IV. Geld- und Kreditpolitik: Neuer Handlungsspielraum nach der Wech-\nselkursfreigabe",
+"seite": "52",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Restriktionspolitik durch Devisenzuflüsse unterlaufen",
+"seite": "52"
+},
+{
+"ueberschrift_drei_niedriger": "Exkurs: Bankenliquidität, Mindestreservesätze und Kreditschöpfung",
+"seite": "55"
+},
+{
+"ueberschrift_drei_niedriger": "Bundesbank nutzt erweiterten Handlungsspielraum",
+"seite": "58"
+}
+]
+},
+{
+"ueberschrift_zwei": "V. Öffentliche Haushalte konjunkturgerecht?",
+"seite": "60",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Ausgabenexpansion trotz Restriktion",
+"seite": "63"
+},
+{
+"ueberschrift_drei_niedriger": "Unvorhergesehene Steuermehreinnahmen 1971 nach Steuerausfällen\n1970",
+"seite": "65"
+},
+{
+"ueberschrift_drei_niedriger": "Expansive Wirkungen der Finanzpolitik",
+"seite": "67"
+},
+{
+"ueberschrift_drei_niedriger": "Auch konsolidierter Haushalt expansiv",
+"seite": "71"
+},
+{
+"ueberschrift_drei_niedriger": "Öffentliche Haushalte bei Inflation",
+"seite": "71"
+}
+]
+},
+{
+"ueberschrift_zwei": "VI. Der Gesamtindikator zur Konjunkturdiagnose – nach Unterbrechung\nwieder abwärts gerichtet",
+"seite": "73",
+"dritte_und_niedrigere_ebene": []
+}
+]
+},
+{
+"ueberschrift_eins": "Zweites Kapitel: Die voraussehbare Entwicklung",
+"seite": "75",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die Weltkonjunktur im Jahre 1972",
+"seite": "75",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Die öffentlichen Finanzen im Jahre 1972",
+"seite": "78",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "III. Die voraussichtliche Entwicklung der Binnenkonjunktur",
+"seite": "81",
+"dritte_und_niedrigere_ebene": []
+}
+]
+},
+{
+"ueberschrift_eins": "Drittes Kapitel: Anschluß an die Zukunft",
+"seite": "87",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die Situation im Herbst 1971",
+"seite": "87",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Die Wirtschaftspolitik 1971 im Rückblick",
+"seite": "88",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "III. Für eine neue Grundlage: Forderungen an die Währungspolitik",
+"seite": "90",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Die internationale Seite: Reform des Weltwährungssystems",
+"seite": "90"
+},
+{
+"ueberschrift_drei_niedriger": "Die europäische Seite: Weltwährungssystem und europäische Wäh-\nrungsunion",
+"seite": "99"
+},
+{
+"ueberschrift_drei_niedriger": "Für eine marktgerechte Kurssicherung",
+"seite": "102"
+},
+{
+"ueberschrift_drei_niedriger": "Minderheitsvotum: Zur Frage der Wechselkursflexibilität",
+"seite": "106"
+}
+]
+},
+{
+"ueberschrift_zwei": "IV. Die Chancen des Abschwungs nicht vergeben",
+"seite": "107",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Was 1972 nicht mehr möglich ist",
+"seite": "109"
+},
+{
+"ueberschrift_drei_niedriger": "Eine Strategie der zukunftsgerechten Expansion",
+"seite": "110"
+},
+{
+"ueberschrift_drei_niedriger": "Alternativen",
+"seite": "117"
+},
+{
+"ueberschrift_drei_niedriger": "Minderheitsvotum: Zur Frage der wirtschaftspolitischen Strategie",
+"seite": "121"
+}
+]
+},
+{
+"ueberschrift_zwei": "Viertes Kapitel: Für eine konsequente Wettbewerbspolitik",
+"seite": "123",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Wettbewerb als Mittel zur Erfüllung gesamtwirtschaftlicher Ziele",
+"seite": "123"
+},
+{
+"ueberschrift_drei_niedriger": "Konzentration und Wettbewerbsgesetzgebung in der Bundesrepublik",
+"seite": "125"
+},
+{
+"ueberschrift_drei_niedriger": "Zur geplanten Novellierung des GWB",
+"seite": "127"
+}
+]
+}
+]
+}
+]
+}

@@ -1,0 +1,425 @@
+"Überschrift Erste/Kapitelebene","Überschrift Zweite Ebene","Überschrift Dritte/Niedriger Ebene","Seitenzahl"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet"," "," ","14"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","I. Internationale Konjunktur"," ","16"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","I. Internationale Konjunktur","1. Weltwirtschaftliche Abkühlung – Hohe Inflation und geldpolitische Straffung","16"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","I. Internationale Konjunktur"," Die Entwicklung der Weltwirtschaft bis Herbst 2022","16"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","I. Internationale Konjunktur"," Hohe Inflationsraten und eine große Unsicherheit prägen die weitere
+wirtschaftliche Entwicklung","26"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","I. Internationale Konjunktur"," Die großen Volkswirtschaften im Einzelnen","27"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","I. Internationale Konjunktur","2. Euro-Raum: Konjunkturelle Aussichten erheblich verschlechtert","33"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","I. Internationale Konjunktur"," Heterogene Entwicklung im Sommerhalbjahr 2022","33"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","I. Internationale Konjunktur"," Preissteigerungen belasten das Wachstum","43"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","I. Internationale Konjunktur","3. Chancen und Risiken","46"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","II. Deutsche Konjunktur"," ","47"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","II. Deutsche Konjunktur","1. Rückblick: Erholung bei Dienstleistungen und steigender Energiepreisdruck","47"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","II. Deutsche Konjunktur","2. Rahmenbedingungen: Anhaltender Energiepreisdruck","53"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","II. Deutsche Konjunktur","3. Ausblick: Ausgeprägter und anhaltender Abschwung","56"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","II. Deutsche Konjunktur","4. Arbeitsmarktdynamik lässt nach","60"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","II. Deutsche Konjunktur","5. Öffentliche Finanzen durch starken Anstieg nominaler Größen getrieben","64"
+"Erstes Kapitel
+Konjunktureller Ausblick durch Energiekrise
+massiv belastet","II. Deutsche Konjunktur","6. Mittelfristprojektion: Potenzialwachstum rückläufig","67"
+"Zweites Kapitel
+Inflation und Geldpolitik"," "," ","84"
+"Zweites Kapitel
+Inflation und Geldpolitik","I. Einleitung: Inflation und Geldpolitik"," ","86"
+"Zweites Kapitel
+Inflation und Geldpolitik","II. Determinanten der aktuellen Inflationsentwicklung"," ","88"
+"Zweites Kapitel
+Inflation und Geldpolitik","II. Determinanten der aktuellen Inflationsentwicklung","1. Hohe Güterpreisinflation","88"
+"Zweites Kapitel
+Inflation und Geldpolitik","II. Determinanten der aktuellen Inflationsentwicklung","2. Angebotsseitige Störungen und hohe Nachfrage","92"
+"Zweites Kapitel
+Inflation und Geldpolitik","II. Determinanten der aktuellen Inflationsentwicklung","3. Mittelfristige Triebkräfte und Persistenz der Inflation","95"
+"Zweites Kapitel
+Inflation und Geldpolitik","II. Determinanten der aktuellen Inflationsentwicklung"," Inflationserwartungen steigen, sind aber noch verankert","95"
+"Zweites Kapitel
+Inflation und Geldpolitik","II. Determinanten der aktuellen Inflationsentwicklung"," Lohndynamik und Inflation","97"
+"Zweites Kapitel
+Inflation und Geldpolitik","II. Determinanten der aktuellen Inflationsentwicklung"," Persistenz des Inflationsprozesses gestiegen","99"
+"Zweites Kapitel
+Inflation und Geldpolitik","II. Determinanten der aktuellen Inflationsentwicklung"," Geldmengenwachstum und Inflation","102"
+"Zweites Kapitel
+Inflation und Geldpolitik","III. Auswirkungen einer erhöhten Inflation"," ","104"
+"Zweites Kapitel
+Inflation und Geldpolitik","III. Auswirkungen einer erhöhten Inflation","1. Wohlfahrtskosten erhöhter Inflation","104"
+"Zweites Kapitel
+Inflation und Geldpolitik","III. Auswirkungen einer erhöhten Inflation","2. Auswirkungen der Inflation auf verschiedene Haushaltsgruppen","107"
+"Zweites Kapitel
+Inflation und Geldpolitik","III. Auswirkungen einer erhöhten Inflation","3. Langfristige Verhaltenseffekte von Hochinflationsphasen","112"
+"Zweites Kapitel
+Inflation und Geldpolitik","IV. Maßnahmen zur Bekämpfung der Inflation"," ","115"
+"Zweites Kapitel
+Inflation und Geldpolitik","IV. Maßnahmen zur Bekämpfung der Inflation","1. Geldpolitische Einordnung","115"
+"Zweites Kapitel
+Inflation und Geldpolitik","IV. Maßnahmen zur Bekämpfung der Inflation"," Zinsregeln legen entschlossene geldpolitische Reaktion im
+Euro-Raum nahe","119"
+"Zweites Kapitel
+Inflation und Geldpolitik","IV. Maßnahmen zur Bekämpfung der Inflation"," Aktuelle geldpolitische Entscheidungen im Euro-Raum","122"
+"Zweites Kapitel
+Inflation und Geldpolitik","IV. Maßnahmen zur Bekämpfung der Inflation"," Geldpolitisches Zwischenfazit","126"
+"Zweites Kapitel
+Inflation und Geldpolitik","IV. Maßnahmen zur Bekämpfung der Inflation","2. Flankierende Maßnahmen","126"
+"Drittes Kapitel
+Deutsche Finanzpolitik vor schwierigen
+Herausforderungen"," "," ","140"
+"Drittes Kapitel
+Deutsche Finanzpolitik vor schwierigen
+Herausforderungen","I. Einleitung"," ","142"
+"Drittes Kapitel
+Deutsche Finanzpolitik vor schwierigen
+Herausforderungen","II. Finanzpolitische Ausgangslage"," ","144"
+"Drittes Kapitel
+Deutsche Finanzpolitik vor schwierigen
+Herausforderungen","III. Krisenbedingte Anforderungen an die Finanzpolitik"," ","149"
+"Drittes Kapitel
+Deutsche Finanzpolitik vor schwierigen
+Herausforderungen","III. Krisenbedingte Anforderungen an die Finanzpolitik","1. Krisenbedingte Sicherung der Energieversorgung und Ausbau
+der Verteidigungsfähigkeit","149"
+"Drittes Kapitel
+Deutsche Finanzpolitik vor schwierigen
+Herausforderungen","III. Krisenbedingte Anforderungen an die Finanzpolitik","2. Krisenbedingte Entlastungsmaßnahmen","151"
+"Drittes Kapitel
+Deutsche Finanzpolitik vor schwierigen
+Herausforderungen","III. Krisenbedingte Anforderungen an die Finanzpolitik","3. Verteilungswirkung der Entlastungen für Haushalte","153"
+"Drittes Kapitel
+Deutsche Finanzpolitik vor schwierigen
+Herausforderungen","IV. Wirtschaftspolitisches Fazit"," ","155"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik"," "," ","162"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","I. Einleitung"," ","164"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","II. Finanzpolitische Ausgangslage und Perspektiven"," ","166"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","II. Finanzpolitische Ausgangslage und Perspektiven","1. Folgen der Corona-Pandemie","166"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","II. Finanzpolitische Ausgangslage und Perspektiven","2. Auswirkungen des Krieges","169"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","II. Finanzpolitische Ausgangslage und Perspektiven"," Kurz- und langfristige Auswirkungen der Inflation auf die Finanzpolitik","170"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","II. Finanzpolitische Ausgangslage und Perspektiven"," Auswirkungen auf Zinsausgaben","171"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","III. Die Reformdiskussion in der Wirtschafts- und Währungsunion"," ","175"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","III. Die Reformdiskussion in der Wirtschafts- und Währungsunion","1. Im Spannungsfeld zwischen Schuldentragfähigkeit und staatlicher
+Aufgabenerfüllung","175"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","III. Die Reformdiskussion in der Wirtschafts- und Währungsunion","2. Dimensionen einer Reform der Wirtschafts- und Währungsunion:
+Ein Überblick","178"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","III. Die Reformdiskussion in der Wirtschafts- und Währungsunion","3. Fiskalregeln","179"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","III. Die Reformdiskussion in der Wirtschafts- und Währungsunion"," Tragfähigkeit gewährleisten","182"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","III. Die Reformdiskussion in der Wirtschafts- und Währungsunion"," Konjunktur stabilisieren","189"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","III. Die Reformdiskussion in der Wirtschafts- und Währungsunion"," Transformative und wachstumsfördernde Ausgaben priorisieren","189"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","III. Die Reformdiskussion in der Wirtschafts- und Währungsunion","4. Fiskalkapazität","191"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","III. Die Reformdiskussion in der Wirtschafts- und Währungsunion","5. Finanzmarktarchitektur","194"
+"Viertes Kapitel
+Reformperspektiven für die europäische Fiskalpolitik","IV. Wirtschaftspolitisches Fazit"," ","198"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie"," "," ","208"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","I. Einleitung"," ","210"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","II. Angespannte Lage auf den Energiemärkten"," ","212"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","II. Angespannte Lage auf den Energiemärkten","1. Ausgangslage vor dem Krieg","212"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","II. Angespannte Lage auf den Energiemärkten"," Energiemix in Deutschland und der EU","214"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","II. Angespannte Lage auf den Energiemärkten"," Bezugsquellen der Energieträger","215"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","II. Angespannte Lage auf den Energiemärkten"," Preisentwicklungen vor Kriegsbeginn","219"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","II. Angespannte Lage auf den Energiemärkten","2. Anpassungsreaktionen infolge des Krieges","220"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","II. Angespannte Lage auf den Energiemärkten"," Längerfristige Anpassungen der Energieversorgung","221"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","II. Angespannte Lage auf den Energiemärkten"," Preisentwicklungen nach Kriegsbeginn","225"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","II. Angespannte Lage auf den Energiemärkten"," Veränderungen des Energieverbrauchs seit Kriegsbeginn","229"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","III. Neue Herausforderungen für die Industrie"," ","232"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","III. Neue Herausforderungen für die Industrie","1. Absolute und relative Energiepreissteigerungen","234"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","III. Neue Herausforderungen für die Industrie","2. Verstärkte Notwendigkeit von Energieeinsparungen","238"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","III. Neue Herausforderungen für die Industrie"," Energieeffizienzsteigerungen in Deutschland","238"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","III. Neue Herausforderungen für die Industrie"," Energieeinsparpotenziale in der Industrie","245"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","IV. Implikationen für den Strukturwandel der Industrie und die Industriepolitik"," ","248"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","IV. Implikationen für den Strukturwandel der Industrie und die Industriepolitik","1. Relevanz der Energiepreise für die deutsche Industrie","248"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","IV. Implikationen für den Strukturwandel der Industrie und die Industriepolitik"," Bedeutung verschiedener Energieträger für die Industrie","249"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","IV. Implikationen für den Strukturwandel der Industrie und die Industriepolitik"," Energiekostenintensität verschiedener Wirtschaftszweige","251"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","IV. Implikationen für den Strukturwandel der Industrie und die Industriepolitik"," Gasintensität verschiedener Produkte","252"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","IV. Implikationen für den Strukturwandel der Industrie und die Industriepolitik","2. Auswirkungen der steigenden Energiekosten","253"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","IV. Implikationen für den Strukturwandel der Industrie und die Industriepolitik"," Implikationen der Energiekostenanstiege für Bruttomarge
+und Produktmix","253"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","IV. Implikationen für den Strukturwandel der Industrie und die Industriepolitik"," Internationales wettbewerbliches Umfeld","256"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","V. Energiekrise überwinden und Perspektiven für die Industrie schaffen"," ","261"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","V. Energiekrise überwinden und Perspektiven für die Industrie schaffen"," Maßnahmen in der Energiepolitik","261"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","V. Energiekrise überwinden und Perspektiven für die Industrie schaffen"," Direkte Unterstützungsmaßnahmen für Unternehmen","264"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","V. Energiekrise überwinden und Perspektiven für die Industrie schaffen"," Klimapolitische Unterstützungsmaßnahmen","266"
+"Fünftes Kapitel
+Energiekrise und Strukturwandel: Perspektiven für die
+deutsche Industrie","V. Energiekrise überwinden und Perspektiven für die Industrie schaffen"," Unterstützung strategisch bedeutsamer Wirtschaftszweige","267"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration"," "," ","278"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","I. Einleitung"," ","280"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","II. Fachkräftebedarf und -engpässe"," ","283"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","III. Weiterbildung"," ","290"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","III. Weiterbildung","1. Verteilung der Erträge von Weiterbildung","292"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","III. Weiterbildung","2. Nutzung von Weiterbildungsmaßnahmen","296"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","III. Weiterbildung"," Weiterbildungsformen und -inhalte","296"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","III. Weiterbildung"," Weiterbildungsteilnahme nach Personencharakteristika","298"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","III. Weiterbildung"," Weiterbildungsteilnahme nach Unternehmenscharakteristika","301"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","III. Weiterbildung","3. Handlungsoptionen zur Stärkung der Weiterbildung","304"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","III. Weiterbildung"," Geringqualifizierte Beschäftigte","304"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","III. Weiterbildung"," Durch den Strukturwandel bedrohte Beschäftigte","307"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","III. Weiterbildung"," Unterstützung für Unternehmen","308"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","III. Weiterbildung"," Kurzarbeitende und Arbeitslose","309"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","III. Weiterbildung"," Sonstige Handlungsoptionen","310"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration"," ","313"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration","1. Fachkräftezuwanderung nach Deutschland","314"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration"," Rückgang der EU-Binnenmigration als Herausforderung","315"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration"," Gesteuerte Zuwanderung aus Drittstaaten","317"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration"," Wirkungen der gesteuerten Erwerbsmigration nach Deutschland","319"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration"," Bildungsmigration als indirekter Zuwanderungskanal","327"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration"," Familiennachzug und Abwanderung","328"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration"," Netzwerkeffekte der Migration","330"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration","2. Zuwanderungssysteme im internationalen Vergleich","334"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration"," Instrumente der Steuerung von Erwerbsmigration","335"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration","3. Hürden für den Arbeitsmarkteinstieg","337"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration","4. Handlungsoptionen: Maßnahmen für Erwerbsmigration","340"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration"," Hürden für den Zugang zum Arbeitsmarkt senken","340"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration"," Integration verbessern und Abwanderung reduzieren","342"
+"Sechstes Kapitel
+Fachkräftesicherung: Handlungsoptionen bei Weiterbildung
+und Erwerbsmigration","IV. Erwerbsmigration"," Transparenz erhöhen","343"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen"," "," ","358"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","I. Wettbewerbsfähigkeit in Zeiten geopolitischer Veränderungen"," ","360"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","II. Einordnung der deutschen Wettbewerbsfähigkeit"," ","362"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","II. Einordnung der deutschen Wettbewerbsfähigkeit","1. Indikatoren der Wettbewerbsfähigkeit","362"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","II. Einordnung der deutschen Wettbewerbsfähigkeit","2. Bedeutung der internationalen Arbeitsteilung für die deutsche
+Wettbewerbsfähigkeit","369"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","II. Einordnung der deutschen Wettbewerbsfähigkeit"," Wohlfahrtsgewinne durch internationale Arbeitsteilung","370"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","II. Einordnung der deutschen Wettbewerbsfähigkeit"," Spezialisierung der deutschen Industrie","372"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","II. Einordnung der deutschen Wettbewerbsfähigkeit"," Integration in internationale Wertschöpfungsketten","374"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","II. Einordnung der deutschen Wettbewerbsfähigkeit"," Abhängigkeiten bei Importen","375"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","III. Aktuelle Herausforderungen für die deutsche Wettbewerbsfähigkeit"," ","377"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","III. Aktuelle Herausforderungen für die deutsche Wettbewerbsfähigkeit","1. Wirtschaftliche Abhängigkeiten durch den Import kritischer Rohstoffe","377"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","III. Aktuelle Herausforderungen für die deutsche Wettbewerbsfähigkeit","2. Marktverzerrung durch internationale Subventionspolitik","384"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","III. Aktuelle Herausforderungen für die deutsche Wettbewerbsfähigkeit"," Subventionen im internationalen Vergleich","385"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","III. Aktuelle Herausforderungen für die deutsche Wettbewerbsfähigkeit"," Umgang mit Subventionen im Binnenmarkt und von Drittstaaten","386"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","III. Aktuelle Herausforderungen für die deutsche Wettbewerbsfähigkeit","3. Veränderungen der globalen Ordnung","388"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit"," ","392"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit","1. Stärkung der Resilienz von Lieferketten","392"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit"," Diskussion um Re-, Near-, oder Friendshoring","393"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit"," Diversifizierung durch strategische Allianzen","394"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit"," Diversifizierung der Bezugsquellen kritischer Rohstoffe","396"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit"," Langfristige Diversifizierung der Energieversorgung","397"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit","2. Ausbau europäischer Produktions- und Lagerkapazitäten","398"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit"," Resilienz durch Lagerhaltung","399"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit"," Abbau inländischer Rohstoffe und Recycling","400"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit"," Ausbau der Energieinfrastruktur","403"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit"," Chancen und Risiken von Subventionen","405"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit","3. Wahrung europäischer Werte und Interessen","406"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit"," Sicherung einer „Offenen Strategischen Autonomie“","406"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit"," Überprüfung ausländischer Direktinvestitionen","407"
+"Siebtes Kapitel
+Wettbewerbsfähigkeit in Zeiten geopolitischer
+Veränderungen","IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit"," Europa als normativer Akteur","409"
+

@@ -1,0 +1,159 @@
+Here the pdf: Page 1:
+Erstes Kapitel: Zur Konjvnkturlage                   . .. . . . . . ...... . . ... ... . ... .. ...... . ... .. . 1
+    I.Oberblick .... . . . . . .. .... . . ... . . . ... . .... . . . . . . .. . .... . . . .. ... . .. ... . .. . . . 1
+             ..
+   I!.Investttionen . ... . ... . .. . . . . .. . . .. . . . . ... . .. ... . .. . . .. . . . . . . . . .. ... . .... . 8
+      Ausrüstungsinvertitionen 8 - Bauinvertitionen 13
+  III.AuOenwirtschaft . .. . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . .... . . . . ... . .. . . . . . . . . .. . 21
+      Entwicklung der Ausfuhr 24 - Entwicklung der Einfuhr 30 - Wenbewerbs-
+       position und Preise 34 - Zahlungsbilanz 38
+  IV. Produktionskapazität und Produktion . . . . . . . . . .. .. .. ... . . . . . . . . . . . . . . . .. . . . 40
+      Arbeitsmarkt 40 - Produktivität 48   Produktion 53    -
+                                                                                                    ..
+  V. Die Entwicklung des Einkommens . .. . . . ... ... . ... . . . . . . . ... . . . . . .. . . .. . . 54                  .
+     Lohneinkommen 55 - Lähne und Produktivität 61 - Unternehmer- und Kapi-
+     toleinkommen 63 - Belastung der Einkommen M                                   -
+                                                                   EinkommensObertragun-
+     sen 67 -Verfügbares Einkommen 67
+  VI. Privater Verbrauch und Ersparnis . .. .. . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . ... 68
+      Die Ersparnis im gegenwärtigen Aufschwung 68                              -
+                                                                        Haushaltseinkommen und
+      Verbrauchsstruktur 72
+      schwung 74
+                                          -
+                                Der private Verbrauch im gegenwärtigen Auf-
+
+VII. Die Finanzierung der Nachfrogeexpansion . . . ... . ... . .. . . . . .. . . . . . . .. . . ... 7i
+     Geld, Kredit und Banken 7i - Kapitalmarkt 82
+VIII. Offentliche Finanzen . . . . . ...... . . ... . ... . .. . . . . . . ..... . . . ... . . . .. . . ... .          ... 88
+                                                                                   .
+Zweites Kapitel: Die voraussehbare Eniwicklung . .... .. . . . . . . . . . . . . . . . . . . . W
+Drittes Kapitel: Gegen den Geldwertschwund                                    . . . . .. .. .... . . . . ..... ..... ... 105
+     Quantitative Konsequenzen für 1966 122
+
+Viertes Kapitel: Wachstum und Strukturwandel                                   ........... . ... ...... .. . .... 125
+    I. Einleitung .. ... . .... . . . . .. . . .. . . .. . . ... . . . . . . ... . . . . . . ... . .. . . . ... . . . . . . . 125
+   II. Wandel der Branchenstruktur in der Bundesrepublik seit 1933 . .. . . . . ... . .. . . . 127
+       Umfang des Struktunvandels 127                       -
+                                            Produktivitötseffekte des Struktuman-
+       dels 134  - Untersuchungsergebnisse 135                        -
+                                                  Erläuterungen 136 - Anderung
+       der Preisrelationen 145            -
+                                Lähne und Mobilität der Arbeitskräfte 151 - Ge-
+       winne    -
+                Wettbewerb und Leistungrkraft 154
+  III. Regionalstruktur und Wirtschaftswachstum . .. ........ .. .. .. ....    . 159
+       Untersuchungsergebnisse 159                  -
+                                       Rnderung der regionalen Produktionsstruk-
+       tur 161 -Wanderungen 161 - Regionale Expansionskraft und überkommene
+       Produktionutruktur 165
+  IV. Ausbildung, berufliche Mobilität und wirtschaftliches Wachstum . . . .. . . . .. . . 173
+
+
+Page 2:
+                                                    Anhang
+
+  I.Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der ge-
+    samtwirtschafilichen Entwicklung .            .... .. ... .
+                                        . .... . .....                          . . .....
+                                                                 ....... .. . .. 183                .. .
+ I!.Presseerklärung vom 10. Februar 1965 ........... ........................... 185
+
+III.Fragen der Bildung und Verteilung von Einkommen und Vermögen
+    Brief des Pr6sidenten des Statistischen Bundesamtes an den Sachverständigenrat 186
+    Anregungen zum Ausbau der Einkommensstatistik .. . . .. .. .. . . ..                  .............. 189
+IV. Methodische Erläuterungen .. . .. .. .. . . ....... . .. .. . . . . .. . . .. . . . .. . . . . . . . .. . 195
+
+ V. Statistischer Anhang . ... . . . ... . .. .... .. ... . . . . . .. . . . . ... . . . .. . . . . . . .. .. ... 211
+
+VI.Aurzug aus dem Jahresgutachten 1964, Ziffer 248 . . . .. .. . . .. .... .. . . . . ... . ... 260
+
+Sachregister .. . ..... . ..... . ... ... ...... ... . . . .. ..... . ... . . . . . ... . .. . ... ... . ... 262
+
+
+Beilage
+
+Stellungnahme der Bundesregierung zum Gutachten des Sachverständigenratsr
+
+ Extrahiere die Überschriften und Seitenzahlen nach dem Schema aus dem Inhaltsverzeichnis. Eine Ebene ist gekennzeichnet durch die wiederholte Verwendung von bestimmten Zähllogiken wie "Erstes, Zweites", "I. , II.", "1. , 2.". Die höchste Ebene ist immer das Kapitel. Die Überschrift ist hier trotzdem nicht nur "Kapitel X", sondern enthält auch eine echte Überschrift, z.B. "Kapitel 4, Krise auf dem Arbeitsmarkt". Die niedrigeren Ebene haben oft keine Zähllogik, sollen aber trotzdem mit dem key "ueberschrift_drei_niedriger" erfasst werden. Auch falls es mehr als drei Ebenen gibt, sollen alle Ebenen ab der dritten mit dem key "ueberschrift_drei_niedriger" erfasst werden. Ignoriere außerdem die Abschnitte 'Vorwort','Analysen zu den ausgewählten Themen' und 'Anhang'.  Ignoriere außerdem immer die Punkte '.' oder kommas ',' die zwischen Überschrift und Seitenzahl stehen. Außerdem, falls Worte im PDF falschgeschrieben sind, korrigiere Sie. Achte darauf, dass das JSON Format korrekt ist.
+Hier ist das Schema:
+{
+  "type": "object",
+  "properties": {
+    "kapitel": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "ueberschrift_eins": {
+            "type": "string"
+          },
+          "seite": {
+            "type": "string"
+          },
+          "zweite_ebene": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "ueberschrift_zwei": {
+                  "type": "string"
+                },
+                "seite": {
+                  "type": "string"
+                },
+                "dritte_und_niedrigere_ebene": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "ueberschrift_drei_niedriger": {
+                        "type": "string"
+                      },
+                      "seite": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+Fange deine Antwort nicht mit irgendeiner Antwort wie "Hier ist dein json:" an, sondern beginne direkt mit dem json selber. Nachdem das json zu Ende ist, beginne eine neue Zeile und schreibe "ende_json", sonst nichts. Das "ende_json" ist sehr wichtig.
+Es kann sein, dass bereits ein Teil vom pdf in ein json Format extrahiert wurde.In diesem Fall findest du nachfolgend das json für die vorhergehenden Teile. Das bereits existierende json sollst du nicht wiederholt ausgeben. Das neue json soll genau da anfangen wo das bestehende json aufhört. Nur Falls das bestehende JSON mitten in einem Satz oder einer Zeile aufhört, sollst du diese letzte ein oder zwei Zeilen wiederholen. 
+-Start Beispiel-
+Ende des bestehenden Jsons:
+"""
+{
+      "ueberschrift_eins": "DRITTES KAPITEL\nStabilität des Internationalen Finanzsystems",
+      "seite": "89",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Finanzmärkte unter Stress",
+          "seite": "91",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die treibenden Kräfte",
+          "seite":
+"""
+Wie du weitermachen sollst
+"""
+          "ueberschrift_zwei": "II. Die treibenden Kräfte",
+          "seite": "92"
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Expansive Zinspolitik in den Vereinigten Staaten schafft\nmakroökonomisches Umfeld für Übertreibungen an den Finanzmärkten",
+              "seite": "96"
+            },
+"""
+-Ende Beispiel-
+Falls existierend, hier das bestehende JSON:
+
+  

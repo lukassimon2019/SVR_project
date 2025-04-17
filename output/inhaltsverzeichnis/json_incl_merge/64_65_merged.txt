@@ -1,0 +1,203 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Außenwirtschaft und Binnenkonjunktur",
+      "seite": "1",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Wirkungsbreite der außenwirtschaftlichen Triebkräfte",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Außenwirtschaft und Binnenkonjunktur in den Wachstumszyklen",
+          "seite": "6",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Exponentiertes Wachstum und Geldwertstabilität",
+          "seite": "18",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die binnenwirtschaftlichen Auftriebskräfte",
+      "seite": "23",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Der Übergang zur Binnenkonjunktur",
+          "seite": "23",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Die Investitionsneigung der Unternehmen und des Staates",
+          "seite": "23",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Die Ausrüstungsinvestitionen im gegenwärtigen Aufschwung",
+          "seite": "29",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Die Nachfrage nach Bauinvestitionen in den letzten beiden Jahren",
+          "seite": "34",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Der Staatsverbrauch",
+          "seite": "39",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Der Private Verbrauch",
+          "seite": "41",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Der Angebotsspielraum",
+      "seite": "49",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Langfristige Entwicklungstendenzen",
+          "seite": "49",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Arbeitsmarkt",
+          "seite": "49",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Produktivität",
+          "seite": "52",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Einfuhr",
+          "seite": "56",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Das Angebot im gegenwärtigen Aufschwung",
+          "seite": "59",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Die Entwicklung der Einkommen",
+      "seite": "69",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Die Einkommensentwicklung im gegenwärtigen Aufschwung",
+          "seite": "70",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Steuerliche Belastungen der Einkommen",
+          "seite": "75",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Einkommensübertragungen",
+          "seite": "75",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Das verfügbare Einkommen der privaten Haushalte",
+          "seite": "75",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Beamtenbesoldung",
+          "seite": "76",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel: Preise und Geldwert",
+      "seite": "81",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Die Verbraucherpreise",
+          "seite": "81",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Der zyklische Verlauf der Preisentwicklung",
+          "seite": "88",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Die Geldwertentwicklung seit 1950 im internationalen Vergleich",
+          "seite": "90",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Sechstes Kapitel: Die Finanzierung des wirtschaftlichen Wachstums",
+      "seite": "95",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Geld- und Kreditmarkt",
+          "seite": "95",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Kapitalmarkt",
+          "seite": "98",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Siebentes Kapitel: Die öffentlichen Finanzen",
+      "seite": "113",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Die Entwicklung mit 1950",
+          "seite": "113",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Die Entwicklung 1964",
+          "seite": "116",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Die voraussichtliche Entwicklung 1965",
+          "seite": "119",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Grundsätzliche Bemerkungen",
+          "seite": "122",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Achtes Kapitel: Die voraussehbare Entwicklung",
+      "seite": "125",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "Neuntes Kapitel: Voraussichtliche Fehlentwicklungen und mögliche Gegenmittel",
+      "seite": "131",
+      "zweite_ebene": []
+    }
+  ]
+}
+```
+
+ende_json
+
+

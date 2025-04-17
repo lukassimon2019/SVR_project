@@ -1,0 +1,384 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die Konjunkturlage",
+      "seite": "19",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Der internationale Rahmen",
+          "seite": "19",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Weltwirtschaft wieder im Aufschwung",
+              "seite": "19"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Aber: Wirtschaftspolitische Ziele noch nicht erreicht",
+              "seite": "22"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weltwirtschaftliche Verteilungsprobleme",
+              "seite": "27"
+            },
+            {
+              "ueberschrift_drei_niedriger": "H. Verschärfung der Ungleichgewichte in Europa",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steiles Stabilitätsgefälle",
+              "seite": "31"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Noch hohe öffentliche Defizite",
+              "seite": "34"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik ohne einheitliches Konzept",
+              "seite": "35"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur europäischen Agrarpolitik",
+              "seite": "36"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Die Binnenkonjunktur 1976",
+          "seite": "39",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Überblick",
+              "seite": "39"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wieder im Aufschwung",
+              "seite": "39"
+            },
+            {
+              "ueberschrift_drei_niedriger": "H. Deutliche konjunkturelle Erholung",
+              "seite": "40"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kräftige Belebung der Auslandsnachfrage",
+              "seite": "40"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wieder größere Ausgabeneigung der Verbraucher",
+              "seite": "42"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lageraufbau als Verstärker",
+              "seite": "44"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausreichende Investitionsneigung?",
+              "seite": "45"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Deutlicher Produktionsanstieg",
+              "seite": "41"
+            },
+            {
+              "ueberschrift_drei_niedriger": "HI. Nur allmähliche Besserung am Arbeitsmarkt",
+              "seite": "50"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosigkeit aufgrund von Merkmalsdifferenzen zwischen Angebot und Nachfrage auf dem Arbeitsmarkt",
+              "seite": "60"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Korrektur der Einkommensverteilung",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Abermals maßvolle Lohnabschlüsse",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verbesserte Ertragslage",
+              "seite": "68"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kräftige Umverteilung der Markteinkommen",
+              "seite": "70"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V, Inflationssockel weiter abgebaut",
+              "seite": "71"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Industrielle Erzeugerpreise konjunkturell anziehend",
+              "seite": "71"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin hohe landwirtschaftliche Erzeugerpreise",
+              "seite": "73"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiter abgeschwächter Anstieg der Verbraucherpreise",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Die Außenwirtschaft im Aufwind",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kräftige Ausweitung des Außenhandels",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Internationale Wettbewerbsfähigkeit durch hohe Aufwertung gefährdet?",
+              "seite": "78"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Direktinvestitionen: Kein nennenswerter Export von Arbeitsplätzen",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kapitalverkehr im Zeichen neuer Währungsunruhen",
+              "seite": "84"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VII. Geldpolitik: Zentralbankgeldmenge kräftig ausgeweitet",
+              "seite": "85"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kompensationsaufgabe nicht gelöst",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nach wie vor reichlicher Finanzierungsspielraum",
+              "seite": "90"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sensibler Kapitalmarkt",
+              "seite": "93"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VIII. Finanzpolitik: Konsolidierung eingeleitet",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verhaltener Ausgabenanstieg",
+              "seite": "96"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konjunkturbedingte Steuermehreinnahmen",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Noch kräftige expansive Impulse",
+              "seite": "103"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsolidierung und mittelfristige Finanzplanung",
+              "seite": "109"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fiskalische Lasten der Rezession",
+              "seite": "110"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erfahrungen aus der Rezessionsbekämpfung",
+              "seite": "111"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die voraussehbare Entwicklung",
+      "seite": "114",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die voraussichtliche Entwicklung der Auslandskonjunktur",
+          "seite": "114",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die voraussichtliche Entwicklung der Binnenkonjunktur",
+          "seite": "117",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Konsolidierung und Wachstumspolitische Vorsorge",
+      "seite": "125",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Mehr investieren",
+          "seite": "125",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Selbstheilungskräfte zu schwach?",
+              "seite": "125"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Noch Unsicherheit",
+              "seite": "125"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lohnniveau und Beschäftigung",
+              "seite": "126"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vorsorge auf der Angebotsseite",
+              "seite": "127"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Strukturwandel und Beschäftigung",
+              "seite": "128"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Investitionen und Beschäftigung",
+              "seite": "130"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Für mehr Arbeitsplätze",
+              "seite": "131"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nachfragesteuerung und Angebotssteuerung",
+              "seite": "131"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stabilisierung der Erwartungen",
+              "seite": "132"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zukunftsorientierte Strukturpolitik",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gegen Rationierung der Arbeit",
+              "seite": "134"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Für neue Arbeitsplätze",
+              "seite": "135"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Für mehr Mobilität",
+              "seite": "137"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Fortsetzung der Konsolidierung und der Steuerreform",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsolidierung - quantitativ",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsolidierung - qualitativ",
+              "seite": "141"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fortsetzung der Steuerreform",
+              "seite": "142"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Zu Gewinnbeteiligung und Vermögensbildung",
+              "seite": "144"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Marktpolitik",
+              "seite": "148"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Sicherung des Aufschwungs",
+          "seite": "151",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Die stabilitätspolitische Situation",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was zu erreichen ist",
+              "seite": "154"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Was zu tun ist",
+              "seite": "155"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik",
+              "seite": "155"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Währungspolitik",
+              "seite": "158"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einkommenspolitik",
+              "seite": "158"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Rentenversicherung",
+              "seite": "161"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitik 1977",
+              "seite": "164"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Agrarpolitik",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Ein Programm",
+              "seite": "168"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Geldpolitik in Europa",
+      "seite": "172",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Aufgabe",
+          "seite": "172",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Für eine Steuerung der Geldbasis",
+          "seite": "174",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zur Wahl der Steuergröße",
+              "seite": "174"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Instrumentalprobleme",
+              "seite": "175"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Festlegung der Zuwachsrate der Geldbasis",
+              "seite": "178"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Harmonisierte Geldpolitik im Währungsverbund",
+          "seite": "179",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Harmonisierte Geldpolitik bei \"anpassungsfähigen\" Wechselkursen",
+          "seite": "180",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+
+ende_json
+

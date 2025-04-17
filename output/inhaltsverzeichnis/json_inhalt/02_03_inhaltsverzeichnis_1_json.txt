@@ -1,0 +1,419 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Zwanzig Punkte für Beschäftigung und Wachstum",
+      "seite": "1",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Weltwirtschaft: Verhaltene Erholung im Schlepptau\nder Vereinigten Staaten",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Zaghafte Erholung in Deutschland – Ausblick durchwachsen",
+          "seite": "4",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Keine Konjunkturbeschleunigung in diesem Jahr",
+              "seite": "4"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Prognose für das Jahr 2003: Erholung mit angezogener\nHandbremse",
+              "seite": "8"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Ein Programm für Beschäftigung und Wachstum",
+          "seite": "9",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosigkeit bedrückendstes Problem der Wirtschaftspolitik",
+              "seite": "10"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gesundheitspolitik: Pragmatische Schritte und\nkonzeptionelle Perspektiven",
+              "seite": "14"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitik in schweren Zeiten",
+              "seite": "16"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neue Bundesländer: Schubkräfte für den Aufholprozess\nmobilisieren",
+              "seite": "19"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Europäische Geldpolitik und internationale Finanzmärkte:\nAuf Stabilität setzen",
+              "seite": "19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die wirtschaftliche Lage im Jahre 2002",
+      "seite": "21",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Weltwirtschaft: Verhaltene Belebung im Schlepptau\nder Vereinigten Staaten",
+          "seite": "21",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Vereinigte Staaten: Unsicherheit hemmt Aufschwung",
+              "seite": "22"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Japan: Anhaltende konjunkturelle Schwäche und strukturelle\nProbleme",
+              "seite": "29"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwellenländer: Heterogene Entwicklungen",
+              "seite": "32"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Europäische Union: Unsicherheiten prägen das Bild",
+          "seite": "40",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gesamtwirtschaftliche Entwicklung ohne Schwung",
+              "seite": "40"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Der monetäre Rahmen im Euro-Raum",
+              "seite": "55"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Empirische Untersuchung zum Informationsgehalt der\nGeldmenge",
+              "seite": "68"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wettbewerbspolitische Schritte",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. EU-Osterweiterung und institutionelle Entwicklungen",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beitrittsverhandlungen vor dem Abschluss",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gemeinsame Agrarpolitik im Lichte der Erweiterung",
+              "seite": "79"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Institutionelle Entwicklungen",
+              "seite": "81"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Deutschland: Labile Erholung",
+          "seite": "81",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Binnenwirtschaft weiterhin kraftlos",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entstehungsseite: Industrie schwach, Dienstleistungen robust",
+              "seite": "83"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außenwirtschaft: Leistungsbilanz bleibt positiv",
+              "seite": "92"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsum: Arbeitslosigkeit konterkariert Erholung der\nKonsumentenstimmung",
+              "seite": "96"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgeprägte Investitionsschwäche hemmt Erholungsprozess",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kein Ende der Baukrise",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kapitalbilanz wieder mit positivem Saldo",
+              "seite": "106"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Preisentwicklung: Kein Grund zur Besorgnis",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Niedriges Kreditwachstum in Deutschland – ein Risiko für\nden Aufschwung?",
+              "seite": "108"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Arbeitsmarkt im Schatten der schwachen gesamtwirtschaftlichen\nEntwicklung",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rückgang der Erwerbstätigkeit",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anhaltender Anstieg der Arbeitslosigkeit",
+              "seite": "120"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wiederum höherer Bundeszuschuss an die Bundesanstalt für Arbeit",
+              "seite": "124"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lage auf dem Berufsausbildungsstellenmarkt wieder angespannter\n– weitere Programme für Jugendliche",
+              "seite": "124"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Keine durchgreifenden Arbeitsmarktreformen",
+              "seite": "124"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Tariflohnabschlüsse insgesamt nicht produktivitätsorientiert",
+              "seite": "128"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Auswirkungen von Streiks auf die gesamtwirtschaftliche\nProduktion",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Öffentliche Finanzen: Prekäre Haushaltslage",
+              "seite": "138"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Defizitobergrenze durchbrochen",
+              "seite": "138"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rückläufige Steuereinnahmen, aber Anstieg der Sozialbeiträge\nund der sozialen Leistungen",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bund, Länder und Gemeinden: Verschärfung der Haushaltslage",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steueraufkommen gezeichnet von der konjunkturellen Schwäche",
+              "seite": "147"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verschuldung nach wie vor hoch",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Soziale Sicherung: Fortbestehender Reformdruck",
+              "seite": "160"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Alterssicherung: Beitragssatzanstieg nicht gestoppt",
+              "seite": "161"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gesundheitswesen: Warten auf die große Reform",
+              "seite": "163"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Beitragssatzanstieg in der Gesetzlichen Kranken-\nversicherung: Ausgabensteigerungen oder Erosion der\nBeitragsgrundlage?",
+              "seite": "163"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Ostdeutschland: Stockender Aufholprozess",
+              "seite": "177"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stagnierende Anpassung bei heterogener Entwicklung der\nWirtschaftsbereiche",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Keine Besserung am Arbeitsmarkt",
+              "seite": "182"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die öffentlichen Finanzen in Ostdeutschland: Hohe Verschuldung,\nsinkende Investitionen",
+              "seite": "187"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Die voraussichtliche Entwicklung im Jahre 2003:\nBesserung ohne Schwung",
+      "seite": "191",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Überblick: Finanzmarktschwäche und weltpolitische Spannungen\nbelasten",
+          "seite": "191",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Prognose: Verhaltener Aufschwung",
+          "seite": "192",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Das weltwirtschaftliche Umfeld",
+              "seite": "192"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Entwicklung in Europa",
+              "seite": "196"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die wirtschaftlichen Aussichten für Deutschland",
+              "seite": "196"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Prognoserisiken",
+          "seite": "202",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Eine Politik für Wachstum und Beschäftigung",
+      "seite": "205",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Der Blick zurück: Deutsche Wachstumsschwäche und ihre Ursachen",
+          "seite": "205",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Bestandsaufnahme: Schlusslicht Deutschland?",
+              "seite": "205"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Determinanten des wirtschaftlichen Wachstums: Stilisierte Fakten",
+              "seite": "208"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ursachen der Wachstumsschwäche",
+              "seite": "210"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Der Blick nach vorn: Was jetzt zu tun ist",
+          "seite": "216",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarkt grundlegend reformieren",
+              "seite": "216"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mehr Dynamik auf den Gütermärkten ermöglichen",
+              "seite": "217"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beiträge zu den Sozialversicherungen reduzieren – Reformen im\nGesundheitswesen entschlossen anpacken",
+              "seite": "223"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Haushalte auf Beschäftigungs- und Wachstumsziel\nausrichten",
+              "seite": "226"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein Wachstumsprogramm für Ostdeutschland",
+              "seite": "231"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Föderalismus reformieren, Entscheidungsblockaden abbauen",
+              "seite": "234"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anmerkungen zum wirtschaftspolitischen Teil der\nKoalitionsvereinbarung",
+              "seite": "235"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel: Die Politikbereiche im Einzelnen",
+      "seite": "241",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Ein Programm gegen die Arbeitslosigkeit",
+          "seite": "241",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Komponente I: Die Nachfrage nach Arbeitskräften stärken",
+              "seite": "242"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Komponente II: Den Anspruchslohn senken – Den Übergang aus\nArbeitslosigkeit und Sozialhilfe in die Beschäftigung neu gestalten",
+              "seite": "245"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Komponente III: Mehr Flexibilität herstellen",
+              "seite": "259"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Würdigung der Hartz-Vorschläge",
+              "seite": "265"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nächste Tarifrunde – ein neuer Anfang für mehr Beschäftigung",
+              "seite": "269"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine abweichende Meinung",
+              "seite": "270"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Gesundheitspolitik: Pragmatische Schritte und konzeptionelle\nPerspektiven",
+          "seite": "272",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Ausgabenseitige Reformoptionen: Mehr Wettbewerb, höhere\nEigenverantwortung, neue Leistungsabgrenzung",
+              "seite": "272"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Einnahmeseitige Reformoptionen: Systemwechsel erstrebenswert",
+              "seite": "282"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Finanzpolitik in schweren Zeiten",
+          "seite": "290",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Haushalte aus dem Ruder gelaufen",
+              "seite": "290"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steuerreformen bei engem finanziellen Handlungsspielraum",
+              "seite": "297"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Europäische Geldpolitik und internationale Finanzmärkte",
+          "seite": "303",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Europäische Geldpolitik: Auf Stabilität setzen",
+              "seite": "303"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Internationale Finanzmärkte: Krisenanfälligkeit reduzieren",
+              "seite": "311"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```ende_json

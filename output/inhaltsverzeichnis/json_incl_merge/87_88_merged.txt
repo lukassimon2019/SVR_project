@@ -1,0 +1,437 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "21",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Der internationale Rahmen",
+          "seite": "21",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "I. Die Weltwirtschaft: Kooperation ist dringlicher geworden",
+          "seite": "21",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Mühsame Korrektur der Leistungsbilanzungleichgewichte",
+              "seite": "21"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Welthandelsordnung: Vor notwendigen Entscheidungen",
+              "seite": "24"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verschuldungskrise: Bisherige Lösungsversuche unzureichend",
+              "seite": "26"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Konjunkturelles Gefälle zwischen den Industrieländern",
+          "seite": "29",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Aktienbaisse und Weltkonjunktur 1987",
+              "seite": "29"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vereinigte Staaten: Anhaltender Aufschwung bei starkem Exportwachstum",
+              "seite": "32"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kräftige Binnenkonjunktur in Japan",
+              "seite": "36"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gedämpftes Wachstum in Europa",
+              "seite": "37"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Entwicklung in einzelnen Ländern Europas",
+              "seite": "39"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Die Europäische Gemeinschaft vor schwierigen Reformen",
+          "seite": "41",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Die wirtschaftliche Entwicklung in der Bundesrepublik",
+          "seite": "54",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "I. Überblick",
+          "seite": "54",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Im Zeichen veränderter Wechselkurse",
+          "seite": "56",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Ausfuhr zieht wieder an",
+              "seite": "56"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lebhafte Verbrauchsnachfrage bei nahezu stabilen Preisen",
+              "seite": "60"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verhaltene Zunahme der staatlichen Güterkäufe",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Modernisierung steht im Mittelpunkt",
+              "seite": "62"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wohnungsbau abermals rückläufig",
+              "seite": "65"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kräftige Importsteigerung",
+              "seite": "65"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin wenig Wachstumsdynamik",
+              "seite": "66"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Beschäftigungsentwicklung unter dem Druck des Strukturwandels",
+          "seite": "69",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Nur noch geringer Anstieg der Beschäftigung",
+              "seite": "71"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigung im Strukturwandel",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die bisherigen Ergebnisse der Qualifizierungsoffensive",
+              "seite": "80"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Geldpolitik: Orientierung am Wechselkurs",
+          "seite": "81",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Abermals starke Expansion der Zentralbankgeldmenge",
+              "seite": "83"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitische Rücksichtnahme auf Wechselkurs und Konjunktur",
+              "seite": "87"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Nachfrage nach liquiden Mitteln",
+              "seite": "87"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rückgang des hohen ausländischen Mittelangebots am deutschen Kapitalmarkt",
+              "seite": "89"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Geldmarktsteuerung",
+              "seite": "92"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geringere Wechselkursänderungen",
+              "seite": "92"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Finanzpolitik: Höhere Defizite bei wiederum kräftiger Ausgabenexpansion",
+          "seite": "94",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Unerwartet schwache Entwicklung der Steuereinnahmen",
+              "seite": "94"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgabenzuwachs überschreitet Zielvorstellungen",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Subventionen: Statt Abbau weiterer Anstieg",
+              "seite": "100"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Expansiver konjunktureller Impuls leicht erhöht",
+              "seite": "103"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Finanzlage der Sozialversicherungen",
+              "seite": "104"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil C: Kosten, Gewinne, Einkommensverteilung",
+          "seite": "106",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Die Kosten-Erlös-Relation",
+              "seite": "106"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Die Entwicklung der Kosten-Erlös-Relation seit den sechziger Jahren",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Die Entwicklung der Einkommensverteilung seit den sechziger Jahren",
+              "seite": "109"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Zur voraussichtlichen Entwicklung im Jahre 1988",
+      "seite": "114",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Zur Ausgangslage",
+          "seite": "114",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die Annahmen der Prognose",
+          "seite": "115",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zu den Wirkungen des Kurssturzes an den Aktien- und Devisenmärkten",
+              "seite": "115"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zu den Annahmen über den Kurs der Wirtschaftspolitik",
+              "seite": "116"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Die Weltkonjunktur im Jahre 1988",
+          "seite": "117",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Die Entwicklung der Binnenkonjunktur im Jahre 1988",
+          "seite": "119",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Wirtschaftspolitik für 1988 und danach",
+      "seite": "128",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Aufgaben und Möglichkeiten",
+          "seite": "128",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "I. Ziele und Wirklichkeit",
+          "seite": "128",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Lage und Aussichten",
+              "seite": "128"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der empirische Befund",
+              "seite": "129"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stabilität des Geldwerts: Das Erreichte sichern ist schwerer geworden",
+              "seite": "129"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außenwirtschaftliches Gleichgewicht: ein Schritt näher zum Ziel",
+              "seite": "130"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Enttäuschende Beschäftigungsentwicklung",
+              "seite": "130"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unzureichendes Wirtschaftswachstum",
+              "seite": "131"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Vorrang für die Wachstumspolitik",
+          "seite": "133",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Ursachen der Wachstumsschwäche",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Aufgabe für die Wirtschaftspolitik",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beispiele für das, was zu tun ist",
+              "seite": "137"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirtschaftspolitik nach dem Börsenkrach",
+              "seite": "139"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Zu den Politikbereichen im einzelnen",
+          "seite": "142",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "I. Finanzpolitik: Vor zunehmenden Schwierigkeiten",
+          "seite": "142",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Abkehr vom Konsolidierungskurs?",
+              "seite": "144"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steuerreformpaket 1990 nachbessern - Wachstum kräftigen",
+              "seite": "150"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzausgleich - Eigenverantwortung stärken",
+              "seite": "157"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform der Sozialversicherungen: Beitragsbelastung begrenzen - Selbstverantwortung stärken",
+              "seite": "160"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "162"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Geldpolitik im Konflikt",
+          "seite": "164",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zur Geldpolitik im Jahre 1987",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Geldpolitik im Jahre 1988",
+              "seite": "168"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitische Orientierungsaufgabe bei internationaler Kooperation",
+              "seite": "170"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zum Bruttoinlandsprodukt als unmittelbare Zielgröße der Geldpolitik",
+              "seite": "171"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zu den Rohstoffpreisen als Zielgröße der Geldpolitik",
+              "seite": "172"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zu den Wechselkursen als Zielgröße der Geldpolitik",
+              "seite": "172"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stabile Preise als Orientierungsmarke und als Voraussetzung stabiler Wechselkurse",
+              "seite": "173"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "173"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Das Europäische Währungssystem vor neuen Herausforderungen",
+          "seite": "176",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Priorität für einen stabilen Geldwert",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Liberalisierung des Kapitalverkehrs",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erleichterung intramarginaler Interventionen",
+              "seite": "180"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Tarifpolitik: Konstanz der Lohnstückkosten mittelfristig sichern",
+          "seite": "181",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "V. Für mehr Beweglichkeit auf den Arbeitsmärkten",
+          "seite": "186",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Neue Techniken - neue Qualifikationsanforderungen",
+              "seite": "186"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Regulierung des Arbeitsmarktes",
+              "seite": "188"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der befristete Arbeitsvertrag",
+              "seite": "190"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Sozialplan",
+              "seite": "192"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Marktöffnung und Wettbewerb für mehr Wachstum",
+          "seite": "195",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "TELEKOM: Infrastrukturauftrag und Marktstellung",
+              "seite": "196"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Für Liberalisierung der Ladenöffnungszeiten",
+              "seite": "198"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Airbus: Marktöffnung nicht mit Dauersubventionen",
+              "seite": "200"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+
+ende_json
+
+

@@ -1,0 +1,81 @@
+"Überschrift Erste/Kapitelebene","Überschrift Zweite Ebene","Überschrift Dritte/Niedriger Ebene","Seitenzahl"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung"," "," ","1"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","I. Überblick"," ","1"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","II. Der weltwirtschaftliche Rahmen"," ","9"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","II. Der weltwirtschaftliche Rahmen","Die Weltkonjunktur schwächte sich ab 9 - Die Erfahrungen des Jahres 1967                                  - einer internationalen Koordination der Wirtschaftspolitik 14","9"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","III. Außenwirtschaft"," ","18"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","III. Außenwirtschaft","Der Einfuhrrückgang ein Spiegelbild der Rezession 18 - Die Ausfuhr-
+      Stütze oder Ventil? 19  -Rekordüberschuss in der Leistungsbilanz 23   Ge-   -
+      sunken~Außenhandelsreise. verbesserte Terms of Trade 24          -","18"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","III. Außenwirtschaft","Der Warenhandel zwischen den Währungsgebieten   der DM-Ost und der DM-West !27","27"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","IV. Investitionen"," ","27"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","IV. Investitionen","Die Investitionstätigkeit seit Mitte 1966 27 -Der Kernprozess der Rezession 31
+      -Die Rezession eine Folge von Überinvestitionen? 34- Die verpasste Chance
+      der öffentlichen Investoren 35 -","27"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","IV. Investitionen","Investitionstätigkeit und Auftragsglage 36
+      Die Bauwirtschaft ein strukturschwacher Bereich? 38 - Konjunkturaufschwung
+      auf Lagern? 38","36"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","V. Produktionspotential und Produktion"," ","40"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","V. Produktionspotential und Produktion","Die Rezession im Spiegel der volkswirtschaftlichen Gesamtrechnung 40 -Die
+     Beschäftigungswirkungender Rezession 41 - Räumliche Differenzierung der
+     Rezession 46 - Der ungenutzte gesamtwirtschaftliche Produktionsspielraum 46
+     - Rezessionsbedingte Schwierigkeiten oder verbreitete Strukturschwächen in
+     der Industrie? 47  - Erschwerter Strukturwandel: die Krise im Bergbau 48 -
+     Schrumpfende Industrieproduktion, brachliegende Kapazitäten 50 - Der Druck
+     auf die Erzeugerpreise 52!- Produktivitätsverluste in der Industrie 52","40"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","VI. Einkommen"," ","55"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","VI. Einkommen","Die Rezession brachte das Wachstum der Lohnsumme erstmals zum Still-
+     stand 58 - Die Lohn-Produktivitäts-Schere schließt sich, aber in der Lohnpolitik
+     herrscht große Unsicherheit 62 - Die Ertragslage der Unternehmen hat sich
+     1967 weiter verschlechtert 63 -Von der Belastung der Einkommen ging keine
+     antizyklische Wirkung aus 64- Rentendynamik und Arbeitslosenunterstützung
+     milderten die Rezession 66- Das verfügbare Einkommen wuchs langsamer als
+     je zuvor 67","55"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","VII. Verbrauch und Ersparnis der privaten Haushalte"," ","67"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","VII. Verbrauch und Ersparnis der privaten Haushalte","Die Nachfrage nach dauerhaften Konsumgütern ist erstmals zurückgegangen 69 -Stabile Verbraucherpreise 70 - Bewegte Sparkonjunktur 73","67"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","VIII. Öffentliche Finanzen"," ","74"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","VIII. Öffentliche Finanzen","Finanzpolitik im Zwiespalt 76 - Unzulängliche Koordination der Finanzpolitik
+      der Gebietskörperschaften und der Kreditpolitik 76 - Planung des Bundes-
+      haushalts - prozyklische Entscheidungen 80- Vorläufige Haushaltsführung des
+      Bundes - prozyklische Wirkungen 82 - Der endgültige Haushalt wirkt anti-
+      zyklisch - zu spät 83 -","74"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","VIII. Öffentliche Finanzen","Haushaltspolitik der Länder - fiskalisches Denken 86 - Haushaltspolitik der Gemeinden wenig Spielraum für selbstständiges
+      antizyklisches Verhalten 88 -","86"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","VIII. Öffentliche Finanzen","Der öffentliche Haushalt insgesamt keine expansiven Wirkungen 89 - Die öffentlichen Haushalte im Quaire 1968 92
+      telfristige Finanzplanung des Bundes 93","88"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","IX. Finanzierung: Geld-, Kredit- und Kapitalmärkte; Zahlungsbilanz"," ","97"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","IX. Finanzierung: Geld-, Kredit- und Kapitalmärkte; Zahlungsbilanz","Bankengeldmarkt und Notenbankpolitik - Auslandseinflüsse 98 - Bank-
+      kredite und Geldkapitalbildung bei Banken - Konsolidierungstendenzen 102 -","97"
+"Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung","IX. Finanzierung: Geld-, Kredit- und Kapitalmärkte; Zahlungsbilanz","Vermögensbildung - mehr Geldsparen, weniger Sachsparen 107 - Kapital-
+      markt - mehr Emissionen, immer noch hohe Zinsen 108 -Zahlungsbilanz - Un-
+      gleichgewicht durch hohe Geldexporte verdeckt 112","107"
+"Zweites Kapitel: Gegen Fehlentwicklungen - für Stabilität im Wachstum"," "," ","115"
+"Zweites Kapitel: Gegen Fehlentwicklungen - für Stabilität im Wachstum","I. Konjunkturpolitische Lehren der letzten vier Jahre"," ","115"
+"Zweites Kapitel: Gegen Fehlentwicklungen - für Stabilität im Wachstum","II. Ziele und Zielkonflikte- auf mittlere Sicht"," ","128"
+"Zweites Kapitel: Gegen Fehlentwicklungen - für Stabilität im Wachstum","II. Ziele und Zielkonflikte- auf mittlere Sicht","Vollbeschäftigung 128 - Stabilität des Preisniveaus 133 - Preisniveau und
+     Beschäftigungsgrad 136 - Angemessenes Wachstum 140 - Außenwirtschaft-
+     liches Gleichgewicht 149","128"
+"Zweites Kapitel: Gegen Fehlentwicklungen - für Stabilität im Wachstum","III. Ziele und Mittel - auf mittlere Sicht"," ","150"
+"Zweites Kapitel: Gegen Fehlentwicklungen - für Stabilität im Wachstum","IV. Ein Rahmenpakt für Expansion und Stabilität"," ","164"
+"Zweites Kapitel: Gegen Fehlentwicklungen - für Stabilität im Wachstum","V. Über Wachstumspolitik als Strukturpolitik"," ","164"
+"Drittes Kapitel: Die voraussehbare Entwicklung"," "," ","167"
+"Viertes Kapitel: Zu Einzelfragen der Stabilitäts- und Wachstumspolitik"," "," ","179"
+"Viertes Kapitel: Zu Einzelfragen der Stabilitäts- und Wachstumspolitik","I. Einkommenspolitik als Stabilitätspolitik: Erfahrungen im Ausland und Lehren
+     für die Bundesrepublik"," ","179"
+"Viertes Kapitel: Zu Einzelfragen der Stabilitäts- und Wachstumspolitik","I. Einkommenspolitik als Stabilitätspolitik: Erfahrungen im Ausland und Lehren
+     für die Bundesrepublik","Vereinigte Staaten 180 - Großbritannien 183 - Niederlande 186 - Schwe-
+nden 189- Zusammenfassung 191","179"
+"Viertes Kapitel: Zu Einzelfragen der Stabilitäts- und Wachstumspolitik","II. Zur Diskussion über die Möglichkeiten der wechselkurspolitischen Absicherung
+      einer binnenwirtschaftlichen Stabilitätspolitik"," ","192"
+"Viertes Kapitel: Zu Einzelfragen der Stabilitäts- und Wachstumspolitik","III. Noch einmal: Der internationale Preiszusammenhang"," ","200"
+"Viertes Kapitel: Zu Einzelfragen der Stabilitäts- und Wachstumspolitik","III. Noch einmal: Der internationale Preiszusammenhang","Die Strenge des internationalen Preiszusammenhangs 200 -Die für die Bun-
+desrepublik relevante internationale Inflationsrate 210- Internationaler Preis-
+Zusammenhang und Zahlungsbilanz 215 - Der internationale Preiszusammen-
+hang im Jahre 1967 218","200"
+"Viertes Kapitel: Zu Einzelfragen der Stabilitäts- und Wachstumspolitik","IV. Umsatzsteuerreform, Außenhandel und Preise"," ","219"
+"Viertes Kapitel: Zu Einzelfragen der Stabilitäts- und Wachstumspolitik","V. Unternehmensfinanzierung, private Ersparnis und Finanzpolitik"," ","226"
+"Viertes Kapitel: Zu Einzelfragen der Stabilitäts- und Wachstumspolitik","V. Unternehmensfinanzierung, private Ersparnis und Finanzpolitik","Entwicklung der Unternehmensfinanzierung 1950 bis 1966 226- Sparförderung
+ohne Deflationsrisiken und ohne Wachstumshemmung 236 - Förderung des
+Beteiligungssparens und der Beteiligungsfinanzierung 237 - Zunehmende
+Staatsverschuldung 240","226"
+

@@ -1,0 +1,561 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Eine kürzere Fassung",
+      "seite": "1",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "27",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Der internationale Rahmen",
+          "seite": "27",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Günstige Ausgangsbedingungen für eine Wiederbelebung der Weltkonjunktur",
+              "seite": "27"
+            },
+            {
+              "ueberschrift_drei_niedriger": "11. Konjunkturflaute geht zu Ende",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konjunkturelle Besserung in Nordamerika",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Differenzierte Konjunkturentwicklung in Europa",
+              "seite": "37"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Abgeschwächte Expansionsdynamik im pazifischen Raum",
+              "seite": "38"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Leicht verringerter Inflationsdruck",
+              "seite": "39"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umlenkung der internationalen Güterströme und Kapitalströme",
+              "seite": "41"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Starke Kursschwankungen wichtiger Anlagewährungen",
+              "seite": "41"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verschuldungskrise der Entwicklungsländer: Erfolge für die Brady-Initiative",
+              "seite": "42"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Japans anhaltende Aufwärtsentwicklung",
+              "seite": "43"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Wirtschaftsreformen in den Staaten Osteuropas schreiten voran",
+              "seite": "46"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anpassungskrise in den osteuropäischen Staaten",
+              "seite": "47"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwieriger Umbau des Wirtschaftssystems",
+              "seite": "48"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unterschiedliche Privatisierungsstrategien in den osteuropäischen Staaten",
+              "seite": "52"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umbau der Wirtschaft erfordert auch westliches Kapital",
+              "seite": "53"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Die wirtschaftliche Entwicklung in der Bundesrepublik Deutschland",
+          "seite": "60",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Überblick",
+              "seite": "60"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IL Neue Bundesländer: Schwieriger Beginn des Neuaufbaus",
+              "seite": "65"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Strukturkrise dauert an",
+              "seite": "66"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Privatisierung: Bislang erst kurze Strecke des Weges bewältigt",
+              "seite": "69"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stabile Erzeugerpreise, steiler Anstieg der Verbraucherpreise",
+              "seite": "70"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steigende Investitionsbereitschaft in Ostdeutschland",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Transfers ermöglichen hohen Privaten Verbrauch",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Absatzprobleme durch Einbruch des Osthandels",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": "fIl. Abgeschwächte Expansion im Westen Deutschlands",
+              "seite": "78"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gedämpfte Expansion des Privaten Verbrauchs im Jahresverlauf",
+              "seite": "78"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geringerer Anstieg der Investitionstätigkeit",
+              "seite": "80"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verlangsamte Expansion in der Bauwirtschaft",
+              "seite": "83"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Überschüsse im Handel mit den neuen Bundesländern",
+              "seite": "84"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Leistungsbilanz im Defizit",
+              "seite": "85"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Abermals starke Zunahme der gesamtwirtschaftlichen Produktionsmöglichkeiten",
+              "seite": "87"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschleunigt steigende Verbraucherpreise",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Arbeitseinkommensquote und Gewinn-Erlös-Relation",
+              "seite": "91"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Gespallene Arbeitsmarktentwicklung",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erneut kräftige Zunahme von Arbeitsangebot und Arbeitsnachfrage in den alten Bundesländern",
+              "seite": "96"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterer Rückgang der Arbeitslosenquote",
+              "seite": "99"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Strukturprobleme am Arbeitsmarkt",
+              "seite": "101"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lohnpolitik: Tariferhöhungen weit über Produktivitätsanstieg",
+              "seite": "103"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Systemwandel erzwingt Abbau unrentabler Arbeitsplätze in den neuen Bundesländern",
+              "seite": "105"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsangebot durch Abwanderung, Auspendler und vorzeitigen Ruhestand stark reduziert",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Intensive Arbeitsmarktpolitik begrenzt den Anstieg der offenen Arbeitslosigkeit",
+              "seite": "108"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Starker Niveausprung bei den Tarifverdiensten",
+              "seite": "110"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Geldpolitik: Auf Stabilitätskurs",
+              "seite": "116"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldmenge im Zielkorridor",
+              "seite": "116"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldüberhang durch Währungsunion?",
+              "seite": "121"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldmarkt am Zügel der Bundesbank",
+              "seite": "122"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zunehmende Mittelaufnahme am Kapitalmarkt",
+              "seite": "125"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwächere internationale Bewertung der D-Mark",
+              "seite": "128"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VlI. Finanzpolitik: Hohe Steuern und Abgaben, ungenügende Ausgabenumschichtungen",
+              "seite": "130"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gebietskörperschaften mit hohem Finanzierungsdefizit",
+              "seite": "131"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sprunghafter Anstieg der Bundesausgaben",
+              "seite": "131"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ungebremste Ausgabenexpansion bei Ländern und Gemeinden in Westdeutschland",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Ausgaben bei Ländern und Gemeinden in Ostdeutschland",
+              "seite": "134"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Differenzierte Entwicklung der Steuereinnahmen",
+              "seite": "137"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hoher Nettokreditbedarf des öffentlichen Sektors",
+              "seite": "138"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur konjunkturellen Würdigung des öffentlichen Defizits",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sozialversicherung in der Übergangsphase: Überschuss im Westen, verdecktes Defizit im Osten",
+              "seite": "141"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rentenversicherung vor der Rechtsangleichung",
+              "seite": "142"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Krankenversicherung wieder mit kräftiger Ausgabenexpansion",
+              "seite": "143"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosenversicherung: Hohe Transferzahlungen für Ostdeutschland",
+              "seite": "144"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unbedachte Verteilungs- und Effizienzprobleme",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VlIl. Engpässe im Verkehrsbereich",
+              "seite": "150"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Zur voraussichtlichen Entwicklung im Jahre 1992",
+      "seite": "153",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Ausgangslage",
+          "seite": "153",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die Annahmen der Prognose",
+          "seite": "153",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "1Il. Das weltwirtschaftliche Umfeld",
+          "seite": "154",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Die wirtschaftlichen Aussichten für die Bundesrepublik",
+          "seite": "156",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Wirtschaftspolitik für 1992 und danach",
+      "seite": "167",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Aufgaben und Möglichkeiten",
+          "seite": "167",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Die politische Führung in besonderer Verantwortung",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IL Ziele und Wirklichkeit",
+              "seite": "169"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die neuen Bedingungen tür Wachstum und Beschäftigung in Deutschland",
+              "seite": "169"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die neuen Bundesländer: Beginn der Aufwärtsentwicklung",
+              "seite": "169"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Alte Bundesländer: noch gute Konjunktur 1991 - zunehmende Risiken",
+              "seite": "170"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Ziele im einzelnen",
+              "seite": "171"
+            },
+            {
+              "ueberschrift_drei_niedriger": "1lI, Zu den Grundlinien der Wirtschaftspolitik",
+              "seite": "173"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die wirtschaftliche Integration in Deutschland: Perspektiven - Wege - Risiken",
+              "seite": "173"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sicherung der Wachstumskräfte",
+              "seite": "174"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rückgewinnung der Geldwertstabilität",
+              "seite": "176"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Zu den Politikbereichen im einzelnen",
+          "seite": "178",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "L Geldpolitik: Auf Stabilitätskurs bleiben",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Finanzpolitik: Eine verläßliche Konzeption entwickeln",
+              "seite": "182"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzausstattung der neuen Bundesländer sichern",
+              "seite": "183"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform des Finanzausgleichs",
+              "seite": "185"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nach wie vor: Zu geringe Finanzierungsbeiträge der alten Bundesländer",
+              "seite": "186"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bund trägt die Finanzierungsrisiken",
+              "seite": "186"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzierung der Transfers",
+              "seite": "187"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Priorität: Ausgabenkürzungen",
+              "seite": "189"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weitere Steuererhöhungen vermeiden",
+              "seite": "190"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform der Unternehmensbesteuerung bleibt aktuell",
+              "seite": "190"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Besteuerung von Zinseinkünften",
+              "seite": "191"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Absicherung des Pflegekostenrisikos",
+              "seite": "193"
+            },
+            {
+              "ueberschrift_drei_niedriger": "lll, Tarifpolitik: Die Überforderung der wirtschaftlichen Leistungskraft vermeiden",
+              "seite": "196"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neue Bundesländer: Zu sicheren Arbeitsplätzen beitragen",
+              "seite": "196"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Alte Bundesländer: Zum Pfad der Stabilität zurückkehren",
+              "seite": "200"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Abwanderungen: ein Ausgleichsmechanismus",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neue Anforderungen an die Tarifpolitik durch die wirtschaftliche Vereinigung Europas",
+              "seite": "202"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil C: Europäische Gemeinschaft: Binnenmarkt vollenden - nach außen öffnen",
+          "seite": "205",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Spannungen für die Gemeinschaft",
+              "seite": "205"
+            },
+            {
+              "ueberschrift_drei_niedriger": "11. Den Binnenmarkt vollenden",
+              "seite": "207"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steuergrenzen nicht überwunden",
+              "seite": "207"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umweltpolitik: Die richtigen Anreize setzen",
+              "seite": "209"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weltbewerbspolitik anstatt Industriepolitik",
+              "seite": "211"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Agrarpolitik: Reformerfordernisse ohne Ende",
+              "seite": "211"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Europäisches Zentralbanksystem: Stabilitätsziel verankern",
+              "seite": "212"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Die Integration Osteuropas",
+              "seite": "216"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Zum wirtschaftlichen Aufbau in den neuen Bundesländern",
+      "seite": "218",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Dem Umstellungsprozess Hindernisse aus dem Weg räumen",
+          "seite": "218",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "11. Überwindung wachstumshemmender Engpässe",
+          "seite": "219",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Klärung der Eigentumsverhältnisse",
+              "seite": "219"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stärkung der Leistungsfähigkeit der Verwaltung",
+              "seite": "221"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verbesserung der Umwelt, Beschleunigung beim Ausbau der Infrastruktur",
+              "seite": "222"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Regulierungen aus der alten Bundesrepublik - Hemmnisse im Transformationsprozess?",
+              "seite": "224"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IH. Treuhandanstalt: Privatisierung fortsetzen und zum Abschluss bringen",
+          "seite": "226",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Beachtliche Anfangserfolge, aber Gefahren für die Zukunft",
+              "seite": "226"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Problembereich : Unternehmen mit ungewissen Privatisierungsaussichten",
+              "seite": "227"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sanierung ohne Privatisierung?",
+              "seite": "228"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kontroverse Argumente zur Sanierung",
+              "seite": "229"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Privatisierungspotential voll ausschöpfen",
+              "seite": "230"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Abschluss der Tätigkeit im Kernbereich",
+              "seite": "231"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Eine Strukturpolitik für die neuen Bundesländer?",
+          "seite": "232",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "V. Die Regionen im Standortwettbewerb",
+          "seite": "234",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "VI. Arbeitsmarktpolitik: Förderung und soziale Flankierung des Erneuerungsprozesses",
+          "seite": "238",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Offene und verdeckte Arbeitslosigkeit in der Anpassungskrise",
+              "seite": "238"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Vielfalt der arbeitsmarktpolitischen Instrumente mit Bedacht nutzen",
+              "seite": "238"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lohnsubventionen: Eine Alternative?",
+              "seite": "242"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VII. Landwirtschaft: Agrarpolitik erschwert die Neuorientierung",
+          "seite": "243",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+
+ende_json

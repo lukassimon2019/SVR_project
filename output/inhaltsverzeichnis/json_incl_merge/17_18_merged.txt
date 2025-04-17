@@ -1,0 +1,859 @@
+
+```json
+{
+  "type": "object",
+  "properties": {
+    "kapitel": {
+      "type": "array",
+      "items": [
+        {
+          "ueberschrift_eins": "Kurzfassung",
+          "seite": "1",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "Für eine zukunftsorientierte Wirtschaftspolitik",
+              "seite": "1",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "Kräftiger Aufschwung, beste Bedingungen für Reformen",
+              "seite": "1",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "Geldpolitische Wende, steigende Risiken im Finanzsystem",
+              "seite": "3",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "Stabilität für den Euro-Raum",
+              "seite": "4",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "Erneuerung der Europäischen Union",
+              "seite": "5",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "Globalisierung",
+              "seite": "6",
+              "dritte_und_niedrigere_ebene": []
+            }
+          ]
+        },
+        {
+          "ueberschrift_eins": "Erstes Kapitel\nFür eine zukunftsorientierte Wirtschaftspolitik",
+          "seite": "8",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Für eine zukunftsorientierte Wirtschaftspolitik",
+              "seite": "9",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "II. Kräftiger Aufschwung, geldpolitische Wende",
+              "seite": "11",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Kräftiger Aufschwung im Euro-Raum",
+                  "seite": "12"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Strategie für die geldpolitische Wende im Euro-Raum",
+                  "seite": "15"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Steigende Risiken im Finanzsystem",
+                  "seite": "17"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "III. Nachhaltige Wirtschaftspolitik",
+              "seite": "18",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Steigerung des Arbeitskräftepotenzials",
+                  "seite": "19"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Solide Finanzpolitik notwendig",
+                  "seite": "22"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Finanzpolitische Herausforderungen für Länder und Gemeinden",
+                  "seite": "26"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "4. Vorausschauende Reformen der Altersvorsorge",
+                  "seite": "28"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "5. Effizienzpotenziale bei der Gesundheitsversorgung",
+                  "seite": "29"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "IV. Digitalisierung als Chance",
+              "seite": "31",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Für einen innovationsoffenen Ordnungsrahmen",
+                  "seite": "31"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Gute Verfassung des Arbeitsmarkts",
+                  "seite": "33"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Digitale Arbeitswelt der Zukunft",
+                  "seite": "35"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "V. Mehr Markt im Klimaschutz",
+              "seite": "37",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "VI. Stabilität für den Euro-Raum",
+              "seite": "39",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Konvergenz der wirtschaftlichen Leistungsfähigkeit durch Reformen",
+                  "seite": "40"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Priorität für eine solide nationale Fiskalpolitik",
+                  "seite": "41"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Vor- und Nachteile fiskalischer Ausgleichsmechanismen",
+                  "seite": "45"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "4. Banken- und Kapitalmarktunion vervollständigen",
+                  "seite": "48"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "5. Stärkung des Europäischen Stabilitätsmechanismus",
+                  "seite": "51"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "6. Bedingungen für die Schaffung sicherer Wertpapiere im Euro-Raum",
+                  "seite": "53"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "VII. Erneuerung der Europäischen Union",
+              "seite": "55",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Viele gemeinsame Anliegen bei EU-Reformen",
+                  "seite": "56"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Fristverlängerung statt ungeordnetem Brexit",
+                  "seite": "60"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "VIII. Globalisierung",
+              "seite": "61",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Wohlfahrtssteigerung durch internationalen Handel",
+                  "seite": "61"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Migrationsdruck nach Europa wird nicht nachlassen",
+                  "seite": "62"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "Eine andere Meinung",
+              "seite": "65",
+              "dritte_und_niedrigere_ebene": []
+            }
+          ]
+        },
+        {
+          "ueberschrift_eins": "Zweites Kapitel\nInternationale Konjunktur: Weltwirtschaft im Aufwind",
+          "seite": "76",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Weltwirtschaft: Wachstum gefestigt",
+              "seite": "78",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Konjunkturelle Lage",
+                  "seite": "78"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Fortgeschrittene Volkswirtschaften gemeinsam im Aufschwung",
+                  "seite": "79"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Wieder bessere Aussichten für die Schwellenländer",
+                  "seite": "82"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Ausblick",
+                  "seite": "82"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Chancen und Risiken",
+                  "seite": "85"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "II. Konjunktur außerhalb des Euro-Raums",
+              "seite": "87",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Vereinigte Staaten: Wachstumsdynamik setzt sich trotz politischer\nUnsicherheit fort",
+                  "seite": "87"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. China: Beständiges Wachstum mit Risiken",
+                  "seite": "90"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Japan: Aufschwung und angespannter Arbeitsmarkt",
+                  "seite": "92"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "4. Vereinigtes Königreich: Brexit-Countdown läuft",
+                  "seite": "94"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "III. Euro-Raum: Aufschwung übertrifft Erwartungen",
+              "seite": "97",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Konjunkturelle Lage",
+                  "seite": "98"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Positionen im Konjunkturzyklus",
+                  "seite": "101"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Geld- und Fiskalpolitik",
+                  "seite": "105"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Strukturelle Anpassungen und Probleme",
+                  "seite": "105"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Wettbewerbsfähigkeit",
+                  "seite": "105"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Strukturwandel",
+                  "seite": "108"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Anhaltende Probleme",
+                  "seite": "110"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Ausblick",
+                  "seite": "112"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ueberschrift_eins": "Drittes Kapitel\nZunehmende Überauslastung der deutschen Wirtschaft",
+          "seite": "116",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Überblick",
+              "seite": "118",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Kapitalauslastung bereits hoch",
+                  "seite": "118"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Lohn- und Preisentwicklung noch moderat",
+                  "seite": "124"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Wachstum weiterhin kräftig",
+                  "seite": "129"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "II. Die Entwicklung im Einzelnen",
+              "seite": "135",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Rahmenbedingungen expansiv",
+                  "seite": "136"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Verwendungskomponenten dynamisch",
+                  "seite": "138"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Außenhandel zieht an",
+                  "seite": "138"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Investitionen überwinden Schwächephase",
+                  "seite": "139"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Privater Konsum expandiert robust",
+                  "seite": "140"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Verbraucherpreisentwicklung normalisiert sich",
+                  "seite": "141"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "4. Beschäftigungszunahme weiterhin hoch",
+                  "seite": "142"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "5. Hohe Abgabenbelastung – Rekordüberschüsse",
+                  "seite": "145"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "III. Mittelfristprojektion",
+              "seite": "147",
+              "dritte_und_niedrigere_ebene": []
+            }
+          ]
+        },
+        {
+          "ueberschrift_eins": "Viertes Kapitel\nGeldpolitische Wende und nachhaltige Wirtschaftspolitik\nim Euro-Raum",
+          "seite": "156",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Geldpolitische Wende erforderlich",
+              "seite": "158",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "II. Niedrigzinsen und Gleichgewicht",
+              "seite": "159",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "III. Geldpolitik expandiert noch immer",
+              "seite": "164",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Maßnahmen der EZB seit dem Jahr 2016",
+                  "seite": "164"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Wirtschaftliche Erholung hält an",
+                  "seite": "169"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Einordnung des geldpolitischen Kurses",
+                  "seite": "171"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "IV. Strategie für eine Normalisierung",
+              "seite": "174",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Was heißt Normalisierung?",
+                  "seite": "174"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Normalisierungsstrategie erforderlich",
+                  "seite": "175"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Ausgangssituation an den Finanzmärkten",
+                  "seite": "179"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Risiken für die Finanzstabilität",
+                  "seite": "179"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Risiken für die Tragfähigkeit der öffentlichen Finanzen",
+                  "seite": "181"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "4. Elemente einer Strategie",
+                  "seite": "183"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Symmetrische Reaktion",
+                  "seite": "183"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Erst Netto-Anleihekäufe beenden",
+                  "seite": "184"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Forward Guidance zu einer EZB-Ratsprognose ausbauen",
+                  "seite": "185"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Finanzielle und fiskalische Dominanz sind vermeidbar",
+                  "seite": "187"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "V. Nachhaltige Wirtschaftspolitik",
+              "seite": "188",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Fiskalische Konsolidierung und Zinsersparnis",
+                  "seite": "189"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Strukturreformen und Wachstum",
+                  "seite": "197"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "Eine andere Meinung",
+              "seite": "200",
+              "dritte_und_niedrigere_ebene": []
+            }
+          ]
+        },
+        {
+          "ueberschrift_eins": "Fünftes Kapitel\nFinanzmärkte: Lücken in der Regulierung, steigende\nRisiken",
+          "seite": "212",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Lücken in der Regulierung schließen",
+              "seite": "214",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "II. Nachbesserungsbedarf beim Bankenabwicklungsregime",
+              "seite": "215",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Abwicklungsregime mit Lücken",
+                  "seite": "216"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Reformbedarf beim Abwicklungsregime",
+                  "seite": "220"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Altlasten durch notleidende Kredite",
+                  "seite": "222"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "III. Proportionalität der Regulierung",
+              "seite": "226",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Wege zu mehr Proportionalität",
+                  "seite": "227"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Bankengröße und Systemrelevanz",
+                  "seite": "228"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Effizienz der Regulierung erhöhen",
+                  "seite": "229"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "4. Keine Abkehr vom einheitlichen Regulierungssystem",
+                  "seite": "231"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "IV. Makroprudenzielle Regulierung",
+              "seite": "232",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Steigende Risiken im Finanzsystem",
+                  "seite": "232"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Wirksamkeit der makroprudenziellen Instrumente",
+                  "seite": "235"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Neue makroprudenzielle Instrumente in Deutschland unzureichend",
+                  "seite": "240"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "4. Schattenbanken im Aufwind",
+                  "seite": "243"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "5. Systemrelevanz von Investmentfonds",
+                  "seite": "245"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "6. Makroprudenzielle Regulierung von Investmentfonds",
+                  "seite": "249"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ueberschrift_eins": "Sechstes Kapitel\nSolide Finanzpolitik gerade in guten Zeiten",
+          "seite": "264",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Fiskalische Nachhaltigkeit in Europa",
+              "seite": "266",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Langfristiger Trend zu steigenden Schuldenständen",
+                  "seite": "266"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Bewertung der fiskalischen Nachhaltigkeit",
+                  "seite": "268"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Reaktionen der Politik auf Verschuldung",
+                  "seite": "271"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "4. Einnahmeseitige Konsolidierungsmöglichkeiten",
+                  "seite": "273"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "5. Weitere Beschränkungen der Tragfähigkeit",
+                  "seite": "278"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "6. Fazit: Institutionelle Rahmenbedingungen stärken",
+                  "seite": "280"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "II. Die deutsche Finanzpolitik",
+              "seite": "283",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Finanzlage derzeit gut, Herausforderungen bleiben",
+                  "seite": "283"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Hintergründe der verbesserten Finanzlage",
+                  "seite": "285"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Verbesserter struktureller Primärsaldo",
+                  "seite": "285"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Staatsausgaben ansteigend, öffentliche Investitionen verhalten",
+                  "seite": "288"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Überschüsse wegen dynamischer Einnahmen",
+                  "seite": "290"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Herausforderungen für Länder und Gemeinden",
+                  "seite": "292"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Überwiegend Überschüsse",
+                  "seite": "292"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Verschuldung verringert, Kassenkredite konzentriert",
+                  "seite": "295"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Auswirkungen einer Zinserhöhung",
+                  "seite": "298"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Risiken für die Länder durch die Beamtenversorgung",
+                  "seite": "300"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Erheblicher Teil von Staatstätigkeit in Ausgliederungen",
+                  "seite": "302"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "4. Fazit: Einheit von Haftung und Kontrolle stärken",
+                  "seite": "305"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "Eine andere Meinung",
+              "seite": "307",
+              "dritte_und_niedrigere_ebene": []
+            }
+          ]
+        },
+        {
+          "ueberschrift_eins": "Siebtes Kapitel\nProtektionismus verhindern, Strukturwandel unterstützen",
+          "seite": "314",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Globaler Handel und Wohlstand",
+              "seite": "316",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "II. Gesamtwirtschaftliche Handelseffekte",
+              "seite": "318",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Historische Einordnung der Globalisierung",
+                  "seite": "318"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Auswirkungen der Handelsliberalisierung",
+                  "seite": "323"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Quantifizierung der Wohlfahrtseffekte von Handelsliberalisierung und\nProtektionismus",
+                  "seite": "326"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "III. Disaggregierte Handelseffekte",
+              "seite": "330",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Außenhandelsaktive Unternehmen sind produktiver",
+                  "seite": "331"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Heterogene Effekte auf regionale und sektorale Beschäftigung",
+                  "seite": "333"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Auswirkungen der Handelsöffnung durch China und Osteuropa",
+                  "seite": "335"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Anpassungsprozesse am Arbeitsmarkt",
+                  "seite": "340"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Geringe Effekte der Handelsöffnung auf die Löhne",
+                  "seite": "344"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "4. Höhere Lebensstandards und Produktvielfalt durch Handel",
+                  "seite": "346"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "IV. Wirtschaftspolitische Implikationen",
+              "seite": "349",
+              "dritte_und_niedrigere_ebene": []
+            }
+          ]
+        },
+        {
+          "ueberschrift_eins": "Achtes Kapitel\nArbeitsmarkt: Fachkräftesicherung im digitalen Wandel",
+          "seite": "360",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Arbeitsmarkt in sehr guter Verfassung",
+              "seite": "362",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Atypische Beschäftigung verliert an Bedeutung",
+                  "seite": "362"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Normalbeschäftigung legt weiterhin kräftig zu",
+                  "seite": "363"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Anteil befristeter und geringfügiger Beschäftigung sinkt,\nZeitarbeit nimmt zu",
+                  "seite": "364"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Steigende Erwerbsbeteiligung von Frauen hält an",
+                  "seite": "367"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Hindernisse auf dem Weg zur Vollbeschäftigung",
+                  "seite": "370"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Verfestigte Arbeitslosigkeit bleibt ein Problem",
+                  "seite": "370"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Integration der anerkannten Asylbewerber benötigt Zeit",
+                  "seite": "371"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Strukturwandel als dauernder Wegbegleiter",
+                  "seite": "374"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Folgen des technologischen Wandels für den Arbeitsmarkt",
+                  "seite": "374"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Viele neue und gewandelte Ausbildungsberufe",
+                  "seite": "376"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Auswirkungen der Automatisierung auf den Arbeitsmarkt",
+                  "seite": "378"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Digitalisierung und Demografie als Quellen fortgesetzten Wandels",
+                  "seite": "381"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "II. Fachkräftesicherung für die Zukunft",
+              "seite": "384",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Fachkräfteengpässen wirksam begegnen",
+                  "seite": "384"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Rekordstand an offenen Stellen",
+                  "seite": "384"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Ungenutzte Arbeitskräftepotenziale besser ausschöpfen",
+                  "seite": "386"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Gesteuerte Zuwanderung stärken",
+                  "seite": "387"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Hürden für den Einstieg in den Arbeitsmarkt",
+                  "seite": "388"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Zugang zum Arbeitsmarkt erleichtern, nicht hemmen",
+                  "seite": "388"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "Eine andere Meinung",
+                  "seite": "390"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Geringe Verzahnung von Behörden verlangsamt Integration",
+                  "seite": "392"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Zum digitalen Wandel befähigen",
+                  "seite": "393"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Nachholbedarf bei digitaler Infrastruktur",
+                  "seite": "393"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Allgemeine Kompetenzen stärken",
+                  "seite
+
+```json
+: "396"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Lebenslanges Lernen",
+                  "seite": "398"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ueberschrift_eins": "Neuntes Kapitel\nEinkommensungleichheit: Eine tiefergehende Analyse",
+          "seite": "408",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Einkommen und Armut in Deutschland",
+              "seite": "410",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Stabile Entwicklung der Nettoeinkommen",
+                  "seite": "410"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Überlagerungen des Ungleichheitsdiskurses",
+                  "seite": "413"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Eine aktualisierte Bestandsaufnahme",
+                  "seite": "415"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "II. Ein tieferer Blick in die Einkommensverteilung",
+              "seite": "418",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Veränderung der Haushaltstypen",
+                  "seite": "418"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Sozio-ökonomische Unterschiede bei Ungleichheit und Mobilität",
+                  "seite": "419"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Mobilität und Bildungsexpansion",
+                  "seite": "423"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "III. Chancengerechtigkeit und Teilhabe stärken",
+              "seite": "425",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "Eine andere Meinung",
+              "seite": "426",
+              "dritte_und_niedrigere_ebene": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+```
+ende_json
+

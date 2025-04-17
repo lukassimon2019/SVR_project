@@ -1,0 +1,1669 @@
+
+```json
+{
+  "type": "object",
+  "properties": {
+    "kapitel": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "ERSTES KAPITEL\nInternationale Konjunktur: Erholung zeichnet sich ab",
+            "seite": "18",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Überblick zur Weltkonjunktur",
+                  "seite": "20",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Industrieländer im Aufschwung, Schwellenländer schwächeln",
+                        "seite": "20"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Leichte Beschleunigung im kommenden Jahr",
+                        "seite": "25"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Risiken",
+                        "seite": "26"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Zur Lage in den Ländern außerhalb des Euro-Raums",
+                  "seite": "30",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Industrieländer: Wirtschaft belebt sich",
+                        "seite": "30"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Vereinigte Staaten: Haushaltsstreit gefährdet den Aufschwung",
+                        "seite": "31"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Japan: „Abenomics“ führt aus der Rezession",
+                        "seite": "33"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Vereinigtes Königreich: Wirtschaft wird vom Aufschwung im Euro-\nRaum begünstigt",
+                        "seite": "35"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Schwellenländer: Abwärtstrend setzt sich fort",
+                        "seite": "36"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "China: Weiterhin starke Abhängigkeit von den Investitionen",
+                        "seite": "36"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Indien: Hausgemachte Probleme dämpfen Produktionsausweitung",
+                        "seite": "38"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Brasilien: Robuste Entwicklung trotz hoher Inflation",
+                        "seite": "39"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Russland: Schwache Rohstoffnachfrage belastet Konjunktur",
+                        "seite": "39"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Zur Lage im Euro-Raum",
+                  "seite": "42",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Euro-Raum überwindet die Rezession",
+                        "seite": "42"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Anpassungsprozesse machen Fortschritte",
+                        "seite": "44"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Erholung festigt sich im kommenden Jahr",
+                        "seite": "59"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "4. Konjunktur in ausgewählten Volkswirtschaften des Euro-Raums",
+                        "seite": "60"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Frankreich: Expansion der Konsumausgaben verhindert Rezession",
+                        "seite": "60"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Italien: Politische Unsicherheit belastet konjunkturelle Erholung",
+                        "seite": "61"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Spanien: Anziehender Außenhandel kompensiert schwache Binnen-\nnachfrage",
+                        "seite": "61"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "ZWEITES KAPITEL\nKonjunktur in Deutschland: Aufschwung ist angelegt",
+            "seite": "64",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Konjunktur in Deutschland: Aufschwung ist angelegt",
+                  "seite": "66",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Zur wirtschaftlichen Lage in Deutschland",
+                        "seite": "66"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Rahmenbedingungen und Annahmen der Prognose",
+                        "seite": "74"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Die Entwicklung im Einzelnen",
+                        "seite": "78"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Außenhandel: Exportbelebung nach magerem Jahr",
+                        "seite": "79"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Investitionen: Indikatoren signalisieren Beschleunigung",
+                        "seite": "81"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Konsumausgaben: Anhaltend positive Perspektiven",
+                        "seite": "85"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Preisentwicklung: Leichter Auftrieb von niedrigem Niveau",
+                        "seite": "85"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Arbeitsmarkt: Weiterhin steigende Beschäftigung",
+                        "seite": "86"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Öffentliche Finanzen: Weiterhin ausgeglichene Haushalte erreichbar",
+                        "seite": "90"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "DRITTES KAPITEL\nGeldpolitik und fiskalische Konsolidierung im Euro-Raum",
+            "seite": "98",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Das Zusammenspiel von Geld- und Fiskalpolitik",
+                  "seite": "100",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Ziele, Instrumente, Wechselwirkungen und Risiken",
+                        "seite": "100"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Die Zinspolitik der EZB: Einordnung und Kommunikation",
+                  "seite": "103",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Konjunktur, Inflation und Notenbankzinsen",
+                        "seite": "103"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Zinsregeln zur Einordnung der geldpolitischen Entscheidungen",
+                        "seite": "105"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Vergleich der EZB-Leitzinspolitik mit einfachen Zinsregeln",
+                        "seite": "106"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Kommunikation der EZB: Forward Guidance und Protokolle",
+                        "seite": "109"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Transparenz durch Veröffentlichung der EZB-Sitzungsprotokolle\nerhöhen",
+                        "seite": "112"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Zwischenfazit",
+                        "seite": "114"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Außergewöhnliche geldpolitische Maßnahmen",
+                  "seite": "114",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Die Entwicklung an den Staatsanleihe- und Interbankenmärkten",
+                        "seite": "114"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Die Outright Monetary Transactions der EZB",
+                        "seite": "118"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Die Notfallliquiditätshilfen der nationalen Zentralbanken",
+                        "seite": "122"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "4. Zwischenfazit",
+                        "seite": "124"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "IV. Fiskalische Konsolidierung im Euro-Raum: Vorhaben und Wirkung",
+                  "seite": "124",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Notwendigkeit fiskalischer Konsolidierung",
+                        "seite": "124"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Konsolidierungspläne für den Euro-Raum",
+                        "seite": "127"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Wirkungskanäle der fiskalischen Konsolidierung und ihre Modellierung",
+                        "seite": "129"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Zentrale Wirkungskanäle der fiskalischen Konsolidierung",
+                        "seite": "132"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Eine quantitative Analyse der Auswirkungen für den Euro-Raum",
+                        "seite": "134"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Die Gewichtung von ausgaben- und einnahmeorientierten Maß-\nnahmen",
+                        "seite": "134"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Effekte der aggregierten Konsolidierungspläne für den Euro-Raum",
+                        "seite": "137"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "4. Zwischenfazit",
+                        "seite": "140"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Eine andere Meinung",
+                        "seite": "141"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "V. Die neue Welt der OMT: Keine Basis für den Schuldentilgungspakt",
+                  "seite": "143",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Die Welt der OMT: Die EZB zwischen Geld- und Fiskalpolitik",
+                        "seite": "144"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Haftung ohne starke Kontrolle: Die Anreizprobleme der OMT",
+                        "seite": "146"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Haftung mit mehr Kontrolle: Der Schuldentilgungspakt als Alter-\nnative",
+                        "seite": "147"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Eine andere Meinung",
+                        "seite": "149"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "VIERTES KAPITEL\nInstitutionelle Reformen für die Europäische Währungsunion: Zwischen\nvertiefter Wirtschafts- und Finanzunion und Maastricht 2.0",
+            "seite": "156",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Vorschläge für einen langfristigen Ordnungsrahmen für den Euro-Raum",
+                  "seite": "158",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Das Konzept des Sachverständigenrates",
+                        "seite": "159"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Fiskalpolitik",
+                        "seite": "160"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Krisenmechanismus",
+                        "seite": "161"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Wirtschaftspolitik",
+                        "seite": "164"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Eine andere Meinung",
+                        "seite": "164"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Finanzmarktordnung",
+                  "seite": "167",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Europäische Bankenaufsicht",
+                        "seite": "168"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Harmonisierung und Zentralisierung von Abwicklungsverfahren",
+                        "seite": "171"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Abwicklungsfinanzierung",
+                        "seite": "174"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Fiskalpolitik",
+                  "seite": "179",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Regelgebundener Rahmen",
+                        "seite": "180"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Fiskalkapazität zur Schockabsorption",
+                        "seite": "188"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Effekte einer Fiskalkapazität",
+                        "seite": "189"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Bewertung",
+                        "seite": "191"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "IV. Wirtschaftspolitik",
+                  "seite": "193",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Koordinierung der Wirtschaftspolitik",
+                        "seite": "194"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Vertragliche Vereinbarungen zur Steigerung der Wettbewerbsfähigkeit",
+                        "seite": "199"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "V. Fazit",
+                  "seite": "202"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "FÜNFTES KAPITEL\nFinanzmarkt: Deutschland auf dem Weg in die Europäische Bankenunion",
+            "seite": "208",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Strukturprobleme im europäischen Bankensektor",
+                  "seite": "210",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Indikatoren für Strukturprobleme",
+                        "seite": "211"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Effekte auf die Kreditmärkte",
+                        "seite": "216"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Wirtschaftspolitische Optionen",
+                        "seite": "218"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Forcierte Sanierung der Banken",
+                        "seite": "218"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Keine subventionierten Kreditprogramme",
+                        "seite": "223"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Verbesserter Zugang zu Eigenkapital",
+                        "seite": "224"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "4. Zwischenfazit",
+                        "seite": "226"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Marktstrukturen im deutschen Bankensektor",
+                  "seite": "226",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Bestandsaufnahme",
+                        "seite": "227"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Wettbewerb im Bankensektor und realwirtschaftliche Entwicklung",
+                        "seite": "230"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Marktstrukturen und Finanzstabilität",
+                        "seite": "232"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Wettbewerb und Finanzstabilität",
+                        "seite": "232"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Verbundstrukturen und Finanzstabilität",
+                        "seite": "233"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "4. Zwischenfazit",
+                        "seite": "237"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Umsetzungsfragen der Bankenunion aus deutscher Sicht",
+                  "seite": "238",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Europäische Bankenaufsicht: Verbundstrukturen nicht außer Acht lassen",
+                        "seite": "238"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Abwicklungsfinanzierung: Viele offene Fragen",
+                        "seite": "239"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Einbeziehung von Einlagensicherungssystemen",
+                        "seite": "239"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Ausgestaltung der europäischen Bankenabgabe",
+                        "seite": "240"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "IV. Fazit",
+                  "seite": "242"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "SECHSTES KAPITEL\nArbeitsmarkt: Institutionelle Rahmenbedingungen für mehr Flexibilität",
+            "seite": "248",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Europäische Arbeitsmärkte: Einheit in Vielfalt",
+                  "seite": "251",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Die heterogene Entwicklung der europäischen Arbeitsmärkte",
+                        "seite": "251"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Die Institutionenvielfalt der europäischen Arbeitsmärkte",
+                        "seite": "257"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Institutionen des Arbeitsmarkts: Bedeutung und Wirkung",
+                  "seite": "261",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Institutionen des Arbeitsmarkts: Die Balance von Kontinuität und Wandel",
+                        "seite": "261"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Ausgewählte Institutionen des Arbeitsmarkts und ihre Interaktion",
+                        "seite": "265"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Kündigungsschutz, Lohnersatzleistungen, befristete Beschäftigung",
+                        "seite": "265"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Interne Flexibilität: Arbeitszeitkonten, Kurzarbeit, Lohnzurückhaltung",
+                        "seite": "267"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Arbeitskosten und Produktivität: Steuern, Abgaben, Mindestlöhne",
+                        "seite": "268"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Aktive Arbeitsmarktpolitik: Instrument mit begrenzter Wirkung",
+                  "seite": "272"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "IV. Europa: Institutionelle Reformen in nationaler Verantwortung",
+                  "seite": "275",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Die Umsetzung institutioneller Reformen",
+                        "seite": "276"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Die Notwendigkeit nationaler Reformanstrengungen",
+                        "seite": "277"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "V. Deutschland: Institutionelle Reformen weiter stärken",
+                  "seite": "282",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Gegen einen flächendeckenden gesetzlichen Mindestlohn",
+                        "seite": "284"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Mehr Flexibilität, statt mehr Regulierung",
+                        "seite": "287"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Fazit",
+                        "seite": "289"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Eine andere Meinung",
+                        "seite": "289"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "SIEBENTES KAPITEL\nKonsolidierung der öffentlichen Haushalte: Kein Grund zur Selbstgefällig-\nkeit",
+            "seite": "302",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Langfristige Herausforderungen nicht unterschätzen",
+                  "seite": "304",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "
+
+```json
+                  "properties": {
+                        "ueberschrift_drei_niedriger": "1. Rückkehr zu tragfähigen Haushalten erfordert weitere Haushaltsdisziplin",
+                        "seite": "304"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Die positive Haushaltslage als Spiegelbild außergewöhnlicher Entwick-\nlungen",
+                        "seite": "313"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Einfluss des niedrigen Zinsniveaus auf die Einnahmen und Ausgaben\ndes Staates",
+                        "seite": "313"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "„Demografisches Zwischenhoch“",
+                        "seite": "315"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Die Verschuldungssituation des Staates",
+                  "seite": "317"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Konsolidierung auf Ebene der Gebietskörperschaften",
+                  "seite": "320",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Gesetz zur innerstaatlichen Umsetzung des Fiskalvertrags",
+                        "seite": "321"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Der Bundeshaushalt im Rahmen der Schuldenregel",
+                        "seite": "322"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Die Länder auf dem schwierigen Weg zu ausgeglichenen Haushalten",
+                        "seite": "323"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Konsolidierungserfordernisse der Länder und Gemeinden bis zum\nJahr 2020",
+                        "seite": "323"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Potenziale bei den Ausgaben von Ländern und Kommunen",
+                        "seite": "326"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "IV. Fazit",
+                  "seite": "329"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "Eine andere Meinung",
+                  "seite": "330"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "ACHTES KAPITEL\nSteuerpolitik: Vor falschen Weichenstellungen",
+            "seite": "336",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Vermögensteuer und Spitzensteuersatz der Einkommensteuer",
+                  "seite": "338",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Die Vermögensteuer: Steuerpolitischer Holzweg",
+                        "seite": "339"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Investitionstätigkeit und internationale Standortattraktivität",
+                        "seite": "340"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Erhebungskosten und gleichmäßige Besteuerung bei einer Vermögen-\nsteuer",
+                        "seite": "343"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Anhebung des Spitzensteuersatzes bei der Einkommensteuer",
+                        "seite": "345"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Reform des Ehegattensplittings",
+                  "seite": "348",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Reformvorschläge zur Eingrenzung des Ehegattensplittings",
+                        "seite": "349"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Verfassungsrechtliche Rahmenbedingungen",
+                        "seite": "350"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Arbeitsanreize für den Zweitverdiener",
+                        "seite": "352"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Grundsätzliche Auswirkungen der Reformoptionen",
+                        "seite": "352"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Wechselwirkungen von Ehegattensplitting und Minijob-Regelung",
+                        "seite": "358"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "4. Aufkommens- und Verteilungswirkungen",
+                        "seite": "360"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "5. Familiensplitting und Familienrealsplitting",
+                        "seite": "362"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Was steuerpolitisch zu tun und zu lassen ist",
+                  "seite": "364"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "Anhang: Mehrbelastungen durch die Kalte Progression",
+                  "seite": "367"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "NEUNTES KAPITEL\nSozialpolitik: Die richtigen Reformen statt Leistungsausweitungen",
+            "seite": "372",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Die Agenda 2010 und ihre Weiterentwicklung",
+                  "seite": "374"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Zur Verteilungsdiskussion: Mehr Chancengleichheit notwendig",
+                  "seite": "376",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Verteilung der Einkommen",
+                        "seite": "376"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Intra- und intergenerationale Mobilität",
+                        "seite": "379"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Eine andere Meinung",
+                        "seite": "381"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Sozialversicherungen: Erfolge der Agenda 2010, dennoch weiterhin Hand-\nlungsbedarf",
+                  "seite": "384",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Gesetzliche Rentenversicherung",
+                        "seite": "384"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Zur Aufstockung niedriger Renten",
+                        "seite": "385"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Zur rentenrechtlichen Besserstellung von Müttern",
+                        "seite": "388"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Was noch zu tun ist",
+                        "seite": "389"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Gesetzliche Krankenversicherung",
+                        "seite": "391"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Was noch zu tun ist",
+                        "seite": "393"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Soziale Pflegeversicherung",
+                        "seite": "393"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Was noch zu tun ist",
+                        "seite": "394"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "IV. Familienpolitik aus ökonomischer Perspektive",
+                  "seite": "394",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Überblick über die familien- und ehebezogenen Leistungen",
+                        "seite": "395"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Familienpolitik und die Agenda 2010",
+                        "seite": "397"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Was noch zu tun ist",
+                        "seite": "399"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Familienpolitik, Potenzialwachstum und demografischer Wandel",
+                        "seite": "399"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Zur Erhöhung der Anzahl der Erwerbspersonen",
+                        "seite": "400"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Zur Erhöhung der Fertilität",
+                        "seite": "402"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Zur Erhöhung der Produktivität durch Bildung",
+                        "seite": "403"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "4. Fazit",
+                        "seite": "405"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Anhang zur Analyse der Einkommensverteilung: Datenbasis, Einkommenskon-\nzepte und Verteilungsmaß",
+                        "seite": "407"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Datenbasis",
+                        "seite": "407"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Einkommenskonzepte",
+                        "seite": "407"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Verteilungsmaß",
+                        "seite": "408"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "ZEHNTES KAPITEL\nEnergiepolitik: Warten auf die dringend notwendigen Weichenstellungen",
+            "seite": "414",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Kaum Fortschritte im zweiten Jahr der Energiewende",
+                  "seite": "416",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Erzeugungsmix und Stromaußenhandel",
+                        "seite": "417"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Strompreis und EEG-Umlage",
+                        "seite": "419"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Versorgungssicherheit",
+                        "seite": "424"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Reform des Erneuerbare-Energien-Gesetzes",
+                  "seite": "427",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Grundsätzliche Überlegungen",
+                        "seite": "427"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Vorschläge für eine grundlegende Neugestaltung des EEG",
+                        "seite": "429"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Die mangelnde Reformierbarkeit des EEG",
+                        "seite": "432"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Was wirtschaftspolitisch zu tun ist",
+                  "seite": "436"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "Eine andere Meinung",
+                  "seite": "437"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "ELFTES KAPITEL\nImmobilienmarkt: Kein Grund für Aktionismus",
+            "seite": "440",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Anspannungen am deutschen Immobilienmarkt?",
+                  "seite": "442"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Die makroökonomische Perspektive",
+                  "seite": "443",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Gesamtwirtschaftliche Bedeutung der Immobilienwirtschaft",
+                        "seite": "443"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Gefahr gesamtwirtschaftlich destabilisierender Effekte",
+                        "seite": "445"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Spekulative Prozesse und Fehlallokationen",
+                        "seite": "446"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Effekte auf den privaten Verbrauch",
+                        "seite": "449"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Effekte auf das Finanzsystem",
+                        "seite": "450"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Bisher kaum Anzeichen für Fehlentwicklungen auf dem deutschen\nImmobilienmarkt",
+                        "seite": "451"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "4. Stabilisierende Elemente",
+                        "seite": "459"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "5. Zwischenfazit",
+                        "seite": "461"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Die mikroökonomische Perspektive",
+                  "seite": "463",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "1. Eingriffe in den Preismechanismus",
+                        "seite": "463"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "2. Private Investitionsanreize",
+                        "seite": "467"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "3. Öffentlicher Wohnungsbau",
+                        "seite": "472"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "4. Sozialpolitische Optionen",
+                        "seite": "473"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "5. Fazit",
+                        "seite": "475"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "ZWÖLFTES KAPITEL\nWachstum, Wohlstand, Lebensqualität",
+            "seite": "478",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "1. Ganzheitliche Wohlfahrtsberichterstattung: Einordnung",
+                  "seite": "480"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "2. Anstrengungen zur Wohlfahrtsmessung: Der Indikatorensatz W3",
+                  "seite": "483"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "3. Wachstum, Wohlstand, Lebensqualität im Jahresgutachten",
+                  "seite": "488"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "ANHÄNGE",
+            "seite": "495",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Methodische Erläuterungen",
+                  "seite": "495",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "A. Berechnung der Arbeitseinkommensquote",
+                        "seite": "496"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "B. Berechnung des lohnpolitischen Verteilungsspielraums",
+                        "seite": "497"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der\ngesamtwirtschaftlichen Entwicklung",
+                  "seite": "498"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft",
+                  "seite": "500"
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "IV. Verzeichnis der Gutachten und Expertisen des Sachverständigenrates",
+                  "seite": "501"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
+```
+ende_json
+

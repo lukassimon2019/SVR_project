@@ -1,0 +1,69 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "ANHÄNGE",
+      "seite": "393",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Sondergutachten 2012 „Nach dem EU-Gipfel: Zeit für langfristige Lösungen\nnutzen“",
+          "seite": "393",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Weitere Ausführungen zum Kapitel öffentliche Finanzen",
+          "seite": "429",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Beispiel zur Belastungswirkung zwischen eigenkapitalstarken und\neigenkapitalschwachen Unternehmen",
+              "seite": "429"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Berechnungsbeispiel zur Steuerbelastung von Kapitalgesellschaften und\nPersonenunternehmen",
+              "seite": "431"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Abschätzung der Steuermindereinnahmen des Reformvorschlags für eine\nZinsbereinigung des Grundkapitals",
+              "seite": "436"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Methodische Erläuterungen",
+          "seite": "444",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "A. Berechnung der Arbeitseinkommensquote",
+              "seite": "445"
+            },
+            {
+              "ueberschrift_drei_niedriger": "B. Berechnung des lohnpolitischen Verteilungsspielraums",
+              "seite": "446"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Gesetze",
+          "seite": "447",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung\nder gesamtwirtschaftlichen Entwicklung",
+              "seite": "447"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft",
+              "seite": "449"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Verzeichnis der Gutachten und Expertisen des Sachverständigenrates",
+          "seite": "450",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+ende_json

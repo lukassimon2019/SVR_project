@@ -1,0 +1,316 @@
+
+```json
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die Konjunkturlage",
+      "seite": "22",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Der internationale Rahmen",
+          "seite": "22",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Verlangsamter Aufschwung",
+              "seite": "22"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Größere konjunkturelle Differenzierung",
+              "seite": "23"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mäßige Expansion des Welthandels",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": "H. Fortdauer von Arbeitslosigkeit und Inflation",
+              "seite": "29"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anhaltende Unterbeschäftigung",
+              "seite": "29"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Grenzen staatlicher Beschäftigungspolitik",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ungenügende Fortschritte bei der Preisstabilisierung",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "UI. Geringere außenwirtschaftliche Ungleichgewichte",
+              "seite": "32"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zahlungsbilanzprobleme etwas entschärft",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Auch Ansätze mittelfristiger Anpassung",
+              "seite": "34"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zunehmender Protektionismus im internationalen Handel",
+              "seite": "45"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Größere Konvergenz der Wirtschaftspolitik in Europa",
+              "seite": "47"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anhaltende Expansion des Gemeinschaftshaushalts",
+              "seite": "48"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Die Binnenkonjunktur 1977",
+          "seite": "49",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Überblick",
+              "seite": "49"
+            },
+            {
+              "ueberschrift_drei_niedriger": "H. Noch immer hohe Arbeitslosigkeit",
+              "seite": "51"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Selbstverstärkungskräfte zu schwach",
+              "seite": "51"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wieder zunehmender Kostendruck",
+              "seite": "55"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fehlender Auftrieb für Produktion und Beschäftigung",
+              "seite": "59"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IH. Niveau und Struktur der Arbeitslosigkeit",
+              "seite": "65"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konjunkturelle und strukturelle Komponenten",
+              "seite": "65"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Strukturelle Änderungen am Arbeitsmarkt",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarktpolitik",
+              "seite": "73"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Keine weitere Korrektur der Verteilung",
+              "seite": "75"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Finanzpolitik: Konsolidierung im Vordergrund",
+              "seite": "84"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zurückhaltende Ausgabenpolitik",
+              "seite": "85"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unerwartet kräftige Zunahme des Steueraufkommens",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "öffentliche Haushalte kaum noch expansiv",
+              "seite": "94"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sozialversicherungen: Hohes Defizit",
+              "seite": "99"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Geldpolitik: Spielraum für kräftiges Wachstum",
+              "seite": "101"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldbasisexpansion wie angekündigt",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Immer noch hohe Finanzierungsreserven",
+              "seite": "106"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ergiebiger Kapitalmarkt",
+              "seite": "111"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kräftige Aufwertung der D-Mark",
+              "seite": "112"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die voraussichtliche Entwicklung",
+      "seite": "114",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Vorbemerkungen",
+          "seite": "114",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die voraussichtliche Entwicklung der Auslandskonjunktur",
+          "seite": "115",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Die voraussichtliche Entwicklung der Binnenkonjunktur",
+          "seite": "118",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Die Ursachen des Beschäftigungsproblems",
+      "seite": "126",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die aktuelle Kontroverse",
+          "seite": "126",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Konjunktureller Nachfragemangel?",
+              "seite": "127"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Dauerhafter Nachfragemangel?",
+              "seite": "130"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Ungelöste Angebotsprobleme",
+          "seite": "133",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Veränderte außenwirtschaftliche Rahmenbedingungen",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anpassungsschwierigkeiten im Strukturwandel",
+              "seite": "135"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zu hohe Löhne als Angebotsproblem",
+              "seite": "138"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Warten auf niedrige Zinsen",
+              "seite": "142"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Konsolidierung im Rückblick",
+          "seite": "146",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Mangel an Arbeitsplätzen",
+          "seite": "147",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Vollbeschäftigung durch Wirtschaftswachstum",
+      "seite": "151",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1. Worauf es ankommt",
+          "seite": "151",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zu den Zielen",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Grundlinie",
+              "seite": "155"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Zwei Alternativen zum Status quo",
+          "seite": "157",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Vollbeschäftigung durch Wachstum",
+              "seite": "158"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vollbeschäftigung durch mehr Staat und weniger Arbeit",
+              "seite": "162"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Wirtschaftspolitik für 1978 und danach",
+          "seite": "164",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Lohnpolitik",
+              "seite": "164"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Agrarpreispolitik",
+              "seite": "168"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik",
+              "seite": "169"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitik",
+              "seite": "172"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wachstums- und Strukturpolitik",
+              "seite": "178"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Eine andere Meinung",
+          "seite": "186",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Technischer Fortschritt und Nachfrageentwicklung",
+              "seite": "187"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bedarfswandel und Freizeitpräferenz",
+              "seite": "188"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verkürzung der Arbeitszeit",
+              "seite": "189"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Aufgaben und Aussichten angemessenen Wachstum",
+              "seite": "190"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+ende_json
+
+

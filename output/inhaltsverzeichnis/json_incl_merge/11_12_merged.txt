@@ -1,0 +1,698 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "ERSTES KAPITEL\nVerantwortung für Europa wahrnehmen",
+      "seite": "1",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Krise im Euro-Raum bewältigen",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Stabilisierung der öffentlichen Finanzen im Euro-Raum",
+              "seite": "3"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stabilisierung der Finanzinstitute des Euro-Raums",
+              "seite": "7"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zwischenfazit: Europäisch handeln",
+              "seite": "9"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Deutschland in unsicherem Umfeld",
+          "seite": "10",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Aufgabenstellung für weitere Politikbereiche",
+          "seite": "13",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Energiepolitik: Erfolgreiche Energiewende nur im europäischen Kontext",
+              "seite": "13"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Öffentliche Finanzen: Vorrang für die Konsolidierung",
+              "seite": "17"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Arbeitsmarkt: Bisher ungebrochene Beschäftigungsdynamik",
+              "seite": "20"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Soziale Sicherung: Gute Finanzlage – Nachlässigkeit bei Reformen",
+              "seite": "22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "ZWEITES KAPITEL\nDie wirtschaftliche Lage und Entwicklung in der Welt und in Deutschland",
+      "seite": "24",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Weltwirtschaft: Die Krise ist noch nicht ausgestanden",
+          "seite": "26",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Konjunktur der zwei Geschwindigkeiten",
+              "seite": "28"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Industrieländer: Zwischen Konsolidierung und Konjunkturstabilisierung",
+              "seite": "31"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schuldenlast erfordert Konsolidierung",
+              "seite": "31"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zentralbanken weiterhin im Krisenmodus",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fehlende Impulse für die private Nachfrage",
+              "seite": "36"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Schwellenländer: Hoffnung für die Weltwirtschaft?",
+              "seite": "40"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Entwicklung in den Schwellenländern im Einzelnen",
+              "seite": "40"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Chancen und Risiken für die Schwellenländer",
+              "seite": "42"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirtschaftspolitische Maßnahmen zur Stabilisierung der Konjunktur-\nentwicklung",
+              "seite": "44"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Nicht ohne Risiko: Die globale Wirtschaftsentwicklung im Prognose-\nzeitraum",
+              "seite": "47"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Deutschland in einem global unsicheren Umfeld",
+          "seite": "51",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die konjunkturelle Situation bis Mitte 2011",
+              "seite": "51"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ende des Aufholprozesses – Die Konjunktur zur Jahresmitte 2011",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausblick auf das dritte Quartal 2011",
+              "seite": "54"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Die Entwicklung im Prognosezeitraum",
+              "seite": "57"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Impulse von innen, Dämpfer von außen: Details der Entwicklung",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außenwirtschaft",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Einkommensentwicklung und Konsumausgaben",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bruttoanlageinvestitionen",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Preisniveauentwicklung",
+              "seite": "64"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarkt",
+              "seite": "66"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Finanzen",
+              "seite": "70"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Szenarien zur Konjunkturentwicklung in Deutschland",
+              "seite": "72"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "DRITTES KAPITEL\nEuro-Raum in der Krise",
+      "seite": "76",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Währungsunion: Die langfristige Stabilisierung steht noch aus",
+          "seite": "78",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Von der Schuldenkrise zur Systemkrise",
+          "seite": "79",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Wachsende Verunsicherung auf den Finanzmärkten",
+              "seite": "80"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Immer umfangreichere Rettungsprogramme ohne nachhaltige Wirkung",
+              "seite": "86"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Konsequente Stabilisierungsprogramme ohne Wirkung auf die Märkte",
+              "seite": "88"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. „Geld, das man nicht selbst herstellen kann“: Das besondere institutionelle\nUmfeld der Europäischen Währungsunion",
+          "seite": "93",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Austritte aus der Währungsunion sind keine Lösung",
+          "seite": "96",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Für Deutschland würden die Nachteile eindeutig überwiegen",
+              "seite": "97"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Austritt Griechenlands ist ebenfalls keine Lösung",
+              "seite": "99"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Ein Befreiungsschlag?",
+          "seite": "99",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Schuldenschnitt für Griechenland",
+              "seite": "100"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausweitung der Kreditvergabekapazität der EFSF",
+              "seite": "103"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Problematische Vorschläge für die kurze Frist",
+              "seite": "105"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eurobonds",
+              "seite": "106"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anleihekäufe durch die Europäische Zentralbank",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Banklizenz für die EFSF",
+              "seite": "108"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Ein Schuldentilgungspakt für Europa",
+          "seite": "109",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "VII. Perspektiven für die Europäische Währungsunion",
+          "seite": "118",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Bisherige Reformen reichen nicht aus",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Wege zu mehr Integration in der Fiskalpolitik",
+              "seite": "120"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wie kann die Marktdisziplin verbessert werden?",
+              "seite": "121"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Kein leichter Weg",
+              "seite": "123"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "VIERTES KAPITEL\nVon der Bankenkrise zur Schuldenkrise und wieder zurück",
+      "seite": "128",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Das europäische Bankensystem wieder in Gefahr",
+          "seite": "130",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die Zwillinge: Bankenkrise und Schuldenkrise",
+          "seite": "135",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Schuldenkrisen und Versagen der Märkte für Staatsanleihen",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die internationale Debatte um einen effektiven Ordnungsrahmen",
+              "seite": "141"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Ein effektiver langfristiger Ordnungsrahmen für den Euro-Raum",
+              "seite": "143"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein Vorschlag für einen langfristigen Ordnungsrahmen",
+              "seite": "144"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Notwendige Anpassungen der Finanzmarktregulierung",
+              "seite": "146"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Der Umgang mit systemrelevanten Finanzinstituten",
+          "seite": "147",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Kein effektives Aufsichts- und Insolvenzregime für systemrelevante\nFinanzinstitute",
+              "seite": "149"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform der Europäischen Finanzaufsicht",
+              "seite": "150"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bisher kein effektives supranationales Insolvenzregime in Sicht",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Notwendiges europäisches Restrukturierungsregime",
+              "seite": "153"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Unzureichende Widerstandskraft",
+              "seite": "154"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zusätzliche Eigenkapitalanforderungen für systemrelevante Finanz-\ninstitute",
+              "seite": "155"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Trennbankensystem als Regulierungsinstrument",
+              "seite": "161"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wie viel Eigenkapital ist genug?",
+              "seite": "162"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kosten und Nutzen höherer Eigenkapitalanforderungen",
+              "seite": "163"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Notwendigkeit eines robusten Regulierungsrahmens",
+              "seite": "167"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "FÜNFTES KAPITEL\nÖffentliche Finanzen: Vorrang für die Konsolidierung",
+      "seite": "176",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Öffentliche Haushalte im Jahr 2011",
+          "seite": "178",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Entwicklung der staatlichen Einnahmen und Ausgaben",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Finanzpolitische Kennziffern",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Der Haushalt des Bundes: Die Konsolidierungsbemühungen lassen nach",
+              "seite": "181"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Schuldenregel: Offene Fragen und Stand der Umsetzung",
+          "seite": "183",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gestaltungsspielräume der Schuldenregel auf Bundesebene",
+              "seite": "184"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Umsetzung der Schuldenregel bei den Ländern",
+              "seite": "185"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schuldenschranken im Föderalstaat",
+              "seite": "185"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erfassung der Gemeinden auf Länderebene?",
+              "seite": "188"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Fiskalische Situation der Länder",
+          "seite": "190",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Haushaltslage der Länder – ein Überblick",
+              "seite": "191"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Methodische Vorbemerkung",
+              "seite": "191"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kennziffernvergleich",
+              "seite": "192"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgaben für Soziales",
+              "seite": "196"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Abschätzung des langfristigen Konsolidierungsbedarfs",
+              "seite": "197"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Reformbedarf bei der Einkommensteuer",
+          "seite": "206",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Kalte Progression",
+              "seite": "206"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Haben die Tarifreformen der letzten Jahrzehnte die Kalte Progression\nausgeglichen?",
+              "seite": "206"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ist die Kalte Progression kurzfristig ein Problem?",
+              "seite": "209"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beseitigung der Kalten Progression in Zeiten der Haushaltssanierung?",
+              "seite": "211"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Der „Mittelstandsbauch“",
+              "seite": "213"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "SECHSTES KAPITEL\nEnergiepolitik: Erfolgreiche Energiewende nur im europäischen Kontext",
+      "seite": "218",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Energiekonzept und Atomausstieg",
+          "seite": "220",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Energiekonzept der Bundesregierung",
+              "seite": "220"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Atomausstieg",
+              "seite": "225"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Energiewende als gesellschaftliche Herausforderung",
+              "seite": "228"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Strommarkt",
+          "seite": "229",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Determinanten des Großhandelspreises",
+              "seite": "229"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stromnachfrage",
+              "seite": "230"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stromangebot",
+              "seite": "231"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stromerzeugung aus erneuerbaren Energien",
+              "seite": "233"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Preisbildung und Stromgroßhandel",
+              "seite": "234"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Stromnetze, Systemintegration und Endverbraucherpreise",
+              "seite": "235"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stromnetze",
+              "seite": "235"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Integration der erneuerbaren Energien in das Stromnetz",
+              "seite": "236"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Preise für Endverbraucher",
+              "seite": "237"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Klimapolitik der Europäischen Union",
+          "seite": "239",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Grundlagen rationaler Klimapolitik",
+              "seite": "239"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Internationale Dimension des Klimaschutzes",
+              "seite": "239"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Klimapaket der Europäischen Union",
+              "seite": "240"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Umsetzung der klimapolitischen Ziele",
+              "seite": "243"
+            },
+            {
+              "ueberschrift_drei_niedriger": "EU-Emissionsrechtehandel",
+              "seite": "244"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Förderung erneuerbarer Energien in Europa",
+              "seite": "246"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Förderung der erneuerbaren Energien in Deutschland durch das EEG",
+              "seite": "248"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Notwendige wirtschaftspolitische Entscheidungen",
+          "seite": "254",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Unterschiedliche Ziele erfordern unterschiedliche Instrumente",
+              "seite": "255"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausbauziele europäisch koordinieren – auf Mengensteuerung umstellen",
+              "seite": "256"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Flankierende Innovations- und Technologiepolitik",
+              "seite": "260"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sicherstellung der demokratischen Legitimation",
+              "seite": "260"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "261"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "SIEBETES KAPITEL\nArbeitsmarkt: Bisher ungebrochene Beschäftigungsdynamik",
+      "seite": "266",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Robuste Aufwärtsentwicklung der Beschäftigung: Verlauf und Erklärung",
+          "seite": "268",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Der Befund: Viel Licht, aber auch Schatten",
+              "seite": "268"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Bestimmungsgründe der bisher robusten Beschäftigungsdynamik",
+              "seite": "276"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anpassung im Krisenjahr",
+              "seite": "276"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stabile Beschäftigungsentwicklung seit dem Jahr 2006",
+              "seite": "278"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Reformbedarf trotz Beschäftigungsdynamik",
+              "seite": "281"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Beschäftigungsveränderungen in multinationalen Unternehmen",
+          "seite": "283",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Arbeitnehmerüberlassung: Im Fadenkreuz der Kritiker",
+          "seite": "289",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die dynamische Entwicklung der Zeitarbeit",
+              "seite": "290"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Zur Qualität von Leiharbeitsverhältnissen",
+              "seite": "292"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Tarifunfähigkeit und ihre Folgen",
+              "seite": "298"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Eine andere Meinung",
+          "seite": "301",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "ACHTES KAPITEL\nSoziale Sicherung: Gute Finanzlage – Nachlässigkeit bei Reformen",
+      "seite": "308",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Gesetzliche Rentenversicherung: Priorität für die Prävention von Altersarmut",
+          "seite": "310",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Finanzielle Entwicklung erfreulich – kurzfristige Beitragssatzsenkung\nmöglich",
+              "seite": "310"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Abbau des Ausgleichsbedarfs begonnen – in der Folge gedämpfte\nRentenanpassung",
+              "seite": "312"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Anstieg des Risikos von Altersarmut möglich – aber Vorsicht vor vor-\nschnellen Leistungsausweitungen",
+              "seite": "312"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Altersarmut in Deutschland – Status quo und Ausblick",
+              "seite": "313"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Handlungsbedarf?",
+              "seite": "319"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "326"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Gesetzliche Krankenversicherung: Erfreuliche Finanzlage – Zusatzbeiträge\nnutzen",
+          "seite": "327",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Finanzielle Lage",
+              "seite": "327"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Erfolgreiche Gesundheitsreform im vergangenen Jahr?",
+              "seite": "328"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Soziale Pflegeversicherung: Defizit vorgezeichnet",
+          "seite": "329",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Arbeitslosenversicherung: Finanzielle Lage besser als erwartet",
+          "seite": "331",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```ende_json
+
+

@@ -1,0 +1,98 @@
+"ueberschrift_zwei": "II. Vermögensverteilung",
+          "seite": "322",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Datenbasis",
+              "seite": "322"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung, Verteilung und Zusammensetzung der Vermögen in\nDeutschland",
+              "seite": "323"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bestimmungsfaktoren der Vermögensverteilung",
+              "seite": "327"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vermögensmobilität",
+              "seite": "330"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Internationaler Vergleich",
+              "seite": "331"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "ANHÄNGE",
+      "seite": "335",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der\ngesamtwirtschaftlichen Entwicklung",
+          "seite": "335",
+           "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft",
+          "seite": "337",
+           "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Verzeichnis der Gutachten und Expertisen des Sachverständigenrates",
+          "seite": "338",
+           "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV Methodische Erläuterungen",
+          "seite": "341",
+           "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "A. Abgrenzung der verdeckten Arbeitslosigkeit",
+              "seite": "341"
+            },
+            {
+              "ueberschrift_drei_niedriger": "B. Berechnung der Arbeitseinkommensquote",
+              "seite": "346"
+            },
+            {
+              "ueberschrift_drei_niedriger": "C. Berechnung des lohnpolitischen Verteilungsspielraums",
+              "seite": "347"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Statistischer Anhang",
+          "seite": "348",
+           "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "A. Internationale Tabellen",
+              "seite": "351"
+            },
+            {
+              "ueberschrift_drei_niedriger": "B. Tabellen für Deutschland",
+              "seite": "358"
+            },
+            {
+              "ueberschrift_drei_niedriger": "I. Makroökonomische Grunddaten",
+              "seite": "358"
+            },
+             {
+              "ueberschrift_drei_niedriger": "II. Ausgewählte Daten zum System der Sozialen Sicherung",
+              "seite": "399"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Sachregister",
+          "seite": "414",
+           "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+ende_json
+

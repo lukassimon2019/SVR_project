@@ -1,15 +1,19 @@
 # Load the pdftools package
 library(pdftools)
 
+#open the R environment file
+usethis::edit_r_environ()
+
 # Set the path to the directory containing your PDF files
-pdf_directory <- "C:/Users/P-Simon/Documents/SVR/Gutachten_pdf" #Change this to your directory
+wd<-getwd()
+output_directory <-paste0(wd,"\\output\\inhaltsverzeichnis\\txt\\")
+pdf_directory <- paste0(wd,"\\source_pdfs\\split_pdfs\\inhaltsverzeichnis\\batch_to_be_processed")
+
+
 
 # Get a list of all PDF files in the directory
 pdf_files <- list.files(pdf_directory, pattern = "\\.pdf$", full.names = TRUE)
 
-print(pdf_files)
-
-txt_directory <- "C:/Users/P-Simon/Documents/SVR/Gutachten_txt"
 
 # Check if any PDF files were found
 if (length(pdf_files) == 0) {
@@ -25,7 +29,7 @@ if (length(pdf_files) == 0) {
     
     # Create a filename for the output text file
     txt_filename <- paste0(tools::file_path_sans_ext(basename(pdf_file)), ".txt")
-    output_file_path <- file.path(txt_directory, txt_filename) # Save in the same directory as the PDFs
+    output_file_path <- file.path(output_directory, txt_filename) # Save in the same directory as the PDFs
     
     # Write the extracted text to a file
     file_conn <- file(output_file_path, "w") # Open a file connection for writing

@@ -1,0 +1,704 @@
+```json
+{
+  "type": "object",
+  "properties": {
+    "kapitel": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "ueberschrift_eins": {
+            "type": "string"
+          },
+          "seite": {
+            "type": "string"
+          },
+          "zweite_ebene": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "ueberschrift_zwei": {
+                  "type": "string"
+                },
+                "seite": {
+                  "type": "string"
+                },
+                "dritte_und_niedrigere_ebene": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "ueberschrift_drei_niedriger": {
+                        "type": "string"
+                      },
+                      "seite": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Kurzfassung:\nDen Strukturwandel meistern",
+      "seite": "1",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "1. Konjunkturelle Entwicklungen",
+      "seite": "1",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "2. Strukturelle Herausforderungen",
+      "seite": "3",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": " Nutzung und Begleitung des Strukturwandels",
+          "seite": "3",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": " Förderung von Forschung und Innovation",
+          "seite": "5",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": " Heben der Potenziale im Humanvermögen",
+          "seite": "7",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": " Steigerung der privaten und öffentlichen Investitionen",
+          "seite": "8",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": " Koordination auf internationaler Ebene",
+          "seite": "8",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Erstes Kapitel\nKonjunktur: Deutliche Abkühlung",
+      "seite": "10",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Internationale Konjunktur: Nachlassende Dynamik",
+          "seite": "12",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Nachlassende Dynamik der Weltwirtschaft",
+              "seite": "12"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Globaler Industrieabschwung",
+              "seite": "14"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Ausblick",
+              "seite": "17"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Chancen und Risiken",
+              "seite": "19"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. USA: Vorläufiges Ende der Hochkonjunktur",
+              "seite": "20"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. China: Wachstum unter Druck",
+              "seite": "23"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Vereinigtes Königreich: Schlingerkurs Richtung Brexit?",
+              "seite": "25"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Euro-Raum: Konjunkturelle Abschwächung, geldpolitische Lockerung",
+          "seite": "28",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Konjunkturelle Lage",
+              "seite": "29"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Starke geldpolitische Lockerung",
+              "seite": "31"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Einordnung der geldpolitischen Maßnahmen",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Ausblick",
+              "seite": "39"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Deutsche Konjunktur: Im Abschwung",
+          "seite": "41",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Konjunkturelle Zweiteilung hält bislang an",
+              "seite": "42"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Rezession in der Industrie",
+              "seite": "42"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Schwieriges außenwirtschaftliches Umfeld",
+              "seite": "44"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Robuste Binnenwirtschaft",
+              "seite": "46"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Günstige Rahmenbedingungen für den Konsum",
+              "seite": "47"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausblick: Keine schnelle Belebung in Sicht",
+              "seite": "50"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Rezessionswahrscheinlichkeit deutlich erhöht",
+              "seite": "50"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Belebung frühestens im Jahresverlauf 2020 zu erwarten",
+              "seite": "55"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Außenwirtschaftliche Risiken",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Arbeitsmarktdynamik lässt nach",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Finanzierungsüberschüsse trotz konjunkturellem Abschwung",
+              "seite": "64"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Fiskalpolitik expansiv ausgerichtet",
+              "seite": "64"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Fiskalpolitische Implikationen",
+              "seite": "66"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "70"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Mittelfristprojektion: Gedämpfte Aussichten",
+              "seite": "71"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel\nProduktivität: Wachstumsbedingungen verbessern",
+      "seite": "84",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Wachstumsquellen identifizieren",
+          "seite": "86",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Produktivitätsentwicklung: Diagnose",
+          "seite": "88",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Demografie trübt Wachstumsaussichten",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Strukturelle Zerlegung der Produktivitätsentwicklung",
+              "seite": "92"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Deutschland im internationalen Vergleich",
+              "seite": "99"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Wettbewerbsfähigkeit und Leistungsbilanz",
+              "seite": "103"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Mögliche Ursachen",
+          "seite": "106",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Produktivitätsparadoxon der Digitalisierung",
+              "seite": "106"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Geringe Unternehmensdynamik",
+              "seite": "108"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Management und Technologien",
+              "seite": "115"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Kompositionseffekte und Globalisierung",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Investitionen und Produktivität im Zusammenspiel",
+              "seite": "121"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Fazit",
+          "seite": "124",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Eine andere Meinung",
+          "seite": "128",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel\nIndustriepolitik: Strukturwandel als Chance",
+      "seite": "140",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Neue Herausforderungen",
+          "seite": "142",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Instrumente der Industriepolitik",
+          "seite": "144",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Den volkswirtschaftlichen Entdeckungsprozess stärken",
+              "seite": "144"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Horizontale Industriepolitik – sektorunabhängige Förderung\nunternehmerischer Aktivitäten",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Horizontale Industriepolitik durch Rahmenbedingungen",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Marktversagen und Staatseingriffe",
+              "seite": "146"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Vertikale Industriepolitik – gezielte Förderung von Sektoren\nund Unternehmen",
+              "seite": "148"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Der missionsorientierte Ansatz",
+              "seite": "152"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Aktuelle Handlungsfelder",
+          "seite": "153",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gründungs- und Wirtschaftsdynamik wichtig für Strukturwandel",
+              "seite": "154"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Forschung und Innovationen",
+              "seite": "158"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Forschungs- und Innovationstätigkeit im Privatsektor",
+              "seite": "159"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Staatliche Forschungs- und Innovationspolitik",
+              "seite": "162"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Digitalisierung und Plattformökonomie",
+              "seite": "165"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Besonderheiten immaterieller Produktionsfaktoren",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Einheitliche Regulierung und bestreitbare Märkte für Plattformen",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Protektionismus und strategischer Industriepolitik begegnen",
+              "seite": "170"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Regionale Industriepolitik",
+          "seite": "174",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Regional fokussierte Innovationspolitik",
+              "seite": "177"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Räumliche Innovationsaktivität in Deutschland",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Technologiecluster in Deutschland",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Erfolgsvoraussetzungen regionaler Innovationspolitik",
+              "seite": "182"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Handlungsoptionen",
+              "seite": "184"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Fazit",
+          "seite": "186",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel\nBanken vor zyklischen und strukturellen\nHerausforderungen",
+      "seite": "198",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Geringe Profitabilität, fundamentaler Strukturwandel",
+          "seite": "200",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Bankenprofitabilität unter Druck",
+          "seite": "201",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Geringe Kosteneffizienz europäischer Banken",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Strukturwandel im europäischen Finanzsektor",
+              "seite": "204"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Besonderheiten des deutschen Bankensystems",
+              "seite": "207"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Determinanten der Bankenprofitabilität",
+              "seite": "211"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Risiken für die Finanzstabilität",
+          "seite": "215",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Bankenprofitabilität und Finanzstabilität",
+              "seite": "215"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Steigende Risiken im Finanzsystem",
+              "seite": "217"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Risiken rechtzeitig entgegentreten",
+              "seite": "221"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Digitaler Wandel im Finanzsystem",
+          "seite": "222",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Disruption durch neue Marktteilnehmer",
+              "seite": "222"
+            },
+            {
+              "ueberschrift_drei_niedriger": " FinTechs als Kooperationspartner im Bankgeschäft",
+              "seite": "223"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Markteintritt von BigTechs in das Bankgeschäft",
+              "seite": "224"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Innovationsoffenheit bei angemessener Regulierung",
+              "seite": "226"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel\nDie Schuldenbremse: Nachhaltig, Stabilisierend, Flexibel",
+      "seite": "238",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Ausgangslage",
+          "seite": "240",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die deutsche Schuldenbremse",
+          "seite": "242",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Wirkungsweise der Schuldenbremse für den Bund und Fiskalregeln der\nweiteren Gebietskörperschaften",
+              "seite": "242"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Spielräume",
+              "seite": "248"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Öffentliche Verschuldung in Zeiten niedriger Zinsen",
+          "seite": "253",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Forderung nach höherer öffentlicher Verschuldung in Deutschland",
+              "seite": "253"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Grenzen der Geldpolitik",
+              "seite": "254"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Fiskalischer Spielraum und Spillover-Effekte",
+              "seite": "255"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Deutsche Staatsanleihen als sichere Wertpapiere",
+              "seite": "256"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Nachhaltigkeit der Fiskalpolitik und Zinsentwicklung",
+              "seite": "259"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Historisches Zins-Wachstums-Verhältnis",
+              "seite": "259"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Gleichgewichtszinsen",
+              "seite": "262"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Einflussfaktoren auf das Zinsniveau",
+              "seite": "264"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Demografie",
+              "seite": "264"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Produktivität",
+              "seite": "265"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Institutionen, Schuldenstand und Schuldenstruktur",
+              "seite": "265"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Zwischenfazit",
+              "seite": "266"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Konjunkturbereinigung",
+          "seite": "267",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Zuverlässigkeit von Produktionslückenschätzungen in Echtzeit",
+              "seite": "268"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Mögliche Verbesserung der Schätzverfahren",
+              "seite": "272"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Zwischenfazit",
+              "seite": "274"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Die Schuldenbremse und Investitionen",
+          "seite": "275",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Entwicklung der staatlichen Investitionen nicht isoliert betrachten",
+              "seite": "276"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Keine gesonderten Regeln für Investitionen",
+              "seite": "280"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Steigende staatliche Investitionen bereits angelegt",
+              "seite": "284"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Länder verantwortlich für Kommunen",
+              "seite": "288"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Umsetzungsprobleme bremsen Investitionen",
+              "seite": "289"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Gesamtfazit",
+          "seite": "294",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Eine andere Meinung",
+          "seite": "298",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Sechstes Kapitel\nAufstiegschancen sichern, Arbeitsanreize stärken",
+      "seite": "314",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Ungleichheit und Mobilität",
+          "seite": "316",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Verteilung und Umverteilung",
+          "seite": "317",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Verteilung der Einkommen",
+              "seite": "317"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Mobilität und Ungleichheit im Lebenszyklus",
+              "seite": "321"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Lohnmobilität im Lebenszyklus",
+              "seite": "323"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Auf- und Abstiegsmobilität in den oberen und unteren drei Dezilen",
+              "seite": "330"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Vermögen der privaten Haushalte",
+              "seite": "332"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Verteilungswirkung geldpolitischer Entscheidungen",
+              "seite": "334"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kanäle der Verteilungswirkung geldpolitischer Entscheidungen",
+              "seite": "334"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Verteilungswirkungen konventioneller Geldpolitik",
+              "seite": "336"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Verteilungswirkung unkonventioneller Geldpolitik",
+              "seite": "341"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Arbeitsanreize durch Reformen des Steuer-Transfer-Systems",
+          "seite": "342",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Umverteilungsintensität im Steuer-Transfer-System",
+              "seite": "343"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Be- und Entlastungen im Steuer-Transfer-System",
+              "seite": "344"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Steuern, Abgaben und Sozialversicherungsbeiträge",
+              "seite": "345"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Grundsicherung und Transferleistungen",
+              "seite": "347"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Reformoptionen in der Grundsicherung",
+              "seite": "352"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Bausteine einer universellen Transferleistung",
+              "seite": "353"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Wirtschaftspolitische Implikationen",
+          "seite": "359",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Eine andere Meinung",
+          "seite": "361",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+ende_json
+

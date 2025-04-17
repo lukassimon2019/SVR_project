@@ -1,0 +1,396 @@
+{
+"kapitel": [
+{
+"ueberschrift_eins": "Erstes Kapitel: Wachstum, Beschäftigung, Währungsunion -\nOrientierungen für die Zukunft",
+"seite": "1",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Trotz Exportboom keine durchgreifende Wende am Arbeitsmarkt",
+"seite": "1"
+},
+{
+"ueberschrift_zwei": "II. Dringend: Die Verbesserung der Angebotsbedingungen",
+"seite": "5",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Angebotsorientierte Wirtschaftspolitik: Worum es geht und was zu\ntun ist",
+"seite": "5"
+},
+{
+"ueberschrift_drei_niedriger": "Die Glaubwürdigkeit der Finanzpolitik wiedergewinnen",
+"seite": "7"
+},
+{
+"ueberschrift_drei_niedriger": "In der Lohnpolitik die Verantwortung für mehr Beschäftigung wei-\nterhin annehmen",
+"seite": "8"
+},
+{
+"ueberschrift_drei_niedriger": "Geldpolitik: Bei der Erfüllung des Stabilitätsauftrags nicht nachlas-\nsen",
+"seite": "10"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Europa: Ein solides Fundament für die Zukunft schaffen",
+"seite": "11",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Europäische Währungsunion: Für glaubwürdige Stabilitätsorien-\ntierung",
+"seite": "11"
+},
+{
+"ueberschrift_drei_niedriger": "Osterweiterung: Chancen für eine tragfähige Entwicklung eröffnen",
+"seite": "12"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "Zweites Kapitel: Die wirtschaftliche Lage im Jahre 1997",
+"seite": "14",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Weltwirtschaftliches Umfeld günstig",
+"seite": "14",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "1. Die Entwicklung in Amerika und Asien",
+"seite": "14"
+},
+{
+"ueberschrift_drei_niedriger": "Hohes Expansionstempo in den Vereinigten Staaten Latein-\namerikas Volkswirtschaften wachsen kräftig",
+"seite": "14"
+},
+{
+"ueberschrift_drei_niedriger": "Stockende Erholung in Japan",
+"seite": "18"
+},
+{
+"ueberschrift_drei_niedriger": "Wirtschaftliche Dynamik der ostasiatischen Schwellenländer\ndurch Währungskrise überschattet",
+"seite": "18"
+},
+{
+"ueberschrift_drei_niedriger": "2. Die Entwicklung in Europa",
+"seite": "21"
+},
+{
+"ueberschrift_drei_niedriger": "Unterschiedliche Auftriebskräfte in den Ländern der Euro-\npäischen Union",
+"seite": "21"
+},
+{
+"ueberschrift_drei_niedriger": "Wirtschaftspolitik zwischen nationalen und europäischen Anfor-\nderungen",
+"seite": "25"
+},
+{
+"ueberschrift_drei_niedriger": "Erfolge und Rückschläge im Transformationsprozeß mittel- und\nosteuropäischer Staaten",
+"seite": "29"
+},
+{
+"ueberschrift_drei_niedriger": "3. Exkurs: Reformstrategien in ausgewählten Ländern",
+"seite": "33"
+},
+{
+"ueberschrift_drei_niedriger": "Vereinigtes Königreich: Grundlegende Reformen für mehr wirt-\nschaftliche Dynamik",
+"seite": "33"
+},
+{
+"ueberschrift_drei_niedriger": "Niederlande: Neue Wege zu mehr Beschäftigung",
+"seite": "36"
+},
+{
+"ueberschrift_drei_niedriger": "Kanada: Kurswechsel in der Finanzpolitik",
+"seite": "39"
+}
+]
+},
+{
+"ueberschrift_zwei": "II. Deutschland: Konjunkturelle Aufwärtsbewegung bei schwachem\nWirtschaftswachstum und ohne Besserung am Arbeitsmarkt",
+"seite": "41",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "1. Erneut nur schwaches Wachstum des Produktionspotentials",
+"seite": "42"
+},
+{
+"ueberschrift_drei_niedriger": "Investitionstätigkeit immer noch ohne Dynamik",
+"seite": "43"
+},
+{
+"ueberschrift_drei_niedriger": "Zur Berechnung des Produktionspotentials in Ostdeutschland",
+"seite": "50"
+},
+{
+"ueberschrift_drei_niedriger": "2. Auslandsnachfrage kräftig - Inlandsnachfrage verhalten",
+"seite": "51"
+},
+{
+"ueberschrift_drei_niedriger": "Ausfuhr stärkste Auftriebskraft",
+"seite": "55"
+},
+{
+"ueberschrift_drei_niedriger": "Privater Verbrauch: Zurückhaltung angesichts unsicherer Ein-\nkommensperspektiven",
+"seite": "60"
+},
+{
+"ueberschrift_drei_niedriger": "Bauinvestitionen ohne positiven Beitrag für die konjunkturelle\nErholung",
+"seite": "64"
+},
+{
+"ueberschrift_drei_niedriger": "Preisentwicklung: Leichte Beschleunigung durch außenwirt-\nschaftliche und staatliche Einflüsse",
+"seite": "67"
+},
+{
+"ueberschrift_drei_niedriger": "3. Neue Bundesländer: Aufbauprozeß auf schwierigem Weg",
+"seite": "70"
+},
+{
+"ueberschrift_drei_niedriger": "Trotz Stockungen im Aufbauprozeß: Fortschritte in der Industrie",
+"seite": "71"
+},
+{
+"ueberschrift_drei_niedriger": "Große Unterschiede in der wirtschaftlichen Lage der Unterneh-\nmen",
+"seite": "77"
+},
+{
+"ueberschrift_drei_niedriger": "Neugestaltung der Wirtschaftsförderung für die Jahre 1999 bis\n2004",
+"seite": "80"
+},
+{
+"ueberschrift_drei_niedriger": "Zur regionalen Wirtschaftsentwicklung in den neuen Ländern",
+"seite": "83"
+},
+{
+"ueberschrift_drei_niedriger": "4. Keine Wende am Arbeitsmarkt",
+"seite": "86"
+},
+{
+"ueberschrift_drei_niedriger": "Beschäftigungsabbau setzt sich fort",
+"seite": "86"
+},
+{
+"ueberschrift_drei_niedriger": "Weiterer Anstieg der Arbeitslosigkeit",
+"seite": "91"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "Drittes Kapitel: Zu den Angebotsbedingungen in Deutschland",
+"seite": "98",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Zukunftsweisende Reformen nicht vorangebracht",
+"seite": "98"
+},
+{
+"ueberschrift_zwei": "II. Öffentliche Finanzen: Ohne klare Linie",
+"seite": "110",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Ursachen der angespannten Lage der öffentlichen Haushalte\nreichen weit zurück",
+"seite": "111"
+},
+{
+"ueberschrift_drei_niedriger": "Steueraufkommen erneut rückläufig",
+"seite": "114"
+},
+{
+"ueberschrift_drei_niedriger": "Gebietskörperschaften unter fortgesetztem Konsolidierungszwang",
+"seite": "119"
+},
+{
+"ueberschrift_drei_niedriger": "Höhere Beiträge in der Sozialversicherung",
+"seite": "123"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Nach Beschäftigungsabbau erneut niedrige Tariflohnabschlüsse",
+"seite": "124"
+},
+{
+"ueberschrift_zwei": "IV. Monetäres Umfeld: Zunehmende Einflüsse der geplanten Währungs-\nunion",
+"seite": "132",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Geldmengenexpansion in der zweiten Jahreshälfte abgeschwächt",
+"seite": "133"
+},
+{
+"ueberschrift_drei_niedriger": "Leichte Straffung bei den Zinsen",
+"seite": "137"
+},
+{
+"ueberschrift_drei_niedriger": "Korrektur des Außenwertes der D-Mark",
+"seite": "139"
+},
+{
+"ueberschrift_drei_niedriger": "Zum Konflikt über die Höherbewertung der Währungsreserven",
+"seite": "143"
+},
+{
+"ueberschrift_drei_niedriger": "Rahmenbedingungen für die Europäische Währungsunion weitge-\nhend festgelegt",
+"seite": "144"
+}
+]
+},
+{
+"ueberschrift_zwei": "V. Aus aktuellem Anlaß: Zur Entwicklung der Angebotsbedingungen\nseit Anfang der achtziger Jahre",
+"seite": "148",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Die Jahre 1980 bis 1989: Erfolge bei der Inflationsbekämpfung und\nder quantitativen Konsolidierung, aber keine tiefgreifenden Struk-\nturreformen",
+"seite": "148"
+},
+{
+"ueberschrift_drei_niedriger": "Die Jahre 1990 bis 1997: In zentralen Bereichen der Wirtschafts-\npolitik ohne verläßliche Orientierung",
+"seite": "150"
+}
+]
+}
+]
+},
+{
+"ueberschrift_eins": "Viertes Kapitel: Zur voraussichtlichen Entwicklung im Jahre 1998",
+"seite": "157",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Ausgangslage und Annahmen der Prognose",
+"seite": "157"
+},
+{
+"ueberschrift_zwei": "II. Das weltwirtschaftliche Umfeld",
+"seite": "158"
+},
+{
+"ueberschrift_zwei": "III. Die wirtschaftlichen Aussichten für Deutschland",
+"seite": "160"
+}
+]
+},
+{
+"ueberschrift_eins": "Fünftes Kapitel: Wirtschaftspolitik bei globalem Wettbewerb",
+"seite": "170",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Beschäftigungsziel anhaltend verfehlt, Wachstumsziel nicht erreicht",
+"seite": "170"
+},
+{
+"ueberschrift_zwei": "II. Angebotsorientierung: Zur wirtschaftspolitischen Konzeption des Sach-\nverständigenrates",
+"seite": "172"
+},
+{
+"ueberschrift_zwei": "III. Globalisierung und Standortwettbewerb",
+"seite": "178"
+},
+{
+"ueberschrift_zwei": "IV. Was heute geboten ist",
+"seite": "181"
+}
+]
+},
+{
+"ueberschrift_eins": "Sechstes Kapitel: Zu den Politikbereichen im einzelnen",
+"seite": "185",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Finanzpolitik: Blockaden überwinden",
+"seite": "185",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Ausgabenkürzungen im Widerstreit der Interessen",
+"seite": "186"
+},
+{
+"ueberschrift_drei_niedriger": "Wachstumsorientierte Reform der Einkommensteuer bleibt dring-\nlich",
+"seite": "188"
+},
+{
+"ueberschrift_drei_niedriger": "Grenzen der Kreditaufnahme beachten",
+"seite": "190"
+},
+{
+"ueberschrift_drei_niedriger": "Änderung der Finanzverfassung",
+"seite": "194"
+}
+]
+},
+{
+"ueberschrift_zwei": "II. Lohnpolitik: Nationale und internationale Herausforderungen anneh-\nmen",
+"seite": "200",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Konsequenzen aus dem globalen Wettbewerb",
+"seite": "200"
+},
+{
+"ueberschrift_drei_niedriger": "Lohnpolitische Flexibilität in der Währungsunion",
+"seite": "201"
+},
+{
+"ueberschrift_drei_niedriger": "Institutionelle Reformen für mehr Flexibilität",
+"seite": "204"
+},
+{
+"ueberschrift_drei_niedriger": "In der Lohnpolitik verläßlich den beschäftigungsfreundlichen Kurs\nfortsetzen",
+"seite": "208"
+},
+{
+"ueberschrift_drei_niedriger": "Zur aktuellen lohn- und arbeitsmarktpolitischen Diskussion",
+"seite": "214"
+}
+]
+},
+{
+"ueberschrift_zwei": "III. Geldpolitik: Die Vertrauensbasis für den Euro mitgestalten",
+"seite": "218",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Die Sicherung der Geldwertstabilität als Daueraufgabe",
+"seite": "218"
+},
+{
+"ueberschrift_drei_niedriger": "Kontinuität und Glaubwürdigkeit in die Währungsunion einbrin-\ngen",
+"seite": "221"
+}
+]
+},
+{
+"ueberschrift_zwei": "IV. Europäische Währungsunion: Stabiles Geld ist oberstes Gebot",
+"seite": "225",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Eine auf Dauer tragbare Finanzlage der öffentlichen Hand unver-\nzichtbar",
+"seite": "225"
+},
+{
+"ueberschrift_drei_niedriger": "Die stabilitätsorientierte Geldpolitik nicht in Konflikt bringen",
+"seite": "232"
+},
+{
+"ueberschrift_drei_niedriger": "Ein solides Fundament für die Gemeinschaftswährung schaffen",
+"seite": "233"
+}
+]
+},
+{
+"ueberschrift_zwei": "V. Zur Osterweiterung der Europäischen Union: Strukturfonds und Ge-\nmeinsame Agrarpolitik auf dem Prüfstand",
+"seite": "236",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "Strukturfonds: Kursänderung dringend",
+"seite": "238"
+},
+{
+"ueberschrift_drei_niedriger": "Gemeinsame Agrarpolitik: Durchgreifende Reformen überfällig",
+"seite": "242"
+}
+]
+}
+]
+}
+]
+}

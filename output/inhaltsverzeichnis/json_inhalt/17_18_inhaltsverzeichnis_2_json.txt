@@ -1,0 +1,69 @@
+```json
+: "396"
+                },
+                {
+                  "ueberschrift_drei_niedriger": " Lebenslanges Lernen",
+                  "seite": "398"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ueberschrift_eins": "Neuntes Kapitel\nEinkommensungleichheit: Eine tiefergehende Analyse",
+          "seite": "408",
+          "zweite_ebene": [
+            {
+              "ueberschrift_zwei": "I. Einkommen und Armut in Deutschland",
+              "seite": "410",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Stabile Entwicklung der Nettoeinkommen",
+                  "seite": "410"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Überlagerungen des Ungleichheitsdiskurses",
+                  "seite": "413"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Eine aktualisierte Bestandsaufnahme",
+                  "seite": "415"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "II. Ein tieferer Blick in die Einkommensverteilung",
+              "seite": "418",
+              "dritte_und_niedrigere_ebene": [
+                {
+                  "ueberschrift_drei_niedriger": "1. Veränderung der Haushaltstypen",
+                  "seite": "418"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "2. Sozio-ökonomische Unterschiede bei Ungleichheit und Mobilität",
+                  "seite": "419"
+                },
+                {
+                  "ueberschrift_drei_niedriger": "3. Mobilität und Bildungsexpansion",
+                  "seite": "423"
+                }
+              ]
+            },
+            {
+              "ueberschrift_zwei": "III. Chancengerechtigkeit und Teilhabe stärken",
+              "seite": "425",
+              "dritte_und_niedrigere_ebene": []
+            },
+            {
+              "ueberschrift_zwei": "Eine andere Meinung",
+              "seite": "426",
+              "dritte_und_niedrigere_ebene": []
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+```
+ende_json

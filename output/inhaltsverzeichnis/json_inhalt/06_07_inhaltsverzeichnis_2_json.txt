@@ -1,0 +1,65 @@
+                                                                                                                                                             legenheiten",
+              "seite": "392"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zwischenfazit",
+              "seite": "398"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Modul 3: Abgabenbelastung gezielt reduzieren − Reform von Minijobs\nund Midijobs",
+              "seite": "398"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "3. Beschäftigungseffekte und Budgetwirkungen",
+          "seite": "399",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Mindestlöhne − ein Irrweg",
+          "seite": "401",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Forderungen nach einer Einführung von Mindestlöhnen",
+              "seite": "401"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Bewertung",
+              "seite": "402"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Kündigungsschutz zielführend flexibilisieren",
+          "seite": "412",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "VI. Eine andere Meinung",
+          "seite": "418",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Absenkung der Einkommen im Niedriglohnbereich durch ein\n„Kombilohnmodell“",
+              "seite": "418"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine Alternative: Regulär Beschäftigte anstelle von mehr\n„Hilfebedürftigen“",
+              "seite": "421"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mindestlöhne: Im Ausland die Regel, in Deutschland gefürchtet",
+              "seite": "422"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gezielte Abgabensenkung im Niedriglohnbereich",
+              "seite": "424"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+ende_json
+

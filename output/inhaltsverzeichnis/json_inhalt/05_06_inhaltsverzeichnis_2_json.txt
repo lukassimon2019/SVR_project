@@ -1,0 +1,203 @@
+```json
+drei_niedriger": "Beschäftigungsfreundliche Gegenfinanzierung",
+              "seite": "387"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Allokative und distributive Effekte einer Umfinanzierung durch eine\nUmsatzsteuererhöhung",
+              "seite": "388"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Allokative und distributive Effekte einer Umfinanzierung durch eine\nEinkommensteuererhöhung",
+          "seite": "397",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Allokative und distributive Effekte einer Umfinanzierung durch\nAusgabensenkungen",
+          "seite": "401",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Fazit",
+          "seite": "402",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Sechstes Kapitel\nEuropa: Erfolge und Herausforderungen",
+      "seite": "404",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Zur Ausgangslage: Aktuelle Herausforderungen Europas",
+          "seite": "406",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "I. Deutschland in der Währungsunion",
+          "seite": "407",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Offensichtlicher Erfolg: Euro als stabile Währung",
+              "seite": "410"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Wachstums- und Inflationsdifferenzen als Problem?",
+              "seite": "413"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wachstumsunterschiede im Euro-Raum insgesamt nicht angestiegen",
+              "seite": "414"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Persistente Inflationsdifferenzen im Euro-Raum",
+              "seite": "417"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Realzins- versus Wettbewerbskanal: Destabilisierende und\nstabilisierende Effekte",
+              "seite": "420"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Positive Handelseffekte der Euro-Einführung",
+              "seite": "425"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Euro fördert den Handel innerhalb der Europäischen\nWährungsunion",
+              "seite": "426"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Euro-Einführung stützt deutsche Exporte in den Euro-Raum",
+              "seite": "427"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Finanzpolitik in Europa: Unter Anpassungsdruck",
+              "seite": "431"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fiskalpolitische Entwicklung und Verhaltensmuster",
+              "seite": "432"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Reform des Stabilitäts- und Wachstumspakts (SWP)",
+              "seite": "438"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bewertung des Europäischen Stabilitäts- und Wachstumspakts",
+              "seite": "441"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Institutionelle Herausforderungen",
+          "seite": "442",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Ratifikation eines Vertrags über eine Verfassung für Europa",
+              "seite": "442"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Keine Einigung über die Finanzielle Vorausschau 2007 bis 2013",
+              "seite": "445"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Ökonomische Aspekte eines möglichen EU-Beitritts der Türkei",
+              "seite": "449"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Siebtes Kapitel\nKapitalmarkt und Finanzintermediäre: Unternehmensfinanzierung im Wandel",
+      "seite": "454",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Marktbasierte Finanzierung gewinnt an Bedeutung",
+          "seite": "457",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die Rolle von Private Equity-Gesellschaften und Hedge-Fonds",
+          "seite": "463",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Veränderte Rahmenbedingungen der Unternehmensfinanzierung:\nAnpassungsbedarf insbesondere im „kleinen“ Mittelstand",
+          "seite": "473",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Angespannte Finanzierungssituation im Mittelstand",
+              "seite": "474"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Schwache Eigenkapitalausstattung wird zum Problem",
+              "seite": "476"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wege zu mehr Eigenkapital",
+              "seite": "482"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Bankenkonsolidierung: Gefahr für den Mittelstand?",
+              "seite": "484"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erste Ergebnisse für Deutschland",
+              "seite": "488"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Fazit",
+          "seite": "492",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Analyse\nZur Prognosegüte alternativer Konjunkturindikatoren",
+      "seite": "495",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1. Motivation",
+          "seite": "495",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "2. Konstruktion eine Konjunkturindikators auf Grundlage eines\nFaktormodells",
+          "seite": "497",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "3. Datengrundlage",
+          "seite": "501",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "4. Spezifikation der Prognosemodelle",
+          "seite": "502",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "5. Evaluierung der Prognosen",
+          "seite": "504",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "6. Ergebnisse der Prognoseevaluierung bei konstanter Modellspezifikation",
+          "seite": "505",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "7. Fazit",
+          "seite": "510",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+ende_json
+

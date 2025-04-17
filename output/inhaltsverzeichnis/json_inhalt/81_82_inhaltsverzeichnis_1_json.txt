@@ -1,0 +1,345 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "14",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "TEIL A: Der internationale Rahmen",
+          "seite": "14",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Anpassungsdruck zwingt Weltwirtschaft in die Stagnation",
+              "seite": "14"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Anhaltende Konjunkturschwäche in den westlichen Industrieländern",
+              "seite": "19"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neue Wege in der Wirtschaftspolitik",
+              "seite": "19"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Festhalten am bisherigen Konzept",
+              "seite": "23"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Zablungsbilanzungleichgewichte weiterhin groß",
+              "seite": "25"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Leistungsbilanzdefizite verlagert",
+              "seite": "25"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Dollarstärke und hohe Zinsen",
+              "seite": "28"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzierungsprobleme verschärft",
+              "seite": "28"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Europäische Gemeinschaft: Problemdruck unverändert",
+              "seite": "31"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Haushaltsprobleme weiterhin ungelöst",
+              "seite": "31"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Probleme der gemeinsamen Wirtschaftspolitik",
+              "seite": "33"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "TEIL B: Die Binnenkonjunktur 1981",
+          "seite": "42",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Überblick",
+              "seite": "42"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Anpassung vorangekommen?",
+              "seite": "44"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Marktanteilsgewinne im Wettbewerb mit dem Ausland",
+              "seite": "45"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verbesserung der Angebotsbedingungen läßt auf sich warten",
+              "seite": "46"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weniger Licht als Schatten bei den Investitionen",
+              "seite": "51"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Privater Verbrauch im Zeichen gedämpfter Einkommensentwicklung",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Staatliche Nachfrage höher als erwartet",
+              "seite": "54"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Belebung der Produktion läßt auf sich warten",
+              "seite": "55"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verlangsamtes Wachstum des Produktionspotentials",
+              "seite": "56"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nur mäßiger Produktivitätsanstieg",
+              "seite": "57"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Hohe Arbeitslosigkeit",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verminderte Beschäftigung",
+              "seite": "59"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Struktur der Arbeitslosigkeit",
+              "seite": "62"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Entwicklung der Teilzeitarbeit",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zum Arbeitsplatzpotential",
+              "seite": "69"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Starker Geldwertschwund",
+              "seite": "70"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Realeinkommen erstmals gesunken",
+              "seite": "73"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Weiterhin außenwirtschaftliches Ungleichgewicht",
+              "seite": "79"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Defizit der Leistungsbilanz noch hoch",
+              "seite": "79"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nochmals starke reale Abwertung der D-Mark",
+              "seite": "83"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Import von langfristigem Kapital größer, aber teuer",
+              "seite": "87"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VII. Geldpolitik: Geldwertsicherung bei Störungen von außen",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Expansion der Zentralbankgeldmenge weiterhin gering",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldmarktsteuerung auf Sicht",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gewinnabführung an den Bund",
+              "seite": "97"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Monetäre Expansion im Zeichen hoher Zinsen",
+              "seite": "99"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Teurer Kredit",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kapitalmarkt im Wandel",
+              "seite": "104"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VIII. Finanzpolitik: Neuer Anlauf zur Konsolidierung",
+              "seite": "108"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unerwartet starker Anstieg der Ausgaben",
+              "seite": "108"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur längerfristigen Entwicklung der Ausgabenstruktur",
+              "seite": "114"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Steuerausfälle",
+              "seite": "116"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nochmals sprunghafter Anstieg der Defizite",
+              "seite": "117"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Große Impulse - kleine Wirkungen",
+              "seite": "120"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsolidierung eingeleitet",
+              "seite": "121"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die voraussichtliche Entwicklung",
+      "seite": "127",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Weltkonjunktur im Jahre 1982",
+          "seite": "128",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die voraussichtliche Entwicklung der Binnenkonjunktur",
+          "seite": "130",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Auf der Suche nach einem Ausweg",
+      "seite": "140",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Wege der Wirtschaftspolitik",
+          "seite": "140",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Angebotsseitige versus nachfrageseitige Störungen",
+              "seite": "140"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zum Konzept des Sachverständigenrates",
+              "seite": "143"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unterschiedliche Wege der Wirtschaftspolitik in einzelnen Ländern",
+              "seite": "144"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Staat ist nicht aus seiner Verantwortung entlassen",
+              "seite": "148"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Gegen den Mangel an wirtschaftlicher Dynamik",
+          "seite": "150",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Aus der Weltwirtschaft kommt keine Führung",
+              "seite": "150"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Beschäftigungsdilemma",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein beschäftigungspolitischer Konsens",
+              "seite": "153"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Dynamik muß von den Investitionen kommen",
+              "seite": "156"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Alternative",
+              "seite": "158"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Zu den Politikbereichen im einzelnen",
+          "seite": "160",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitik",
+              "seite": "160"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur steuerlichen Entlastung von gewerblichen Investitionen",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geld- und Währungspolitik",
+              "seite": "171"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lohnpolitik",
+              "seite": "174"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarktpolitik",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Marktpolitik",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Energiepolitik",
+              "seite": "182"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Zur Internationalen Wettbewerbsfähigkeit",
+      "seite": "185",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1. Befunde",
+          "seite": "185",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zur Entwicklung der Marktanteile",
+              "seite": "185"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wechselkurse, Preise und Kosten",
+              "seite": "190"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Japans Wettbewerbsfähigkeit",
+              "seite": "192"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zum Innovationspotential der deutschen Wirtschaft",
+              "seite": "195"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Für eine offensive außenwirtschaftliche Anpassung",
+          "seite": "199",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```ende_json

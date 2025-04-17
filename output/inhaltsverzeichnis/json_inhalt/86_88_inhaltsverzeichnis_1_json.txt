@@ -1,0 +1,356 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "18",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Der internationale Rahmen",
+          "seite": "18",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Ölpreissturz und Korrektur des Dollarkurses",
+              "seite": "18"
+            },
+            {
+              "ueberschrift_drei_niedriger": "U. Vereinigte Staaten: Vor der Korrektur",
+              "seite": "20"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IU. Japan: Unter Anpassungszwang",
+              "seite": "27"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Europa: Kräftiger privater Verbrauch, gedämpfte Ausfuhr",
+              "seite": "31"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Die Binnenkonjunktur im Jahre 1986",
+          "seite": "47",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Überblick",
+              "seite": "47"
+            },
+            {
+              "ueberschrift_drei_niedriger": "U. Markanter Wechsel der Auftriebskräfte",
+              "seite": "49"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stärkste Senkung der Importpreise seit den fünfziger Jahren",
+              "seite": "49"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kräftigung der Verbrauchskonjunktur",
+              "seite": "52"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Höherbewertung der D-Mark dämpft Ausfuhr",
+              "seite": "57"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiter gute Investitionsbedingungen",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Höhere Güternachfrage des Staates",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "UI. Unausgeschöpfter Expansionsspielraum?",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Bessere Aussichten auf dem Arbeitsmarkt",
+              "seite": "66"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Höhere Beschäftigung - leichter Rückgang der Arbeitslosigkeit",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Starke Bewegungen am Arbeitsmarkt",
+              "seite": "69"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steigende Nachfrage nach qualifizierten Arbeitskräften",
+              "seite": "71"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Arbeitsmarkt für Akademiker",
+              "seite": "73"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Geldpolitik im Konflikt",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschleunigte Expansion der Zentralbankgeldmenge",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Geldmarktsteuerung",
+              "seite": "80"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kapitalimport trotz hohem Leistungsbilanzüberschuß",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zinsen unter Einflüssen von außen und von innen",
+              "seite": "83"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Höherer Außenwert der D-Mark",
+              "seite": "83"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Finanzpolitik: Steuersenkung und hoher Ausgabenzuwachs",
+              "seite": "86"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verhaltener Anstieg der Steuereinnahmen",
+              "seite": "89"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konjunktureller Impuls mäßig expansiv",
+              "seite": "91"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Haushalte der Sozialversicherungen",
+              "seite": "93"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Zur voraussichtlichen Entwicklung im Jahre 1987",
+      "seite": "98",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Zur Ausgangslage",
+          "seite": "98",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "11. Die Weltkonjunktur im Jahre 1987",
+          "seite": "99",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IU. Die voraussichtliche Entwicklung der Binnenkonjunktur",
+          "seite": "101",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Wirtschaftspolitik für 1987 und danach",
+      "seite": "112",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Aufgaben und Möglichkeiten",
+          "seite": "112",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Ziele und Wirklichkeit",
+              "seite": "112"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der empirische Befund",
+              "seite": "112"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stabilität des Geldwertes: das Erreichte sichern",
+              "seite": "113"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Korrektur des außenwirtschaftlichen Ungleichgewichts in Gang gekommen",
+              "seite": "114"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Auf dem Weg zu mehr Beschäftigung",
+              "seite": "114"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stetiges und angemessenes Wachstum?",
+              "seite": "114"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Vermehrt rentable Arbeitsplätze schaffen",
+              "seite": "115"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Weg zum Erfolg",
+              "seite": "115"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Alle sind gefordert",
+              "seite": "117"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Dynamischer Wettbewerb: Leitbild und Motor",
+              "seite": "118"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Reformen jetzt anpacken",
+              "seite": "119"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Deutsche Aufgaben in der internationalen Wirtschaftspolitik",
+              "seite": "121"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "126"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Zu den Politikbereichen im einzelnen",
+          "seite": "130",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Internationale Währungspolitik: Warnung vor falschen Weichenstellungen",
+              "seite": "130"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Forderungen nach einem System gestalteter Wechselkurse",
+              "seite": "132"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Forderungen führen auf falsche Wege",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Worauf es ankommt: Stetige Wirtschaftspolitik",
+              "seite": "134"
+            },
+            {
+              "ueberschrift_drei_niedriger": "11. Geldpolitik",
+              "seite": "135"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Finanzpolitik: Zeit für Reformen",
+              "seite": "137"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Haushaltsentwicklung 1987: Steuerpolitischer Handlungsspielraum in Gefahr",
+              "seite": "137"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wie der Handlungsspielraum wiedererlangt werden kann",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Spielräume für eine kraftvolle Steuersenkung",
+              "seite": "142"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steuerreform fortführen",
+              "seite": "143"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kommunale Finanzreform dringend",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Tarifpolitik in neuem Umfeld",
+              "seite": "148"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Tarifrunde 1986 im Rückblick",
+              "seite": "148"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lohnpolitik für mehr Beschäftigung",
+              "seite": "149"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Tarifrunde 1987: Schwierige Aufgaben für die Tarifparteien",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erfahrungen mit der Arbeitszeitverkürzung seit 1984",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Sozialversicherung - Zeit für Reformen",
+              "seite": "153"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reformbedarf in der Alterssicherung",
+              "seite": "154"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reformbedarf im Gesundheitswesen",
+              "seite": "157"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Energiepolitik unter Druck",
+              "seite": "159"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VII. Agrarpolitik: Auf falschem Kurs",
+              "seite": "162"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Grundsätze",
+              "seite": "163"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fehlentwicklungen",
+              "seite": "163"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reformbestrebungen",
+              "seite": "165"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Anhang",
+      "seite": "171",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung",
+          "seite": "171",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Auszug aus dem Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft",
+          "seite": "173",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Verzeichnis der Gutachten des Sachverständigenrates",
+          "seite": "174",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Methodische Erläuterungen",
+          "seite": "176",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "V. Statistischer Anhang",
+          "seite": "187",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Sachregister",
+          "seite": "295",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```ende_json
+

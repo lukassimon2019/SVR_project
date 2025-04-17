@@ -1,0 +1,800 @@
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel\nWirtschaftspolitik: Mehr Vertrauen in Marktprozesse",
+      "seite": "6",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Wirtschaftspolitik von der Realität eingeholt",
+          "seite": "7",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Deutschland: Wachstumspotenziale freisetzen",
+          "seite": "12",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Keine Investitionslücke, aber Handlungsbedarf",
+              "seite": "12"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Arbeitsmarkt: Neue Hürden für Beschäftigung",
+              "seite": "18"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Sozialpolitik: Verfehlte Reformen",
+              "seite": "19"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Die Rolle rückwärts in der Rentenpolitik",
+              "seite": "19"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Gesundheitspolitik: Vermischung von Effizienz und Verteilung",
+              "seite": "20"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Die Pflegestärkungsgesetze",
+              "seite": "21"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Energiepolitik: Niedrige Erwartungen bestätigt",
+              "seite": "23"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Innovationen: Entdeckungsprozesse ermöglichen",
+              "seite": "27"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Finanzpolitik: Reformbedarf steigt",
+          "seite": "28",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Staatshaushalt weiter mit Rückenwind",
+              "seite": "29"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Reformoptionen für den Solidaritätszuschlag",
+              "seite": "32"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Neuordnung der Bund-Länder-Finanzbeziehungen",
+              "seite": "35"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Europa: Zeit für Subsidiarität",
+          "seite": "37",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Unverändertes Leitbild: Maastricht 2.0",
+              "seite": "37"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Chancen eines Transatlantischen Freihandelsabkommens",
+              "seite": "39"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Expansive Geldpolitik, nationale Wirtschaftspolitik",
+              "seite": "41"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Bankenunion und Finanzstabilität",
+              "seite": "42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel\nInternationale Konjunktur: Euro-Raum verliert\nden Anschluss",
+      "seite": "50",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Weltwirtschaft: Hinter den Erwartungen zurückgeblieben",
+          "seite": "52",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Konjunkturelle Lage",
+              "seite": "52"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Euro-Raum fällt hinter übrige Industrieländer zurück",
+              "seite": "52"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Schlechtere Finanzierungsbedingungen belasten Schwellenländer",
+              "seite": "56"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausblick",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Chancen und Risiken",
+              "seite": "60"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Konjunktur außerhalb des Euro-Raums",
+          "seite": "61",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Vereinigte Staaten: Unterauslastung am Arbeitsmarkt geht zurück",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. China: Baukonjunktur belastet Wachstum",
+              "seite": "64"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Japan: Aufschwung nicht selbsttragend",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Vereinigtes Königreich: Binnenwirtschaft stützt Aufschwung",
+              "seite": "68"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Euro-Raum: Im Griff der Reformunwilligen",
+          "seite": "70",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Konjunkturelle Lage",
+              "seite": "70"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Analyse der großen Volkswirtschaften",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Staatliche und private Verschuldung",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wettbewerbsfähigkeit",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Finanzierungsbedingungen",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Keine Erholung in Sicht",
+              "seite": "83"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel\nDeutschland: Konjunktur kommt nicht in Fahrt",
+      "seite": "88",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Überblick",
+          "seite": "90",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Zur wirtschaftlichen Lage in Deutschland",
+              "seite": "90"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausblick",
+              "seite": "94"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Rahmenbedingungen und Annahmen der Prognose",
+              "seite": "99"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Die Entwicklung im Einzelnen",
+          "seite": "103",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Außenhandel leicht aufwärts gerichtet",
+              "seite": "103"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Investitionen: Ausrüstungen weiterhin schwach, Bau mit Substanz",
+              "seite": "105"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Hoher Beschäftigungsstand stützt Konsum",
+              "seite": "106"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Niedriger Preisanstieg",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Arbeitsmarkt: Reformen dämpfen Beschäftigungswachstum",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Öffentliche Finanzen: Ausgeglichene Haushalte",
+              "seite": "111"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Das Produktionspotenzial",
+          "seite": "114",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel\nStrukturelle Anpassung und geldpolitische Lockerung\nim Euro-Raum",
+      "seite": "124",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "126",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Anzeichen konvergierender Entwicklungen in den Mitgliedstaaten",
+          "seite": "127",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": " Zwischenfazit",
+              "seite": "130"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Weitere Entspannung trotz OMT-Kritik des Bundesverfassungsgerichtes",
+          "seite": "131",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": " Mögliche Entscheidungen des EuGH und Reaktionen des BVerfG",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Mögliche Gründe für den fortgesetzten Rückgang der Risikoaufschläge",
+              "seite": "134"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zwischenfazit",
+              "seite": "135"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Massive geldpolitische Lockerung durch die EZB",
+          "seite": "136",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Zinssenkungen und quantitative Lockerung",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Negativer Einlagezins",
+              "seite": "137"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Gezielte längerfristige Refinanzierungsgeschäfte (GLRG)",
+              "seite": "138"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Aufkaufprogramme für Kreditverbriefungen (ABS), Pfandbriefe und Staats-anleihen",
+              "seite": "141"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Einordnung der Maßnahmen anhand geldpolitischer Regeln",
+              "seite": "143"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Zwischenfazit",
+              "seite": "144"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Risiken niedriger Inflation und vorbeugende geldpolitische\nLockerung",
+          "seite": "145",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Inflationsentwicklung und –prognosen",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Risiken längerfristig niedriger Inflationsraten",
+              "seite": "147"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Deflationsrisiko",
+              "seite": "148"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Vorbeugende geldpolitische Lockerung",
+              "seite": "150"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Zwischenfazit",
+              "seite": "153"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Risiken für eine nachhaltige wirtschaftliche Entwicklung",
+          "seite": "153",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Geldpolitik, Kreditentwicklung und Vermögenspreise",
+              "seite": "153"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Mögliche Fehlentwicklungen: Vor der Krise und aktuell",
+              "seite": "156"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Bankkredite und Vermögenspreise in Mitgliedstaaten des Euro-Raums",
+              "seite": "157"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Gegenwärtige Risiken für längerfristige Fehlentwicklungen",
+              "seite": "160"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Risiken für eine nachhaltige Wirtschaftspolitik",
+              "seite": "161"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VII. Fazit: Risikoabwägung spricht derzeit gegen weitere Lockerung",
+          "seite": "163",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel\nDer weite Weg zu mehr Finanzstabilität in Deutschland\nund Europa",
+      "seite": "168",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Systemrisiken im Finanzsystem",
+          "seite": "170",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die Lehren aus zwei Krisen",
+              "seite": "170"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Implizite Garantien noch immer hoch",
+              "seite": "171"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Erste Schritte in der Europäischen Bankenunion",
+          "seite": "175",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Richtfest bei der Bankenunion",
+              "seite": "175"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Bankenprüfung: Geringer Kapitalbedarf, große Heterogenität",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Ergebnisse der Bankenprüfung",
+              "seite": "178"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Abwicklung in der Bankenunion: Glaubwürdigkeit stärken",
+          "seite": "180",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Das Zeitinkonsistenzproblem der Bankenrettung",
+              "seite": "181"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Governance zu komplex",
+              "seite": "182"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Für eine glaubwürdige Gläubigerbeteiligung",
+              "seite": "185"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Gläubigerbeteiligung (Bail-in)",
+              "seite": "186"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Der europäische Bankenabwicklungsfonds",
+              "seite": "189"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Fiskalische Backstops",
+              "seite": "191"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Globale Bankenabwicklung derzeit kaum möglich",
+              "seite": "192"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Fazit",
+              "seite": "193"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Makroprudenzielle Aufsicht: Aufbruch ins Unbekannte",
+          "seite": "194",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Systemstabilität als Regulierungsziel",
+              "seite": "195"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Aufsichtsstruktur: Effektiv trotz Schwächen?",
+              "seite": "197"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Ausgestaltung der makroprudenziellen Aufsicht",
+              "seite": "197"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Aktuelle Struktur der makroprudenziellen Aufsicht",
+              "seite": "199"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Instrumente: Feinsteuerung vermeiden",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Instrumenteneinsatz",
+              "seite": "205"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Bewertung",
+              "seite": "205"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Fazit",
+              "seite": "207"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Sechstes Kapitel\nLeistungsbilanz: Aktionismus nicht angebracht",
+      "seite": "216",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die aktuelle Kontroverse",
+          "seite": "218",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Sicht der Finanzierungsrechnung",
+          "seite": "221",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Stilisierte Fakten",
+              "seite": "221"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Konsolidierungsprozess der privaten Haushalte",
+              "seite": "224"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Effekte der Demografie",
+              "seite": "225"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Unternehmenssektor: Höhere Ersparnis bei sinkender\nInvestitionsneigung",
+              "seite": "227"
+            },
+            {
+              "ueberschrift_drei_niedriger": " „Deleveraging“ des Unternehmenssektors",
+              "seite": "228"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Investitionen der deutschen Unternehmen im Ausland",
+              "seite": "230"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Gibt es eine Investitionsschwäche in Deutschland?",
+              "seite": "231"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Entwicklung der Ausrüstungsinvestitionen",
+              "seite": "232"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Entwicklung der Bauinvestitionen",
+              "seite": "234"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Die realwirtschaftliche Seite der deutschen Leistungsbilanz",
+          "seite": "238",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Überblick",
+              "seite": "238"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Bestimmungsgründe des Außenhandels",
+              "seite": "240"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Impulse durch die steigende Weltnachfrage",
+              "seite": "240"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Preiselastizität und Wettbewerbsfähigkeit",
+              "seite": "240"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Lohnmoderation und Konsumnachfrage",
+              "seite": "247"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Effekte der Fiskalpolitik",
+              "seite": "248"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Entwicklung des Auslandsvermögens",
+          "seite": "250",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": " Sind deutsche Auslandsanlagen ein „schlechtes\nInvestment“?",
+              "seite": "252"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Schlussfolgerungen und Ausblick",
+          "seite": "254",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Siebtes Kapitel\nArbeit und Soziales: Neue Beschäftigungshürden\nund Verteilungskonflikte",
+      "seite": "270",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Verteilung: Verzerrte Wahrnehmung",
+          "seite": "272",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Verteilung der Haushalts- und Arbeitseinkommen",
+              "seite": "273"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Verteilung der Vermögen",
+              "seite": "279"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wirtschaftspolitischer Handlungsbedarf",
+              "seite": "281"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Arbeitsmarkt: Auf Marktprozesse vertrauen",
+          "seite": "282",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Reformen des Arbeitsmarkts – ein wichtiger Erfolgsbaustein",
+              "seite": "282"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die Gefahren regulatorischer Markteingriffe",
+              "seite": "285"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Mindestlohn – Was nun?",
+              "seite": "286"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Regulierung keinesfalls weiter ausbauen",
+              "seite": "289"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Eine zielführende Arbeitsmarktordnung",
+              "seite": "291"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Das Rentenpaket und die Tragfähigkeit der öffentlichen\nFinanzen",
+          "seite": "293",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Das Rentenpaket – Inhalt und Bewertung",
+              "seite": "294"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Aktualisierte Tragfähigkeitsberechnungen",
+              "seite": "298"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Entwicklung demografiesensitiver Ausgabenbereiche",
+              "seite": "300"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Berechnungen zur Tragfähigkeit der öffentlichen Finanzen",
+              "seite": "303"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wirtschaftspolitische Schlussfolgerungen",
+              "seite": "308"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Achtes Kapitel\nÖffentliche Finanzen: Effizienz durch Subsidiarität",
+      "seite": "316",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Für eine aktivierende Finanzverfassung",
+          "seite": "318",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Defizite des aktuellen Länderfinanzausgleichs",
+              "seite": "318"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Der steuerkraftbezogene Finanzausgleich",
+              "seite": "320"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Umverteilungsgrad und Anreizwirkungen",
+              "seite": "324"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Zur Reform des Länderfinanzausgleichs",
+              "seite": "328"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Reform des Ausgleichsmechanismus",
+              "seite": "329"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Berücksichtigung der Neuen Länder und der Stadtstaaten",
+              "seite": "332"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Reform der Steuerverteilung",
+              "seite": "333"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Übertragung weiterer Sozialleistungen an den Bund",
+              "seite": "335"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kein Altschuldentilgungsfonds für die Länder",
+              "seite": "336"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Mehr Steuerautonomie für die Länder",
+              "seite": "337"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Einnahmeautonomie und Wettbewerb",
+              "seite": "340"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Hochverschuldete und finanzschwache Länder",
+              "seite": "342"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Fazit",
+              "seite": "343"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Internationale Gewinnverlagerungen",
+          "seite": "347",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gewinnverlagerungen und die OECD-Initiative",
+              "seite": "347"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Das Dilemma der Gewinnbesteuerung",
+              "seite": "351"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Überregulierung vermeiden",
+              "seite": "354"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Gewinnverlagerungen über Verrechnungspreise",
+              "seite": "355"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Verlagerungen von immateriellem Vermögen",
+              "seite": "356"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gewinnverlagerungen über Finanzierungsstrukturen",
+              "seite": "357"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Fazit",
+              "seite": "358"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Analyse\nEinkommens- und Vermögensverteilung in Deutschland",
+      "seite": "369",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einkommensverteilung",
+          "seite": "370",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": " Verwendete Einkommenskonzepte",
+              "seite": "370"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Entwicklung, Verteilung und Zusammensetzung der Einkommen",
+              "seite": "371"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Einkommensmobilität",
+              "seite": "377"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Internationaler Vergleich",
+              "seite": "379"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Vermögensverteilung",
+          "seite": "381",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": " Entwicklung, Verteilung und Zusammensetzung der Vermögen",
+              "seite": "382"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Die Vermögensverteilung nach individuellen Charakteristika",
+              "seite": "386"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Vermögensmobilität",
+              "seite": "390"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Internationaler Vergleich",
+              "seite": "392"
+            }
+          ]
+        }
+      ]
+    }

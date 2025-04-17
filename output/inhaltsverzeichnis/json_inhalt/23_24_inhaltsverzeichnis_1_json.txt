@@ -1,0 +1,732 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel\nKonjunkturerholung verzögert sich",
+      "seite": "14",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Kurzfassung",
+          "seite": "16",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Internationale Konjunktur",
+          "seite": "19",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gedämpfte Weltkonjunktur",
+              "seite": "19"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Rohstoffpreise und Geldpolitik lassen Inflation sinken",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Rohstoffpreise entwickeln sich uneinheitlich",
+              "seite": "27"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Geldpolitik bleibt restriktiv",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Chancen und Risiken: China und Geopolitik",
+              "seite": "32"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Euro-Raum",
+          "seite": "33",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Geringes Wachstum auch im Euro-Raum",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Inflation sinkt weiter Richtung Zielwert",
+              "seite": "39"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Chancen und Risiken: Inflationsentwicklung und geldpolitische Wirkung",
+              "seite": "48"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Deutsche Konjunktur",
+          "seite": "49",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gebremste Erholung",
+              "seite": "49"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Konsumausgaben",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Investitionen",
+              "seite": "55"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Außenhandel",
+              "seite": "56"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Inflation geht zurück, Kernrate bleibt aber erhöht",
+              "seite": "59"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Chancen und Risiken: Privater Konsum und Weltkonjunktur",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Engpässe prägen weiterhin den Arbeitsmarkt",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Öffentliche Finanzen unter Einhaltung der Schuldenbremse",
+              "seite": "67"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Arbeitsvolumen reduziert Potenzialwachstum",
+              "seite": "73"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel\nPotenzialwachstum durch Investitionen stärken",
+      "seite": "86",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "88",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Ausgangslage: Das Produktionspotenzial Deutschlands",
+          "seite": "90",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Potenzialwachstum seit 1970 rückläufig",
+              "seite": "90"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Das Produktionspotenzial im internationalen Vergleich",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Investitionen im internationalen Vergleich",
+              "seite": "99"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Ausländische Direktinvestitionen",
+              "seite": "100"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Ausblick: Das Produktionspotenzial in der langen Frist",
+          "seite": "103",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Geringes Potenzialwachstum im Referenzszenario",
+              "seite": "104"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kapitaleinsatz gewinnt für Potenzialwachstum an Relevanz",
+              "seite": "105"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Rückläufiges Arbeitsvolumen dämpft Potenzialwachstum",
+              "seite": "106"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Kapitaleinsatz in der Transformation",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Dekarbonisierung der energieintensiven Industrie",
+              "seite": "108"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Auswirkungen steuerlicher Investitionsförderung",
+              "seite": "113"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Chancen und Risiken bei der Entwicklung des Arbeitsvolumens",
+              "seite": "114"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Produktivitätsgewinne durch Nutzung von Künstlicher Intelligenz möglich",
+              "seite": "115"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Kapital- und Arbeitseinsatz in den Wirtschaftsbereichen",
+          "seite": "119",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Kapitaleinsatz auf Sektorebene heterogen",
+              "seite": "119"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Substitution von Arbeit durch Kapital kann sinkendes Arbeitsvolumen kompensieren",
+              "seite": "122"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Substitution von Arbeit durch Kapital",
+              "seite": "123"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Reallokation von Arbeitskräften zwischen Wirtschaftszweigen kann Substitution erleichtern",
+              "seite": "125"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Produktivitätssteigerung durch Investitionen im Verarbeitenden Gewerbe",
+          "seite": "126",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Kapitalgebundener technischer Fortschritt erhöht TFP-Wachstum",
+              "seite": "126"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Verbesserung der Allokationseffizienz kann Produktivität steigern",
+              "seite": "130"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Investitionen erfordern Finanzierung",
+              "seite": "134"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Potenzialwachstum gezielt erhöhen",
+          "seite": "136",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Produktivitätsgewinne realisieren",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Rückgang des Arbeitsvolumens verlangsamen",
+              "seite": "138"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Investitionsanreize verbessern und Diversifizierung unterstützen",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Investitionstätigkeit durch effiziente Verwaltung erleichtern",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Steuerpolitik",
+              "seite": "140"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Energiepolitik kann Investitionen zur Dekarbonisierung erleichtern",
+              "seite": "141"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Geopolitik: Internationale Kooperationen erleichtern Importsubstitution",
+              "seite": "142"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Anhang",
+          "seite": "143",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Erläuterung zu Analysen",
+              "seite": "143"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Berechnungen zur Dekarbonisierung",
+              "seite": "143"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Schätzungen von Substitutionselastizitäten",
+              "seite": "143"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kapitalgebundener technischer Fortschritt",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Faktorfehlallokation, TFP und Investitionen",
+              "seite": "146"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Investitionsfinanzierung und Kapitalstruktur",
+              "seite": "147"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Weitere Tabellen und Abbildungen",
+              "seite": "148"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel\nKapitalmarkt in Deutschland und der EU: Potenziale besser nutzen",
+      "seite": "158",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Überblick und Motivation",
+          "seite": "160",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": " Kapitalmärkte in Europa: Fragmentiert und schwach entwickelt",
+              "seite": "161"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Ziele: Warum gut entwickelte Kapitalmärkte wichtig sind",
+          "seite": "165",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Wachstum fördern durch Reallokation und Innovation",
+              "seite": "165"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kapitalmarktentwicklung, Wachstum und Produktivität",
+              "seite": "165"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Zentrale Wirkungsmechanismen: Reallokation und Innovation",
+              "seite": "169"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Diversifikation von Risiken verbessern",
+              "seite": "170"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Kapitalmärkte können Investitionsfinanzierung fördern",
+              "seite": "171"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Ausgangslage: Kapitalmärkte in Europa",
+          "seite": "174",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Unternehmensfinanzierung stark von Banken abhängig",
+              "seite": "174"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Verbriefungen spielen eine geringe Rolle in der Bankfinanzierung",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wagniskapital gestiegen, aber hoher Anteil ausländischer Investoren",
+              "seite": "182"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Institutionelle Anleger von geringer Bedeutung",
+              "seite": "186"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Haushalte mit geringer Kapitalmarktbeteiligung",
+              "seite": "192"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Europäische Kapitalmärkte weiter fragmentiert",
+              "seite": "196"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Integration der europäischen Kapitalmärkte verläuft schleppend",
+              "seite": "196"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Risikoteilung im Euro-Raum bisher gering",
+              "seite": "198"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Heterogene Finanzmarktaufsicht in der EU",
+              "seite": "199"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Handlungsoptionen: Liquidität und Kapitalmarktintegration verbessern",
+          "seite": "201",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Unternehmensfinanzierung über Kapitalmärkte vereinfachen",
+              "seite": "201"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Besserer Kapitalmarktzugang für Unternehmen",
+              "seite": "201"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Steuerliche Hemmnisse für Eigenkapitalfinanzierung abbauen",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Verbriefungen zur Bankenfinanzierung erleichtern",
+              "seite": "205"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Mehr Wachstumskapital und bessere Exit-Optionen",
+              "seite": "206"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Institutionelle Anleger stärken",
+              "seite": "207"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Haushalte am Kapitalmarkt beteiligen",
+              "seite": "209"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Europäische Kapitalmärkte stärker integrieren",
+              "seite": "210"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Fragmentierung reduzieren und Home Bias abbauen",
+              "seite": "211"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Transparenz und Vergleichbarkeit schaffen",
+              "seite": "211"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Aufsichtsrechtliche Harmonisierung vorantreiben",
+              "seite": "213"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel\nArmutsgefährdung senken, Erwerbsanreize stärken: Reformen im Steuer-Transfer-System",
+      "seite": "226",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "228",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Lage: Einkommensverteilung und Armut in Deutschland",
+          "seite": "230",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Einkommensverteilung",
+              "seite": "230"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Entwicklung von Armutsindikatoren",
+              "seite": "237"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Armutsgefährdete Personengruppen",
+              "seite": "244"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Institutioneller Rahmen und mögliche Zielkonflikte",
+          "seite": "250",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Das aktuelle Transfersystem",
+              "seite": "250"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Zielkonflikte im Transfersystem",
+              "seite": "253"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Maßnahmen: Reformoptionen im Steuer-Transfer-System",
+          "seite": "255",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Erwerbsanreize stärken",
+              "seite": "255"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Eine Vereinfachung des Transfersystems",
+              "seite": "256"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kindergrundsicherung",
+              "seite": "261"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Ehegattensplitting reformieren",
+              "seite": "263"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Erwerbsmöglichkeiten stärken",
+              "seite": "268"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kinderbetreuungsmöglichkeiten ausbauen",
+              "seite": "268"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Weiterbildungs- und Gesundheitsmaßnahmen fördern",
+              "seite": "271"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Direktzahlungen an Haushalte ermöglichen",
+              "seite": "272"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Anwendungsfälle: Kriseninstrument und Klimageld",
+              "seite": "273"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Umsetzung und Ausgestaltung",
+              "seite": "274"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel\nAlterungsschub und Rentenreformen",
+      "seite": "284",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung: Alterung setzt Rentenfinanzen unter Druck",
+          "seite": "286",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Ausgangslage: Finanzierungsprobleme in der Altersvorsorge",
+          "seite": "290",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Aktueller Rechtsstand in der GRV",
+              "seite": "290"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Die Finanzierungssituation der GRV unter geltendem Recht",
+              "seite": "296"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Struktur der Beamtenversorgung",
+              "seite": "298"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Demografische Ausgangslage",
+              "seite": "298"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Rechtliche Rahmenbedingungen",
+              "seite": "300"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Entwicklung der Versorgungsrücklagen und -ausgaben",
+              "seite": "302"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Maßnahmen: Reformoptionen für die Gesetzliche Rentenversicherung",
+          "seite": "304",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Steigerung der sozialversicherungspflichtigen Erwerbstätigkeit",
+              "seite": "304"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Erwerbsbeteiligung von Frauen",
+              "seite": "305"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Erwerbsbeteiligung von Älteren",
+              "seite": "306"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Höhere Nettozuwanderung",
+              "seite": "307"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Erweiterung des Versichertenkreises",
+              "seite": "308"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Einbeziehung von Beamtinnen und Beamten in die GRV",
+              "seite": "308"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Einbeziehung von Selbständigen in die GRV",
+              "seite": "312"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Anhebung des gesetzlichen Renteneintrittsalters",
+              "seite": "313"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Heterogene Lebenserwartung und Armutsgefährdung im Alter",
+              "seite": "317"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Absicherung gegen Erwerbsminderung",
+              "seite": "320"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Zugang zur abschlagsfreien Frührente einschränken",
+              "seite": "321"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Änderungen bei Rentenanpassungen",
+              "seite": "323"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Anpassung des Nachhaltigkeitsfaktors",
+              "seite": "323"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Inflationsanpassung",
+              "seite": "324"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Umverteilung in der GRV",
+              "seite": "326"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Nach dem Einkommen gestaffelte Rentenberechnung",
+              "seite": "327"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Vorbehalte gegenüber einer progressiven Rentenberechnung",
+              "seite": "331"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Reformoptionen Witwen- und Witwerrente",
+              "seite": "334"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Kapitaldeckung als Ergänzung des Rentensystems",
+              "seite": "338"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Riester-Renten: Intransparent, renditeschwach und wenig genutzt",
+              "seite": "340"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Handlungsoptionen: Diversifizierte, renditestarke und stärker genutzte Altersvorsorge auf Aktienbasis",
+              "seite": "343"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Fazit: Bündelung von Maßnahmen sichert Umsetzbarkeit",
+          "seite": "347",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Eine andere Meinung",
+          "seite": "357",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Eine andere Meinung",
+          "seite": "368",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Anhang",
+          "seite": "377",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": " Hintergrund zur Reform der Beamtenversorgung in Österreich",
+              "seite": "377"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Automatische Anpassungsmechanismen in Rentensystemen anderer OECD-Länder",
+              "seite": "378"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Sechstes Kapitel\nZeitgemäße Dateninfrastruktur für fundiertere Entscheidungen",
+      "seite": "388",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Motivation: Bessere Daten für bessere Entscheidungen",
+          "seite": "390",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Ausgangslage: Verbesserungsbedarf bei Datenerhebung, -verknüpfung und -zugang",
+          "seite": "393",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Lückenhafte Erhebung von Daten",
+              "seite": "395"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Zeitverzug bei der Datenbereitstellung",
+              "seite": "396"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Verfügbarkeit existierender Daten eingeschränkt",
+              "seite": "397"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Datenverknüpfung nur auf Einzelfallbasis",
+              "seite": "398"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Datenzugang nicht benutzerfreundlich",
+              "seite": "400"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Handlungsoptionen: Eine Dateninfrastruktur für das 21. Jahrhundert",
+          "seite": "401",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Rahmenbedingungen des Statistischen Verbunds verbessern",
+              "seite": "401"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Datenlücken schließen",
+              "seite": "403"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Geringerer Zeitverzug und höhere Anpassungsfähigkeit",
+              "seite": "405"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Verfügbarkeit bereits erhobener Daten verbessern",
+              "seite": "406"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Bessere Verknüpfbarkeit über verschiedene Datenanbieter hinweg",
+              "seite": "408"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Einfacher und benutzerfreundlicher Datenzugang",
+              "seite": "410"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```ende_json

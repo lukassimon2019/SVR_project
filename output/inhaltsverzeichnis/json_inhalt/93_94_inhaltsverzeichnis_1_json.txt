@@ -1,0 +1,408 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "31",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Der internationale Rahmen",
+          "seite": "31",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Überblick",
+              "seite": "31"
+            },
+            {
+              "ueberschrift_drei_niedriger": "11. Weltwirtschaft im Zeichen konjunktureller Schwäche in Europa",
+              "seite": "36"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Dominanz der Abschwungskräfte in Westeuropa",
+              "seite": "36"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verhaltener Aufschwung in den USA, fortgesetzte Nachfrageschwäche in Japan",
+              "seite": "42"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirtschaftliche Dynamik in Schwellenländern und in China ungebrochen",
+              "seite": "43"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IU. Bedrückende Arbeitsmarktprobleme in den Industrieländern",
+              "seite": "44"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Veränderte Schwerpunkte in der Wirtschaftspolitik",
+              "seite": "46"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Unbefriedigender Fortgang der GATT-Verhandlungen",
+              "seite": "47"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V1. Mittel- und Osteuropa: Erste Erfolge bei entschlossenem Reformkurs",
+              "seite": "49"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Die wirtschaftliche Entwicklung in der Bundesrepublik Deutschland",
+          "seite": "63",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die deutsche Wirtschaft im Jahre 1993",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Westdeutschland: Scharfe Rezession klingt ab",
+              "seite": "68"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Abschwung stärker als erwartet",
+              "seite": "68"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Warenexport: Allmähliche Besserung nach scharfem Rückgang",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rückläufige Realeinkommen verursachen Absinken des Privaten Verbrauchs",
+              "seite": "75"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Preisentwicklung: gespalten",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IH. Ostdeutschland: Aufwärtsentwicklung setzt sich fort",
+              "seite": "79"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unternehmenssektor: Aufbau einer Exportbasis kommt nur langsam voran",
+              "seite": "79"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Privatisierung weit vorangeschritten",
+              "seite": "86"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hoher Anstieg der Verbraucherpreise",
+              "seite": "93"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Räumliche Entwicklungstrends",
+              "seite": "93"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Rückläufige Investitionen und abgeschwächtes Kapazitätswachstum",
+              "seite": "94"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Investitionsrückgang im Westen - weiterer Anstieg im Osten",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rückgang der Gewinn-Erlös-Relation in Westdeutschland",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vermindertes Wachstum, freie Produktionskapazitäten",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Arbeitsmarkt: Probleme nehmen zu ...",
+              "seite": "103"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigungsrückgang in der Rezession ...",
+              "seite": "104"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Scharfer Anstieg von Kurzarbeit und registrierter Arbeitslosigkeit",
+              "seite": "106"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Intensive Arbeitsmarktpolitik trotz Sparbemühungen",
+              "seite": "111"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rege Diskussion um die Arbeitsförderung",
+              "seite": "116"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Niedrigere Tarifabschlüsse",
+              "seite": "119"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Geldpolitik im Konflikt",
+              "seite": "129"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin starke monetäre Expansion trotz schwacher Konjunktur",
+              "seite": "129"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Flexiblere Liquiditätssteuerung am Geldmarkt",
+              "seite": "134"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Normalisierung der Zinsstruktur am Kapitalmarkt",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Europäische Währungssystem in der Krise",
+              "seite": "138"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vor dem Übergang zur zweiten Stufe der Währungsunion",
+              "seite": "140"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VII. Finanzpolitik: Umstrittener Konsolidierungskurs",
+              "seite": "144"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unbefriedigende Ansätze einer Haushaltskonsolidierung",
+              "seite": "144"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Ausgabenentwicklung: Unbewältigte Strukturprobleme, konjunkturbedingte Belastungen",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neuregelung der föderalen Finanzbeziehungen",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Einnahmenentwicklung: Konjunkturell bedingte Steuerausfälle",
+              "seite": "154"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe öffentliche Defizite - Schwache konjunkturelle Wirkung",
+              "seite": "156"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Differenzierte Entwicklung bei den Sozialversicherungen",
+              "seite": "159"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VIII. Verschlechterung der internationalen Wettbewerbsfähigkeit der deutschen Exportwirtschaft?",
+              "seite": "163"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Entwicklung der Marktanteile im Außenhandel",
+              "seite": "164"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Realer Außenwert der D-Mark und Außenhandelsdynamik",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exportstruktur und Außenhandelsdynamik",
+              "seite": "168"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Passivsaiden im Dienstleistungsverkehr",
+              "seite": "176"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wettbewerbsfähigkeit der Exportwirtschaft: Warnzeichen beachten",
+              "seite": "176"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Zweites Kapitel: Zur voraussichtlichen Entwicklung Im Jahre 1994",
+          "seite": "178",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Ausgangslage und Annahmen der Prognose",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "11. Das weltwirtschaftliche Umfeld",
+              "seite": "179"
+            },
+            {
+              "ueberschrift_drei_niedriger": "111. Die wirtschaftlichen Aussichten in Deutschland",
+              "seite": "181"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Drittes Kapitel: Wirtschaftspolitik für 1994 und danach",
+          "seite": "193",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Teil A: Aufgaben und Möglichkeiten",
+              "seite": "193"
+            },
+            {
+              "ueberschrift_drei_niedriger": "I. Grundlagen für Wachstum und Wohlstand festigen ...",
+              "seite": "193"
+            },
+            {
+              "ueberschrift_drei_niedriger": "11. Ziele und Wirklichkeit: Im Zeichen von Rezession und Strukturanforderungen",
+              "seite": "197"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IU. Grundlinien der Wirtschaftspolitik: Gute Angebotsbedingungen schaffen",
+              "seite": "199"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Junge Bundesländer: Keine Alternative zur wachstumsorientierten Politik",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fortschritte in einem beschwerlichen Transformationsprozeß",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Privatisierung der Unternehmen vor dem Abschluß",
+              "seite": "203"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgleich von Standortnachteilen für Unternehmen",
+              "seite": "204"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirtschaftsförderung mit regionaler Differenzierung",
+              "seite": "206"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Belastung durch die Lohnpolitik",
+              "seite": "207"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Teil B: Zu den Politikbereichen im einzelnen",
+              "seite": "208"
+            },
+            {
+              "ueberschrift_drei_niedriger": "I. Finanzpolitik: Verläßlich konsolidieren - Wachstumsbedingungen verbessern",
+              "seite": "208"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Quantitative Konsolidierung noch nicht gesichert",
+              "seite": "208"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verzicht auf Konsolidierung?",
+              "seite": "211"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Alle Gebietskörperschaften einbeziehen",
+              "seite": "213"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin: Ausgabenkürzungen erforderlich",
+              "seite": "215"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Änderungen in der Abgabenstruktur",
+              "seite": "216"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Abbau von Steuervergünstigungen voranbringen",
+              "seite": "219"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verknüpfung des Transfersystems mit der Einkommensteuer?",
+              "seite": "220"
+            },
+            {
+              "ueberschrift_drei_niedriger": "11. Geldpolitik: Die monetären Bedingungen für Geldwertstabilität sichern",
+              "seite": "224"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik 1993: Gratwanderung bei scharfer Rezession",
+              "seite": "224"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik 1994: Eine potentialgerechte Geldmengenausweitung anstreben",
+              "seite": "226"
+            },
+            {
+              "ueberschrift_drei_niedriger": "111. Währungspolitik: Auf dem Weg der Integration bleiben",
+              "seite": "230"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "233"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Lohnpolitik: Vorrang für die Sicherung der Arbeitsplätze",
+              "seite": "235"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ostdeutschland: Orientierung an der Leistungskraft der Betriebe nach wie vor dringlich",
+              "seite": "235"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Westdeutschland: Produktivitätsregel nicht anwenden",
+              "seite": "236"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Ansätze am Arbeitsmarkt: Wege aus der Arbeitslosigkeit",
+              "seite": "238"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verfestigung der Arbeitslosigkeit",
+              "seite": "238"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Förderung der Wachstumskräfte",
+              "seite": "240"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lohnniveau und Lohnstruktur",
+              "seite": "241"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Institutionelle Regelungen verbessern, Fehlanreize abbauen",
+              "seite": "243"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Für eine flexible Gestaltung der Arbeitszeit",
+              "seite": "244"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarktpolitik: Konzentration auf Problemgruppen",
+              "seite": "246"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "247"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Wachstumspolitik: Auf Marktöffnung und dynamischen Wettbewerb setzen",
+              "seite": "249"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur gegenwärtigen Standortdebatte",
+              "seite": "249"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Für einen weiteren Abbau marktwidriger Regulierungen",
+              "seite": "252"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Privatisierungspotentiale entschlossener nutzen",
+              "seite": "256"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mehr Effizienz in der Strukturpolitik",
+              "seite": "259"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umweltpolitik in der Bewährung",
+              "seite": "263"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```ende_json

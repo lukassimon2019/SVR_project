@@ -1,0 +1,437 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "21",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die deutsche Volkswirtschaft im Jahre 1996: Ein Überblick",
+          "seite": "21",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Das weltwirtschaftliche Umfeld: Spannungsfreie Belebung",
+          "seite": "25",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Westeuropa: Im Jahresverlauf konjunkturelle Erholung",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mittel- und osteuropäische Reformländer: Wachstumsprozess setzt sich fort",
+              "seite": "32"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stabile Aufwärtsentwicklung in den Vereinigten Staaten - Folgen der Peso-Krise in Lateinamerika weitgehend überwunden",
+              "seite": "36"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anzeichen für eine konjunkturelle Erholung in Japan - weiterhin hohe Dynamik in den Schwellenländern Ostasiens",
+              "seite": "39"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anhaltend hohe Arbeitslosigkeit in Westeuropa - starke Zunahme der Beschäftigung in den Vereinigten Staaten",
+              "seite": "40"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Neuseeland - Fallbeispiel für angebotsorientierte Wirtschaftspolitik",
+              "seite": "44"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "m. Wachstumsschwäche in Deutschland trotz konjunktureller Aufhellung",
+          "seite": "55",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Anhaltend schwaches Potentialwachstum",
+              "seite": "55"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Investitionstätigkeit in Deutschland kommt nicht in Fahrt",
+              "seite": "57"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin hohes Auslandsengagement deutscher Investoren",
+              "seite": "64"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Anmerkungen zu den umweltökonomischen Gesamtrechnungen",
+              "seite": "69"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Neue Bundesländer: Aufbauprozess deutlich verlangsamt",
+          "seite": "71",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Bauwirtschaft erstmals ohne Auftriebskraft - Verarbeitendes Gewerbe noch schwach",
+              "seite": "71"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anpassungsschwierigkeiten der Unternehmen",
+              "seite": "75"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Unternehmensbestand vergrößert sich weiter",
+              "seite": "79"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Aufhellung der Konjunktur bei schwacher Inlandsnachfrage",
+          "seite": "82",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Keine Belebung beim Privaten Verbrauch",
+              "seite": "85"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bauinvestitionen rückläufig",
+              "seite": "87"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lagerinvestitionen nicht mehr dämpfend",
+              "seite": "90"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kaum noch Preisniveausteigerungen",
+              "seite": "91"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Ausfuhr als Auftriebskraft für die Konjunktur",
+          "seite": "94",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "VII. Arbeitsmarkt: Weitere Verschlechterung",
+          "seite": "102",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Deutlicher Beschäftigungsrückgang",
+              "seite": "103"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosigkeit stark ansteigend",
+              "seite": "109"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Änderung gesetzlicher Rahmenbedingungen für den Arbeitsmarkt",
+              "seite": "112"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nach starkem Rückgang der Beschäftigung niedrigere Tarifabschlüsse als im Vorjahr",
+              "seite": "114"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VIII. Öffentliche Haushalte weiterhin unter starker Anspannung",
+          "seite": "122",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Ansätze zur Konsolidierung",
+              "seite": "122"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Finanzen im Zeichen umfassender Rechtsänderungen",
+              "seite": "126"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gebietskörperschaften unter hohem Konsolidierungsdruck",
+              "seite": "129"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Entwicklung des Steueraufkommens",
+              "seite": "134"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sozialversicherung trotz gestiegener Beitragssätze weiter defizitär",
+              "seite": "136"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IX. Monetäre Entwicklung expansiv ausgerichtet",
+          "seite": "142",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Beschleunigter Geldmengenanstieg",
+              "seite": "142"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldmarktzinsen weiter gesunken",
+              "seite": "149"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kapitalmarktzinsen: Abwärtsbewegung zum Stillstand gekommen",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reale Aufwertung der D-Mark zurückgebildet",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zum Stand der Vorbereitungen der Europäischen Währungsunion",
+              "seite": "156"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die voraussichtliche Entwicklung im Jahre 1997",
+      "seite": "162",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Ausgangslage und Annahmen der Prognose",
+          "seite": "162",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Das weltwirtschaftliche Umfeld",
+          "seite": "164",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Die wirtschaftlichen Aussichten in Deutschland",
+          "seite": "164",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Grundlinien der Wirtschaftspolitik",
+      "seite": "174",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Konsequent auf Reformkurs gehen",
+          "seite": "174",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Weiterhin Zielverfehlungen bei Wachstum und Beschäftigung",
+          "seite": "175",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Vorrangig: Die Wiedergewinnung der Wachstumsdynamik",
+          "seite": "178",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Globaler Wettbewerb: Bedrohung oder Chance?",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarkt: Wettbewerb erfordert Flexibilität",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitik: Gegen vordergründiges Verteilungsdenken",
+              "seite": "182"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Neue Bundesländer: Gegen Pessimismus",
+          "seite": "182",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Zu den Politikbereichen im einzelnen",
+      "seite": "187",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Finanzpolitik: Den Teufelskreis durchbrechen",
+          "seite": "187",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Nach wie vor: Schwierige Situation der Staatsfinanzen",
+              "seite": "187"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Für einen nationalen Stabilitätspakt",
+              "seite": "191"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur angemessenen Konsolidierungsstrategie",
+              "seite": "194"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform der Einkommensteuer verwirklichen",
+              "seite": "196"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Lohnpolitik: Unverändert dringender Handlungsbedarf",
+          "seite": "200",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zur Lohnrunde des Jahres 1996",
+              "seite": "201"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zurückhaltende Tarifpolitik für mehrere Jahre",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Tarifvertragsparteien in der Verantwortung",
+              "seite": "204"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mut zu institutionellen Reformen",
+              "seite": "205"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Neuregelung der Lohnfortzahlung im Krankheitsfall",
+              "seite": "207"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Geldpolitik: Den hohen Stabilitätsgrad bewahren",
+          "seite": "208",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Sind die Realzinsen zu hoch?",
+              "seite": "209"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ist das Geldmengenziel obsolet?",
+              "seite": "210"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Europäische Währungsunion: Fehlentwicklungen vermeiden - Erfolgschancen verbessern",
+          "seite": "214",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zur Interpretation der Kriterien",
+              "seite": "214"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Frage einer Verschiebung",
+              "seite": "217"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Erfolgschancen für eine Teilwährungsunion verbessern",
+              "seite": "217"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Währungsumstellung",
+              "seite": "219"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wechselkursrelationen zu den Nicht-Mitgliedern",
+              "seite": "220"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik in der Europäischen Währungsunion",
+              "seite": "220"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel: Reform der Sozialen Sicherung",
+      "seite": "223",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Leitvorstellungen",
+          "seite": "225",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Alterssicherung: Für Eigenvorsorge stärker öffnen",
+          "seite": "227",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Anpassungen in der Alterssicherung sind unausweichlich",
+              "seite": "227"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reformansätze im Rahmen des Umlageverfahrens",
+              "seite": "229"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Herausbildung eines gemischten Systems",
+              "seite": "234"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zum Pro und Kontra des Kapitaldeckungsverfahrens",
+              "seite": "235"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Gesetzliche Krankenversicherung: Der Marktsteuerung näherbringen",
+          "seite": "242",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Die Warnzeichen erkennen",
+              "seite": "243"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ordnungspolitische Weichenstellung: Auf mehr Wettbewerb setzen",
+              "seite": "244"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Äquivalenzorientierte Reformen innerhalb des Systems",
+              "seite": "246"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Option: Übergang zu einer privaten Pflichtversicherung für alle",
+              "seite": "250"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Arbeitslosenversicherung: Mehr Effizienz durch Wahlmöglichkeiten",
+          "seite": "253",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Private oder staatliche Absicherung?",
+              "seite": "253"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ansatzpunkte für Wahlmöglichkeiten",
+              "seite": "254"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Steuerfinanzierte Umverteilung zielkonform gestalten",
+          "seite": "256",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zur Ausgestaltung der Transfers",
+              "seite": "256"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konsequenzen aus der Reform der Sozialversicherung",
+              "seite": "261"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "VI. Ausgewählte statistische Informationen zum System der sozialen Sicherung in Deutschland",
+          "seite": "263",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+ende_json
+

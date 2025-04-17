@@ -1,0 +1,805 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "23",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Die Weltwirtschaft im Jahre 1989",
+          "seite": "23",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Investitionsgetragenes Wachstum",
+              "seite": "23"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Beschleunigter Preisanstieg in den Industrieländern",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Veränderte Wechselkurserwartungen",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Einseitige Aufgabenverteilung in der Wirtschaftspolitik",
+              "seite": "34"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Ein ungelöstes Problem: Die internationale Verschuldungskrise",
+              "seite": "35"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Bilateralismus in der Handelspolitik",
+              "seite": "38"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VII. Integrationsbemühungen der Europäischen Gemeinschaften intensiviert",
+              "seite": "39"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Die wirtschaftliche Entwicklung in der Bundesrepublik",
+          "seite": "51",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Überblick",
+              "seite": "51"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Anhaltend hohe Nachfragedynamik",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erneut Schub von der Ausfuhr und den Investitionen",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Belebung im Wohnungsbau hält an",
+              "seite": "56"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geringe Impulse vom Privaten Verbrauch und der Staatsnachfrage",
+              "seite": "57"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Weniger Spielraum für mehr Produktion",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Sprunghafter Anstieg des Preisniveaus",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Zunehmende Überschüsse im Handel mit den westeuropäischen Ländern",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Zur Gewinn-Erlös-Relation",
+              "seite": "68"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VII. Arbeitsmarkt im Zeichen beschleunigten Wirtschaftswachstums",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stärkster Beschäftigungsanstieg seit 1979",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsvolumen erneut gestiegen",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Spürbare Verringerung der Arbeitslosigkeit",
+              "seite": "75"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Aufkommende Verspannungen am Arbeitsmarkt",
+              "seite": "77"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entlastung durch Zuwanderung?",
+              "seite": "80"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sparmaßnahmen bei der Arbeitsförderung",
+              "seite": "80"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigungsförderungsgesetz verlängert",
+              "seite": "81"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VIII. Geldpolitik: Bundesbank geht auf Stabilitätskurs",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldmengenwachstum am Zielpfad",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Stabilität der Geldnachfrage",
+              "seite": "86"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Geldmarktsteuerung",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IX. Finanzpolitik: Niedrigere Defizite trotz expansiver Ausgabenpolitik",
+              "seite": "93"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kräftige Zunahme des Steueraufkommens",
+              "seite": "93"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Günstige Entwicklung auf allen Haushaltsebenen",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Keine Entwarnung bei den Subventionen",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kontraktiver konjunktureller Impuls gering",
+              "seite": "99"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sozialversicherungshaushalte mit hohen Überschüssen",
+              "seite": "101"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil C: Wirtschaftsentwicklung und Wirtschaftspolitik in den achtziger Jahren",
+          "seite": "103",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Starke Beschäftigungszunahme, aber nur zögernder Rückgang der Arbeitslosigkeit",
+              "seite": "104"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wandel im weltwirtschaftlichen Umfeld",
+              "seite": "106"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik: Im Zwiespalt zwischen Binnenwert- und Außenwertstabilisierung",
+              "seite": "110"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitik: Quantitative Konsolidierung vorangekommen",
+              "seite": "112"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigungspolitik: Zurückhaltende Lohnsteigerungen, geringe Fortschritte bei der Flexibilität",
+              "seite": "116"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Zur voraussichtlichen Entwicklung",
+      "seite": "120",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Ausgangslage",
+          "seite": "120",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die Annahmen der Prognose",
+          "seite": "120",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Die Weltkonjunktur im Jahre 1990",
+          "seite": "121",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Die Binnenkonjunktur im Jahre 1990 und danach",
+          "seite": "123",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "V. Die Risiken für das Jahr 1991 - eine Simulation",
+          "seite": "133",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Wirtschaftspolitik für 1990 und danach",
+      "seite": "136",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Aufgaben und Möglichkeiten",
+          "seite": "136",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Ziele und Wirklichkeit",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Befund",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirtschaftswachstum: steiler aufwärts",
+              "seite": "137"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosigkeit: Abbau kommt voran",
+              "seite": "138"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldwertstabilität: Anlaß zur Sorge",
+              "seite": "138"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außenwirtschaftliche Überschüsse stark gestiegen",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Wirtschaftspolitik für stabilen Geldwert und wohlfahrtsförderndes Wachstum",
+              "seite": "140"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Aufgabe der Stabilisierungspolitik",
+              "seite": "140"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Aufgabe der Wachstumspolitik",
+              "seite": "142"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Qualität des Wachstums durch Umweltschutz verbessern",
+              "seite": "144"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Zu den Politikbereichen im einzelnen",
+          "seite": "148",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Geldpolitik: Ein unmißverständliches Zeichen setzen",
+              "seite": "148"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Finanzpolitik: Den Wachstumskurs sichern",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Expansiver konjunktureller Impuls im Jahre 1990",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mittelfristige Budgetpolitik: Konsolidierungskurs fortsetzen",
+              "seite": "153"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wachstumsgerechte Ausgabenpolitik",
+              "seite": "155"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigungsfallen im Umverteilungssystem",
+              "seite": "156"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fortsetzung der Steuerreform: Unternehmensbesteuerung",
+              "seite": "157"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Tarifpolitik: Besonnenheit bewahren - Erfolge nicht verspielen",
+              "seite": "164"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mehrjährige Tarifverträge erneuern",
+              "seite": "164"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein tarifpolitisches Paket",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Auf Vereinbarungen für die Jahresarbeitszeit zusteuern",
+              "seite": "168"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fachkräftemangel durch Weiterbildung überwinden",
+              "seite": "169"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Zur Anwendungspraxis von Regulierungen: der arbeitsrechtliche Kündigungsschutz",
+              "seite": "170"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Wohnungspolitik: Behebung der Wohnungs knappheit gegen den Markt ist aussichtslos",
+              "seite": "172"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neue Wohnungsnot?",
+              "seite": "172"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wohnungspolitische Initiativen der Bundesregierung",
+              "seite": "174"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine Wiederbelebung des \"klassischen\" sozialen Mietwohnungsbaus wäre teuer, unsozial, ineffizient",
+              "seite": "174"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schärfere Mietpreiskontrollen und ein \"breiter ausgebauter Mieterschutz würden den freifinanzierten Mietwohnungsbau gefährden",
+              "seite": "177"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Steuerpflicht der gemeinnützigen Wohnungsunternehmen darf nicht rückgängig gemacht werden",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Auftrag der Wohnungspolitik",
+              "seite": "178"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil C: Wirtschaftspolitik für Europa",
+          "seite": "180",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Europäische Währungsintegration: Warnung vor übereilten Schritten",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Koordination der Budgetpolitik auf dem Weg in die Europäische Währungsunion",
+              "seite": "183"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Für ein begrenztes Realignment im Europäischen Währungssystem",
+              "seite": "186"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Verbrauchsteuern den Erfordernissen des Binnenmarktes anpassen",
+              "seite": "188"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umsatzsteuersätze im Wettbewerb",
+              "seite": "188"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verteilung des Steueraufkommens",
+              "seite": "191"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Spezielle Verbrauchsteuern",
+              "seite": "193"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein Fazit",
+              "seite": "194"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Die Soziale Dimension Europas im Wettbewerb gestalten",
+              "seite": "194"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "23",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Die Weltwirtschaft im Jahre 1989",
+          "seite": "23",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Investitionsgetragenes Wachstum",
+              "seite": "23"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Beschleunigter Preisanstieg in den Industrieländern",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Veränderte Wechselkurserwartungen",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Einseitige Aufgabenverteilung in der Wirtschaftspolitik",
+              "seite": "34"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Ein ungelöstes Problem: Die internationale Verschuldungskrise",
+              "seite": "35"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Bilateralismus in der Handelspolitik",
+              "seite": "38"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VII. Integrationsbemühungen der Europäischen Gemeinschaften intensiviert",
+              "seite": "39"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Die wirtschaftliche Entwicklung in der Bundesrepublik",
+          "seite": "51",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Überblick",
+              "seite": "51"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Anhaltend hohe Nachfragedynamik",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erneut Schub von der Ausfuhr und den Investitionen",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Belebung im Wohnungsbau hält an",
+              "seite": "56"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geringe Impulse vom Privaten Verbrauch und der Staatsnachfrage",
+              "seite": "57"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Weniger Spielraum für mehr Produktion",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Sprunghafter Anstieg des Preisniveaus",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Zunehmende Überschüsse im Handel mit den westeuropäischen Ländern",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Zur Gewinn-Erlös-Relation",
+              "seite": "68"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VII. Arbeitsmarkt im Zeichen beschleunigten Wirtschaftswachstums",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stärkster Beschäftigungsanstieg seit 1979",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsvolumen erneut gestiegen",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Spürbare Verringerung der Arbeitslosigkeit",
+              "seite": "75"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Aufkommende Verspannungen am Arbeitsmarkt",
+              "seite": "77"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entlastung durch Zuwanderung?",
+              "seite": "80"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sparmaßnahmen bei der Arbeitsförderung",
+              "seite": "80"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigungsförderungsgesetz verlängert",
+              "seite": "81"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VIII. Geldpolitik: Bundesbank geht auf Stabilitätskurs",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldmengenwachstum am Zielpfad",
+              "seite": "82"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Stabilität der Geldnachfrage",
+              "seite": "86"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Geldmarktsteuerung",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IX. Finanzpolitik: Niedrigere Defizite trotz expansiver Ausgabenpolitik",
+              "seite": "93"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kräftige Zunahme des Steueraufkommens",
+              "seite": "93"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Günstige Entwicklung auf allen Haushaltsebenen",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Keine Entwarnung bei den Subventionen",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kontraktiver konjunktureller Impuls gering",
+              "seite": "99"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sozialversicherungshaushalte mit hohen Überschüssen",
+              "seite": "101"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil C: Wirtschaftsentwicklung und Wirtschaftspolitik in den achtziger Jahren",
+          "seite": "103",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Starke Beschäftigungszunahme, aber nur zögernder Rückgang der Arbeitslosigkeit",
+              "seite": "104"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wandel im weltwirtschaftlichen Umfeld",
+              "seite": "106"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik: Im Zwiespalt zwischen Binnenwert- und Außenwertstabilisierung",
+              "seite": "110"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitik: Quantitative Konsolidierung vorangekommen",
+              "seite": "112"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigungspolitik: Zurückhaltende Lohnsteigerungen, geringe Fortschritte bei der Flexibilität",
+              "seite": "116"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Zur voraussichtlichen Entwicklung",
+      "seite": "120",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Ausgangslage",
+          "seite": "120",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die Annahmen der Prognose",
+          "seite": "120",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Die Weltkonjunktur im Jahre 1990",
+          "seite": "121",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Die Binnenkonjunktur im Jahre 1990 und danach",
+          "seite": "123",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "V. Die Risiken für das Jahr 1991 - eine Simulation",
+          "seite": "133",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Wirtschaftspolitik für 1990 und danach",
+      "seite": "136",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Aufgaben und Möglichkeiten",
+          "seite": "136",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Ziele und Wirklichkeit",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Befund",
+              "seite": "136"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirtschaftswachstum: steiler aufwärts",
+              "seite": "137"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosigkeit: Abbau kommt voran",
+              "seite": "138"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldwertstabilität: Anlaß zur Sorge",
+              "seite": "138"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außenwirtschaftliche Überschüsse stark gestiegen",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Wirtschaftspolitik für stabilen Geldwert und wohlfahrtsförderndes Wachstum",
+              "seite": "140"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Aufgabe der Stabilisierungspolitik",
+              "seite": "140"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Aufgabe der Wachstumspolitik",
+              "seite": "142"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Qualität des Wachstums durch Umweltschutz verbessern",
+              "seite": "144"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Zu den Politikbereichen im einzelnen",
+          "seite": "148",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Geldpolitik: Ein unmißverständliches Zeichen setzen",
+              "seite": "148"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Finanzpolitik: Den Wachstumskurs sichern",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Expansiver konjunktureller Impuls im Jahre 1990",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mittelfristige Budgetpolitik: Konsolidierungskurs fortsetzen",
+              "seite": "153"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wachstumsgerechte Ausgabenpolitik",
+              "seite": "155"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigungsfallen im Umverteilungssystem",
+              "seite": "156"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fortsetzung der Steuerreform: Unternehmensbesteuerung",
+              "seite": "157"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Tarifpolitik: Besonnenheit bewahren - Erfolge nicht verspielen",
+              "seite": "164"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mehrjährige Tarifverträge erneuern",
+              "seite": "164"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein tarifpolitisches Paket",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Auf Vereinbarungen für die Jahresarbeitszeit zusteuern",
+              "seite": "168"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fachkräftemangel durch Weiterbildung überwinden",
+              "seite": "169"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Zur Anwendungspraxis von Regulierungen: der arbeitsrechtliche Kündigungsschutz",
+              "seite": "170"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Wohnungspolitik: Behebung der Wohnungs knappheit gegen den Markt ist aussichtslos",
+              "seite": "172"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neue Wohnungsnot?",
+              "seite": "172"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wohnungspolitische Initiativen der Bundesregierung",
+              "seite": "174"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine Wiederbelebung des \"klassischen\" sozialen Mietwohnungsbaus wäre teuer, unsozial, ineffizient",
+              "seite": "174"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schärfere Mietpreiskontrollen und ein \"breiter ausgebauter Mieterschutz würden den freifinanzierten Mietwohnungsbau gefährden",
+              "seite": "177"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Steuerpflicht der gemeinnützigen Wohnungsunternehmen darf nicht rückgängig gemacht werden",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Auftrag der Wohnungspolitik",
+              "seite": "178"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil C: Wirtschaftspolitik für Europa",
+          "seite": "180",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Europäische Währungsintegration: Warnung vor übereilten Schritten",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Koordination der Budgetpolitik auf dem Weg in die Europäische Währungsunion",
+              "seite": "183"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Für ein begrenztes Realignment im Europäischen Währungssystem",
+              "seite": "186"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Verbrauchsteuern den Erfordernissen des Binnenmarktes anpassen",
+              "seite": "188"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umsatzsteuersätze im Wettbewerb",
+              "seite": "188"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Verteilung des Steueraufkommens",
+              "seite": "191"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Spezielle Verbrauchsteuern",
+              "seite": "193"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein Fazit",
+              "seite": "194"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Die Soziale Dimension Europas im Wettbewerb gestalten",
+              "seite": "194"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+ende_json
+

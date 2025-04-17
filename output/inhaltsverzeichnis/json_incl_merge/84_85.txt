@@ -1,0 +1,371 @@
+{
+"kapitel": [
+{
+"ueberschrift_eins": "Eine kürzere Fassung",
+"seite": "1",
+"zweite_ebene": []
+},
+{
+"ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+"seite": "23",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "Teil A: Der internationale Rahmen",
+"seite": "23",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Aufschwung mit Risiken",
+"seite": "23"
+},
+{
+"ueberschrift_drei_niedriger": "II. Die Vereinigten Staaten und die Weltwirtschaft",
+"seite": "26"
+},
+{
+"ueberschrift_drei_niedriger": "Vereinigte Staaten in der Führung",
+"seite": "26"
+},
+{
+"ueberschrift_drei_niedriger": "Hohe Zinsen, starker Dollar",
+"seite": "28"
+},
+{
+"ueberschrift_drei_niedriger": "III. Aufschwung in Japan, geringe Dynamik in Europa",
+"seite": "31"
+},
+{
+"ueberschrift_drei_niedriger": "Japan im Zeichen hoher Leistungsbilanzüberschüsse",
+"seite": "31"
+},
+{
+"ueberschrift_drei_niedriger": "Europa: Aufschwung ohne Kraft",
+"seite": "31"
+},
+{
+"ueberschrift_drei_niedriger": "IV. Lebhafter Welthandel, anhaltende Verschuldungsprobleme",
+"seite": "41"
+},
+{
+"ueberschrift_drei_niedriger": "V. Europäische Gemeinschaft: Nationale Interessen vor Gemeinsamkeit",
+"seite": "44"
+}
+]
+},
+{
+"ueberschrift_zwei": "Teil B: Die Binnenkonjunktur 1984",
+"seite": "49",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Überblick",
+"seite": "49"
+},
+{
+"ueberschrift_drei_niedriger": "II. Export als Konjunkturmotor",
+"seite": "50"
+},
+{
+"ueberschrift_drei_niedriger": "Kräftige Impulse vom Welthandel",
+"seite": "50"
+},
+{
+"ueberschrift_drei_niedriger": "Mehr Nachfrage, höhere Gewinnmargen – immer noch hohe Zinsen",
+"seite": "52"
+},
+{
+"ueberschrift_drei_niedriger": "Höhere Einkommen – höherer privater Verbrauch",
+"seite": "58"
+},
+{
+"ueberschrift_drei_niedriger": "Mäßige Ausweitung der Staatsnachfrage",
+"seite": "59"
+},
+{
+"ueberschrift_drei_niedriger": "Gefestigter Produktionsanstieg",
+"seite": "59"
+},
+{
+"ueberschrift_drei_niedriger": "Höherer Auslastungsgrad bei geringem Potentialwachstum",
+"seite": "61"
+},
+{
+"ueberschrift_drei_niedriger": "III. Rückschlag in der Bauwirtschaft",
+"seite": "63"
+},
+{
+"ueberschrift_drei_niedriger": "IV. Kein Durchbruch am Arbeitsmarkt",
+"seite": "66"
+},
+{
+"ueberschrift_drei_niedriger": "Zur Struktur der Arbeitslosigkeit",
+"seite": "69"
+},
+{
+"ueberschrift_drei_niedriger": "Jugendliche beim Übergang in die Berufswelt",
+"seite": "73"
+},
+{
+"ueberschrift_drei_niedriger": "Arbeitsmarktpolitik bei anhaltender Unterbeschäftigung",
+"seite": "74"
+},
+{
+"ueberschrift_drei_niedriger": "V. Neue Akzente in der Tarifpolitik",
+"seite": "77"
+},
+{
+"ueberschrift_drei_niedriger": "VI. Kapitalstruktur und Rentabilität der Unternehmen auf mittlere Sicht",
+"seite": "84"
+},
+{
+"ueberschrift_drei_niedriger": "Mangel an Eigenkapital",
+"seite": "84"
+},
+{
+"ueberschrift_drei_niedriger": "Noch unzureichende Kapitalrentabilität",
+"seite": "88"
+},
+{
+"ueberschrift_drei_niedriger": "Entwicklung und Verteilung der Rendite im verarbeitenden Gewerbe",
+"seite": "90"
+},
+{
+"ueberschrift_drei_niedriger": "VII. Geringer Geldwertschwund",
+"seite": "92"
+},
+{
+"ueberschrift_drei_niedriger": "VIII. Mehr Produktion – mehr Einkommen",
+"seite": "96"
+},
+{
+"ueberschrift_drei_niedriger": "Zur Reallohnposition der Arbeitnehmer",
+"seite": "99"
+},
+{
+"ueberschrift_drei_niedriger": "IX. Außenwirtschaftliches Gleichgewicht",
+"seite": "103"
+},
+{
+"ueberschrift_drei_niedriger": "Kräftiger Anstieg der Ausfuhr",
+"seite": "103"
+},
+{
+"ueberschrift_drei_niedriger": "Geringerer Einfluß des Dollarkurses auf den Kapitalverkehr",
+"seite": "106"
+},
+{
+"ueberschrift_drei_niedriger": "Ohne Protektionismus wettbewerbsfähig bleiben",
+"seite": "108"
+}
+]
+},
+{
+"ueberschrift_eins": "X. Geldpolitik: Sicherung der Erfolge bei der Stabilisierung des Geldwertes",
+"seite": "111",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "Zielgerechte Expansion der Zentralbankgeldmenge",
+"seite": "111",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Zur Feinsteuerung",
+"seite": "116",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Abgeschwächte monetäre Expansion",
+"seite": "118",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Mehr privater Kredit, weniger öffentlicher Kredit",
+"seite": "119",
+"dritte_und_niedrigere_ebene": []
+}
+]
+},
+{
+"ueberschrift_eins": "XI. Finanzpolitik: Weiter sinkende Defizite",
+"seite": "124",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "Geringer Anstieg der öffentlichen Ausgaben",
+"seite": "124",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Veränderte Steuerstruktur",
+"seite": "131",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Abnehmende konjunkturelle Impulse im Aufschwung",
+"seite": "133",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Sozialversicherung – Probleme noch nicht gelöst",
+"seite": "138",
+"dritte_und_niedrigere_ebene": []
+}
+]
+},
+{
+"ueberschrift_eins": "XII. Was ist das reale Sozialprodukt?",
+"seite": "139",
+"zweite_ebene": []
+},
+{
+"ueberschrift_eins": "Zweites Kapitel: Zur voraussichtlichen Entwicklung im Jahre 1985",
+"seite": "144",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "I. Die Ausgangslage und die Annahmen für die Prognose",
+"seite": "144",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "II. Die Weltkonjunktur im Jahre 1985",
+"seite": "145",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "III. Die voraussichtliche Entwicklung der Binnenkonjunktur",
+"seite": "147",
+"dritte_und_niedrigere_ebene": []
+}
+]
+},
+{
+"ueberschrift_eins": "Drittes Kapitel: Wirtschaftspolitik für 1985 und danach",
+"seite": "156",
+"zweite_ebene": [
+{
+"ueberschrift_zwei": "Teil A: Aufgaben und Möglichkeiten",
+"seite": "156",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Ziele und Wirklichkeit",
+"seite": "156"
+},
+{
+"ueberschrift_drei_niedriger": "II. Was die Wirtschaftspolitik vermag",
+"seite": "157"
+},
+{
+"ueberschrift_drei_niedriger": "Gegen Illusionen",
+"seite": "157"
+},
+{
+"ueberschrift_drei_niedriger": "Gegen Resignation",
+"seite": "162"
+},
+{
+"ueberschrift_drei_niedriger": "Für dynamischen Wettbewerb",
+"seite": "166"
+},
+{
+"ueberschrift_drei_niedriger": "III. Die große Chance der kommenden Jahre: Mehr Expansion bei Stabilität",
+"seite": "168"
+},
+{
+"ueberschrift_drei_niedriger": "Zur Aufgabenverteilung",
+"seite": "173"
+},
+{
+"ueberschrift_drei_niedriger": "Eine andere Meinung",
+"seite": "174"
+}
+]
+},
+{
+"ueberschrift_zwei": "Teil B: Zu den Politikbereichen im einzelnen",
+"seite": "177",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Finanzpolitik",
+"seite": "177"
+},
+{
+"ueberschrift_drei_niedriger": "Konsolidierungsfortschritte auch 1985",
+"seite": "177"
+},
+{
+"ueberschrift_drei_niedriger": "Öffentliche Haushalte in der mittelfristigen Finanzplanung",
+"seite": "180"
+},
+{
+"ueberschrift_drei_niedriger": "II. Geldpolitik",
+"seite": "182"
+},
+{
+"ueberschrift_drei_niedriger": "III. Tarifpolitik: Arbeitszeit und Löhne",
+"seite": "184"
+},
+{
+"ueberschrift_drei_niedriger": "IV. Arbeitsmarktpolitik",
+"seite": "188"
+},
+{
+"ueberschrift_drei_niedriger": "V. Steuerungsfehler im Marktprozeß",
+"seite": "195"
+},
+{
+"ueberschrift_drei_niedriger": "Umweltschutzpolitik: Mehr Beschäftigung durch Umweltschutz?",
+"seite": "195"
+},
+{
+"ueberschrift_drei_niedriger": "Regionale Wirtschaftspolitik: Neue Herausforderungen",
+"seite": "199"
+},
+{
+"ueberschrift_drei_niedriger": "Agrarpolitik: Ohne Perspektive",
+"seite": "203"
+}
+]
+},
+{
+"ueberschrift_zwei": "Viertes Kapitel: Handlungsspielraum für die Finanzpolitik",
+"seite": "208",
+"dritte_und_niedrigere_ebene": [
+{
+"ueberschrift_drei_niedriger": "I. Optionen",
+"seite": "208"
+},
+{
+"ueberschrift_drei_niedriger": "II. Qualitative Konsolidierung und Steuerreform",
+"seite": "211"
+},
+{
+"ueberschrift_drei_niedriger": "Zur Ausgabenseite",
+"seite": "211"
+},
+{
+"ueberschrift_drei_niedriger": "Steuersenkung – Steuerreform",
+"seite": "212"
+}
+]
+},
+{
+"ueberschrift_zwei": "Senkung der Grenzsteuersätze",
+"seite": "214",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Entlastung der Investitionen",
+"seite": "215",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "Reform der Familienbesteuerung",
+"seite": "220",
+"dritte_und_niedrigere_ebene": []
+},
+{
+"ueberschrift_zwei": "III. Ein Resümee",
+"seite": "221",
+"dritte_und_niedrigere_ebene": []
+}
+]
+}
+]
+}

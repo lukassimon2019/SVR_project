@@ -1,0 +1,956 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel\nDie Chance nutzen - Reformen mutig voranbringen",
+      "seite": "1",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Komplexe Probleme- differenzierte Antworten",
+          "seite": "1",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die wirtschaftliche Entwicklung in den Jahren 2005 und 2006",
+          "seite": "10",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Die Lage im Jahr 2005",
+              "seite": "10"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Der Ausblick für das Jahr 2006",
+              "seite": "16"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Ein wirtschaftspolitischer Programmvorschlag",
+          "seite": "18",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Neuer Anlauf zu einer Reform des Föderalismus",
+              "seite": "18"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Arbeitsmarkt: Den Reformkurs fortsetzen",
+              "seite": "20"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Sozialversicherung: Umfinanzierung versicherungsfremder Leistungen",
+              "seite": "24"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Steuerpolitik: Das Richtige tun - das Falsche unterlassen",
+              "seite": "30"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Effizienz der Finanz- und Kreditmärkte stärken",
+              "seite": "34"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Haushaltskonsolidierung: langfristig planen, kurzfristig handeln",
+              "seite": "36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel\nDie wirtschaftliche Lage in der Welt und in Deutschland",
+      "seite": "42",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Weltwirtschaft: Robuste Entwicklung bei erhöhten Risiken",
+          "seite": "44",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Ölpreis, weltwirtschaftliche Ungleichgewichte und hohe Immobilienpreise\nbereiten Sorgen",
+              "seite": "45"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Starke binnenwirtschaftliche Dynamik in den Vereinigten Staaten",
+              "seite": "50"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Lebhafterer Konsum und erfolgreiche Konsolidierung der Unternehmen\nin Japan",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. China und andere Schwellenländer entwickeln sich weiter dynamisch",
+              "seite": "54"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Euro-Raum mit verhaltener Konjunktur",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Weiterhin günstige geldpolitische Rahmenbedingungen, aber gestiegene\nPreisrisiken",
+              "seite": "59"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Preisniveaustabilität trotz steigender Ölpreise",
+              "seite": "60"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschleunigter Zuwachs der Geldmenge M3",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Schwankende Zinserwartungen am Geldmarkt und anhaltend niedrige\nLangfristzinsen",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außenwert des Euro von zunehmendem Zinsgefälle geprägt",
+              "seite": "64"
+            },
+            {
+              "ueberschrift_drei_niedriger": "7. Abflachende konjunkturelle Entwicklung in den übrigen Staaten der\nEuropäischen Union",
+              "seite": "65"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Konjunktur in Deutschland bleibt labil",
+          "seite": "66",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Potentialwachstum weiterhin gering",
+              "seite": "68"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Anhaltende Konsumflaute",
+              "seite": "72"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Konjunkturrelevante Ausrichtung der Fiskalpolitik in den\nJahren 1997 bis 2004",
+              "seite": "77"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Rückgang der Investitionen bei heterogener Entwicklung der Teil-\nkomponenten",
+              "seite": "84"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Moderater Zuwachs der Ausrüstungsinvestitionen",
+              "seite": "84"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bauinvestitionen belasten weiterhin",
+              "seite": "87"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Außenwirtschaft: Einmal mehr das Zugpferd der konjunkturellen Ent-\nwicklung",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Entstehungsseite",
+              "seite": "91"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Preisentwicklung: Im Zeichen steigender Ölpreise",
+              "seite": "91"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Die voraussichtliche Entwicklung im Jahr 2006",
+          "seite": "94",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Leicht abflachende aber robuste Weltkonjunktur",
+              "seite": "94"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Deutschland: Immer noch keine durchgreifende Erholung der\nBinnennachfrage",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Export bleibt wesentliche Stütze für die deutsche Konjunktur",
+              "seite": "101"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Öffentliche Finanzen: Geringeres Defizit, aber Konsolidierung bleibt\nunumgänglich",
+              "seite": "109"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel\nArbeitsmarkt: Den Reformkurs fortsetzen",
+      "seite": "114",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Lage im Jahr 2005: Umfassende Belebung steht weiterhin aus",
+          "seite": "116",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Beschäftigungsbelebung nur an den Rändern",
+              "seite": "116"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Berufsausbildungsstellenmarkt: Lage unverändert prekär",
+              "seite": "120"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Arbeitslosigkeit und Arbeitsmarktpolitik im Zeichen von Hartz IV",
+              "seite": "120"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Aktuelle Entwicklung der Arbeitslosigkeit: Ist der Höhepunkt erreicht?",
+              "seite": "120"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bundesagentur für Arbeit und arbeitsmarktpolitisches Instrumentarium\nim Umbruch",
+              "seite": "124"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rückgang der verdeckten Arbeitslosigkeit setzt sich fort",
+              "seite": "127"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Tarifpolitik und Lohnentwicklung: Fortsetzung eines moderaten Kurses",
+              "seite": "129"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgewählte Aspekte der Tarifrunde 2005",
+              "seite": "131"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Charakteristika der Arbeitslosigkeit in Deutschland",
+          "seite": "132",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Stufenweiser Anstieg der Arbeitslosigkeit",
+              "seite": "132"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Struktur und Dynamik",
+              "seite": "134"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Beschäftigungsschwellen in Deutschland",
+              "seite": "141"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "3. Arbeitslosigkeit im OECD-Raum: War früher alles viel besser?",
+          "seite": "145",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Drei Phasen der Arbeitslosigkeit",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die goldenen sechziger Jahre auf dem Arbeitsmarkt",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Zeitalter der zunehmenden Arbeitslosigkeit",
+              "seite": "146"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Phase der divergierenden Entwicklung",
+              "seite": "147"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Ursachen der Arbeitslosigkeit",
+          "seite": "149",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Kernproblem: Verfestigte Arbeitslosigkeit",
+              "seite": "149"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ansatzpunkte für die Wirtschaftspolitik",
+              "seite": "157"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsnachfrage",
+              "seite": "158"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lohnsetzungsverhalten",
+              "seite": "161"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsangebot",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Bedeutung der Arbeitsmarktinstitutionen: Empirie",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Interaktion von makroökonomischen Schocks und\nArbeitsmarktinstitutionen",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Veränderungen von Arbeitsmarktinstitutionen",
+              "seite": "169"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ergebnisse internationaler Panelstudien der Arbeitslosigkeit",
+              "seite": "171"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Von Schlusslichtern zu Beschäftigungswundern - die\nNiederlande und das Vereinigte Königreich",
+              "seite": "173"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Wege zu mehr Beschäftigung",
+          "seite": "178",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Zentrale Herausforderungen",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Den Arbeitsmarkt für Geringqualifizierte weiter öffnen",
+              "seite": "179"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sperrklinken beseitigen und Langzeitarbeitslosigkeit vorbeugen",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reformen am Arbeitsmarkt: Beharrliches Bohren dicker Bretter",
+              "seite": "182"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Lohnersatzleistungen und aktive Arbeitsmarktpolitik",
+              "seite": "183"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosengeld",
+              "seite": "183"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was getan wurde",
+              "seite": "183"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was getan werden muss",
+              "seite": "183"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitslosengeld II",
+              "seite": "184"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was bisher getan wurde",
+              "seite": "184"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was zu tun ist",
+              "seite": "186"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarktpolitik",
+              "seite": "188"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Berufliche Weiterbildung und Arbeitsbeschaffungsmaßnahmen",
+              "seite": "188"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was bisher getan wurde",
+              "seite": "188"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was noch zu tun ist",
+              "seite": "188"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Förderung regulärer Beschäftigung",
+              "seite": "189"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was getan wurde",
+              "seite": "189"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was zu tun ist",
+              "seite": "189"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Geringfügige Beschäftigung",
+          "seite": "190",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Was getan wurde",
+              "seite": "190"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was zu tun ist",
+              "seite": "191"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Leiharbeit",
+          "seite": "191",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Was getan wurde",
+              "seite": "191"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was zu tun ist",
+              "seite": "192"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "3. Lohnfindung und Arbeitsrecht",
+          "seite": "192",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Lohnfindung",
+              "seite": "193"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rolle des Flächentarifvertrags",
+              "seite": "193"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beurteilung der Lohnentwicklung",
+              "seite": "194"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was getan wurde",
+              "seite": "196"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was zu tun ist",
+              "seite": "197"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was nicht getan werden sollte: Lohnsubventionen und gesetzliche\nMindestlöhne",
+              "seite": "198"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsrecht",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was getan wurde",
+              "seite": "202"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was zu tun ist",
+              "seite": "203"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "4. Kündigungsschutz",
+          "seite": "204",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Was bisher getan wurde",
+              "seite": "204"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Was zu tun ist",
+              "seite": "204"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "5. Steuern und Abgaben",
+          "seite": "207",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "V. Was zu tun ist - ein beschäftigungspolitisches Pflichtenheft",
+          "seite": "207",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "VI. Eine andere Meinung",
+          "seite": "209",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Ein Reformparadox",
+              "seite": "210"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Alternative Strategien für mehr Wachstum und Beschäftigung",
+              "seite": "219"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel\nFinanzpolitik in schwierigen Zeiten",
+      "seite": "234",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Öffentliche Haushalte in der Krise",
+          "seite": "236",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gesamtstaatliches Defizit im Jahr 2005 fast unverändert",
+              "seite": "236"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der staatlichen Einnahmen",
+              "seite": "237"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entwicklung der staatlichen Ausgaben",
+              "seite": "239"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Strukturelle Haushaltsschwierigkeiten unverändert gravierend",
+              "seite": "243"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Haushalte der Gebietskörperschaften und der Sozialversicherung:\nHaushaltsprobleme auf allen Ebenen",
+              "seite": "244"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Hartz IV - Ein „Milliardengrab“?",
+              "seite": "245"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Einnahmen und Ausgaben des Bundes",
+          "seite": "250",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Einnahmen und Ausgaben der Länder, der Gemeinden und der\nSozialversicherung",
+          "seite": "252",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Kassenmäßiges Steueraufkommen: Trotz Tarifsenkung wieder\nleichter Anstieg",
+          "seite": "253",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Kennziffern der Einkommensteuertarife 2000 und 2005",
+              "seite": "258"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Steuerpolitik: Das Richtige tun, das Falsche unterlassen",
+          "seite": "262",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Noch einmal: Es kommt auf die Unternehmensbesteuerung an!",
+              "seite": "263"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ziele und Nebenbedingungen einer Reform der Unternehmens-\nbesteuerung",
+              "seite": "263"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vorschläge zur Reform der Einkommens- und Unternehmens-\nbesteuerung",
+              "seite": "269"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Konzept einer flat tax",
+              "seite": "270"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Konzept der Stiftung Marktwirtschaft",
+              "seite": "274"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Duale Einkommensteuer des Sachverständigenrates",
+              "seite": "275"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ein Vergleich der Steuerreformkonzepte des Sachverständigenrates\nund der Stiftung Marktwirtschaft",
+              "seite": "283"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Gesetzentwürfe zur Reform der Erbschaftsteuer verfehlt",
+              "seite": "288"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erbschaftsteuerliche Begünstigung des Betriebsvermögens im\ngeltenden Recht",
+              "seite": "289"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Begünstigung von produktivem Betriebsvermögen in den\nGesetzentwürfen",
+              "seite": "290"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Fazit",
+              "seite": "296"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Haushaltskonsolidierung: langfristig planen, kurzfristig handeln",
+          "seite": "296",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Tragfähigkeit der öffentlichen Finanzen sichern",
+              "seite": "296"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Langfristige Haushaltskonsolidierung: Versorgungsnachhaltigkeitsgesetz\nverabschieden",
+              "seite": "299"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Mittelfristige Haushaltskonsolidierung: Umsatzsteuerbetrug bekämpfen",
+              "seite": "305"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Kurzfristige Haushaltskonsolidierung: Steuervergünstigungen abbauen,\nFinanzhilfen zurückführen",
+              "seite": "310"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anhebung des ermäßigten Umsatzsteuersatzes",
+              "seite": "312"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Haushaltskonsolidierung durch Subventionsabbau",
+              "seite": "314"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fazit",
+              "seite": "319"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Artikel 115 Grundgesetz einhalten",
+          "seite": "320",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Das Teilziel eines stetigen Wirtschaftswachstums",
+              "seite": "324"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Das Teilziel eines hohen Beschäftigungsstands",
+              "seite": "325"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Vorziehen der Steuerreform",
+              "seite": "327"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Fazit",
+              "seite": "328"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel\nUmfinanzierungsoptionen in der Sozialversicherung",
+      "seite": "330",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die finanzielle Lage in den Systemen der sozialen Sicherung im Jahr 2005",
+          "seite": "333",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Gesetzliche Rentenversicherung: Rückgang des Beitragsaufkommens",
+              "seite": "333"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Gesetzliche Krankenversicherung: Ende der Atempause",
+              "seite": "338"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Soziale Pflegeversicherung: Grundlegende Probleme bestehen fort",
+              "seite": "342"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Versicherungsfremde Elemente in den Sozialversicherungen",
+          "seite": "342",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Reduktion des Steuercharakters der Sozialversicherungsbeiträge durch\nUmfinanzierung versicherungsfremder Leistungen",
+              "seite": "342"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Identifizierung und Quantifizierung von versicherungsfremden Elementen\nin den Sozialversicherungen",
+              "seite": "346"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Versicherungsfremde Elemente in der Gesetzlichen\nKrankenversicherung",
+              "seite": "346"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Umverteilungsströme in der Gesetzlichen Krankenversicherung",
+              "seite": "347"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Versicherungsfremde Umverteilung in der Gesetzlichen Kranken-\nversicherung",
+              "seite": "354"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Versicherungsfremde Leistungen in der Gesetzlichen Kranken-\nversicherung",
+              "seite": "362"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Versicherungsfremde Elemente in der Sozialen Pflegeversicherung",
+              "seite": "363"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Versicherungsfremde Elemente in der Arbeitslosenversicherung",
+              "seite": "365"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Versicherungsfremde Elemente in der Gesetzlichen Rentenversicherung",
+              "seite": "370"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gesamtvolumen der versicherungsfremden Elemente",
+              "seite": "376"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Stärkung des Äquivalenzprinzips: Beseitigung oder Umfinanzierung der\nversicherungsfremden Elemente",
+          "seite": "376",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Bürgerpauschale in der Krankenversicherung",
+              "seite": "377"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Systemwechsel in der Pflegeversicherung",
+              "seite": "382"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Umfinanzierung in der Gesetzlichen Rentenversicherung und der Arbeits-\nlosenversicherung",
+              "seite": "386"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erst evaluieren, dann umfinanzieren",
+              "seite": "386"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Symmetrische oder asymmetrische Beitragssatzsenkung?",
+              "seite": "387"
+            },
+            {
+              "ueberschrift_
+
+```json
+drei_niedriger": "Beschäftigungsfreundliche Gegenfinanzierung",
+              "seite": "387"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Allokative und distributive Effekte einer Umfinanzierung durch eine\nUmsatzsteuererhöhung",
+              "seite": "388"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Allokative und distributive Effekte einer Umfinanzierung durch eine\nEinkommensteuererhöhung",
+          "seite": "397",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Allokative und distributive Effekte einer Umfinanzierung durch\nAusgabensenkungen",
+          "seite": "401",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Fazit",
+          "seite": "402",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Sechstes Kapitel\nEuropa: Erfolge und Herausforderungen",
+      "seite": "404",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Zur Ausgangslage: Aktuelle Herausforderungen Europas",
+          "seite": "406",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "I. Deutschland in der Währungsunion",
+          "seite": "407",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Offensichtlicher Erfolg: Euro als stabile Währung",
+              "seite": "410"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Wachstums- und Inflationsdifferenzen als Problem?",
+              "seite": "413"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wachstumsunterschiede im Euro-Raum insgesamt nicht angestiegen",
+              "seite": "414"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Persistente Inflationsdifferenzen im Euro-Raum",
+              "seite": "417"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Realzins- versus Wettbewerbskanal: Destabilisierende und\nstabilisierende Effekte",
+              "seite": "420"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Positive Handelseffekte der Euro-Einführung",
+              "seite": "425"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der Euro fördert den Handel innerhalb der Europäischen\nWährungsunion",
+              "seite": "426"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Euro-Einführung stützt deutsche Exporte in den Euro-Raum",
+              "seite": "427"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Finanzpolitik in Europa: Unter Anpassungsdruck",
+              "seite": "431"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Fiskalpolitische Entwicklung und Verhaltensmuster",
+              "seite": "432"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Reform des Stabilitäts- und Wachstumspakts (SWP)",
+              "seite": "438"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bewertung des Europäischen Stabilitäts- und Wachstumspakts",
+              "seite": "441"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Institutionelle Herausforderungen",
+          "seite": "442",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Ratifikation eines Vertrags über eine Verfassung für Europa",
+              "seite": "442"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Keine Einigung über die Finanzielle Vorausschau 2007 bis 2013",
+              "seite": "445"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Ökonomische Aspekte eines möglichen EU-Beitritts der Türkei",
+              "seite": "449"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Siebtes Kapitel\nKapitalmarkt und Finanzintermediäre: Unternehmensfinanzierung im Wandel",
+      "seite": "454",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Marktbasierte Finanzierung gewinnt an Bedeutung",
+          "seite": "457",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die Rolle von Private Equity-Gesellschaften und Hedge-Fonds",
+          "seite": "463",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Veränderte Rahmenbedingungen der Unternehmensfinanzierung:\nAnpassungsbedarf insbesondere im „kleinen“ Mittelstand",
+          "seite": "473",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Angespannte Finanzierungssituation im Mittelstand",
+              "seite": "474"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Schwache Eigenkapitalausstattung wird zum Problem",
+              "seite": "476"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wege zu mehr Eigenkapital",
+              "seite": "482"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Bankenkonsolidierung: Gefahr für den Mittelstand?",
+              "seite": "484"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erste Ergebnisse für Deutschland",
+              "seite": "488"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Fazit",
+          "seite": "492",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Analyse\nZur Prognosegüte alternativer Konjunkturindikatoren",
+      "seite": "495",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1. Motivation",
+          "seite": "495",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "2. Konstruktion eine Konjunkturindikators auf Grundlage eines\nFaktormodells",
+          "seite": "497",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "3. Datengrundlage",
+          "seite": "501",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "4. Spezifikation der Prognosemodelle",
+          "seite": "502",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "5. Evaluierung der Prognosen",
+          "seite": "504",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "6. Ergebnisse der Prognoseevaluierung bei konstanter Modellspezifikation",
+          "seite": "505",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "7. Fazit",
+          "seite": "510",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+ende_json
+
+

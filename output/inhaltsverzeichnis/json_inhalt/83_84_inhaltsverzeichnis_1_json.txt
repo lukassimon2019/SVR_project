@@ -1,0 +1,429 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "21",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Der internationale Rahmen",
+          "seite": "21",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Weltwirtschaft noch labil",
+              "seite": "21"
+            },
+            {
+              "ueberschrift_drei_niedriger": "H. Internationale Finanzmärkte - Spiegel weltwirtschaftlicher Probleme",
+              "seite": "23"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Zinsen in der Welt",
+              "seite": "23"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Verschuldungskrise",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Billigeres Öl, teurer Dollar",
+              "seite": "31"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IH. Konjunktur in den westlichen Industrieländern uneinheitlich",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vereinigte Staaten: Vorreiter der Belebung",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konjunktur in Europa: Weiterhin ohne Schwung",
+              "seite": "36"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Europäische Gemeinschaft: Lähmende Interessenkonflikte",
+              "seite": "43"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Die Binnenkonjunktur 1983",
+          "seite": "46",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Überblick",
+              "seite": "46"
+            },
+            {
+              "ueberschrift_drei_niedriger": "11. Stärkere Auftriebskräfte im Innern ohne Antrieb von außen",
+              "seite": "48"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konjunkturstütze privater Verbrauch",
+              "seite": "54"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Später Anstieg der Exporte",
+              "seite": "55"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Staatliche Nachfrage im Zeichen weiterer Konsolidierung",
+              "seite": "57"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Belebung der Produktion",
+              "seite": "58"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anhaltend schwaches Wachstum des Produktionspotentials",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IH. Erste Anzeichen einer Belebung am Arbeitsmarkt",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Beschäftigungsrückgang zum Stillstand gekommen",
+              "seite": "63"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Neue Ungleichgewichte am Arbeitsmarkt",
+              "seite": "69"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitsmarktpolitik in den vergangenen beiden Jahren",
+              "seite": "73"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Zur Entwicklung der Arbeitszeit",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Das Regelwerk der Arbeitszeit",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Entwicklung in den fünfziger und sechziger Jahren",
+              "seite": "75"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Entwicklung seit 1970",
+              "seite": "76"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Fortschritte bei der Preisstabilisierung",
+              "seite": "78"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Höhere Gewinne",
+              "seite": "84"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Exkurs: Zur Bedeutung der Personalnebenkosten",
+              "seite": "91"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VII. Nahe dem außenwirtschaftlichen Gleichgewicht",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Außenhandelsüberschüsse wegen günstiger Preisverhältnisse",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entlastung durch geringere Defizite im Dienstleistungsverkehr",
+              "seite": "98"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kapitalabflüsse bei hohem Dollarkurs",
+              "seite": "99"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VIII. Geldpolitik: Unterstützung für einen Aufschwung",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Expansion der Zentralbankgeldmenge über das Ziel hinaus",
+              "seite": "102"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Aufgeschobene Korrektur",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Monetäre Expansion: Anpassung an ein vermehrtes Geldangebot",
+              "seite": "109"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kreditmärkte im Zeichen der Konsolidierung",
+              "seite": "110"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Zinsen in der Bundesrepublik",
+              "seite": "114"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IX. Finanzpolitik: Fortgang der Konsolidierung",
+              "seite": "117"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgabenexpansion gebremst",
+              "seite": "117"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Subventionen weiter angestiegen",
+              "seite": "126"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steuerquote unverändert",
+              "seite": "126"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Entlastungen für die Unternehmen - Belastungen bei den privaten Haushalten",
+              "seite": "128"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Entwicklung der Abgabenbelastung",
+              "seite": "128"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weitere Verminderung des strukturellen Defizits",
+              "seite": "131"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Niedrigere konjunkturelle Impulse",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausblick: Ausgabenkürzungen, Beitragserhöhungen und Steuererleichterungen",
+              "seite": "137"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Die voraussichtliche Entwicklung",
+      "seite": "140",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Ausgangslage Ende 1983",
+          "seite": "140",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IL Die Weltkonjunktur im Jahre 1984",
+          "seite": "141",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "In. Die voraussichtliche Entwicklung der Binnenkonjunktur",
+          "seite": "144",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Eine Alternativrechnung",
+              "seite": "150"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Gegen Gewöhnung an hohe Arbeitslosigkeit",
+      "seite": "152",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "L Ziele und Wirklichkeit",
+          "seite": "152",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Gegen Nachfragepessimismus",
+              "seite": "153"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IL Die Welt in Konsolidierungsnöten",
+          "seite": "156",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "In. Grundlinien der Wirtschaftspolitik für 1984 und danach",
+          "seite": "167",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Zum Handlungsbedarf",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zu den Hauptaufgaben",
+              "seite": "171"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Zu den Politikbereichen im einzelnen",
+          "seite": "185",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Finanzpolitik",
+              "seite": "185"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin konsolidieren",
+              "seite": "185"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weniger subventionieren",
+              "seite": "190"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Richtig privatisieren",
+              "seite": "191"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Steuern korrigieren",
+              "seite": "193"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Substitution der Gewerbesteuer",
+              "seite": "194"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Revision des Einkommensteuertarifs",
+              "seite": "196"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik",
+              "seite": "200"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Lohnpolitik",
+              "seite": "205"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Diskussion um die Arbeitszeit versachlichen",
+              "seite": "206"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arten von Arbeitszeitregelungen",
+              "seite": "207"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Begründungen für die Arbeitszeitverkürzung",
+              "seite": "208"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kosten und Erträge der Arbeitszeitverkürzung",
+              "seite": "210"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitszeitverkürzung, Beschäftigung und Arbeitslosigkeit",
+              "seite": "215"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeitszeitverkürzung und öffentliche Haushalte",
+              "seite": "215"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Zur Reform der sozialen Sicherung",
+          "seite": "216",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Anpassungsfähigkeit des Systems an veränderte Wachstumsbedingungen",
+              "seite": "217"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Rückwirkungen des Systems auf Leistungsverhalten und Lastenexpansion",
+              "seite": "219"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Alterssicherung bei steigender Alterslast",
+              "seite": "220"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Anpassung der Sozialsysteme an das geänderte Erwerbsverhalten",
+              "seite": "222"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stärkung von Wettbewerbselementen im Gesundheitswesen",
+              "seite": "222"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Steuerungsfehler im Marktprozeß",
+      "seite": "226",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "1, Umweltschutzpolitik: Mehr Ökonomie beim Schutz der Umwelt",
+          "seite": "226",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Stahlindustrie: Subventionswettlauf beenden",
+          "seite": "229",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "111. Kohlepolitik: Gleiche Sicherheit bei geringeren Kosten",
+          "seite": "233",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Hindernisse bei der Beschaffung von Risikokapital",
+          "seite": "238",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "V. Wohnungspolitik: Weniger ausgeben, mehr erreichen",
+          "seite": "242",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "VI, Agrarpolitik: Teure Überschüsse",
+          "seite": "247",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Anhang",
+      "seite": "257",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Gesetz über die Bildung eines Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung",
+          "seite": "257",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "11. Auszug aus dem Gesetz zur Förderung der Stabilität und des Wachstums der Wirtschaft",
+          "seite": "259",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IH. Verzeichnis der Gutachten des Sachverständigenrates",
+          "seite": "260",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Methodische Erläuterungen",
+          "seite": "261",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "V. Statistischer Anhang",
+          "seite": "269",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+ende_json

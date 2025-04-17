@@ -1,0 +1,430 @@
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Eine kürzere Fassung",
+      "seite": "1",
+      "zweite_ebene": []
+    },
+    {
+      "ueberschrift_eins": "Erstes Kapitel: Die wirtschaftliche Lage",
+      "seite": "19",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Die Weltwirtschaft im Jahre 1988",
+          "seite": "19",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Robuster Aufwärtstrend",
+              "seite": "19"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Erfolgreiches Krisenmanagement nach der Börsenkrise",
+              "seite": "19"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stabilisierung der Wechselkurse",
+              "seite": "21"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Gefahr durch Protektionismus",
+              "seite": "23"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Nur geringe Fortschritte bei der Lösung der internationalen Verschuldungskrise",
+              "seite": "23"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Kraftvolle Investitionskonjunktur in den Industrieländern",
+              "seite": "25"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Vereinigte Staaten: Schwungvolle Exportkonjunktur",
+              "seite": "28"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Japan: Beschleunigter Anstieg der Binnennachfrage",
+              "seite": "31"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Europa: Konjunkturelle Belebung bei verbesserten Wachstumsbedingungen",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Die Europäischen Gemeinschaften mit verändertem Finanzierungssystem",
+              "seite": "35"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Die wirtschaftliche Entwicklung in der Bundesrepublik",
+          "seite": "46",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Überblick",
+              "seite": "46"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Gefestigte Aufwärtsentwicklung auf breiter Basis",
+              "seite": "49"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Investitionsschub stärkt wirtschaftliche Expansion",
+              "seite": "49"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Höhere Bauinvestitionen nach mehrjähriger Schwächephase",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Konjunkturelle Impulse auch aus dem Ausland",
+              "seite": "55"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Weiterhin stabile Verbrauchskonjunktur",
+              "seite": "56"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kräftiger Anstieg der Einfuhr",
+              "seite": "59"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Auslastungsgrad überschritt langjährigen Durchschnitt",
+              "seite": "59"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Anhaltender Beschäftigungsanstieg bei weiterhin hoher Arbeitslosigkeit",
+              "seite": "61"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Rasche monetäre Expansion trotz leichter Zinsanhebungen",
+              "seite": "71"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wechsel der geldpolitischen Zwischenzielgröße",
+              "seite": "71"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldmengenwachstum im Jahresverlauf verlangsamt",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik im veränderten Umfeld",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Zur Geldmarktsteuerung",
+              "seite": "74"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Leichte Dämpfung der Geldnachfrage",
+              "seite": "81"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe langfristige Nettokapitalexporte",
+              "seite": "84"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Finanzpolitik: Höhere Defizite trotz verhaltener Ausgabensteigerung",
+              "seite": "84"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geringere Steuereinnahmen durch die Tarifreform",
+              "seite": "85"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ausgabenverhalten von der Steuerreform geprägt",
+              "seite": "86"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Sozialhilfeausgaben und Länderfinanzausgleich",
+              "seite": "91"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Struktur der öffentlichen Ausgaben weiterhin ungünstig",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Kräftiger konjunktureller Impuls",
+              "seite": "96"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Haushalte der Sozialversicherungen",
+              "seite": "99"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil C: Die deutsche Volkswirtschaft im internationalen Vergleich",
+          "seite": "101",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "Indikatoren der internationalen Wettbewerbsfähigkeit der Bundesrepublik",
+              "seite": "101"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bestimmungsgründe der internationalen Wettbewerbsfähigkeit der deutschen Volkswirtschaft",
+              "seite": "109"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Ergebnisse",
+              "seite": "116"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel: Zur voraussichtlichen Entwicklung im Jahre 1989",
+      "seite": "119",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Die Ausgangslage",
+          "seite": "119",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Die Annahmen der Prognose",
+          "seite": "120",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Die Weltkonjunktur im Jahre 1989",
+          "seite": "120",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "IV. Die voraussichtliche Entwicklung der Binnenkonjunktur",
+          "seite": "123",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel: Wirtschaftspolitik für 1989 und danach",
+      "seite": "132",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Teil A: Aufgaben und Möglichkeiten",
+          "seite": "132",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Ziele und Wirklichkeit",
+              "seite": "132"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Der empirische Befund",
+              "seite": "132"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wirtschaftswachstum auf steilerem Pfad?",
+              "seite": "132"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Hohe Arbeitslosigkeit trotz anhaltender Beschäftigungszunahme",
+              "seite": "133"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Stabilität des Geldwertes ohne Restriktionsdruck sichern",
+              "seite": "134"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Außenwirtschaftliches Gleichgewicht: Keine weitere Zielannäherung",
+              "seite": "134"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Neue Herausforderungen, unveränderte Aufgaben",
+              "seite": "135"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die Attraktivität des Standorts Bundesrepublik erhöhen",
+              "seite": "135"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die neue Herausforderung: Vollendung des EG-Binnenmarktes bis 1992",
+              "seite": "137"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Die zentrale Aufgabe: für gute Angebotsbedingungen sorgen",
+              "seite": "139"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Arbeit für Langzeitarbeitslose: Eine sozialpolitische Flankierung der Wachstumspolitik",
+              "seite": "142"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "Teil B: Zu den Politikbereichen im einzelnen",
+          "seite": "144",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "I. Finanzpolitik: Energischer die Wachstumskräfte stärken",
+              "seite": "144"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Chancen für eine mittelfristige Konsolidierung",
+              "seite": "145"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Subventionsabbau unverzichtbar",
+              "seite": "148"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Finanzausgleich: Fehlentwicklungen vermeiden",
+              "seite": "150"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Reform der Unternehmenssteuern",
+              "seite": "152"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Probleme der Energiebesteuerung",
+              "seite": "155"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "156"
+            },
+            {
+              "ueberschrift_drei_niedriger": "II. Geldpolitik: Am Geldmengenziel festhalten",
+              "seite": "157"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Übergang zu einer Mehrindikatorenkonzeption?",
+              "seite": "158"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Plädoyer für Beibehaltung des Geldmengenzieles",
+              "seite": "160"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Geldpolitik für 1989",
+              "seite": "162"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eine andere Meinung",
+              "seite": "164"
+            },
+            {
+              "ueberschrift_drei_niedriger": "III. Währungspolitik im europäischen Integrationsprozeß",
+              "seite": "165"
+            },
+            {
+              "ueberschrift_drei_niedriger": "IV. Tarifpolitik für den strukturellen Wandel",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Differenzierte und flexible Arbeitszeitgestaltung",
+              "seite": "167"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Wettbewerbsvorteile durch Qualifizierung und Weiterbildung",
+              "seite": "168"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Moderate Lohnentwicklung weiter notwendig",
+              "seite": "170"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Für eine betriebsnähere Tarifpolitik",
+              "seite": "173"
+            },
+            {
+              "ueberschrift_drei_niedriger": "V. Dynamischer Wettbewerb durch Deregulierung: Das Beispiel Straßengüterverkehr",
+              "seite": "174"
+            },
+            {
+              "ueberschrift_drei_niedriger": "VI. Rentenversicherungsreform: Abgabenbelastung begrenzen - Selbstvorsorge anregen",
+              "seite": "177"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Maßnahmen im Rahmen der Rentenversicherung",
+              "seite": "179"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Eigenständige Sicherung der Frau - Familiengerechtes Rentensystem",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Bruttoanpassung oder Nettoanpassung der Renten",
+              "seite": "180"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Mehr Raum für private Vorsorge",
+              "seite": "181"
+            },
+            {
+              "ueberschrift_drei_niedriger": "Versicherungspflicht der Beamten?",
+              "seite": "182"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel: Wirtschaftliche Erneuerung alter industrieller Problemregionen: Das Beispiel Ruhrgebiet",
+      "seite": "183",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "Unbewältigter Strukturwandel und Wachstumsschwäche in altindustriellen Regionen",
+          "seite": "183",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Problemregion Ruhrgebiet",
+          "seite": "184",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Entwicklungshemmende Faktoren",
+          "seite": "190",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Sektorale Strukturpolitik hat strukturellen Anpassungsprozeß gehemmt",
+          "seite": "193",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Zentralisierung der regionalen Strukturpolitik ist verfehlt",
+          "seite": "194",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Ruhrgebietsprogramme haben Erwartungen nicht erfüllt",
+          "seite": "196",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Positive Ansätze für eine Neuorientierung",
+          "seite": "196",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Regionalisierung der Regionalpolitik",
+          "seite": "197",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Gemeindefinanzreform als Hilfe zur Selbsthilfe",
+          "seite": "199",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Grundsätze einer marktwirtschaftlichen Bewältigung des Strukturwandels",
+          "seite": "202",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "Statistischer Anhang: Ruhrgebiet",
+          "seite": "203",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    }
+  ]
+}
+```
+
+ende_json

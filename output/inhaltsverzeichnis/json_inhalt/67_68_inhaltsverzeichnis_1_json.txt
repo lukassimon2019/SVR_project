@@ -1,0 +1,223 @@
+```json
+{
+  "type": "object",
+  "properties": {
+    "kapitel": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "Erstes Kapitel: Die gesamtwirtschaftliche Entwicklung",
+            "seite": "1",
+            "zweite_ebene": [
+              {
+                "ueberschrift_zwei": "I. Überblick",
+                "seite": "1",
+                "dritte_und_niedrigere_ebene": []
+              },
+              {
+                "ueberschrift_zwei": "II. Der weltwirtschaftliche Rahmen",
+                "seite": "9",
+                "dritte_und_niedrigere_ebene": [
+                  {
+                    "ueberschrift_drei_niedriger": "Die Weltkonjunktur schwächte sich ab 9 - Die Erfahrungen des Jahres 1967\n                                 - einer internationalen Koordination der Wirtschaftspolitik 14",
+                    "seite": "9"
+                  }
+                ]
+              },
+              {
+                "ueberschrift_zwei": "III. Außenwirtschaft",
+                "seite": "18",
+                "dritte_und_niedrigere_ebene": [
+                  {
+                    "ueberschrift_drei_niedriger": "Der Einfuhrrückgang ein Spiegelbild der Rezession 18 - Die Ausfuhr-\n      Stütze oder Ventil? 19  -Rekordüberschuss in der Leistungsbilanz 23   Ge-   -\n      sunken~Außenhandelsreise. verbesserte Terms of Trade 24          -",
+                    "seite": "18"
+                  },
+                  {
+                    "ueberschrift_drei_niedriger": "Der Warenhandel zwischen den Währungsgebieten   der DM-Ost und der DM-West !27",
+                    "seite": "27"
+                  }
+                ]
+              },
+              {
+                "ueberschrift_zwei": "IV. Investitionen",
+                "seite": "27",
+                "dritte_und_niedrigere_ebene": [
+                  {
+                    "ueberschrift_drei_niedriger": "Die Investitionstätigkeit seit Mitte 1966 27 -Der Kernprozess der Rezession 31\n      -Die Rezession eine Folge von Überinvestitionen? 34- Die verpasste Chance\n      der öffentlichen Investoren 35 -",
+                    "seite": "27"
+                  },
+                  {
+                    "ueberschrift_drei_niedriger": "Investitionstätigkeit und Auftragsglage 36\n      Die Bauwirtschaft ein strukturschwacher Bereich? 38 - Konjunkturaufschwung\n      auf Lagern? 38",
+                    "seite": "36"
+                  }
+                ]
+              },
+              {
+                "ueberschrift_zwei": "V. Produktionspotential und Produktion",
+                "seite": "40",
+                "dritte_und_niedrigere_ebene": [
+                  {
+                    "ueberschrift_drei_niedriger": "Die Rezession im Spiegel der volkswirtschaftlichen Gesamtrechnung 40 -Die\n     Beschäftigungswirkungender Rezession 41 - Räumliche Differenzierung der\n     Rezession 46 - Der ungenutzte gesamtwirtschaftliche Produktionsspielraum 46\n     - Rezessionsbedingte Schwierigkeiten oder verbreitete Strukturschwächen in\n     der Industrie? 47  - Erschwerter Strukturwandel: die Krise im Bergbau 48 -\n     Schrumpfende Industrieproduktion, brachliegende Kapazitäten 50 - Der Druck\n     auf die Erzeugerpreise 52!- Produktivitätsverluste in der Industrie 52",
+                    "seite": "40"
+                  }
+                ]
+              },
+              {
+                "ueberschrift_zwei": "VI. Einkommen",
+                "seite": "55",
+                "dritte_und_niedrigere_ebene": [
+                  {
+                    "ueberschrift_drei_niedriger": "Die Rezession brachte das Wachstum der Lohnsumme erstmals zum Still-\n     stand 58 - Die Lohn-Produktivitäts-Schere schließt sich, aber in der Lohnpolitik\n     herrscht große Unsicherheit 62 - Die Ertragslage der Unternehmen hat sich\n     1967 weiter verschlechtert 63 -Von der Belastung der Einkommen ging keine\n     antizyklische Wirkung aus 64- Rentendynamik und Arbeitslosenunterstützung\n     milderten die Rezession 66- Das verfügbare Einkommen wuchs langsamer als\n     je zuvor 67",
+                    "seite": "55"
+                  }
+                ]
+              },
+              {
+                "ueberschrift_zwei": "VII. Verbrauch und Ersparnis der privaten Haushalte",
+                "seite": "67",
+                "dritte_und_niedrigere_ebene": [
+                  {
+                    "ueberschrift_drei_niedriger": "Die Nachfrage nach dauerhaften Konsumgütern ist erstmals zurückgegangen 69 -Stabile Verbraucherpreise 70 - Bewegte Sparkonjunktur 73",
+                    "seite": "67"
+                  }
+                ]
+              },
+              {
+                "ueberschrift_zwei": "VIII. Öffentliche Finanzen",
+                "seite": "74",
+                "dritte_und_niedrigere_ebene": [
+                  {
+                    "ueberschrift_drei_niedriger": "Finanzpolitik im Zwiespalt 76 - Unzulängliche Koordination der Finanzpolitik\n      der Gebietskörperschaften und der Kreditpolitik 76 - Planung des Bundes-\n      haushalts - prozyklische Entscheidungen 80- Vorläufige Haushaltsführung des\n      Bundes - prozyklische Wirkungen 82 - Der endgültige Haushalt wirkt anti-\n      zyklisch - zu spät 83 -",
+                    "seite": "74"
+                  },
+                  {
+                    "ueberschrift_drei_niedriger": "Haushaltspolitik der Länder - fiskalisches Denken 86 - Haushaltspolitik der Gemeinden wenig Spielraum für selbstständiges\n      antizyklisches Verhalten 88 -",
+                    "seite": "86"
+                  },
+                  {
+                    "ueberschrift_drei_niedriger": "Der öffentliche Haushalt insgesamt keine expansiven Wirkungen 89 - Die öffentlichen Haushalte im Quaire 1968 92\n      telfristige Finanzplanung des Bundes 93",
+                    "seite": "88"
+                  }
+                ]
+              },
+              {
+                "ueberschrift_zwei": "IX. Finanzierung: Geld-, Kredit- und Kapitalmärkte; Zahlungsbilanz",
+                "seite": "97",
+                "dritte_und_niedrigere_ebene": [
+                  {
+                    "ueberschrift_drei_niedriger": "Bankengeldmarkt und Notenbankpolitik - Auslandseinflüsse 98 - Bank-\n      kredite und Geldkapitalbildung bei Banken - Konsolidierungstendenzen 102 -",
+                    "seite": "97"
+                  },
+                  {
+                    "ueberschrift_drei_niedriger": "Vermögensbildung - mehr Geldsparen, weniger Sachsparen 107 - Kapital-\n      markt - mehr Emissionen, immer noch hohe Zinsen 108 -Zahlungsbilanz - Un-\n      gleichgewicht durch hohe Geldexporte verdeckt 112",
+                    "seite": "107"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "Zweites Kapitel: Gegen Fehlentwicklungen - für Stabilität im Wachstum",
+            "seite": "115",
+            "zweite_ebene": [
+              {
+                "ueberschrift_zwei": "I. Konjunkturpolitische Lehren der letzten vier Jahre",
+                "seite": "115",
+                "dritte_und_niedrigere_ebene": []
+              },
+              {
+                "ueberschrift_zwei": "II. Ziele und Zielkonflikte- auf mittlere Sicht",
+                "seite": "128",
+                "dritte_und_niedrigere_ebene": [
+                  {
+                    "ueberschrift_drei_niedriger": "Vollbeschäftigung 128 - Stabilität des Preisniveaus 133 - Preisniveau und\n     Beschäftigungsgrad 136 - Angemessenes Wachstum 140 - Außenwirtschaft-\n     liches Gleichgewicht 149",
+                    "seite": "128"
+                  }
+                ]
+              },
+              {
+                "ueberschrift_zwei": "III. Ziele und Mittel - auf mittlere Sicht",
+                "seite": "150",
+                "dritte_und_niedrigere_ebene": []
+              },
+              {
+                "ueberschrift_zwei": "IV. Ein Rahmenpakt für Expansion und Stabilität",
+                "seite": "164",
+                "dritte_und_niedrigere_ebene": []
+              },
+              {
+                "ueberschrift_zwei": "V. Über Wachstumspolitik als Strukturpolitik",
+                "seite": "164",
+                "dritte_und_niedrigere_ebene": []
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "Drittes Kapitel: Die voraussehbare Entwicklung",
+            "seite": "167",
+            "zweite_ebene": []
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "Viertes Kapitel: Zu Einzelfragen der Stabilitäts- und Wachstumspolitik",
+            "seite": "179",
+            "zweite_ebene": [
+              {
+                "ueberschrift_zwei": "I. Einkommenspolitik als Stabilitätspolitik: Erfahrungen im Ausland und Lehren\n     für die Bundesrepublik",
+                "seite": "179",
+                "dritte_und_niedrigere_ebene": [
+                  {
+                    "ueberschrift_drei_niedriger": "Vereinigte Staaten 180 - Großbritannien 183 - Niederlande 186 - Schwe-\nden 189- Zusammenfassung 191",
+                    "seite": "179"
+                  }
+                ]
+              },
+              {
+                "ueberschrift_zwei": "II. Zur Diskussion über die Möglichkeiten der wechselkurspolitischen Absicherung\n      einer binnenwirtschaftlichen Stabilitätspolitik",
+                "seite": "192",
+                "dritte_und_niedrigere_ebene": []
+              },
+              {
+                "ueberschrift_zwei": "III. Noch einmal: Der internationale Preiszusammenhang",
+                "seite": "200",
+                "dritte_und_niedrigere_ebene": [
+                  {
+                    "ueberschrift_drei_niedriger": "Die Strenge des internationalen Preiszusammenhangs 200 -Die für die Bun-\ndesrepublik relevante internationale Inflationsrate 210- Internationaler Preis-\nZusammenhang und Zahlungsbilanz 215 - Der internationale Preiszusammen-\nhang im Jahre 1967 218",
+                    "seite": "200"
+                  }
+                ]
+              },
+              {
+                "ueberschrift_zwei": "IV. Umsatzsteuerreform, Außenhandel und Preise",
+                "seite": "219",
+                "dritte_und_niedrigere_ebene": []
+              },
+              {
+                "ueberschrift_zwei": "V. Unternehmensfinanzierung, private Ersparnis und Finanzpolitik",
+                "seite": "226",
+                "dritte_und_niedrigere_ebene": [
+                  {
+                    "ueberschrift_drei_niedriger": "Entwicklung der Unternehmensfinanzierung 1950 bis 1966 226- Sparförderung\nohne Deflationsrisiken und ohne Wachstumshemmung 236 - Förderung des\nBeteiligungssparens und der Beteiligungsfinanzierung 237 - Zunehmende\nStaatsverschuldung 240",
+                    "seite": "226"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
+```ende_json
+

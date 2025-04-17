@@ -1,0 +1,569 @@
+{
+  "type": "object",
+  "properties": {
+    "kapitel": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "Erstes Kapitel: Wirtschaftspolitik unter Reformdruck",
+            "seite": "1",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Konjunktur aufwärts gerichtet – keine Wende am Arbeitsmarkt",
+                  "seite": "1",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Eine Agenda für mehr Wachstums- und Beschäftigungsdynamik",
+                  "seite": "5",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Finanzpolitik: Das Notwendige konsequent umsetzen",
+                        "seite": "6"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Lohnpolitik und Arbeitsmarktordnung: Interessen der Arbeitsuchenden respektieren",
+                        "seite": "7"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Alterssicherung: Neuorientierung dringend erforderlich",
+                        "seite": "8"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Europäische Geldpolitik: Einen klaren und verlässlichen Kurs einschlagen",
+                        "seite": "9"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "object",
+          "properties": {
+            "ueberschrift_eins": "Zweites Kapitel: Die wirtschaftliche Lage im Jahre 1999",
+            "seite": "11",
+            "zweite_ebene": [
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Weltwirtschaftliches Umfeld: Differenzierte Aufwärtsentwicklung",
+                  "seite": "11",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Abermals kräftige Expansion in Nordamerika – noch keine selbsttragende Belebung in Japan",
+                        "seite": "12"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Unterschiedliche Fortschritte bei der Krisenbewältigung in den aufstrebenden Volkswirtschaften",
+                        "seite": "16"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Zur neuen internationalen Finanzarchitektur",
+                        "seite": "20"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Über die Agenda einer neuen WTO-Runde",
+                        "seite": "21"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Europäische Union: Neue Weichenstellungen",
+                  "seite": "23",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "1. Die gesamtwirtschaftliche Entwicklung",
+                  "seite": "23",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Überwindung der Konjunkturdelle",
+                        "seite": "23"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Beitrittsländer: Aufholprozess setzt sich fort",
+                        "seite": "28"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "2. Die monetären Bedingungen im Euro-Raum",
+                  "seite": "28",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Erste geldpolitische Schritte der Europäischen Zentralbank",
+                        "seite": "31"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Preisniveaustabilität im Euro-Raum",
+                        "seite": "31"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Unzureichende Umsetzung des Stabilitäts- und Wachstumspakts",
+                        "seite": "35"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "3. Agenda 2000: Reform der Agrar- und Strukturpolitik",
+                  "seite": "39",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Deutschland: Wirtschaftliche Expansion in moderatem Tempo",
+                  "seite": "43",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "1. Konjunkturelle Erholung im Jahresverlauf",
+                  "seite": "43",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "Preisniveau weiterhin stabil",
+                  "seite": "48",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "Exporte gewinnen wieder an Bedeutung",
+                  "seite": "50",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "Privater Konsum als Stütze der konjunkturellen Entwicklung",
+                  "seite": "53",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "Geringer Rückgang der Bauinvestitionen",
+                  "seite": "55",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "2. Zum Angebotsspielraum",
+                  "seite": "56",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Investitionstätigkeit trotz Konjunkturdelle robust",
+                        "seite": "56"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Produktionspotential",
+                        "seite": "60"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Der Unternehmenssektor in Ostdeutschland",
+                        "seite": "61"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Exkurs: Bedeutung der VGR-Umstellung für die Konjunkturanalyse",
+                        "seite": "68"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "3. Ostdeutschland: Wachstumspole bilden sich heraus",
+                  "seite": "72",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "4. Arbeitsmarkt: Keine Wende, keine moderate Lohnpolitik",
+                  "seite": "84",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Entwicklung der Erwerbstätigkeit weiterhin unbefriedigend",
+                        "seite": "84"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Kaum Rückgang der Arbeitslosigkeit",
+                        "seite": "85"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Neuregelungen am Arbeitsmarkt",
+                        "seite": "91"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Tariflohnpolitik nicht mehr moderat",
+                        "seite": "94"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "5. Öffentliche Finanzen: Lage weiterhin kritisch",
+                  "seite": "101",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Defizite rückläufig",
+                        "seite": "101"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Steueraufkommen stark gestiegen",
+                        "seite": "105"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Konsolidierung bei den Gebietskörperschaften nach wie vor notwendig",
+                        "seite": "107"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Haushaltsentwicklung in der Sozialversicherung",
+                        "seite": "111"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "Drittes Kapitel: Die voraussichtliche Entwicklung im Jahre 2000",
+                  "seite": "118",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Ausgangslage und Annahmen der Prognose",
+                  "seite": "118",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Das weltwirtschaftliche Umfeld",
+                  "seite": "119",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Die Entwicklung in Europa",
+                  "seite": "119",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "IV. Die wirtschaftlichen Aussichten für Deutschland",
+                  "seite": "121",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "Viertes Kapitel: Grundlinien der Wirtschaftspolitik: Umfassende und kohärente Reformen unabweisbar",
+                  "seite": "130",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Beschäftigung und Wachstum: Anhaltende Zielverfehlungen",
+                  "seite": "130",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Welche Politik ist der Problemlage angemessen?",
+                  "seite": "131",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Reformprogramm breit anlegen",
+                  "seite": "133",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "IV. Neue Bundesländer: Lage am Arbeitsmarkt überschattet positive Entwicklungen",
+                  "seite": "139",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "V. Das Bündnis für Arbeit: Zweifelhafte Erfolgsaussichten korporatistischer Politikansätze",
+                  "seite": "141",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "Fünftes Kapitel: Die Politikbereiche im Einzelnen",
+                  "seite": "144",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "I. Europäische Geldpolitik: Auf Stetigkeit setzen",
+                  "seite": "144",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Zu den zinspolitischen Entscheidungen",
+                        "seite": "144"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Irritationen über die Strategie",
+                        "seite": "146"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Für ein klares Geldmengenziel",
+                        "seite": "149"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Eine andere Meinung",
+                        "seite": "150"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "II. Finanzpolitik: Das Notwendige konsequent umsetzen",
+                  "seite": "151",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Konsolidierung des Bundeshaushalts – auf dem richtigen Weg",
+                        "seite": "152"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Reform der Einkommensteuer nur zaghafter Einstieg",
+                        "seite": "158"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Reform der Unternehmensbesteuerung – auf dem falschen Weg",
+                        "seite": "162"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "III. Lohnpolitik und Arbeitsmarktordnung: Wie wir der Vollbeschäftigung wieder näher kommen können",
+                  "seite": "165",
+                  "dritte_und_niedrigere_ebene": [
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Größere Regulierungsdichte – ein Irrweg",
+                        "seite": "165"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Lohnanhebungen unterhalb des Produktivitätsfortschritts halten",
+                        "seite": "166"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Lohndifferenzierung nach unten ermöglichen",
+                        "seite": "169"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Ein eigenes Programm für den Niedriglohnsektor?",
+                        "seite": "171"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Die Arbeitsmarktordnung auf mehr Beschäftigung ausrichten",
+                        "seite": "174"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "ueberschrift_drei_niedriger": "Eine andere Meinung",
+                        "seite": "177"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "ueberschrift_zwei": "IV. Alterssicherung: Einschneidenden Reformen nicht ausweichen",
+                  "seite": "180",
+                  "dritte_und_niedrigere_ebene": []
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
+```ende_json

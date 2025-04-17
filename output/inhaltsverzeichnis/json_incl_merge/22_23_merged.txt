@@ -1,0 +1,671 @@
+
+```json
+{
+  "kapitel": [
+    {
+      "ueberschrift_eins": "Erstes Kapitel\nKonjunktureller Ausblick durch Energiekrise\nmassiv belastet",
+      "seite": "14",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Internationale Konjunktur",
+          "seite": "16",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Weltwirtschaftliche Abkühlung – Hohe Inflation und geldpolitische Straffung",
+              "seite": "16"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Die Entwicklung der Weltwirtschaft bis Herbst 2022",
+              "seite": "16"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Hohe Inflationsraten und eine große Unsicherheit prägen die weitere\nwirtschaftliche Entwicklung",
+              "seite": "26"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Die großen Volkswirtschaften im Einzelnen",
+              "seite": "27"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Euro-Raum: Konjunkturelle Aussichten erheblich verschlechtert",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Heterogene Entwicklung im Sommerhalbjahr 2022",
+              "seite": "33"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Preissteigerungen belasten das Wachstum",
+              "seite": "43"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Chancen und Risiken",
+              "seite": "46"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "II. Deutsche Konjunktur",
+          "seite": "47",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Rückblick: Erholung bei Dienstleistungen und steigender Energiepreisdruck",
+              "seite": "47"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Rahmenbedingungen: Anhaltender Energiepreisdruck",
+              "seite": "53"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Ausblick: Ausgeprägter und anhaltender Abschwung",
+              "seite": "56"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Arbeitsmarktdynamik lässt nach",
+              "seite": "60"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Öffentliche Finanzen durch starken Anstieg nominaler Größen getrieben",
+              "seite": "64"
+            },
+            {
+              "ueberschrift_drei_niedriger": "6. Mittelfristprojektion: Potenzialwachstum rückläufig",
+              "seite": "67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Zweites Kapitel\nInflation und Geldpolitik",
+      "seite": "84",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung: Inflation und Geldpolitik",
+          "seite": "86",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Determinanten der aktuellen Inflationsentwicklung",
+          "seite": "88",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Hohe Güterpreisinflation",
+              "seite": "88"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Angebotsseitige Störungen und hohe Nachfrage",
+              "seite": "92"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Mittelfristige Triebkräfte und Persistenz der Inflation",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Inflationserwartungen steigen, sind aber noch verankert",
+              "seite": "95"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Lohndynamik und Inflation",
+              "seite": "97"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Persistenz des Inflationsprozesses gestiegen",
+              "seite": "99"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Geldmengenwachstum und Inflation",
+              "seite": "102"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Auswirkungen einer erhöhten Inflation",
+          "seite": "104",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Wohlfahrtskosten erhöhter Inflation",
+              "seite": "104"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Auswirkungen der Inflation auf verschiedene Haushaltsgruppen",
+              "seite": "107"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Langfristige Verhaltenseffekte von Hochinflationsphasen",
+              "seite": "112"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Maßnahmen zur Bekämpfung der Inflation",
+          "seite": "115",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Geldpolitische Einordnung",
+              "seite": "115"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Zinsregeln legen entschlossene geldpolitische Reaktion im\nEuro-Raum nahe",
+              "seite": "119"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Aktuelle geldpolitische Entscheidungen im Euro-Raum",
+              "seite": "122"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Geldpolitisches Zwischenfazit",
+              "seite": "126"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Flankierende Maßnahmen",
+              "seite": "126"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Drittes Kapitel\nDeutsche Finanzpolitik vor schwierigen\nHerausforderungen",
+      "seite": "140",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "142",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Finanzpolitische Ausgangslage",
+          "seite": "144",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Krisenbedingte Anforderungen an die Finanzpolitik",
+          "seite": "149",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Krisenbedingte Sicherung der Energieversorgung und Ausbau\nder Verteidigungsfähigkeit",
+              "seite": "149"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Krisenbedingte Entlastungsmaßnahmen",
+              "seite": "151"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Verteilungswirkung der Entlastungen für Haushalte",
+              "seite": "153"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Wirtschaftspolitisches Fazit",
+          "seite": "155",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Viertes Kapitel\nReformperspektiven für die europäische Fiskalpolitik",
+      "seite": "162",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "164",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Finanzpolitische Ausgangslage und Perspektiven",
+          "seite": "166",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Folgen der Corona-Pandemie",
+              "seite": "166"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Auswirkungen des Krieges",
+              "seite": "169"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kurz- und langfristige Auswirkungen der Inflation auf die Finanzpolitik",
+              "seite": "170"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Auswirkungen auf Zinsausgaben",
+              "seite": "171"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Die Reformdiskussion in der Wirtschafts- und Währungsunion",
+          "seite": "175",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Im Spannungsfeld zwischen Schuldentragfähigkeit und staatlicher\nAufgabenerfüllung",
+              "seite": "175"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Dimensionen einer Reform der Wirtschafts- und Währungsunion:\nEin Überblick",
+              "seite": "178"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Fiskalregeln",
+              "seite": "179"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Tragfähigkeit gewährleisten",
+              "seite": "182"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Konjunktur stabilisieren",
+              "seite": "189"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Transformative und wachstumsfördernde Ausgaben priorisieren",
+              "seite": "189"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Fiskalkapazität",
+              "seite": "191"
+            },
+            {
+              "ueberschrift_drei_niedriger": "5. Finanzmarktarchitektur",
+              "seite": "194"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Wirtschaftspolitisches Fazit",
+          "seite": "198",
+          "dritte_und_niedrigere_ebene": []
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Fünftes Kapitel\nEnergiekrise und Strukturwandel: Perspektiven für die\ndeutsche Industrie",
+      "seite": "208",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "210",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Angespannte Lage auf den Energiemärkten",
+          "seite": "212",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Ausgangslage vor dem Krieg",
+              "seite": "212"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Energiemix in Deutschland und der EU",
+              "seite": "214"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Bezugsquellen der Energieträger",
+              "seite": "215"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Preisentwicklungen vor Kriegsbeginn",
+              "seite": "219"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Anpassungsreaktionen infolge des Krieges",
+              "seite": "220"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Längerfristige Anpassungen der Energieversorgung",
+              "seite": "221"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Preisentwicklungen nach Kriegsbeginn",
+              "seite": "225"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Veränderungen des Energieverbrauchs seit Kriegsbeginn",
+              "seite": "229"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Neue Herausforderungen für die Industrie",
+          "seite": "232",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Absolute und relative Energiepreissteigerungen",
+              "seite": "234"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Verstärkte Notwendigkeit von Energieeinsparungen",
+              "seite": "238"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Energieeffizienzsteigerungen in Deutschland",
+              "seite": "238"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Energieeinsparpotenziale in der Industrie",
+              "seite": "245"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Implikationen für den Strukturwandel der Industrie und die Industriepolitik",
+          "seite": "248",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Relevanz der Energiepreise für die deutsche Industrie",
+              "seite": "248"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Bedeutung verschiedener Energieträger für die Industrie",
+              "seite": "249"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Energiekostenintensität verschiedener Wirtschaftszweige",
+              "seite": "251"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Gasintensität verschiedener Produkte",
+              "seite": "252"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Auswirkungen der steigenden Energiekosten",
+              "seite": "253"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Implikationen der Energiekostenanstiege für Bruttomarge\nund Produktmix",
+              "seite": "253"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Internationales wettbewerbliches Umfeld",
+              "seite": "256"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "V. Energiekrise überwinden und Perspektiven für die Industrie schaffen",
+          "seite": "261",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": " Maßnahmen in der Energiepolitik",
+              "seite": "261"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Direkte Unterstützungsmaßnahmen für Unternehmen",
+              "seite": "264"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Klimapolitische Unterstützungsmaßnahmen",
+              "seite": "266"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Unterstützung strategisch bedeutsamer Wirtschaftszweige",
+              "seite": "267"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Sechstes Kapitel\nFachkräftesicherung: Handlungsoptionen bei Weiterbildung\nund Erwerbsmigration",
+      "seite": "278",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Einleitung",
+          "seite": "280",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Fachkräftebedarf und -engpässe",
+          "seite": "283",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "III. Weiterbildung",
+          "seite": "290",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Verteilung der Erträge von Weiterbildung",
+              "seite": "292"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Nutzung von Weiterbildungsmaßnahmen",
+              "seite": "296"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Weiterbildungsformen und -inhalte",
+              "seite": "296"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Weiterbildungsteilnahme nach Personencharakteristika",
+              "seite": "298"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Weiterbildungsteilnahme nach Unternehmenscharakteristika",
+              "seite": "301"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Handlungsoptionen zur Stärkung der Weiterbildung",
+              "seite": "304"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Geringqualifizierte Beschäftigte",
+              "seite": "304"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Durch den Strukturwandel bedrohte Beschäftigte",
+              "seite": "307"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Unterstützung für Unternehmen",
+              "seite": "308"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Kurzarbeitende und Arbeitslose",
+              "seite": "309"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Sonstige Handlungsoptionen",
+              "seite": "310"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Erwerbsmigration",
+          "seite": "313",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Fachkräftezuwanderung nach Deutschland",
+              "seite": "314"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Rückgang der EU-Binnenmigration als Herausforderung",
+              "seite": "315"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Gesteuerte Zuwanderung aus Drittstaaten",
+              "seite": "317"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wirkungen der gesteuerten Erwerbsmigration nach Deutschland",
+              "seite": "319"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Bildungsmigration als indirekter Zuwanderungskanal",
+              "seite": "327"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Familiennachzug und Abwanderung",
+              "seite": "328"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Netzwerkeffekte der Migration",
+              "seite": "330"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Zuwanderungssysteme im internationalen Vergleich",
+              "seite": "334"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Instrumente der Steuerung von Erwerbsmigration",
+              "seite": "335"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Hürden für den Arbeitsmarkteinstieg",
+              "seite": "337"
+            },
+            {
+              "ueberschrift_drei_niedriger": "4. Handlungsoptionen: Maßnahmen für Erwerbsmigration",
+              "seite": "340"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Hürden für den Zugang zum Arbeitsmarkt senken",
+              "seite": "340"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Integration verbessern und Abwanderung reduzieren",
+              "seite": "342"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Transparenz erhöhen",
+              "seite": "343"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ueberschrift_eins": "Siebtes Kapitel\nWettbewerbsfähigkeit in Zeiten geopolitischer\nVeränderungen",
+      "seite": "358",
+      "zweite_ebene": [
+        {
+          "ueberschrift_zwei": "I. Wettbewerbsfähigkeit in Zeiten geopolitischer Veränderungen",
+          "seite": "360",
+          "dritte_und_niedrigere_ebene": []
+        },
+        {
+          "ueberschrift_zwei": "II. Einordnung der deutschen Wettbewerbsfähigkeit",
+          "seite": "362",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Indikatoren der Wettbewerbsfähigkeit",
+              "seite": "362"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Bedeutung der internationalen Arbeitsteilung für die deutsche\nWettbewerbsfähigkeit",
+              "seite": "369"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Wohlfahrtsgewinne durch internationale Arbeitsteilung",
+              "seite": "370"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Spezialisierung der deutschen Industrie",
+              "seite": "372"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Integration in internationale Wertschöpfungsketten",
+              "seite": "374"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Abhängigkeiten bei Importen",
+              "seite": "375"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "III. Aktuelle Herausforderungen für die deutsche Wettbewerbsfähigkeit",
+          "seite": "377",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Wirtschaftliche Abhängigkeiten durch den Import kritischer Rohstoffe",
+              "seite": "377"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Marktverzerrung durch internationale Subventionspolitik",
+              "seite": "384"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Subventionen im internationalen Vergleich",
+              "seite": "385"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Umgang mit Subventionen im Binnenmarkt und von Drittstaaten",
+              "seite": "386"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Veränderungen der globalen Ordnung",
+              "seite": "388"
+            }
+          ]
+        },
+        {
+          "ueberschrift_zwei": "IV. Handlungsoptionen zur Stärkung der Wettbewerbsfähigkeit",
+          "seite": "392",
+          "dritte_und_niedrigere_ebene": [
+            {
+              "ueberschrift_drei_niedriger": "1. Stärkung der Resilienz von Lieferketten",
+              "seite": "392"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Diskussion um Re-, Near-, oder Friendshoring",
+              "seite": "393"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Diversifizierung durch strategische Allianzen",
+              "seite": "394"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Diversifizierung der Bezugsquellen kritischer Rohstoffe",
+              "seite": "396"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Langfristige Diversifizierung der Energieversorgung",
+              "seite": "397"
+            },
+            {
+              "ueberschrift_drei_niedriger": "2. Ausbau europäischer Produktions- und Lagerkapazitäten",
+              "seite": "398"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Resilienz durch Lagerhaltung",
+              "seite": "399"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Abbau inländischer Rohstoffe und Recycling",
+              "seite": "400"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Ausbau der Energieinfrastruktur",
+              "seite": "403"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Chancen und Risiken von Subventionen",
+              "seite": "405"
+            },
+            {
+              "ueberschrift_drei_niedriger": "3. Wahrung europäischer Werte und Interessen",
+              "seite": "406"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Sicherung einer „Offenen Strategischen Autonomie“",
+              "seite": "406"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Überprüfung ausländischer Direktinvestitionen",
+              "seite": "407"
+            },
+            {
+              "ueberschrift_drei_niedriger": " Europa als normativer Akteur",
+              "seite": "409"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```
+ende_json
+
